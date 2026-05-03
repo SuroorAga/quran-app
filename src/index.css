@@ -1,0 +1,37 @@
+:root {
+  --green: #0F6E56;
+  --green-mid: #1D9E75;
+  --green-light: #E1F5EE;
+  --green-border: #5DCAA5;
+  --green-dark: #085041;
+  --text: #1a1a1a;
+  --text-muted: #555;
+  --text-faint: #999;
+  --bg: #FAFAF8;
+  --card: #ffffff;
+  --border: #E5E3DC;
+  --border-hover: #B0DDD0;
+  --arabic-font: 'Amiri', Georgia, serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: Georgia, serif;
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+}
+
+button { cursor: pointer; font-family: Georgia, serif; }
+input { font-family: Georgia, serif; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: var(--green-border); }

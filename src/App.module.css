@@ -1,0 +1,60 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
+  max-width: 800px;
+  margin: 0 auto;
+  background: var(--card);
+  box-shadow: 0 0 40px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+
+.content {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav {
+  display: flex;
+  border-top: 0.5px solid var(--border);
+  background: var(--card);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  flex-shrink: 0;
+}
+
+.navItem {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0 12px;
+  gap: 3px;
+  background: none;
+  border: none;
+  color: var(--text-faint);
+  font-size: 10px;
+  position: relative;
+  transition: color 0.15s;
+}
+
+.navItem:hover { color: var(--green-mid); }
+.navActive { color: var(--green) !important; }
+
+.badge {
+  position: absolute;
+  top: 6px;
+  right: calc(50% - 18px);
+  background: var(--green);
+  color: white;
+  font-size: 9px;
+  min-width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 4px;
+  font-family: sans-serif;
+}
