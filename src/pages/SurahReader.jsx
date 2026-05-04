@@ -1,14 +1,22 @@
 import { useState, useEffect, useRef } from 'react'
 import styles from './SurahReader.module.css'
 
-export default function SurahReader({ surah, onBack, bookmarks }) {
+const EN_SIZES = ['13px', '15px', '17px', '19px', '22px']
+const AR_SIZES = ['20px', '24px', '28px', '33px', '38px']
+
+export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, initialVerseId }) {
   const [verses, setVerses] = useState([])
   const [loading, setLoading] = useState(true)
   const [notesVisible, setNotesVisible] = useState(true)
   const [hiddenNotes, setHiddenNotes] = useState(new Set())
   const [jumpVal, setJumpVal] = useState('')
-  const [fontSize, setFontSize] = useState('md') // sm | md | lg
+  const [fontScale, setFontScale] = useState(() => parseInt(localStorage.getItem('fontScale') || '2'))
+  const [copiedRef, setCopiedRef] = useState(null)
   const contentRef = useRef(null)
+
+  useEffect(() => {
+    localStorage.setItem('fontScale', fontScale)
+  }, [fontScale])
 
   useEffect(() => {
     setLoading(true)
@@ -19,9 +27,40 @@ export default function SurahReader({ surah, onBack, bookmarks }) {
       .then(data => { setVerses(data); setLoading(false) })
   }, [surah.id])
 
+  // Scroll to resume position once verses load
+  useEffect(() => {
+    if (!loading && initialVerseId) {
+      setTimeout(() => {
+        const el = document.getElementById(`verse-${surah.id}-${initialVerseId}`)
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      }, 150)
+    }
+  }, [loading, initialVerseId])
+
+  // Track last visible verse for resume reading
+  useEffect(() => {
+    const el = contentRef.current
+    if (!el || !verses.length) return
+    let timer
+    const handleScroll = () => {
+      clearTimeout(timer)
+      timer = setTimeout(() => {
+        const cards = el.querySelectorAll('[data-verse-id]')
+        for (const card of cards) {
+          const rect = card.getBoundingClientRect()
+          if (rect.top >= 0 && rect.top < window.innerHeight * 0.6) {
+            onSaveLastRead(surah, parseInt(card.dataset.verseId))
+            break
+          }
+        }
+      }, 600)
+    }
+    el.addEventListener('scroll', handleScroll, { passive: true })
+    return () => { el.removeEventListener('scroll', handleScroll); clearTimeout(timer) }
+  }, [verses, surah])
+
   const toggleAllNotes = () => {
     if (notesVisible) {
-      // Hide all
       setHiddenNotes(new Set(verses.map(v => v.ref)))
       setNotesVisible(false)
     } else {
@@ -48,25 +87,42 @@ export default function SurahReader({ surah, onBack, bookmarks }) {
     setJumpVal('')
   }
 
-  const fontSizes = { sm: '14px', md: '16px', lg: '19px' }
-  const arabicSizes = { sm: '22px', md: '26px', lg: '32px' }
+  const copyVerse = (verse) => {
+    const parts = [verse.arabic, verse.transliteration, verse.translation].filter(Boolean)
+    navigator.clipboard.writeText(parts.join('\n\n')).then(() => {
+      setCopiedRef(verse.ref)
+      setTimeout(() => setCopiedRef(null), 1500)
+    })
+  }
 
   return (
     <div className={styles.page}>
       {/* Header */}
       <div className={styles.header}>
         <button className={styles.backBtn} onClick={onBack}>
-          <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-            <path d="M12 5L7 10l5 5" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+          <svg width="18" height="18" viewBox="0 0 20 20" fill="none">
+            <path d="M12 5L7 10l5 5" stroke="white" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"/>
           </svg>
+          Back
         </button>
         <div className={styles.headerInfo}>
           <div className={styles.headerTitle}>{surah.transliteration} · {surah.name}</div>
           <div className={styles.headerSub}>Chapter {surah.id} · {surah.total_verses} verses · {surah.type === 'meccan' ? 'Meccan' : 'Medinan'}</div>
         </div>
-        <button className={styles.fontBtn} onClick={() => setFontSize(f => f === 'sm' ? 'md' : f === 'md' ? 'lg' : 'sm')} title="Change font size">
-          Aa
-        </button>
+        <div className={styles.fontControls}>
+          <button
+            className={styles.fontBtn}
+            onClick={() => setFontScale(s => Math.max(0, s - 1))}
+            disabled={fontScale === 0}
+            title="Decrease font size"
+          >A−</button>
+          <button
+            className={styles.fontBtn}
+            onClick={() => setFontScale(s => Math.min(4, s + 1))}
+            disabled={fontScale === 4}
+            title="Increase font size"
+          >A+</button>
+        </div>
       </div>
 
       {/* Bismillah */}
@@ -115,11 +171,13 @@ export default function SurahReader({ surah, onBack, bookmarks }) {
           const hasTafsir = !!verse.translation
           const hasNotes = !!verse.notes
           const noteHidden = hiddenNotes.has(verse.ref)
+          const isCopied = copiedRef === verse.ref
 
           return (
             <div
               key={verse.ref}
               id={`verse-${surah.id}-${verse.id}`}
+              data-verse-id={verse.id}
               className={styles.verseCard}
             >
               <div className={styles.verseTop}>
@@ -130,6 +188,12 @@ export default function SurahReader({ surah, onBack, bookmarks }) {
                     onClick={() => bookmarks.toggleBookmark({ ...verse, surahName: surah.transliteration, surahId: surah.id })}
                   >
                     {bookmarks.isBookmarked(verse.ref) ? '✓ Saved' : 'Save'}
+                  </button>
+                  <button
+                    className={`${styles.copyBtn} ${isCopied ? styles.copyBtnDone : ''}`}
+                    onClick={() => copyVerse(verse)}
+                  >
+                    {isCopied ? '✓ Copied' : 'Copy'}
                   </button>
                   {hasNotes && (
                     <button
@@ -142,24 +206,24 @@ export default function SurahReader({ surah, onBack, bookmarks }) {
                 </div>
               </div>
 
-              <div className={styles.arabic} style={{ fontSize: arabicSizes[fontSize] }}>
+              <div className={styles.arabic} style={{ fontSize: AR_SIZES[fontScale] }}>
                 {verse.arabic}
               </div>
 
-              <div className={styles.transliteration}>
+              <div className={styles.transliteration} style={{ fontSize: EN_SIZES[fontScale] }}>
                 {verse.transliteration}
               </div>
 
               {hasTafsir && (
-                <div className={styles.translation} style={{ fontSize: fontSizes[fontSize] }}>
+                <div className={styles.translation} style={{ fontSize: EN_SIZES[fontScale] }}>
                   {verse.translation}
                 </div>
               )}
 
               {hasNotes && !noteHidden && (
                 <div className={styles.notesBox}>
-                  <div className={styles.notesLabel}>Mohammad Shafi's note</div>
-                  <div className={styles.notesText}>{verse.notes}</div>
+                  <div className={styles.notesBoxLabel}>Mohammad Shafi's Note</div>
+                  <div className={styles.notesText} style={{ fontSize: EN_SIZES[fontScale] }}>{verse.notes}</div>
                 </div>
               )}
             </div>

@@ -1,4 +1,5 @@
 import styles from './LandingPage.module.css'
+import Logo from '../components/Logo.jsx'
 
 export default function LandingPage({ onEnter }) {
   return (
@@ -7,7 +8,10 @@ export default function LandingPage({ onEnter }) {
       {/* Nav */}
       <header className={styles.nav}>
         <div className={styles.navInner}>
-          <span className={styles.navLogo}>Qur'aanic Studies</span>
+          <span className={styles.navLogo}>
+            <Logo size={28} />
+            Qur'aanic Studies
+          </span>
           <button className={styles.navCta} onClick={onEnter}>Open App</button>
         </div>
       </header>
@@ -21,6 +25,9 @@ export default function LandingPage({ onEnter }) {
         </div>
         <div className={styles.heroInner}>
           <div className={styles.bismillahWrap}>
+            <div className={styles.heroLogo}>
+              <Logo size={96} />
+            </div>
             <span className={styles.bismillahAr}>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</span>
             <span className={styles.bismillahEn}>In the Name of Allah, the Gracious, the Merciful</span>
           </div>
