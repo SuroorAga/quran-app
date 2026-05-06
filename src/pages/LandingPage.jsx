@@ -1,7 +1,25 @@
+import { useState, useEffect } from 'react'
 import styles from './LandingPage.module.css'
 import Logo from '../components/Logo.jsx'
+import { getVerseOfTheDayRef } from '../utils/verseOfTheDay.js'
 
 export default function LandingPage({ onEnter }) {
+  const [votd, setVotd] = useState(null)
+  const [votdSurah, setVotdSurah] = useState(null)
+
+  useEffect(() => {
+    const ref = getVerseOfTheDayRef()
+    const [surahId, verseId] = ref.split(':').map(Number)
+    Promise.all([
+      fetch(`/data/surah_${surahId}.json`).then(r => r.json()),
+      fetch('/data/chapters.json').then(r => r.json())
+    ]).then(([verses, chapters]) => {
+      const verse = verses.find(v => v.id === verseId)
+      const surah = chapters.find(c => c.id === surahId)
+      if (verse) setVotd({ ...verse, surahId })
+      if (surah) setVotdSurah(surah)
+    }).catch(() => {})
+  }, [])
   return (
     <div className={styles.page}>
 
@@ -59,6 +77,36 @@ export default function LandingPage({ onEnter }) {
           </div>
         </div>
       </section>
+
+      {/* Verse of the Day */}
+      {votd && (
+        <section className={styles.votdSection}>
+          <div className={styles.sectionInner}>
+            <div className={styles.votdCard}>
+              <div className={styles.votdMeta}>
+                <span className={styles.votdLabel}>Verse of the Day</span>
+                <span className={styles.votdDate}>
+                  {new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' })}
+                </span>
+              </div>
+              <div className={styles.votdArabic}>{votd.arabic}</div>
+              {votd.translation && (
+                <p className={styles.votdTranslation}>
+                  {votd.translation.length > 220 ? votd.translation.slice(0, 220) + '…' : votd.translation}
+                </p>
+              )}
+              <div className={styles.votdFooter}>
+                <span className={styles.votdRef}>
+                  {votd.ref}{votdSurah ? ` · ${votdSurah.transliteration}` : ''}
+                </span>
+                <button className={styles.votdCta} onClick={onEnter}>
+                  Read with Tafsir →
+                </button>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Features */}
       <section className={styles.features}>

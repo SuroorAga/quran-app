@@ -1,1 +1,418 @@
-[{"id":1,"ref":"14:1","arabic":"الٓرۚ كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ لِتُخۡرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِ رَبِّهِمۡ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ","transliteration":"Aliflamra kitabun anzalnahu ilayka litukhrija alnnasa mina alththulumati ila alnnoori biithni rabbihim ila sirati alAAazeezi alhameedi","translation":"","notes":""},{"id":2,"ref":"14:2","arabic":"ٱللَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَوَيۡلٞ لِّلۡكَٰفِرِينَ مِنۡ عَذَابٖ شَدِيدٍ","transliteration":"Allahi allathee lahu ma fee alssamawati wama fee alardi wawaylun lilkafireena min AAathabin shadeedin","translation":"","notes":""},{"id":3,"ref":"14:3","arabic":"ٱلَّذِينَ يَسۡتَحِبُّونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجًاۚ أُوْلَـٰٓئِكَ فِي ضَلَٰلِۭ بَعِيدٖ","transliteration":"Allatheena yastahibboona alhayata alddunya AAala alakhirati wayasuddoona AAan sabeeli Allahi wayabghoonaha AAiwajan olaika fee dalalin baAAeedin","translation":"","notes":""},{"id":4,"ref":"14:4","arabic":"وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوۡمِهِۦ لِيُبَيِّنَ لَهُمۡۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ","transliteration":"Wama arsalna min rasoolin illa bilisani qawmihi liyubayyina lahum fayudillu Allahu man yashao wayahdee man yashao wahuwa alAAazeezu alhakeemu","translation":"","notes":""},{"id":5,"ref":"14:5","arabic":"وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ","transliteration":"Walaqad arsalna moosa biayatina an akhrij qawmaka mina alththulumati ila alnnoori wathakkirhum biayyami Allahi inna fee thalika laayatin likulli sabbarin shakoorin","translation":"","notes":""},{"id":6,"ref":"14:6","arabic":"وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ أَنجَىٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ وَيُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ","transliteration":"Waith qala moosa liqawmihi othkuroo niAAmata Allahi AAalaykum ith anjakum min ali firAAawna yasoomoonakum sooa alAAathabi wayuthabbihoona abnaakum wayastahyoona nisaakum wafee thalikum balaon min rabbikum AAatheemun","translation":"","notes":""},{"id":7,"ref":"14:7","arabic":"وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ","transliteration":"Waith taaththana rabbukum lain shakartum laazeedannakum walain kafartum inna AAathabee lashadeedun","translation":"","notes":""},{"id":8,"ref":"14:8","arabic":"وَقَالَ مُوسَىٰٓ إِن تَكۡفُرُوٓاْ أَنتُمۡ وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا فَإِنَّ ٱللَّهَ لَغَنِيٌّ حَمِيدٌ","transliteration":"Waqala moosa in takfuroo antum waman fee alardi jameeAAan fainna Allaha laghaniyyun hameedun","translation":"","notes":""},{"id":9,"ref":"14:9","arabic":"أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ مِن قَبۡلِكُمۡ قَوۡمِ نُوحٖ وَعَادٖ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعۡدِهِمۡ لَا يَعۡلَمُهُمۡ إِلَّا ٱللَّهُۚ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَرَدُّوٓاْ أَيۡدِيَهُمۡ فِيٓ أَفۡوَٰهِهِمۡ وَقَالُوٓاْ إِنَّا كَفَرۡنَا بِمَآ أُرۡسِلۡتُم بِهِۦ وَإِنَّا لَفِي شَكّٖ مِّمَّا تَدۡعُونَنَآ إِلَيۡهِ مُرِيبٖ","transliteration":"Alam yatikum nabao allatheena min qablikum qawmi noohin waAAadin wathamooda waallatheena min baAAdihim la yaAAlamuhum illa Allahu jaathum rusuluhum bialbayyinati faraddoo aydiyahum fee afwahihim waqaloo inna kafarna bima orsiltum bihi wainna lafee shakkin mimma tadAAoonana ilayhi mureebun","translation":"","notes":""},{"id":10,"ref":"14:10","arabic":"۞قَالَتۡ رُسُلُهُمۡ أَفِي ٱللَّهِ شَكّٞ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يَدۡعُوكُمۡ لِيَغۡفِرَ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرَكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۚ قَالُوٓاْ إِنۡ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعۡبُدُ ءَابَآؤُنَا فَأۡتُونَا بِسُلۡطَٰنٖ مُّبِينٖ","transliteration":"Qalat rusuluhum afee Allahi shakkun fatiri alssamawati waalardi yadAAookum liyaghfira lakum min thunoobikum wayuakhkhirakum ila ajalin musamman qaloo in antum illa basharun mithluna tureedoona an tasuddoona AAamma kana yaAAbudu abaona fatoona bisultanin mubeenin","translation":"","notes":""},{"id":11,"ref":"14:11","arabic":"قَالَتۡ لَهُمۡ رُسُلُهُمۡ إِن نَّحۡنُ إِلَّا بَشَرٞ مِّثۡلُكُمۡ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ وَمَا كَانَ لَنَآ أَن نَّأۡتِيَكُم بِسُلۡطَٰنٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ","transliteration":"Qalat lahum rusuluhum in nahnu illa basharun mithlukum walakinna Allaha yamunnu AAala man yashao min AAibadihi wama kana lana an natiyakum bisultanin illa biithni Allahi waAAala Allahi falyatawakkali almuminoona","translation":"","notes":""},{"id":12,"ref":"14:12","arabic":"وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدۡ هَدَىٰنَا سُبُلَنَاۚ وَلَنَصۡبِرَنَّ عَلَىٰ مَآ ءَاذَيۡتُمُونَاۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ","transliteration":"Wama lana alla natawakkala AAala Allahi waqad hadana subulana walanasbiranna AAala ma athaytumoona waAAala Allahi falyatawakkali almutawakkiloona","translation":"","notes":""},{"id":13,"ref":"14:13","arabic":"وَقَالَ ٱلَّذِينَ كَفَرُواْ لِرُسُلِهِمۡ لَنُخۡرِجَنَّكُم مِّنۡ أَرۡضِنَآ أَوۡ لَتَعُودُنَّ فِي مِلَّتِنَاۖ فَأَوۡحَىٰٓ إِلَيۡهِمۡ رَبُّهُمۡ لَنُهۡلِكَنَّ ٱلظَّـٰلِمِينَ","transliteration":"Waqala allatheena kafaroo lirusulihim lanukhrijannakum min ardina aw lataAAoodunna fee millatina faawha ilayhim rabbuhum lanuhlikanna alththalimeena","translation":"","notes":""},{"id":14,"ref":"14:14","arabic":"وَلَنُسۡكِنَنَّكُمُ ٱلۡأَرۡضَ مِنۢ بَعۡدِهِمۡۚ ذَٰلِكَ لِمَنۡ خَافَ مَقَامِي وَخَافَ وَعِيدِ","transliteration":"Walanuskinannakumu alarda min baAAdihim thalika liman khafa maqamee wakhafa waAAeedi","translation":"","notes":""},{"id":15,"ref":"14:15","arabic":"وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ","transliteration":"Waistaftahoo wakhaba kullu jabbarin AAaneedin","translation":"","notes":""},{"id":16,"ref":"14:16","arabic":"مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسۡقَىٰ مِن مَّآءٖ صَدِيدٖ","transliteration":"Min waraihi jahannamu wayusqa min main sadeedin","translation":"","notes":""},{"id":17,"ref":"14:17","arabic":"يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأۡتِيهِ ٱلۡمَوۡتُ مِن كُلِّ مَكَانٖ وَمَا هُوَ بِمَيِّتٖۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٞ","transliteration":"YatajarraAAuhu wala yakadu yuseeghuhu wayateehi almawtu min kulli makanin wama huwa bimayyitin wamin waraihi AAathabun ghaleethun","translation":"","notes":""},{"id":18,"ref":"14:18","arabic":"مَّثَلُ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ أَعۡمَٰلُهُمۡ كَرَمَادٍ ٱشۡتَدَّتۡ بِهِ ٱلرِّيحُ فِي يَوۡمٍ عَاصِفٖۖ لَّا يَقۡدِرُونَ مِمَّا كَسَبُواْ عَلَىٰ شَيۡءٖۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ","transliteration":"Mathalu allatheena kafaroo birabbihim aAAmaluhum karamadin ishtaddat bihi alrreehu fee yawmin AAasifin la yaqdiroona mimma kasaboo AAala shayin thalika huwa alddalalu albaAAeedu","translation":"","notes":""},{"id":19,"ref":"14:19","arabic":"أَلَمۡ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ","transliteration":"Alam tara anna Allaha khalaqa alssamawati waalarda bialhaqqi in yasha yuthhibkum wayati bikhalqin jadeedin","translation":"","notes":""},{"id":20,"ref":"14:20","arabic":"وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ","transliteration":"Wama thalika AAala Allahi biAAazeezin","translation":"","notes":""},{"id":21,"ref":"14:21","arabic":"وَبَرَزُواْ لِلَّهِ جَمِيعٗا فَقَالَ ٱلضُّعَفَـٰٓؤُاْ لِلَّذِينَ ٱسۡتَكۡبَرُوٓاْ إِنَّا كُنَّا لَكُمۡ تَبَعٗا فَهَلۡ أَنتُم مُّغۡنُونَ عَنَّا مِنۡ عَذَابِ ٱللَّهِ مِن شَيۡءٖۚ قَالُواْ لَوۡ هَدَىٰنَا ٱللَّهُ لَهَدَيۡنَٰكُمۡۖ سَوَآءٌ عَلَيۡنَآ أَجَزِعۡنَآ أَمۡ صَبَرۡنَا مَا لَنَا مِن مَّحِيصٖ","transliteration":"Wabarazoo lillahi jameeAAan faqala aldduAAafao lillatheena istakbaroo inna kunna lakum tabaAAan fahal antum mughnoona AAanna min AAathabi Allahi min shayin qaloo law hadana Allahu lahadaynakum sawaon AAalayna ajaziAAna am sabarna ma lana min maheesin","translation":"","notes":""},{"id":22,"ref":"14:22","arabic":"وَقَالَ ٱلشَّيۡطَٰنُ لَمَّا قُضِيَ ٱلۡأَمۡرُ إِنَّ ٱللَّهَ وَعَدَكُمۡ وَعۡدَ ٱلۡحَقِّ وَوَعَدتُّكُمۡ فَأَخۡلَفۡتُكُمۡۖ وَمَا كَانَ لِيَ عَلَيۡكُم مِّن سُلۡطَٰنٍ إِلَّآ أَن دَعَوۡتُكُمۡ فَٱسۡتَجَبۡتُمۡ لِيۖ فَلَا تَلُومُونِي وَلُومُوٓاْ أَنفُسَكُمۖ مَّآ أَنَا۠ بِمُصۡرِخِكُمۡ وَمَآ أَنتُم بِمُصۡرِخِيَّ إِنِّي كَفَرۡتُ بِمَآ أَشۡرَكۡتُمُونِ مِن قَبۡلُۗ إِنَّ ٱلظَّـٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمٞ","transliteration":"Waqala alshshaytanu lamma qudiya alamru inna Allaha waAAadakum waAAda alhaqqi wawaAAadtukum faakhlaftukum wama kana liya AAalaykum min sultanin illa an daAAawtukum faistajabtum lee fala taloomoonee waloomoo anfusakum ma ana bimusrikhikum wama antum bimusrikhiyya innee kafartu bima ashraktumooni min qablu inna alththalimeena lahum AAathabun aleemun","translation":"","notes":""},{"id":23,"ref":"14:23","arabic":"وَأُدۡخِلَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا بِإِذۡنِ رَبِّهِمۡۖ تَحِيَّتُهُمۡ فِيهَا سَلَٰمٌ","transliteration":"Waodkhila allatheena amanoo waAAamiloo alssalihati jannatin tajree min tahtiha alanharu khalideena feeha biithni rabbihim tahiyyatuhum feeha salamun","translation":"","notes":""},{"id":24,"ref":"14:24","arabic":"أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ","transliteration":"Alam tara kayfa daraba Allahu mathalan kalimatan tayyibatan kashajaratin tayyibatin asluha thabitun wafarAAuha fee alssamai","translation":"","notes":""},{"id":25,"ref":"14:25","arabic":"تُؤۡتِيٓ أُكُلَهَا كُلَّ حِينِۭ بِإِذۡنِ رَبِّهَاۗ وَيَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُونَ","transliteration":"Tutee okulaha kulla heenin biithni rabbiha wayadribu Allahu alamthala lilnnasi laAAallahum yatathakkaroona","translation":"","notes":""},{"id":26,"ref":"14:26","arabic":"وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ","transliteration":"Wamathalu kalimatin khabeethatin kashajaratin khabeethatin ijtuththat min fawqi alardi ma laha min qararin","translation":"","notes":""},{"id":27,"ref":"14:27","arabic":"يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ بِٱلۡقَوۡلِ ٱلثَّابِتِ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۖ وَيُضِلُّ ٱللَّهُ ٱلظَّـٰلِمِينَۚ وَيَفۡعَلُ ٱللَّهُ مَا يَشَآءُ","transliteration":"Yuthabbitu Allahu allatheena amanoo bialqawli alththabiti fee alhayati alddunya wafee alakhirati wayudillu Allahu alththalimeena wayafAAalu Allahu ma yashao","translation":"","notes":""},{"id":28,"ref":"14:28","arabic":"۞أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ","transliteration":"Alam tara ila allatheena baddaloo niAAmata Allahi kufran waahalloo qawmahum dara albawari","translation":"","notes":""},{"id":29,"ref":"14:29","arabic":"جَهَنَّمَ يَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ","transliteration":"Jahannama yaslawnaha wabisa alqararu","translation":"","notes":""},{"id":30,"ref":"14:30","arabic":"وَجَعَلُواْ لِلَّهِ أَندَادٗا لِّيُضِلُّواْ عَن سَبِيلِهِۦۗ قُلۡ تَمَتَّعُواْ فَإِنَّ مَصِيرَكُمۡ إِلَى ٱلنَّارِ","transliteration":"WajaAAaloo lillahi andadan liyudilloo AAan sabeelihi qul tamattaAAoo fainna maseerakum ila alnnari","translation":"","notes":""},{"id":31,"ref":"14:31","arabic":"قُل لِّعِبَادِيَ ٱلَّذِينَ ءَامَنُواْ يُقِيمُواْ ٱلصَّلَوٰةَ وَيُنفِقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ مِّن قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ لَّا بَيۡعٞ فِيهِ وَلَا خِلَٰلٌ","transliteration":"Qul liAAibadiya allatheena amanoo yuqeemoo alssalata wayunfiqoo mimma razaqnahum sirran waAAalaniyatan min qabli an yatiya yawmun la bayAAun feehi wala khilalun","translation":"","notes":""},{"id":32,"ref":"14:32","arabic":"ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ وَسَخَّرَ لَكُمُ ٱلۡفُلۡكَ لِتَجۡرِيَ فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦۖ وَسَخَّرَ لَكُمُ ٱلۡأَنۡهَٰرَ","transliteration":"Allahu allathee khalaqa alssamawati waalarda waanzala mina alssamai maan faakhraja bihi mina alththamarati rizqan lakum wasakhkhara lakumu alfulka litajriya fee albahri biamrihi wasakhkhara lakumu alanhara","translation":"","notes":""},{"id":33,"ref":"14:33","arabic":"وَسَخَّرَ لَكُمُ ٱلشَّمۡسَ وَٱلۡقَمَرَ دَآئِبَيۡنِۖ وَسَخَّرَ لَكُمُ ٱلَّيۡلَ وَٱلنَّهَارَ","transliteration":"Wasakhkhara lakumu alshshamsa waalqamara daibayni wasakhkhara lakumu allayla waalnnahara","translation":"","notes":""},{"id":34,"ref":"14:34","arabic":"وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلۡتُمُوهُۚ وَإِن تَعُدُّواْ نِعۡمَتَ ٱللَّهِ لَا تُحۡصُوهَآۗ إِنَّ ٱلۡإِنسَٰنَ لَظَلُومٞ كَفَّارٞ","transliteration":"Waatakum min kulli ma saaltumoohu wain taAAuddoo niAAmata Allahi la tuhsooha inna alinsana lathaloomun kaffarun","translation":"","notes":""},{"id":35,"ref":"14:35","arabic":"وَإِذۡ قَالَ إِبۡرَٰهِيمُ رَبِّ ٱجۡعَلۡ هَٰذَا ٱلۡبَلَدَ ءَامِنٗا وَٱجۡنُبۡنِي وَبَنِيَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ","transliteration":"Waith qala ibraheemu rabbi ijAAal hatha albalada aminan waojnubnee wabaniyya an naAAbuda alasnama","translation":"","notes":""},{"id":36,"ref":"14:36","arabic":"رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ","transliteration":"Rabbi innahunna adlalna katheeran mina alnnasi faman tabiAAanee fainnahu minnee waman AAasanee fainnaka ghafoorun raheemun","translation":"","notes":""},{"id":37,"ref":"14:37","arabic":"رَّبَّنَآ إِنِّيٓ أَسۡكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيۡرِ ذِي زَرۡعٍ عِندَ بَيۡتِكَ ٱلۡمُحَرَّمِ رَبَّنَا لِيُقِيمُواْ ٱلصَّلَوٰةَ فَٱجۡعَلۡ أَفۡـِٔدَةٗ مِّنَ ٱلنَّاسِ تَهۡوِيٓ إِلَيۡهِمۡ وَٱرۡزُقۡهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمۡ يَشۡكُرُونَ","transliteration":"Rabbana innee askantu min thurriyyatee biwadin ghayri thee zarAAin AAinda baytika almuharrami rabbana liyuqeemoo alssalata faijAAal afidatan mina alnnasi tahwee ilayhim waorzuqhum mina alththamarati laAAallahum yashkuroona","translation":"","notes":""},{"id":38,"ref":"14:38","arabic":"رَبَّنَآ إِنَّكَ تَعۡلَمُ مَا نُخۡفِي وَمَا نُعۡلِنُۗ وَمَا يَخۡفَىٰ عَلَى ٱللَّهِ مِن شَيۡءٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ","transliteration":"Rabbana innaka taAAlamu ma nukhfee wama nuAAlinu wama yakhfa AAala Allahi min shayin fee alardi wala fee alssamai","translation":"","notes":""},{"id":39,"ref":"14:39","arabic":"ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي وَهَبَ لِي عَلَى ٱلۡكِبَرِ إِسۡمَٰعِيلَ وَإِسۡحَٰقَۚ إِنَّ رَبِّي لَسَمِيعُ ٱلدُّعَآءِ","transliteration":"Alhamdu lillahi allathee wahaba lee AAala alkibari ismaAAeela waishaqa inna rabbee lasameeAAu aldduAAai","translation":"","notes":""},{"id":40,"ref":"14:40","arabic":"رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ","transliteration":"Rabbi ijAAalnee muqeema alssalati wamin thurriyyatee rabbana wtaqabbal duAAai","translation":"","notes":""},{"id":41,"ref":"14:41","arabic":"رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ ٱلۡحِسَابُ","transliteration":"Rabbana ighfir lee waliwalidayya walilmumineena yawma yaqoomu alhisabu","translation":"","notes":""},{"id":42,"ref":"14:42","arabic":"وَلَا تَحۡسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعۡمَلُ ٱلظَّـٰلِمُونَۚ إِنَّمَا يُؤَخِّرُهُمۡ لِيَوۡمٖ تَشۡخَصُ فِيهِ ٱلۡأَبۡصَٰرُ","transliteration":"Wala tahsabanna Allaha ghafilan AAamma yaAAmalu alththalimoona innama yuakhkhiruhum liyawmin tashkhasu feehi alabsaru","translation":"","notes":""},{"id":43,"ref":"14:43","arabic":"مُهۡطِعِينَ مُقۡنِعِي رُءُوسِهِمۡ لَا يَرۡتَدُّ إِلَيۡهِمۡ طَرۡفُهُمۡۖ وَأَفۡـِٔدَتُهُمۡ هَوَآءٞ","transliteration":"MuhtiAAeena muqniAAee ruoosihim la yartaddu ilayhim tarfuhum waafidatuhum hawaon","translation":"","notes":""},{"id":44,"ref":"14:44","arabic":"وَأَنذِرِ ٱلنَّاسَ يَوۡمَ يَأۡتِيهِمُ ٱلۡعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُواْ رَبَّنَآ أَخِّرۡنَآ إِلَىٰٓ أَجَلٖ قَرِيبٖ نُّجِبۡ دَعۡوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَۗ أَوَلَمۡ تَكُونُوٓاْ أَقۡسَمۡتُم مِّن قَبۡلُ مَا لَكُم مِّن زَوَالٖ","transliteration":"Waanthiri alnnasa yawma yateehimu alAAathabu fayaqoolu allatheena thalamoo rabbana akhkhirna ila ajalin qareebin nujib daAAwataka wanattabiAAi alrrusula awalam takoonoo aqsamtum min qablu ma lakum min zawalin","translation":"","notes":""},{"id":45,"ref":"14:45","arabic":"وَسَكَنتُمۡ فِي مَسَٰكِنِ ٱلَّذِينَ ظَلَمُوٓاْ أَنفُسَهُمۡ وَتَبَيَّنَ لَكُمۡ كَيۡفَ فَعَلۡنَا بِهِمۡ وَضَرَبۡنَا لَكُمُ ٱلۡأَمۡثَالَ","transliteration":"Wasakantum fee masakini allatheena thalamoo anfusahum watabayyana lakum kayfa faAAalna bihim wadarabna lakumu alamthala","translation":"","notes":""},{"id":46,"ref":"14:46","arabic":"وَقَدۡ مَكَرُواْ مَكۡرَهُمۡ وَعِندَ ٱللَّهِ مَكۡرُهُمۡ وَإِن كَانَ مَكۡرُهُمۡ لِتَزُولَ مِنۡهُ ٱلۡجِبَالُ","transliteration":"Waqad makaroo makrahum waAAinda Allahi makruhum wain kana makruhum litazoola minhu aljibalu","translation":"","notes":""},{"id":47,"ref":"14:47","arabic":"فَلَا تَحۡسَبَنَّ ٱللَّهَ مُخۡلِفَ وَعۡدِهِۦ رُسُلَهُۥٓۚ إِنَّ ٱللَّهَ عَزِيزٞ ذُو ٱنتِقَامٖ","transliteration":"Fala tahsabanna Allaha mukhlifa waAAdihi rusulahu inna Allaha AAazeezun thoo intiqamin","translation":"","notes":""},{"id":48,"ref":"14:48","arabic":"يَوۡمَ تُبَدَّلُ ٱلۡأَرۡضُ غَيۡرَ ٱلۡأَرۡضِ وَٱلسَّمَٰوَٰتُۖ وَبَرَزُواْ لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ","transliteration":"Yawma tubaddalu alardu ghayra alardi waalssamawatu wabarazoo lillahi alwahidi alqahhari","translation":"","notes":""},{"id":49,"ref":"14:49","arabic":"وَتَرَى ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ مُّقَرَّنِينَ فِي ٱلۡأَصۡفَادِ","transliteration":"Watara almujrimeena yawmaithin muqarraneena fee alasfadi","translation":"","notes":""},{"id":50,"ref":"14:50","arabic":"سَرَابِيلُهُم مِّن قَطِرَانٖ وَتَغۡشَىٰ وُجُوهَهُمُ ٱلنَّارُ","transliteration":"Sarabeeluhum min qatranin wataghsha wujoohahumu alnnaru","translation":"","notes":""},{"id":51,"ref":"14:51","arabic":"لِيَجۡزِيَ ٱللَّهُ كُلَّ نَفۡسٖ مَّا كَسَبَتۡۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ","transliteration":"Liyajziya Allahu kulla nafsin ma kasabat inna Allaha sareeAAu alhisabi","translation":"","notes":""},{"id":52,"ref":"14:52","arabic":"هَٰذَا بَلَٰغٞ لِّلنَّاسِ وَلِيُنذَرُواْ بِهِۦ وَلِيَعۡلَمُوٓاْ أَنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَلِيَذَّكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ","transliteration":"Hatha balaghun lilnnasi waliyuntharoo bihi waliyaAAlamoo annama huwa ilahun wahidun waliyaththakkara oloo alalbabi","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "14:1",
+    "arabic": "الٓرۚ كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ لِتُخۡرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِ رَبِّهِمۡ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+    "transliteration": "Aliflamra kitabun anzalnahu ilayka litukhrija alnnasa mina alththulumati ila alnnoori biithni rabbihim ila sirati alAAazeezi alhameedi",
+    "translation": "Alif Lam Ra. A Book that We have revealed to you to bring out mankind, by their Lord's permission, from darknesses towards light – towards the way of the Omnipotent, the Praised One,",
+    "notes": "Refer study note 2:1 about such initials appearing at the start of some Qur’aanic Chapters.\n\nOne could understand non-Muslims seeking faults in the Qur’aan, the only authentic source depicting Allah’s Path. But there are many of those who call themselves Muslims, and yet find faults in the divine Book. They say, despite repeated assertions therein to the contrary, that the Book does not have all the necessary explanations. [Refer study note 12 on Verse 13:19.] So, the Muslims are busy searching for ‘what Allah has missed’, in books other than the Qur’aan or are busy concocting their own explanations."
+  },
+  {
+    "id": 2,
+    "ref": "14:2",
+    "arabic": "ٱللَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَوَيۡلٞ لِّلۡكَٰفِرِينَ مِنۡ عَذَابٖ شَدِيدٍ",
+    "transliteration": "Allahi allathee lahu ma fee alssamawati wama fee alardi wawaylun lilkafireena min AAathabin shadeedin",
+    "translation": "Allah is He to Whom belongs whatever there is in the heavens and the earth. And woe, from severe punishment, unto those who suppress the Truth.",
+    "notes": "Those ancient peoples were astonished to see the miraculous signs Allah’s Messengers had brought to them, and yet they did not believe in the divine Message they had brought! And today’s modern peoples are no better. They too refuse to believe in the divine Message given to them through Allah’s last Prophet, even when He has opened to them a vast reservoir of His infinite knowledge of innumerable miraculous happenings, day in and day out, throughout the universe. Glimpses of these miraculous happenings are shown, inter alia, in TV channels like Discovery Channel, National Geographic, Animal Planet etc. They dismiss these discoveries as just wonderful nature but refuse to believe in any Intelligent Creator behind their creation."
+  },
+  {
+    "id": 3,
+    "ref": "14:3",
+    "arabic": "ٱلَّذِينَ يَسۡتَحِبُّونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجًاۚ أُوْلَـٰٓئِكَ فِي ضَلَٰلِۭ بَعِيدٖ",
+    "transliteration": "Allatheena yastahibboona alhayata alddunya AAala alakhirati wayasuddoona AAan sabeeli Allahi wayabghoonaha AAiwajan olaika fee dalalin baAAeedin",
+    "translation": "Those who love the life of this world more than the Hereafter and turn people away from Allah's Path and seek perversity in it. They are in deep delusion.",
+    "notes": "One could understand non-Muslims seeking faults in the Qur’aan, the only authentic source depicting Allah’s Path. But there are many of those who call themselves Muslims, and yet find faults in the divine Book. They say, despite repeated assertions therein to the contrary, that the Book does not have all the necessary explanations. [Refer study note 12 on Verse 13:19.] So, the Muslims are busy searching for ‘what Allah has missed’, in books other than the Qur’aan or are busy concocting their own explanations.\n\nThe creation of the heavens and the earth could, by no stretch of imagination, be considered purposeless. The purpose, as clarified in Verse 11:7, is to test humans by making its members His vicegerents on earth. All His creation is, apparently and essentially, to serve that purpose. If any section of humans proves itself to be incapable of holding on to that high office, it is liable to be replaced by the Almighty Creator with a new generation."
+  },
+  {
+    "id": 4,
+    "ref": "14:4",
+    "arabic": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوۡمِهِۦ لِيُبَيِّنَ لَهُمۡۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+    "transliteration": "Wama arsalna min rasoolin illa bilisani qawmihi liyubayyina lahum fayudillu Allahu man yashao wayahdee man yashao wahuwa alAAazeezu alhakeemu",
+    "translation": "And We did not send any Messenger with Our Message but in the language of his people, so that he might narrate it to them clearly. Allah then leaves whom He wills to stray away from His Path and He guides whom He wills to His Path. And He is the Omnipotent, the Wise.",
+    "notes": "Through this example, we understand that a good word is anything written or spoken that is firmly based on truth and reality. It gives solace to those who hear or read it and benefits them repeatedly as well. A good example of a good word is the Qur’aan itself. It is firmly based on Truth. It gives solace to those who read and ponder over it. And history is witness to the fact that it has benefited nondescript communities to become the most potent forces on earth – culturally, economically and militarily. This good word has not been seen yielding fruits nowadays as most people listen to it not to understand and implement its teachings. They have relegated it to just ritualistic reading."
+  },
+  {
+    "id": 5,
+    "ref": "14:5",
+    "arabic": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
+    "transliteration": "Walaqad arsalna moosa biayatina an akhrij qawmaka mina alththulumati ila alnnoori wathakkirhum biayyami Allahi inna fee thalika laayatin likulli sabbarin shakoorin",
+    "translation": "And We did certainly send Moses with Our signs, “Bring out your people from the darknesses towards light and remind them of the annals of Allah. Therein indeed are signs for everyone who is patient and grateful.”",
+    "notes": "The Qur’aan."
+  },
+  {
+    "id": 6,
+    "ref": "14:6",
+    "arabic": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ أَنجَىٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ وَيُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ",
+    "transliteration": "Waith qala moosa liqawmihi othkuroo niAAmata Allahi AAalaykum ith anjakum min ali firAAawna yasoomoonakum sooa alAAathabi wayuthabbihoona abnaakum wayastahyoona nisaakum wafee thalikum balaon min rabbikum AAatheemun",
+    "translation": "And when Moses said to his people, “Remember Allah's favour upon you when He delivered you from Pharaoh's people who had subjected you to severe persecution and killed your sons and spared your women. And in this there was a great test from your Lord.”",
+    "notes": "For the Qur’aanic explanation of the corresponding Arabic term, aqeemoo alssalata, refer study notes 2:4 & 2:108."
+  },
+  {
+    "id": 7,
+    "ref": "14:7",
+    "arabic": "وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ",
+    "transliteration": "Waith taaththana rabbukum lain shakartum laazeedannakum walain kafartum inna AAathabee lashadeedun",
+    "translation": "And when your Lord declared, “If you are grateful, I will certainly give you more. And if you are ungrateful, My punishment is indeed severe.”",
+    "notes": "Refer study note 2:5."
+  },
+  {
+    "id": 8,
+    "ref": "14:8",
+    "arabic": "وَقَالَ مُوسَىٰٓ إِن تَكۡفُرُوٓاْ أَنتُمۡ وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا فَإِنَّ ٱللَّهَ لَغَنِيٌّ حَمِيدٌ",
+    "transliteration": "Waqala moosa in takfuroo antum waman fee alardi jameeAAan fainna Allaha laghaniyyun hameedun",
+    "translation": "And Moses said, “Even if you are ungrateful – you and those on earth all together – Allah certainly indeed can do without you being grateful to Him. HE is Self-sufficient, Praiseworthy.”",
+    "notes": "Makkah."
+  },
+  {
+    "id": 9,
+    "ref": "14:9",
+    "arabic": "أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ مِن قَبۡلِكُمۡ قَوۡمِ نُوحٖ وَعَادٖ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعۡدِهِمۡ لَا يَعۡلَمُهُمۡ إِلَّا ٱللَّهُۚ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَرَدُّوٓاْ أَيۡدِيَهُمۡ فِيٓ أَفۡوَٰهِهِمۡ وَقَالُوٓاْ إِنَّا كَفَرۡنَا بِمَآ أُرۡسِلۡتُم بِهِۦ وَإِنَّا لَفِي شَكّٖ مِّمَّا تَدۡعُونَنَآ إِلَيۡهِ مُرِيبٖ",
+    "transliteration": "Alam yatikum nabao allatheena min qablikum qawmi noohin waAAadin wathamooda waallatheena min baAAdihim la yaAAlamuhum illa Allahu jaathum rusuluhum bialbayyinati faraddoo aydiyahum fee afwahihim waqaloo inna kafarna bima orsiltum bihi wainna lafee shakkin mimma tadAAoonana ilayhi mureebun",
+    "translation": "Have you not heard of those before you – of the people of Noah and AAad and Thamood, and those after them? None knows them but Allah. Their Messengers came to them with clear signs. And they thrust their hands into their mouths in astonishment while witnessing those signs, but said, “We do not believe in the Message that you are sent with, and we are indeed utterly in doubt about what you invite us to.”",
+    "notes": "Those ancient peoples were astonished to see the miraculous signs Allah’s Messengers had brought to them, and yet they did not believe in the divine Message they had brought! And today’s modern peoples are no better. They too refuse to believe in the divine Message given to them through Allah’s last Prophet, even when He has opened to them a vast reservoir of His infinite knowledge of innumerable miraculous happenings, day in and day out, throughout the universe. Glimpses of these miraculous happenings are shown, inter alia, in TV channels like Discovery Channel, National Geographic, Animal Planet etc. They dismiss these discoveries as just wonderful nature but refuse to believe in any Intelligent Creator behind their creation.\n\nAllah Almighty thus informs us that some members of Abraham’s family were the first settlers of Makkah."
+  },
+  {
+    "id": 10,
+    "ref": "14:10",
+    "arabic": "۞قَالَتۡ رُسُلُهُمۡ أَفِي ٱللَّهِ شَكّٞ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يَدۡعُوكُمۡ لِيَغۡفِرَ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرَكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۚ قَالُوٓاْ إِنۡ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعۡبُدُ ءَابَآؤُنَا فَأۡتُونَا بِسُلۡطَٰنٖ مُّبِينٖ",
+    "transliteration": "Qalat rusuluhum afee Allahi shakkun fatiri alssamawati waalardi yadAAookum liyaghfira lakum min thunoobikum wayuakhkhirakum ila ajalin musamman qaloo in antum illa basharun mithluna tureedoona an tasuddoona AAamma kana yaAAbudu abaona fatoona bisultanin mubeenin",
+    "translation": "Their Messengers said, “Is there any doubt about Allah, the Maker of the heavens and the earth? He invites you to Him so that He may forgive you your sins and give you time till an appointed term to redeem yourselves.” They said, “You are but mortals like us. You wish to turn us away from what our fathers worshipped. Bring to us then some clear evidence for this.”",
+    "notes": "Qalat lahum rusuluhum in nahnu illa basharun mithlukum walakinna Allaha yamunnu AAala man yashao min AAibadihi wama kana lana an na/tiyakum bisultanin illa bi-ithni Allahi waAAala Allahi falyatawakkali almu/minoona"
+  },
+  {
+    "id": 11,
+    "ref": "14:11",
+    "arabic": "قَالَتۡ لَهُمۡ رُسُلُهُمۡ إِن نَّحۡنُ إِلَّا بَشَرٞ مِّثۡلُكُمۡ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ وَمَا كَانَ لَنَآ أَن نَّأۡتِيَكُم بِسُلۡطَٰنٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+    "transliteration": "Qalat lahum rusuluhum in nahnu illa basharun mithlukum walakinna Allaha yamunnu AAala man yashao min AAibadihi wama kana lana an natiyakum bisultanin illa biithni Allahi waAAala Allahi falyatawakkali almuminoona",
+    "translation": "Their Messengers said to them, “We are but mortals like you, but Allah bestows His favours upon whom He wills of His worshippers. And we cannot bring you any evidence except by Allah's permission. And in Allah then the believers should have trust.”",
+    "notes": "Wama lana alla natawakkala AAala Allahi waqad hadana subulana walanasbiranna AAala ma athaytumoona waAAala Allahi falyatawakkali almutawakkiloona"
+  },
+  {
+    "id": 12,
+    "ref": "14:12",
+    "arabic": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدۡ هَدَىٰنَا سُبُلَنَاۚ وَلَنَصۡبِرَنَّ عَلَىٰ مَآ ءَاذَيۡتُمُونَاۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ",
+    "transliteration": "Wama lana alla natawakkala AAala Allahi waqad hadana subulana walanasbiranna AAala ma athaytumoona waAAala Allahi falyatawakkali almutawakkiloona",
+    "translation": "“And what reason have we that we should have no trust in Allah, when, surely, He has guided us to our paths? And we shall certainly bear your persecution with patience. And those that trust do trust in Allah.”",
+    "notes": "Waqala allatheena kafaroo lirusulihim lanukhrijannakum min ardina aw lataAAoodunna fee millatina faawha ilayhim rabbuhum lanuhlikanna alththalimeena"
+  },
+  {
+    "id": 13,
+    "ref": "14:13",
+    "arabic": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِرُسُلِهِمۡ لَنُخۡرِجَنَّكُم مِّنۡ أَرۡضِنَآ أَوۡ لَتَعُودُنَّ فِي مِلَّتِنَاۖ فَأَوۡحَىٰٓ إِلَيۡهِمۡ رَبُّهُمۡ لَنُهۡلِكَنَّ ٱلظَّـٰلِمِينَ",
+    "transliteration": "Waqala allatheena kafaroo lirusulihim lanukhrijannakum min ardina aw lataAAoodunna fee millatina faawha ilayhim rabbuhum lanuhlikanna alththalimeena",
+    "translation": "And those who suppressed the Truth told their Messengers, “We shall drive you out of our land, or you shall come back into our lifestyle.” Their Lord then revealed to them, “We will destroy the wicked people.”",
+    "notes": "Walanuskinannakumu al-arda min baAAdihim thalika liman khafa maqamee wakhafa waAAeedi"
+  },
+  {
+    "id": 14,
+    "ref": "14:14",
+    "arabic": "وَلَنُسۡكِنَنَّكُمُ ٱلۡأَرۡضَ مِنۢ بَعۡدِهِمۡۚ ذَٰلِكَ لِمَنۡ خَافَ مَقَامِي وَخَافَ وَعِيدِ",
+    "transliteration": "Walanuskinannakumu alarda min baAAdihim thalika liman khafa maqamee wakhafa waAAeedi",
+    "translation": "“And We shall certainly settle you in the land after them. That is for him who fears standing in My presence and who fears My warnings.”",
+    "notes": "Waistaftahoo wakhaba kullu jabbarin AAaneedin"
+  },
+  {
+    "id": 15,
+    "ref": "14:15",
+    "arabic": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ",
+    "transliteration": "Waistaftahoo wakhaba kullu jabbarin AAaneedin",
+    "translation": "And they sought victory and every obstinate tyrant was frustrated.",
+    "notes": "Min wara-ihi jahannamu wayusqa min ma-in sadeedin"
+  },
+  {
+    "id": 16,
+    "ref": "14:16",
+    "arabic": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسۡقَىٰ مِن مَّآءٖ صَدِيدٖ",
+    "transliteration": "Min waraihi jahannamu wayusqa min main sadeedin",
+    "translation": "Behind him [every obstinate tyrant] is Hell waiting to quench his thirst with fetid water.",
+    "notes": "YatajarraAAuhu wala yakadu yuseeghuhu waya/teehi almawtu min kulli makanin wama huwa bimayyitin wamin wara-ihi AAathabun ghaleethun"
+  },
+  {
+    "id": 17,
+    "ref": "14:17",
+    "arabic": "يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأۡتِيهِ ٱلۡمَوۡتُ مِن كُلِّ مَكَانٖ وَمَا هُوَ بِمَيِّتٖۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٞ",
+    "transliteration": "YatajarraAAuhu wala yakadu yuseeghuhu wayateehi almawtu min kulli makanin wama huwa bimayyitin wamin waraihi AAathabun ghaleethun",
+    "translation": "He will sip at it and it will not be easy for him to swallow it. And death will come to him from every quarter, but he shall not die. And further severe punishment shall await just behind him.",
+    "notes": "Mathalu allatheena kafaroo birabbihim aAAmaluhum karamadin ishtaddat bihi alrreehu fee yawmin AAasifin la yaqdiroona mimma kasaboo AAala shay-in thalika huwa alddalalu albaAAeedu"
+  },
+  {
+    "id": 18,
+    "ref": "14:18",
+    "arabic": "مَّثَلُ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ أَعۡمَٰلُهُمۡ كَرَمَادٍ ٱشۡتَدَّتۡ بِهِ ٱلرِّيحُ فِي يَوۡمٍ عَاصِفٖۖ لَّا يَقۡدِرُونَ مِمَّا كَسَبُواْ عَلَىٰ شَيۡءٖۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ",
+    "transliteration": "Mathalu allatheena kafaroo birabbihim aAAmaluhum karamadin ishtaddat bihi alrreehu fee yawmin AAasifin la yaqdiroona mimma kasaboo AAala shayin thalika huwa alddalalu albaAAeedu",
+    "translation": "Deeds of those who suppress the Truth about their Lord are like ashes on which the wind blows hard on a stormy day. They shall have no power over any thing they earn. That is far too grievous a loss of way.",
+    "notes": "Alam tara anna Allaha khalaqa alssamawati waal-arda bialhaqqi in yasha/ yuthhibkum waya/ti bikhalqin jadeedin"
+  },
+  {
+    "id": 19,
+    "ref": "14:19",
+    "arabic": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ",
+    "transliteration": "Alam tara anna Allaha khalaqa alssamawati waalarda bialhaqqi in yasha yuthhibkum wayati bikhalqin jadeedin",
+    "translation": "Do you not see that Allah created the heavens and the earth in Truth? If He wills He will take you off and bring a new creation.",
+    "notes": "The creation of the heavens and the earth could, by no stretch of imagination, be considered purposeless. The purpose, as clarified in Verse 11:7, is to test humans by making its members His vicegerents on earth. All His creation is, apparently and essentially, to serve that purpose. If any section of humans proves itself to be incapable of holding on to that high office, it is liable to be replaced by the Almighty Creator with a new generation.\n\nWama thalika AAala Allahi biAAazeezin"
+  },
+  {
+    "id": 20,
+    "ref": "14:20",
+    "arabic": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ",
+    "transliteration": "Wama thalika AAala Allahi biAAazeezin",
+    "translation": "And that is not at all difficult for Allah!",
+    "notes": "Wabarazoo lillahi jameeAAan faqala aldduAAafao lillatheena istakbaroo inna kunna lakum tabaAAan fahal antum mughnoona AAanna min AAathabi Allahi min shay-in qaloo law hadana Allahu lahadaynakum sawaon AAalayna ajaziAAna am sabarna ma lana min maheesin"
+  },
+  {
+    "id": 21,
+    "ref": "14:21",
+    "arabic": "وَبَرَزُواْ لِلَّهِ جَمِيعٗا فَقَالَ ٱلضُّعَفَـٰٓؤُاْ لِلَّذِينَ ٱسۡتَكۡبَرُوٓاْ إِنَّا كُنَّا لَكُمۡ تَبَعٗا فَهَلۡ أَنتُم مُّغۡنُونَ عَنَّا مِنۡ عَذَابِ ٱللَّهِ مِن شَيۡءٖۚ قَالُواْ لَوۡ هَدَىٰنَا ٱللَّهُ لَهَدَيۡنَٰكُمۡۖ سَوَآءٌ عَلَيۡنَآ أَجَزِعۡنَآ أَمۡ صَبَرۡنَا مَا لَنَا مِن مَّحِيصٖ",
+    "transliteration": "Wabarazoo lillahi jameeAAan faqala aldduAAafao lillatheena istakbaroo inna kunna lakum tabaAAan fahal antum mughnoona AAanna min AAathabi Allahi min shayin qaloo law hadana Allahu lahadaynakum sawaon AAalayna ajaziAAna am sabarna ma lana min maheesin",
+    "translation": "And they shall all present themselves before Allah. Then the weak shall say to those who were proud, “We had indeed been your followers. Would you then withstand anything of Allah’s punishment from us?” They would say, “If Allah had guided us, we too would have guided you. It is immaterial to us now whether we bewail or be patient. There is no place for us to escape to.”",
+    "notes": "Waqala alshshaytanu lamma qudiya al-amru inna Allaha waAAadakum waAAda alhaqqi wawaAAadtukum faakhlaftukum wama kana liya AAalaykum min sultanin illa an daAAawtukum faistajabtum lee fala taloomoonee waloomoo anfusakum ma ana bimusrikhikum wama antum bimusrikhiyya innee kafartu bima ashraktumooni min qablu inna alththalimeena lahum AAathabun aleemun"
+  },
+  {
+    "id": 22,
+    "ref": "14:22",
+    "arabic": "وَقَالَ ٱلشَّيۡطَٰنُ لَمَّا قُضِيَ ٱلۡأَمۡرُ إِنَّ ٱللَّهَ وَعَدَكُمۡ وَعۡدَ ٱلۡحَقِّ وَوَعَدتُّكُمۡ فَأَخۡلَفۡتُكُمۡۖ وَمَا كَانَ لِيَ عَلَيۡكُم مِّن سُلۡطَٰنٍ إِلَّآ أَن دَعَوۡتُكُمۡ فَٱسۡتَجَبۡتُمۡ لِيۖ فَلَا تَلُومُونِي وَلُومُوٓاْ أَنفُسَكُمۖ مَّآ أَنَا۠ بِمُصۡرِخِكُمۡ وَمَآ أَنتُم بِمُصۡرِخِيَّ إِنِّي كَفَرۡتُ بِمَآ أَشۡرَكۡتُمُونِ مِن قَبۡلُۗ إِنَّ ٱلظَّـٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمٞ",
+    "transliteration": "Waqala alshshaytanu lamma qudiya alamru inna Allaha waAAadakum waAAda alhaqqi wawaAAadtukum faakhlaftukum wama kana liya AAalaykum min sultanin illa an daAAawtukum faistajabtum lee fala taloomoonee waloomoo anfusakum ma ana bimusrikhikum wama antum bimusrikhiyya innee kafartu bima ashraktumooni min qablu inna alththalimeena lahum AAathabun aleemun",
+    "translation": "And the Satan shall say after the Judgment is pronounced, “Allah did indeed give you the true promise. And I gave you promises but failed to keep them. And I had no authority over you except to call you to me, and you obeyed me! So, blame me not, but blame yourselves. I cannot be of any help to you now, nor can you be of any help to me. I do indeed deny that you had worshipped me, besides Allah, before.” For the wicked people there shall indeed be a painful punishment.",
+    "notes": "Waodkhila allatheena amanoo waAAamiloo alssalihati jannatin tajree min tahtiha al-anharu khalideena feeha bi-ithni rabbihim tahiyyatuhum feeha salamun"
+  },
+  {
+    "id": 23,
+    "ref": "14:23",
+    "arabic": "وَأُدۡخِلَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا بِإِذۡنِ رَبِّهِمۡۖ تَحِيَّتُهُمۡ فِيهَا سَلَٰمٌ",
+    "transliteration": "Waodkhila allatheena amanoo waAAamiloo alssalihati jannatin tajree min tahtiha alanharu khalideena feeha biithni rabbihim tahiyyatuhum feeha salamun",
+    "translation": "And those who believe and do good deeds shall be admitted to gardens beneath which rivers flow. They shall stay eternally therein by their Lord's leave. Their greeting therein shall be, “Peace.”",
+    "notes": "Alam tara kayfa daraba Allahu mathalan kalimatan tayyibatan kashajaratin tayyibatin asluha thabitun wafarAAuha fee alssama/- i"
+  },
+  {
+    "id": 24,
+    "ref": "14:24",
+    "arabic": "أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ",
+    "transliteration": "Alam tara kayfa daraba Allahu mathalan kalimatan tayyibatan kashajaratin tayyibatin asluha thabitun wafarAAuha fee alssamai",
+    "translation": "Don’t you see how Allah exemplifies a good word as a good tree with firm roots and with its branches spread out in the sky.",
+    "notes": "Tu/tee okulaha kulla heenin bi-ithni rabbiha wayadribu Allahu al-amthala lilnnasi laAAallahum yatathakkaroona"
+  },
+  {
+    "id": 25,
+    "ref": "14:25",
+    "arabic": "تُؤۡتِيٓ أُكُلَهَا كُلَّ حِينِۭ بِإِذۡنِ رَبِّهَاۗ وَيَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُونَ",
+    "transliteration": "Tutee okulaha kulla heenin biithni rabbiha wayadribu Allahu alamthala lilnnasi laAAallahum yatathakkaroona",
+    "translation": "Yielding its fruits every season by its Lord’s leave? And Allah gives examples for the benefit of mankind so that they may ponder and remember.",
+    "notes": "Through this example, we understand that a good word is anything written or spoken that is firmly based on truth and reality. It gives solace to those who hear or read it and benefits them repeatedly as well. A good example of a good word is the Qur’aan itself. It is firmly based on Truth. It gives solace to those who read and ponder over it. And history is witness to the fact that it has benefited nondescript communities to become the most potent forces on earth – culturally, economically and militarily. This good word has not been seen yielding fruits nowadays as most people listen to it not to understand and implement its teachings. They have relegated it to just ritualistic reading.\n\nWamathalu kalimatin khabeethatin kashajaratin khabeethatin ijtuththat min fawqi al-ardi ma laha min qararin"
+  },
+  {
+    "id": 26,
+    "ref": "14:26",
+    "arabic": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ",
+    "transliteration": "Wamathalu kalimatin khabeethatin kashajaratin khabeethatin ijtuththat min fawqi alardi ma laha min qararin",
+    "translation": "And the example of a bad word is a bad tree which can easily be uprooted from the earth's surface; it has no stability.",
+    "notes": "Yuthabbitu Allahu allatheena amanoo bialqawli alththabiti fee alhayati alddunya wafee al-akhirati wayudillu Allahu alththalimeena wayafAAalu Allahu ma yasha/o"
+  },
+  {
+    "id": 27,
+    "ref": "14:27",
+    "arabic": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ بِٱلۡقَوۡلِ ٱلثَّابِتِ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۖ وَيُضِلُّ ٱللَّهُ ٱلظَّـٰلِمِينَۚ وَيَفۡعَلُ ٱللَّهُ مَا يَشَآءُ",
+    "transliteration": "Yuthabbitu Allahu allatheena amanoo bialqawli alththabiti fee alhayati alddunya wafee alakhirati wayudillu Allahu alththalimeena wayafAAalu Allahu ma yashao",
+    "translation": "Allah establishes, in the life of this world and in the Hereafter, those who believe in the firm Testament . And Allah leads the wicked persons astray, and Allah does what He wills.",
+    "notes": "The Qur’aan.\n\nAlam tara ila allatheena baddaloo niAAmata Allahi kufran waahalloo qawmahum dara albawari"
+  },
+  {
+    "id": 28,
+    "ref": "14:28",
+    "arabic": "۞أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ",
+    "transliteration": "Alam tara ila allatheena baddaloo niAAmata Allahi kufran waahalloo qawmahum dara albawari",
+    "translation": "Have you not seen those who have changed Allah's favour by being ungrateful, and made their people eligible for the abode of ruin?",
+    "notes": "Jahannama yaslawnaha wabi/sa alqararu"
+  },
+  {
+    "id": 29,
+    "ref": "14:29",
+    "arabic": "جَهَنَّمَ يَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ",
+    "transliteration": "Jahannama yaslawnaha wabisa alqararu",
+    "translation": "Hell – they shall burn therein. And a very bad place it is to settle in!",
+    "notes": "WajaAAaloo lillahi andadan liyudilloo AAan sabeelihi qul tamattaAAoo fa-inna maseerakum ila alnnari"
+  },
+  {
+    "id": 30,
+    "ref": "14:30",
+    "arabic": "وَجَعَلُواْ لِلَّهِ أَندَادٗا لِّيُضِلُّواْ عَن سَبِيلِهِۦۗ قُلۡ تَمَتَّعُواْ فَإِنَّ مَصِيرَكُمۡ إِلَى ٱلنَّارِ",
+    "transliteration": "WajaAAaloo lillahi andadan liyudilloo AAan sabeelihi qul tamattaAAoo fainna maseerakum ila alnnari",
+    "translation": "And they set up rivals to Allah that they may lead people away from His Path. Say, “Enjoy for now! Your destination then shall indeed be to the Fire.”",
+    "notes": "Qul liAAibadiya allatheena amanoo yuqeemoo alssalata wayunfiqoo mimma razaqnahum sirran waAAalaniyatan min qabli an ya/tiya yawmun la bayAAun feehi wala khilalun"
+  },
+  {
+    "id": 31,
+    "ref": "14:31",
+    "arabic": "قُل لِّعِبَادِيَ ٱلَّذِينَ ءَامَنُواْ يُقِيمُواْ ٱلصَّلَوٰةَ وَيُنفِقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ مِّن قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ لَّا بَيۡعٞ فِيهِ وَلَا خِلَٰلٌ",
+    "transliteration": "Qul liAAibadiya allatheena amanoo yuqeemoo alssalata wayunfiqoo mimma razaqnahum sirran waAAalaniyatan min qabli an yatiya yawmun la bayAAun feehi wala khilalun",
+    "translation": "Tell My subjects who believe that they should establish regular prayer and spend out of what We have given them, secretly and openly, before the coming of the Day in which there shall be no trading nor any friendly give-and-take.",
+    "notes": "For the Qur’aanic explanation of the corresponding Arabic term, aqeemoo alssalata, refer study notes 2:4 & 2:108.\n\nRefer study note 2:5.\n\nAllahu allathee khalaqa alssamawati waal-arda waanzala mina alssama-i maan faakhraja bihi mina alththamarati rizqan lakum wasakhkhara lakumu alfulka litajriya fee albahri bi-amrihi wasakhkhara lakumu al-anhara"
+  },
+  {
+    "id": 32,
+    "ref": "14:32",
+    "arabic": "ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ وَسَخَّرَ لَكُمُ ٱلۡفُلۡكَ لِتَجۡرِيَ فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦۖ وَسَخَّرَ لَكُمُ ٱلۡأَنۡهَٰرَ",
+    "transliteration": "Allahu allathee khalaqa alssamawati waalarda waanzala mina alssamai maan faakhraja bihi mina alththamarati rizqan lakum wasakhkhara lakumu alfulka litajriya fee albahri biamrihi wasakhkhara lakumu alanhara",
+    "translation": "Allah is He Who created the heavens and the earth and sent down water from the sky. Then, with it, He brought forth fruits as sustenance for you. And He made the ship subservient to you, so that it sails on the sea by His command. And He made the rivers serve your needs.",
+    "notes": "Wasakhkhara lakumu alshshamsa waalqamara da-ibayni wasakhkhara lakumu allayla waalnnahara"
+  },
+  {
+    "id": 33,
+    "ref": "14:33",
+    "arabic": "وَسَخَّرَ لَكُمُ ٱلشَّمۡسَ وَٱلۡقَمَرَ دَآئِبَيۡنِۖ وَسَخَّرَ لَكُمُ ٱلَّيۡلَ وَٱلنَّهَارَ",
+    "transliteration": "Wasakhkhara lakumu alshshamsa waalqamara daibayni wasakhkhara lakumu allayla waalnnahara",
+    "translation": "And He made the sun and the moon – both pursuing their respective courses – serve your needs. And He made the night and the day serve you.",
+    "notes": "Waatakum min kulli ma saaltumoohu wa-in taAAuddoo niAAmata Allahi la tuhsooha inna al-insana lathaloomun kaffarun"
+  },
+  {
+    "id": 34,
+    "ref": "14:34",
+    "arabic": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلۡتُمُوهُۚ وَإِن تَعُدُّواْ نِعۡمَتَ ٱللَّهِ لَا تُحۡصُوهَآۗ إِنَّ ٱلۡإِنسَٰنَ لَظَلُومٞ كَفَّارٞ",
+    "transliteration": "Waatakum min kulli ma saaltumoohu wain taAAuddoo niAAmata Allahi la tuhsooha inna alinsana lathaloomun kaffarun",
+    "translation": "And He gives you of all that you ask Him. And if you would like to know the number of times Allah favours you, you will not be able to count. Man is indeed very wicked, thankless.",
+    "notes": "Wa-ith qala ibraheemu rabbi ijAAal hatha albalada aminan waojnubnee wabaniyya an naAAbuda al-asnama"
+  },
+  {
+    "id": 35,
+    "ref": "14:35",
+    "arabic": "وَإِذۡ قَالَ إِبۡرَٰهِيمُ رَبِّ ٱجۡعَلۡ هَٰذَا ٱلۡبَلَدَ ءَامِنٗا وَٱجۡنُبۡنِي وَبَنِيَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ",
+    "transliteration": "Waith qala ibraheemu rabbi ijAAal hatha albalada aminan waojnubnee wabaniyya an naAAbuda alasnama",
+    "translation": "And when Abraham said, “My Lord! Make this a city of peace. And save me and my sons from worshipping idols.”",
+    "notes": "Makkah.\n\nRabbi innahunna adlalna katheeran mina alnnasi faman tabiAAanee fa-innahu minnee waman AAasanee fa-innaka ghafoorun raheemun"
+  },
+  {
+    "id": 36,
+    "ref": "14:36",
+    "arabic": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
+    "transliteration": "Rabbi innahunna adlalna katheeran mina alnnasi faman tabiAAanee fainnahu minnee waman AAasanee fainnaka ghafoorun raheemun",
+    "translation": "“My Lord! They have indeed led many of mankind astray. The one, then, that follows me, is indeed of me. And as for the one that disobeys me, You indeed arc Forgiving, Merciful.”",
+    "notes": "Rabbana innee askantu min thurriyyatee biwadin ghayri thee zarAAin AAinda baytika almuharrami rabbana liyuqeemoo alssalata faijAAal af-idatan mina alnnasi tahwee ilayhim waorzuqhum mina alththamarati laAAallahum yashkuroona"
+  },
+  {
+    "id": 37,
+    "ref": "14:37",
+    "arabic": "رَّبَّنَآ إِنِّيٓ أَسۡكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيۡرِ ذِي زَرۡعٍ عِندَ بَيۡتِكَ ٱلۡمُحَرَّمِ رَبَّنَا لِيُقِيمُواْ ٱلصَّلَوٰةَ فَٱجۡعَلۡ أَفۡـِٔدَةٗ مِّنَ ٱلنَّاسِ تَهۡوِيٓ إِلَيۡهِمۡ وَٱرۡزُقۡهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمۡ يَشۡكُرُونَ",
+    "transliteration": "Rabbana innee askantu min thurriyyatee biwadin ghayri thee zarAAin AAinda baytika almuharrami rabbana liyuqeemoo alssalata faijAAal afidatan mina alnnasi tahwee ilayhim waorzuqhum mina alththamarati laAAallahum yashkuroona",
+    "translation": "“O our Lord! I have indeed inhabited some of my offspring in an uncultivable valley near Your Sacred House, our Lord, that they may establish regular prayer there. Hence make some people come and settle near them and provide them with fruits that they may be grateful.”",
+    "notes": "Allah Almighty thus informs us that some members of Abraham’s family were the first settlers of Makkah.\n\nRabbana innaka taAAlamu ma nukhfee wama nuAAlinu wama yakhfa AAala Allahi min shay-in fee al-ardi wala fee alssama/-i"
+  },
+  {
+    "id": 38,
+    "ref": "14:38",
+    "arabic": "رَبَّنَآ إِنَّكَ تَعۡلَمُ مَا نُخۡفِي وَمَا نُعۡلِنُۗ وَمَا يَخۡفَىٰ عَلَى ٱللَّهِ مِن شَيۡءٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ",
+    "transliteration": "Rabbana innaka taAAlamu ma nukhfee wama nuAAlinu wama yakhfa AAala Allahi min shayin fee alardi wala fee alssamai",
+    "translation": "“O our Lord! You do indeed know what we hide and what we do not. And nothing in the earth or in the heaven above is hidden from Allah.”",
+    "notes": "Alhamdu lillahi allathee wahaba lee AAala alkibari ismaAAeela wa-ishaqa inna rabbee lasameeAAu aldduAAa/-i"
+  },
+  {
+    "id": 39,
+    "ref": "14:39",
+    "arabic": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي وَهَبَ لِي عَلَى ٱلۡكِبَرِ إِسۡمَٰعِيلَ وَإِسۡحَٰقَۚ إِنَّ رَبِّي لَسَمِيعُ ٱلدُّعَآءِ",
+    "transliteration": "Alhamdu lillahi allathee wahaba lee AAala alkibari ismaAAeela waishaqa inna rabbee lasameeAAu aldduAAai",
+    "translation": "“Praise to Allah, Who has given me, in old age, Ishmael and Isaac. My Lord does indeed hear the prayer.”",
+    "notes": "Rabbi ijAAalnee muqeema alssalati wamin thurriyyatee rabbana wtaqabbal duAAa/-i"
+  },
+  {
+    "id": 40,
+    "ref": "14:40",
+    "arabic": "رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ",
+    "transliteration": "Rabbi ijAAalnee muqeema alssalati wamin thurriyyatee rabbana wtaqabbal duAAai",
+    "translation": "“My Lord! Inspire me to establish regular prayer and inspire those from my offspring too. And, O our Lord, accept my prayer!”",
+    "notes": "Rabbana ighfir lee waliwalidayya walilmu/mineena yawma yaqoomu alhisabu"
+  },
+  {
+    "id": 41,
+    "ref": "14:41",
+    "arabic": "رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ ٱلۡحِسَابُ",
+    "transliteration": "Rabbana ighfir lee waliwalidayya walilmumineena yawma yaqoomu alhisabu",
+    "translation": "“O our Lord! Pardon me, my parents and the believers on the Day of Accounting!”",
+    "notes": "Wala tahsabanna Allaha ghafilan AAamma yaAAmalu alththalimoona innama yu-akhkhiruhum liyawmin tashkhasu feehi al- absaru"
+  },
+  {
+    "id": 42,
+    "ref": "14:42",
+    "arabic": "وَلَا تَحۡسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعۡمَلُ ٱلظَّـٰلِمُونَۚ إِنَّمَا يُؤَخِّرُهُمۡ لِيَوۡمٖ تَشۡخَصُ فِيهِ ٱلۡأَبۡصَٰرُ",
+    "transliteration": "Wala tahsabanna Allaha ghafilan AAamma yaAAmalu alththalimoona innama yuakhkhiruhum liyawmin tashkhasu feehi alabsaru",
+    "translation": "And do not think that Allah is unaware of what the wicked people do. He does but give them respite till the day when the eyes shall get transfixed,",
+    "notes": "MuhtiAAeena muqniAAee ruoosihim la yartaddu ilayhim tarfuhum waaf-idatuhum hawa/on"
+  },
+  {
+    "id": 43,
+    "ref": "14:43",
+    "arabic": "مُهۡطِعِينَ مُقۡنِعِي رُءُوسِهِمۡ لَا يَرۡتَدُّ إِلَيۡهِمۡ طَرۡفُهُمۡۖ وَأَفۡـِٔدَتُهُمۡ هَوَآءٞ",
+    "transliteration": "MuhtiAAeena muqniAAee ruoosihim la yartaddu ilayhim tarfuhum waafidatuhum hawaon",
+    "translation": "Hurrying on in fear, their heads upraised – not glancing at themselves – and their hearts vacant.",
+    "notes": "Waanthiri alnnasa yawma ya/teehimu alAAathabu fayaqoolu allatheena thalamoo rabbana akhkhirna ila ajalin qareebin nujib daAAwataka wanattabiAAi alrrusula awa lam takoonoo aqsamtum min qablu ma lakum min zawalin"
+  },
+  {
+    "id": 44,
+    "ref": "14:44",
+    "arabic": "وَأَنذِرِ ٱلنَّاسَ يَوۡمَ يَأۡتِيهِمُ ٱلۡعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُواْ رَبَّنَآ أَخِّرۡنَآ إِلَىٰٓ أَجَلٖ قَرِيبٖ نُّجِبۡ دَعۡوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَۗ أَوَلَمۡ تَكُونُوٓاْ أَقۡسَمۡتُم مِّن قَبۡلُ مَا لَكُم مِّن زَوَالٖ",
+    "transliteration": "Waanthiri alnnasa yawma yateehimu alAAathabu fayaqoolu allatheena thalamoo rabbana akhkhirna ila ajalin qareebin nujib daAAwataka wanattabiAAi alrrusula awalam takoonoo aqsamtum min qablu ma lakum min zawalin",
+    "translation": "And warn people of the Day when the punishment shall come to them. Then those who were wicked will say, “O our Lord! Give us respite for a short term to enable us to respond to Your call and follow the Messengers.” Did you not swear before that you shall have no downfall?",
+    "notes": "Wasakantum fee masakini allatheena thalamoo anfusahum watabayyana lakum kayfa faAAalna bihim wadarabna lakumu al- amthala"
+  },
+  {
+    "id": 45,
+    "ref": "14:45",
+    "arabic": "وَسَكَنتُمۡ فِي مَسَٰكِنِ ٱلَّذِينَ ظَلَمُوٓاْ أَنفُسَهُمۡ وَتَبَيَّنَ لَكُمۡ كَيۡفَ فَعَلۡنَا بِهِمۡ وَضَرَبۡنَا لَكُمُ ٱلۡأَمۡثَالَ",
+    "transliteration": "Wasakantum fee masakini allatheena thalamoo anfusahum watabayyana lakum kayfa faAAalna bihim wadarabna lakumu alamthala",
+    "translation": "And you had lived where those, who had transgressed against themselves, lived. And it was clear to you how We had dealt with them. And We had given you examples.",
+    "notes": "Waqad makaroo makrahum waAAinda Allahi makruhum wa-in kana makruhum litazoola minhu aljibalu"
+  },
+  {
+    "id": 46,
+    "ref": "14:46",
+    "arabic": "وَقَدۡ مَكَرُواْ مَكۡرَهُمۡ وَعِندَ ٱللَّهِ مَكۡرُهُمۡ وَإِن كَانَ مَكۡرُهُمۡ لِتَزُولَ مِنۡهُ ٱلۡجِبَالُ",
+    "transliteration": "Waqad makaroo makrahum waAAinda Allahi makruhum wain kana makruhum litazoola minhu aljibalu",
+    "translation": "And they did plan their plan. But their plan is with Allah, though their plan was such that the mountains could come down thereby.",
+    "notes": "Fala tahsabanna Allaha mukhlifa waAAdihi rusulahu inna Allaha AAazeezun thoo intiqamin"
+  },
+  {
+    "id": 47,
+    "ref": "14:47",
+    "arabic": "فَلَا تَحۡسَبَنَّ ٱللَّهَ مُخۡلِفَ وَعۡدِهِۦ رُسُلَهُۥٓۚ إِنَّ ٱللَّهَ عَزِيزٞ ذُو ٱنتِقَامٖ",
+    "transliteration": "Fala tahsabanna Allaha mukhlifa waAAdihi rusulahu inna Allaha AAazeezun thoo intiqamin",
+    "translation": "Think not then that Allah is one to fail in His promise to His Messengers. Allah is indeed Omnipotent and has the power to give a fitting retribution.",
+    "notes": "Yawma tubaddalu al-ardu ghayra al-ardi waalssamawatu wabarazoo lillahi alwahidi alqahhari"
+  },
+  {
+    "id": 48,
+    "ref": "14:48",
+    "arabic": "يَوۡمَ تُبَدَّلُ ٱلۡأَرۡضُ غَيۡرَ ٱلۡأَرۡضِ وَٱلسَّمَٰوَٰتُۖ وَبَرَزُواْ لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ",
+    "transliteration": "Yawma tubaddalu alardu ghayra alardi waalssamawatu wabarazoo lillahi alwahidi alqahhari",
+    "translation": "On the Day when the earth shall be changed into a different earth – and the heavens too! And they shall present themselves before Allah, the One, the Almighty.",
+    "notes": "Watara almujrimeena yawma-ithin muqarraneena fee al-asfadi"
+  },
+  {
+    "id": 49,
+    "ref": "14:49",
+    "arabic": "وَتَرَى ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ مُّقَرَّنِينَ فِي ٱلۡأَصۡفَادِ",
+    "transliteration": "Watara almujrimeena yawmaithin muqarraneena fee alasfadi",
+    "translation": "And you will see the sinners on that day bound together in chains.",
+    "notes": "Sarabeeluhum min qatranin wataghsha wujoohahumu alnnaru"
+  },
+  {
+    "id": 50,
+    "ref": "14:50",
+    "arabic": "سَرَابِيلُهُم مِّن قَطِرَانٖ وَتَغۡشَىٰ وُجُوهَهُمُ ٱلنَّارُ",
+    "transliteration": "Sarabeeluhum min qatranin wataghsha wujoohahumu alnnaru",
+    "translation": "Their dresses made of tar and the fire covering their faces.",
+    "notes": "Liyajziya Allahu kulla nafsin ma kasabat inna Allaha sareeAAu alhisabi"
+  },
+  {
+    "id": 51,
+    "ref": "14:51",
+    "arabic": "لِيَجۡزِيَ ٱللَّهُ كُلَّ نَفۡسٖ مَّا كَسَبَتۡۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
+    "transliteration": "Liyajziya Allahu kulla nafsin ma kasabat inna Allaha sareeAAu alhisabi",
+    "translation": "That Allah may repay everyone for what it earned. Allah is indeed quick in keeping accounts.",
+    "notes": "Hatha balaghun lilnnasi waliyuntharoo bihi waliyaAAlamoo annama huwa ilahun wahidun waliyaththakkara oloo al-albabi"
+  },
+  {
+    "id": 52,
+    "ref": "14:52",
+    "arabic": "هَٰذَا بَلَٰغٞ لِّلنَّاسِ وَلِيُنذَرُواْ بِهِۦ وَلِيَعۡلَمُوٓاْ أَنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَلِيَذَّكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+    "transliteration": "Hatha balaghun lilnnasi waliyuntharoo bihi waliyaAAlamoo annama huwa ilahun wahidun waliyaththakkara oloo alalbabi",
+    "translation": "This (Qur’aan) is a sufficient and eloquent exposition of the divine Message for the people that they may be warned thereby, that they may know that He is the One and Only Being worthy of being worshipped, and those endowed with insight may remember it and remind other people about it.",
+    "notes": ""
+  }
+]

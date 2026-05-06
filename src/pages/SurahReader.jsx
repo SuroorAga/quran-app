@@ -12,6 +12,8 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [jumpVal, setJumpVal] = useState('')
   const [fontScale, setFontScale] = useState(() => parseInt(localStorage.getItem('fontScale') || '2'))
   const [copiedRef, setCopiedRef] = useState(null)
+  const [highlightedRef, setHighlightedRef] = useState(null)
+  const [showScrollTop, setShowScrollTop] = useState(false)
   const contentRef = useRef(null)
 
   useEffect(() => {
@@ -37,12 +39,13 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
     }
   }, [loading, initialVerseId])
 
-  // Track last visible verse for resume reading
+  // Track last visible verse for resume reading + scroll-to-top button
   useEffect(() => {
     const el = contentRef.current
     if (!el || !verses.length) return
     let timer
     const handleScroll = () => {
+      setShowScrollTop(el.scrollTop > 300)
       clearTimeout(timer)
       timer = setTimeout(() => {
         const cards = el.querySelectorAll('[data-verse-id]')
@@ -82,9 +85,21 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
     const n = parseInt(jumpVal)
     if (n >= 1 && n <= surah.total_verses) {
       const el = document.getElementById(`verse-${surah.id}-${n}`)
-      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+        // Highlight the jumped-to verse briefly
+        const ref = verses.find(v => v.id === n)?.ref
+        if (ref) {
+          setHighlightedRef(ref)
+          setTimeout(() => setHighlightedRef(null), 1800)
+        }
+      }
     }
     setJumpVal('')
+  }
+
+  const scrollToTop = () => {
+    contentRef.current?.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   const copyVerse = (verse) => {
@@ -172,13 +187,14 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           const hasNotes = !!verse.notes
           const noteHidden = hiddenNotes.has(verse.ref)
           const isCopied = copiedRef === verse.ref
+          const isHighlighted = highlightedRef === verse.ref
 
           return (
             <div
               key={verse.ref}
               id={`verse-${surah.id}-${verse.id}`}
               data-verse-id={verse.id}
-              className={styles.verseCard}
+              className={`${styles.verseCard} ${isHighlighted ? styles.verseCardHighlight : ''}`}
             >
               <div className={styles.verseTop}>
                 <span className={styles.verseBadge}>{verse.ref}</span>
@@ -230,6 +246,15 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           )
         })}
       </div>
+
+      {/* Scroll to top */}
+      {showScrollTop && (
+        <button className={styles.scrollTopBtn} onClick={scrollToTop} title="Back to top">
+          <svg width="16" height="16" viewBox="0 0 20 20" fill="none">
+            <path d="M10 15V5M5 10l5-5 5 5" stroke="white" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"/>
+          </svg>
+        </button>
+      )}
     </div>
   )
 }

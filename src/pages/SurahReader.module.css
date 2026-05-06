@@ -1,4 +1,4 @@
-.page { display: flex; flex-direction: column; height: 100%; overflow: hidden; }
+.page { display: flex; flex-direction: column; height: 100%; overflow: hidden; position: relative; }
 
 .header {
   background: var(--emerald);
@@ -206,6 +206,41 @@
   border-top-color: var(--gold-border);
 }
 
+.verseCardHighlight {
+  animation: highlightPulse 1.8s ease-out forwards;
+}
+
+@keyframes highlightPulse {
+  0%   { background: var(--gold-light); border-top-color: var(--gold); }
+  60%  { background: var(--gold-light); border-top-color: var(--gold); }
+  100% { background: var(--card);       border-top-color: transparent; }
+}
+
+/* Scroll to top button */
+.scrollTopBtn {
+  position: absolute;
+  bottom: 24px;
+  right: 16px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--emerald);
+  border: 2px solid rgba(201,168,76,0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  transition: background 0.15s, transform 0.15s;
+  z-index: 10;
+  animation: fadeInUp 0.2s ease;
+}
+.scrollTopBtn:hover { background: var(--emerald-mid); transform: translateY(-2px); }
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
 .verseTop {
   display: flex;
   align-items: center;
@@ -242,6 +277,23 @@
   background: var(--gold-light);
   color: var(--gold-dark);
   border-color: var(--gold-border);
+  font-weight: 600;
+}
+
+.copyBtn {
+  font-size: 11px;
+  padding: 3px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  transition: all 0.15s;
+}
+.copyBtn:hover { border-color: var(--border-hover); color: var(--text); }
+.copyBtnDone {
+  background: var(--emerald-light);
+  color: var(--emerald);
+  border-color: var(--emerald-mid);
   font-weight: 600;
 }
 

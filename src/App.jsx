@@ -72,6 +72,7 @@ export default function App() {
             toggleDarkMode={() => setDarkMode(d => !d)}
             lastRead={lastRead}
             onResume={resumeReading}
+            onGoHome={() => setShowLanding(true)}
           />
         )}
         {tab === 'surahs' && selectedSurah && (

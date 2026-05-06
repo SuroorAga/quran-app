@@ -477,3 +477,118 @@
   flex-wrap: wrap;
   gap: 8px;
 }
+
+/* ── Verse of the Day ── */
+.votdSection {
+  padding: 72px 0;
+  background: var(--card);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.votdCard {
+  max-width: 720px;
+  margin: 0 auto;
+  background: linear-gradient(150deg, #071F15 0%, #0A3D2B 100%);
+  border: 1px solid rgba(201,168,76,0.25);
+  border-radius: 16px;
+  padding: 40px 44px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 16px 48px rgba(10,61,43,0.2);
+}
+
+.votdCard::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(201,168,76,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(201,168,76,0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+  pointer-events: none;
+}
+
+.votdMeta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.votdLabel {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--gold);
+  font-family: sans-serif;
+}
+
+.votdDate {
+  font-size: 11px;
+  color: rgba(255,255,255,0.35);
+  font-style: italic;
+}
+
+.votdArabic {
+  font-family: 'Amiri', Georgia, serif;
+  font-size: clamp(26px, 3.5vw, 38px);
+  direction: rtl;
+  text-align: right;
+  color: rgba(255,255,255,0.95);
+  line-height: 2;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(201,168,76,0.2);
+  position: relative;
+}
+
+.votdTranslation {
+  font-size: 15px;
+  color: rgba(255,255,255,0.7);
+  line-height: 1.85;
+  font-style: italic;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.votdFooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  position: relative;
+}
+
+.votdRef {
+  font-size: 12px;
+  background: rgba(201,168,76,0.15);
+  color: var(--gold);
+  padding: 4px 14px;
+  border-radius: 20px;
+  border: 1px solid rgba(201,168,76,0.3);
+  font-weight: 600;
+  font-family: Georgia, serif;
+  letter-spacing: 0.02em;
+}
+
+.votdCta {
+  font-size: 13px;
+  color: var(--gold);
+  background: rgba(201,168,76,0.1);
+  border: 1px solid rgba(201,168,76,0.25);
+  padding: 8px 20px;
+  border-radius: 6px;
+  font-family: Georgia, serif;
+  font-style: italic;
+  transition: background 0.15s;
+}
+.votdCta:hover { background: rgba(201,168,76,0.2); }
+
+@media (max-width: 600px) {
+  .votdCard { padding: 28px 24px; }
+  .votdArabic { font-size: 24px; }
+}

@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import styles from './SurahList.module.css'
 import Logo from '../components/Logo.jsx'
 
-export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, onResume }) {
+export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, onResume, onGoHome }) {
   const [chapters, setChapters] = useState([])
   const [search, setSearch] = useState('')
   const [filter, setFilter] = useState('all')
@@ -30,7 +30,9 @@ export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, 
   return (
     <div className={styles.page}>
       <div className={styles.header}>
-        <Logo size={36} />
+        <button className={styles.logoBtn} onClick={onGoHome} title="Back to home">
+          <Logo size={36} />
+        </button>
         <div className={styles.headerText}>
           <div className={styles.headerTitle}>Qur'aanic Studies</div>
           <div className={styles.headerSub}>A Modern Tafsir · Mohammad Shafi</div>

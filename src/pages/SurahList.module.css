@@ -29,8 +29,19 @@
   opacity: 0.85;
 }
 
-.darkToggle {
-  background: rgba(201,168,76,0.12);
+.logoBtn {
+  background: none;
+  border: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  opacity: 0.9;
+  transition: opacity 0.15s, transform 0.15s;
+}
+.logoBtn:hover { opacity: 1; transform: scale(1.05); }
+
+.darkToggle {  background: rgba(201,168,76,0.12);
   border: 1px solid rgba(201,168,76,0.2);
   border-radius: 8px;
   width: 36px;
@@ -217,3 +228,83 @@
   font-style: italic;
   font-size: 14px;
 }
+
+/* Verse of the Day */
+.votdCard {
+  margin: 10px 14px;
+  padding: 14px 16px;
+  background: var(--card);
+  border: 1px solid var(--gold-border);
+  border-top: 3px solid var(--gold);
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.votdHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.votdLabel {
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--gold-dark);
+  font-family: sans-serif;
+}
+
+.votdDate {
+  font-size: 10px;
+  color: var(--text-faint);
+  font-style: italic;
+}
+
+.votdArabic {
+  font-family: var(--arabic-font);
+  font-size: 22px;
+  direction: rtl;
+  text-align: right;
+  color: var(--text);
+  line-height: 2;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.votdTranslation {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+.votdFooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.votdRef {
+  font-size: 11px;
+  background: var(--gold-light);
+  color: var(--gold-dark);
+  padding: 2px 9px;
+  border-radius: 20px;
+  border: 1px solid var(--gold-border);
+  font-weight: 600;
+  font-family: Georgia, serif;
+}
+
+.votdReadBtn {
+  font-size: 11px;
+  color: var(--emerald);
+  background: none;
+  border: none;
+  font-style: italic;
+  padding: 0;
+}
+.votdReadBtn:hover { text-decoration: underline; }
