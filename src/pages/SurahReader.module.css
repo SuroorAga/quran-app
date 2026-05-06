@@ -363,3 +363,74 @@
   color: var(--text-muted);
   line-height: 1.85;
 }
+
+.notePara {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+.notePara:last-child { margin-bottom: 0; }
+
+.noteBullet {
+  color: var(--gold);
+  flex-shrink: 0;
+  line-height: 1.85;
+  font-size: 0.9em;
+}
+
+/* Prev / Next surah nav */
+.surahNav {
+  display: flex;
+  gap: 10px;
+  margin-top: 24px;
+  margin-bottom: 8px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+
+.surahNavBtn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text);
+  transition: border-color 0.15s, background 0.15s;
+  text-align: left;
+}
+.surahNavBtn:hover:not(:disabled) {
+  border-color: var(--gold-border);
+  background: var(--gold-light);
+}
+.surahNavBtn:disabled { opacity: 0.3; cursor: default; }
+
+.surahNavBtnNext { flex-direction: row-reverse; text-align: right; }
+.surahNavBtnNext span { text-align: right; }
+
+.surahNavBtn span {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.surahNavLabel {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gold-dark);
+}
+
+.surahNavName {
+  font-size: 13px;
+  font-family: Georgia, serif;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

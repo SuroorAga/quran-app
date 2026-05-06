@@ -1,10 +1,10 @@
 import { useState, useEffect, useRef } from 'react'
 import styles from './SurahReader.module.css'
 
-const EN_SIZES = ['13px', '15px', '17px', '19px', '22px']
-const AR_SIZES = ['20px', '24px', '28px', '33px', '38px']
+const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px']
+const AR_SIZES = ['20px', '24px', '28px', '33px', '38px', '46px', '56px']
 
-export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, initialVerseId }) {
+export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, initialVerseId, chapters = [], onNavigate }) {
   const [verses, setVerses] = useState([])
   const [loading, setLoading] = useState(true)
   const [notesVisible, setNotesVisible] = useState(true)
@@ -15,6 +15,9 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [highlightedRef, setHighlightedRef] = useState(null)
   const [showScrollTop, setShowScrollTop] = useState(false)
   const contentRef = useRef(null)
+
+  const prevSurah = chapters.find(c => c.id === surah.id - 1)
+  const nextSurah = chapters.find(c => c.id === surah.id + 1)
 
   useEffect(() => {
     localStorage.setItem('fontScale', fontScale)
@@ -87,7 +90,6 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
       const el = document.getElementById(`verse-${surah.id}-${n}`)
       if (el) {
         el.scrollIntoView({ behavior: 'smooth', block: 'start' })
-        // Highlight the jumped-to verse briefly
         const ref = verses.find(v => v.id === n)?.ref
         if (ref) {
           setHighlightedRef(ref)
@@ -108,6 +110,12 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
       setCopiedRef(verse.ref)
       setTimeout(() => setCopiedRef(null), 1500)
     })
+  }
+
+  const navigateTo = (target) => {
+    if (!target || !onNavigate) return
+    contentRef.current?.scrollTo({ top: 0 })
+    onNavigate(target)
   }
 
   return (
@@ -133,8 +141,8 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           >A−</button>
           <button
             className={styles.fontBtn}
-            onClick={() => setFontScale(s => Math.min(4, s + 1))}
-            disabled={fontScale === 4}
+            onClick={() => setFontScale(s => Math.min(6, s + 1))}
+            disabled={fontScale === 6}
             title="Increase font size"
           >A+</button>
         </div>
@@ -239,12 +247,51 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
               {hasNotes && !noteHidden && (
                 <div className={styles.notesBox}>
                   <div className={styles.notesBoxLabel}>Mohammad Shafi's Note</div>
-                  <div className={styles.notesText} style={{ fontSize: EN_SIZES[fontScale] }}>{verse.notes}</div>
+                  <div className={styles.notesText} style={{ fontSize: EN_SIZES[fontScale] }}>
+                    {verse.notes.split('\n\n').filter(Boolean).map((para, i) => (
+                      <div key={i} className={styles.notePara}>
+                        <span className={styles.noteBullet}>•</span>
+                        <span>{para}</span>
+                      </div>
+                    ))}
+                  </div>
                 </div>
               )}
             </div>
           )
         })}
+
+        {/* Prev / Next surah navigation */}
+        {!loading && (prevSurah || nextSurah) && (
+          <div className={styles.surahNav}>
+            <button
+              className={styles.surahNavBtn}
+              onClick={() => navigateTo(prevSurah)}
+              disabled={!prevSurah}
+            >
+              <svg width="16" height="16" viewBox="0 0 20 20" fill="none">
+                <path d="M12 5L7 10l5 5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              </svg>
+              <span>
+                <span className={styles.surahNavLabel}>Previous</span>
+                <span className={styles.surahNavName}>{prevSurah ? `${prevSurah.id}. ${prevSurah.transliteration}` : ''}</span>
+              </span>
+            </button>
+            <button
+              className={`${styles.surahNavBtn} ${styles.surahNavBtnNext}`}
+              onClick={() => navigateTo(nextSurah)}
+              disabled={!nextSurah}
+            >
+              <span>
+                <span className={styles.surahNavLabel}>Next</span>
+                <span className={styles.surahNavName}>{nextSurah ? `${nextSurah.id}. ${nextSurah.transliteration}` : ''}</span>
+              </span>
+              <svg width="16" height="16" viewBox="0 0 20 20" fill="none">
+                <path d="M8 5l5 5-5 5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              </svg>
+            </button>
+          </div>
+        )}
       </div>
 
       {/* Scroll to top */}

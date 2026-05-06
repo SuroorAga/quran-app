@@ -13,6 +13,11 @@ export default function App() {
   const [selectedSurah, setSelectedSurah] = useState(null)
   const [resumeVerseId, setResumeVerseId] = useState(null)
   const [darkMode, setDarkMode] = useState(() => localStorage.getItem('darkMode') === 'true')
+  const [chapters, setChapters] = useState([])
+
+  useEffect(() => {
+    fetch('/data/chapters.json').then(r => r.json()).then(setChapters)
+  }, [])
   const [lastRead, setLastRead] = useState(() => {
     try { return JSON.parse(localStorage.getItem('lastRead')) } catch { return null }
   })
@@ -82,6 +87,8 @@ export default function App() {
             bookmarks={bookmarks}
             onSaveLastRead={saveLastRead}
             initialVerseId={resumeVerseId}
+            chapters={chapters}
+            onNavigate={openSurah}
           />
         )}
         {tab === 'search' && (
