@@ -1,1 +1,482 @@
-[{"id":1,"ref":"51:1","arabic":"وَٱلذَّـٰرِيَٰتِ ذَرۡوٗا","transliteration":"Waalththariyati tharwan","translation":"","notes":""},{"id":2,"ref":"51:2","arabic":"فَٱلۡحَٰمِلَٰتِ وِقۡرٗا","transliteration":"Faalhamilati wiqran","translation":"","notes":""},{"id":3,"ref":"51:3","arabic":"فَٱلۡجَٰرِيَٰتِ يُسۡرٗا","transliteration":"Faaljariyati yusran","translation":"","notes":""},{"id":4,"ref":"51:4","arabic":"فَٱلۡمُقَسِّمَٰتِ أَمۡرًا","transliteration":"Faalmuqassimati amran","translation":"","notes":""},{"id":5,"ref":"51:5","arabic":"إِنَّمَا تُوعَدُونَ لَصَادِقٞ","transliteration":"Innama tooAAadoona lasadiqun","translation":"","notes":""},{"id":6,"ref":"51:6","arabic":"وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ","transliteration":"Wainna alddeena lawaqiAAun","translation":"","notes":""},{"id":7,"ref":"51:7","arabic":"وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ","transliteration":"Waalssamai thati alhubuki","translation":"","notes":""},{"id":8,"ref":"51:8","arabic":"إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ","transliteration":"Innakum lafee qawlin mukhtalifin","translation":"","notes":""},{"id":9,"ref":"51:9","arabic":"يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ","transliteration":"Yufaku AAanhu man ofika","translation":"","notes":""},{"id":10,"ref":"51:10","arabic":"قُتِلَ ٱلۡخَرَّـٰصُونَ","transliteration":"Qutila alkharrasoona","translation":"","notes":""},{"id":11,"ref":"51:11","arabic":"ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ","transliteration":"Allatheena hum fee ghamratin sahoona","translation":"","notes":""},{"id":12,"ref":"51:12","arabic":"يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ","transliteration":"Yasaloona ayyana yawmu alddeeni","translation":"","notes":""},{"id":13,"ref":"51:13","arabic":"يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ","transliteration":"Yawma hum AAala alnnari yuftanoona","translation":"","notes":""},{"id":14,"ref":"51:14","arabic":"ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ","transliteration":"Thooqoo fitnatakum hatha allathee kuntum bihi tastaAAjiloona","translation":"","notes":""},{"id":15,"ref":"51:15","arabic":"إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ","transliteration":"Inna almuttaqeena fee jannatin waAAuyoonin","translation":"","notes":""},{"id":16,"ref":"51:16","arabic":"ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ","transliteration":"Akhitheena ma atahum rabbuhum innahum kanoo qabla thalika muhsineena","translation":"","notes":""},{"id":17,"ref":"51:17","arabic":"كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ","transliteration":"Kanoo qaleelan mina allayli ma yahjaAAoona","translation":"","notes":""},{"id":18,"ref":"51:18","arabic":"وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ","transliteration":"Wabialashari hum yastaghfiroona","translation":"","notes":""},{"id":19,"ref":"51:19","arabic":"وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ","transliteration":"Wafee amwalihim haqqun lilssaili waalmahroomi","translation":"","notes":""},{"id":20,"ref":"51:20","arabic":"وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ","transliteration":"Wafee alardi ayatun lilmooqineena","translation":"","notes":""},{"id":21,"ref":"51:21","arabic":"وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ","transliteration":"Wafee anfusikum afala tubsiroona","translation":"","notes":""},{"id":22,"ref":"51:22","arabic":"وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ","transliteration":"Wafee alssamai rizqukum wama tooAAadoona","translation":"","notes":""},{"id":23,"ref":"51:23","arabic":"فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ","transliteration":"Fawarabbi alssamai waalardi innahu lahaqqun mithla ma annakum tantiqoona","translation":"","notes":""},{"id":24,"ref":"51:24","arabic":"هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ","transliteration":"Hal ataka hadeethu dayfi ibraheema almukrameena","translation":"","notes":""},{"id":25,"ref":"51:25","arabic":"إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ","transliteration":"Ith dakhaloo AAalayhi faqaloo salaman qala salamun qawmun munkaroona","translation":"","notes":""},{"id":26,"ref":"51:26","arabic":"فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ","transliteration":"Faragha ila ahlihi fajaa biAAijlin sameenin","translation":"","notes":""},{"id":27,"ref":"51:27","arabic":"فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ","transliteration":"Faqarrabahu ilayhim qala ala takuloona","translation":"","notes":""},{"id":28,"ref":"51:28","arabic":"فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ","transliteration":"Faawjasa minhum kheefatan qaloo la takhaf wabashsharoohu bighulamin AAaleemin","translation":"","notes":""},{"id":29,"ref":"51:29","arabic":"فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ","transliteration":"Faaqbalati imraatuhu fee sarratin fasakkat wajhaha waqalat AAajoozun AAaqeemun","translation":"","notes":""},{"id":30,"ref":"51:30","arabic":"قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ","transliteration":"Qaloo kathaliki qala rabbuki innahu huwa alhakeemu alAAaleemu","translation":"","notes":""},{"id":31,"ref":"51:31","arabic":"۞قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ","transliteration":"Qala fama khatbukum ayyuha almursaloona","translation":"","notes":""},{"id":32,"ref":"51:32","arabic":"قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ","transliteration":"Qaloo inna orsilna ila qawmin mujrimeena","translation":"","notes":""},{"id":33,"ref":"51:33","arabic":"لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ","transliteration":"Linursila AAalayhim hijaratan min teenin","translation":"","notes":""},{"id":34,"ref":"51:34","arabic":"مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ","transliteration":"Musawwamatan AAinda rabbika lilmusrifeena","translation":"","notes":""},{"id":35,"ref":"51:35","arabic":"فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ","transliteration":"Faakhrajna man kana feeha mina almumineena","translation":"","notes":""},{"id":36,"ref":"51:36","arabic":"فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ","transliteration":"Fama wajadna feeha ghayra baytin mina almuslimeena","translation":"","notes":""},{"id":37,"ref":"51:37","arabic":"وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ","transliteration":"Watarakna feeha ayatan lillatheena yakhafoona alAAathaba alaleema","translation":"","notes":""},{"id":38,"ref":"51:38","arabic":"وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ","transliteration":"Wafee moosa ith arsalnahu ila firAAawna bisultanin mubeenin","translation":"","notes":""},{"id":39,"ref":"51:39","arabic":"فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ","transliteration":"Fatawalla biruknihi waqala sahirun aw majnoonun","translation":"","notes":""},{"id":40,"ref":"51:40","arabic":"فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ","transliteration":"Faakhathnahu wajunoodahu fanabathnahum fee alyammi wahuwa muleemun","translation":"","notes":""},{"id":41,"ref":"51:41","arabic":"وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ","transliteration":"Wafee AAadin ith arsalna AAalayhimu alrreeha alAAaqeema","translation":"","notes":""},{"id":42,"ref":"51:42","arabic":"مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ","transliteration":"Ma tatharu min shayin atat AAalayhi illa jaAAalathu kaalrrameemi","translation":"","notes":""},{"id":43,"ref":"51:43","arabic":"وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ","transliteration":"Wafee thamooda ith qeela lahum tamattaAAoo hatta heenin","translation":"","notes":""},{"id":44,"ref":"51:44","arabic":"فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ وَهُمۡ يَنظُرُونَ","transliteration":"FaAAataw AAan amri rabbihim faakhathathumu alssaAAiqatu wahum yanthuroona","translation":"","notes":""},{"id":45,"ref":"51:45","arabic":"فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ","transliteration":"Fama istataAAoo min qiyamin wama kanoo muntasireena","translation":"","notes":""},{"id":46,"ref":"51:46","arabic":"وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ","transliteration":"Waqawma noohin min qablu innahum kanoo qawman fasiqeena","translation":"","notes":""},{"id":47,"ref":"51:47","arabic":"وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ","transliteration":"Waalssamaa banaynaha biaydin wainna lamoosiAAoona","translation":"","notes":""},{"id":48,"ref":"51:48","arabic":"وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ","transliteration":"Waalarda farashnaha faniAAma almahidoona","translation":"","notes":""},{"id":49,"ref":"51:49","arabic":"وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ","transliteration":"Wamin kulli shayin khalaqna zawjayni laAAallakum tathakkaroona","translation":"","notes":""},{"id":50,"ref":"51:50","arabic":"فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ","transliteration":"Fafirroo ila Allahi innee lakum minhu natheerun mubeenun","translation":"","notes":""},{"id":51,"ref":"51:51","arabic":"وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ","transliteration":"Wala tajAAaloo maAAa Allahi ilahan akhara innee lakum minhu natheerun mubeenun","translation":"","notes":""},{"id":52,"ref":"51:52","arabic":"كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ","transliteration":"Kathalika ma ata allatheena min qablihim min rasoolin illa qaloo sahirun aw majnoonun","translation":"","notes":""},{"id":53,"ref":"51:53","arabic":"أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ","transliteration":"Atawasaw bihi bal hum qawmun taghoona","translation":"","notes":""},{"id":54,"ref":"51:54","arabic":"فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ","transliteration":"Fatawalla AAanhum fama anta bimaloomin","translation":"","notes":""},{"id":55,"ref":"51:55","arabic":"وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ","transliteration":"Wathakkir fainna alththikra tanfaAAu almumineena","translation":"","notes":""},{"id":56,"ref":"51:56","arabic":"وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ","transliteration":"Wama khalaqtu aljinna waalinsa illa liyaAAbudooni","translation":"","notes":""},{"id":57,"ref":"51:57","arabic":"مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ","transliteration":"Ma oreedu minhum min rizqin wama oreedu an yutAAimooni","translation":"","notes":""},{"id":58,"ref":"51:58","arabic":"إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ","transliteration":"Inna Allaha huwa alrrazzaqu thoo alquwwati almateenu","translation":"","notes":""},{"id":59,"ref":"51:59","arabic":"فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ","transliteration":"Fainna lillatheena thalamoo thanooban mithla thanoobi ashabihim fala yastaAAjiloona","translation":"","notes":""},{"id":60,"ref":"51:60","arabic":"فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ","transliteration":"Fawaylun lillatheena kafaroo min yawmihimu allathee yooAAadoona","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "51:1",
+    "arabic": "وَٱلذَّـٰرِيَٰتِ ذَرۡوٗا",
+    "transliteration": "Waalththariyati tharwan",
+    "translation": "By the scattering [winds] that scatter [dust particles]",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "ref": "51:2",
+    "arabic": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
+    "transliteration": "Faalhamilati wiqran",
+    "translation": "Then bear a load [of tiny water globues condensing around the dust particles]",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "ref": "51:3",
+    "arabic": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
+    "transliteration": "Faaljariyati yusran",
+    "translation": "Then sail smoothly along",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "ref": "51:4",
+    "arabic": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
+    "transliteration": "Faalmuqassimati amran",
+    "translation": "And then execute given task of apportioning [rainfall].",
+    "notes": "Refer study note 8 on Chapter 30 in this context. The role of dust particles in this natural process has been discovered very recently, as late as in 2011 [source], while it was hinted at in the Qur'aan over 1400 years ago!"
+  },
+  {
+    "id": 5,
+    "ref": "51:5",
+    "arabic": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+    "transliteration": "Innama tooAAadoona lasadiqun",
+    "translation": "What you are being promised is certainly indeed true,",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "ref": "51:6",
+    "arabic": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
+    "transliteration": "Wainna alddeena lawaqiAAun",
+    "translation": "And the Judgement Day shall certainly indeed happen!",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "ref": "51:7",
+    "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
+    "transliteration": "Waalssamai thati alhubuki",
+    "translation": "By the heaven full of perfectly defined pathways",
+    "notes": "One might well have seen a circus artiste keeping onlookers spellbound with his artistry of playing with 3 or 4 balls with his two hands continuously for a few minutes without the balls crashing against one another or without their being floored. But the artiste is a human being after all. He can sustain the show only for a limited period and with limited number of balls. But consider the superhuman Artiste Who has been sustaining such a Show for an infinitely long time now and with innumerable balls [heavenly bodies] billions of times bigger than the poor circus artiste can ever handle. We are witness to this Show day in and day out without being ever spellbound by it or without ever giving recognition to the Great Artiste! The Show is brought about by the interplay of innumerable centripetal and centrifugal forces. The mathematical precision with which this is done is simply mind-boggling."
+  },
+  {
+    "id": 8,
+    "ref": "51:8",
+    "arabic": "إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ",
+    "transliteration": "Innakum lafee qawlin mukhtalifin",
+    "translation": "You do certainly indeed differ in what you say [about the Qur'aan]!",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "ref": "51:9",
+    "arabic": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
+    "transliteration": "Yufaku AAanhu man ofika",
+    "translation": "Those are deluded from it [Qur'aan] who are deluded from the Truth.",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "ref": "51:10",
+    "arabic": "قُتِلَ ٱلۡخَرَّـٰصُونَ",
+    "transliteration": "Qutila alkharrasoona",
+    "translation": "Doomed are those who just guess!",
+    "notes": "Darwin's theory is nothing but guesswork."
+  },
+  {
+    "id": 11,
+    "ref": "51:11",
+    "arabic": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
+    "transliteration": "Allatheena hum fee ghamratin sahoona",
+    "translation": "Those that are submerged in carelessness about Truth and Reality.",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "ref": "51:12",
+    "arabic": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
+    "transliteration": "Yasaloona ayyana yawmu alddeeni",
+    "translation": "They ask, “When will the Judgement Day be?”",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "ref": "51:13",
+    "arabic": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
+    "transliteration": "Yawma hum AAala alnnari yuftanoona",
+    "translation": "It will be the Day when they shall be made to suffer on the Fire.",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "ref": "51:14",
+    "arabic": "ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ",
+    "transliteration": "Thooqoo fitnatakum hatha allathee kuntum bihi tastaAAjiloona",
+    "translation": "\"Taste the suffering you deserve! This is what you had sought to hasten.\"",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "ref": "51:15",
+    "arabic": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ",
+    "transliteration": "Inna almuttaqeena fee jannatin waAAuyoonin",
+    "translation": "The pious and Allah-fearing shall indeed be in the midst of gardens and fountains.",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "ref": "51:16",
+    "arabic": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ",
+    "transliteration": "Akhitheena ma atahum rabbuhum innahum kanoo qabla thalika muhsineena",
+    "translation": "They accept what their Lord gives them. They did indeed do good work before (in the life of the world.)",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "ref": "51:17",
+    "arabic": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+    "transliteration": "Kanoo qaleelan mina allayli ma yahjaAAoona",
+    "translation": "They slept but little at night",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "ref": "51:18",
+    "arabic": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
+    "transliteration": "Wabialashari hum yastaghfiroona",
+    "translation": "And they asked for forgiveness in the wee hours before dawn.",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "ref": "51:19",
+    "arabic": "وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+    "transliteration": "Wafee amwalihim haqqun lilssaili waalmahroomi",
+    "translation": "And they considered it their duty to keep something aside in their property for the needy and the destitute.",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "ref": "51:20",
+    "arabic": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ",
+    "transliteration": "Wafee alardi ayatun lilmooqineena",
+    "translation": "And in the earth are there many signs for those who are certain in their belief",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "ref": "51:21",
+    "arabic": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
+    "transliteration": "Wafee anfusikum afala tubsiroona",
+    "translation": "And in your own persons too! Do you not see?",
+    "notes": "In Verse 41:56, the Qur'aan inter alia declares: We will show Our signs to them in the wide world outside and within themselves, until it becomes clear to them that it (Qur'aan) is the truth. If readers would take the trouble of scanning the two blog sites RabbunAllah and Al-mu'min they can find such signs galore pointed out therein. And if they would but sincerely reflect on how the earth is the only heavenly body in the entire Universe tailor-made to sustain life, human and non-human, they cannot fail to recognize the hidden hand of the Tailor Who fashioned it. Or, if they would just consider how their own fingers – and leave alone all the other parts of their bodies having even more complicated structure – are so ingeniously fashioned to enable them to do umpteen number of their daily jobs therewith, they should not fail to recognize the Great Fashioner working behind the scenes. Imagine life without those fingers!"
+  },
+  {
+    "id": 22,
+    "ref": "51:22",
+    "arabic": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
+    "transliteration": "Wafee alssamai rizqukum wama tooAAadoona",
+    "translation": "And in the heaven is your provision and what you are being promised.",
+    "notes": "In physical terms, it is the rain that comes from the sky that provides mankind with means of sustenance. And, in spiritual terms, it is the Guidance that comes down from Allah that shows the correct way to lead human ife to get the promised life in the Hereafter where there would be no trial and tribulations, but an ad-infinitum continuity of life without sorrow, pain or any wickedness. None other than the Divine Being can give this provision and this promise."
+  },
+  {
+    "id": 23,
+    "ref": "51:23",
+    "arabic": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
+    "transliteration": "Fawarabbi alssamai waalardi innahu lahaqqun mithla ma annakum tantiqoona",
+    "translation": "By the Lord of the heaven and the earth, then, this is indeed true, as true as the fact of your speaking.",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "ref": "51:24",
+    "arabic": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
+    "transliteration": "Hal ataka hadeethu dayfi ibraheema almukrameena",
+    "translation": "Has the story of Abraham´s honoured guests reached you, (O Prophet)?",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "ref": "51:25",
+    "arabic": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ",
+    "transliteration": "Ith dakhaloo AAalayhi faqaloo salaman qala salamun qawmun munkaroona",
+    "translation": "On coming to him, they said: \"Peace!\" He said, \"Peace, strangers!\"",
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "ref": "51:26",
+    "arabic": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
+    "transliteration": "Faragha ila ahlihi fajaa biAAijlin sameenin",
+    "translation": "Then slipping away from them to his family, he brought a fat calf [to feast his stranger guests therewith.]",
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "ref": "51:27",
+    "arabic": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
+    "transliteration": "Faqarrabahu ilayhim qala ala takuloona",
+    "translation": "And he laid it before them, saying, \"Would you not eat it?\"",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "ref": "51:28",
+    "arabic": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ",
+    "transliteration": "Faawjasa minhum kheefatan qaloo la takhaf wabashsharoohu bighulamin AAaleemin",
+    "translation": "Then he was afraid of them. They said, \"Fear not!\" And they gave him the good news of a son endowed with knowledge.",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "ref": "51:29",
+    "arabic": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
+    "transliteration": "Faaqbalati imraatuhu fee sarratin fasakkat wajhaha waqalat AAajoozun AAaqeemun",
+    "translation": "His wife thereupon came forward crying. She struck her face and exclaimed, \"A barren old woman am I!\"",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "ref": "51:30",
+    "arabic": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+    "transliteration": "Qaloo kathaliki qala rabbuki innahu huwa alhakeemu alAAaleemu",
+    "translation": "They said, \"Your Lord has said so! Indeed, He is the One Most Wise, All-Knowing.\"",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "ref": "51:31",
+    "arabic": "۞قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+    "transliteration": "Qala fama khatbukum ayyuha almursaloona",
+    "translation": "Abraham said, \"What is your mission then, O Messengers?\"",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "ref": "51:32",
+    "arabic": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+    "transliteration": "Qaloo inna orsilna ila qawmin mujrimeena",
+    "translation": "They replied, \"We have indeed been sent towards a sinning people.\"",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "ref": "51:33",
+    "arabic": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
+    "transliteration": "Linursila AAalayhim hijaratan min teenin",
+    "translation": "\"To throw stones of clay upon them.\"",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "ref": "51:34",
+    "arabic": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
+    "transliteration": "Musawwamatan AAinda rabbika lilmusrifeena",
+    "translation": "\"Targeted with your Lord upon those who go beyond all bounds!\"",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "ref": "51:35",
+    "arabic": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ",
+    "transliteration": "Faakhrajna man kana feeha mina almumineena",
+    "translation": "We then evacuated all the believers who lived therein.",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "ref": "51:36",
+    "arabic": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
+    "transliteration": "Fama wajadna feeha ghayra baytin mina almuslimeena",
+    "translation": "And We did not find therein any Muslims, apart from a single house.",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "ref": "51:37",
+    "arabic": "وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+    "transliteration": "Watarakna feeha ayatan lillatheena yakhafoona alAAathaba alaleema",
+    "translation": "And We left therein a sign for those who fear the painful punishment.",
+    "notes": "Refer Verse 25:40 and study note thereon in PART I of this Tafsir."
+  },
+  {
+    "id": 38,
+    "ref": "51:38",
+    "arabic": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ",
+    "transliteration": "Wafee moosa ith arsalnahu ila firAAawna bisultanin mubeenin",
+    "translation": "And in Moses [there is a sign] - when We sent him with a clear authority to Pharaoh.",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "ref": "51:39",
+    "arabic": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ",
+    "transliteration": "Fatawalla biruknihi waqala sahirun aw majnoonun",
+    "translation": "And he [Pharaoh] turned in arrogance on the strength of his support, and he said (to his council of elders), \"He is a magician or a madman.\"",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "ref": "51:40",
+    "arabic": "فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ",
+    "transliteration": "Faakhathnahu wajunoodahu fanabathnahum fee alyammi wahuwa muleemun",
+    "translation": "So then We seized him and his troops and threw them into the sea. And he was to blame [for this fate].",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "ref": "51:41",
+    "arabic": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ",
+    "transliteration": "Wafee AAadin ith arsalna AAalayhimu alrreeha alAAaqeema",
+    "translation": "And in Aad [there is a sign] - when We sent upon them a devastating wind",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "ref": "51:42",
+    "arabic": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
+    "transliteration": "Ma tatharu min shayin atat AAalayhi illa jaAAalathu kaalrrameemi",
+    "translation": "[The devastating wind] left nothing that it came upon without making it look like old and rotten bones.",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "ref": "51:43",
+    "arabic": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
+    "transliteration": "Wafee thamooda ith qeela lahum tamattaAAoo hatta heenin",
+    "translation": "And in Thamood [there is a sign] - when they were told, \"Enjoy yourselves for a while.\"",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "ref": "51:44",
+    "arabic": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ وَهُمۡ يَنظُرُونَ",
+    "transliteration": "FaAAataw AAan amri rabbihim faakhathathumu alssaAAiqatu wahum yanthuroona",
+    "translation": "They had behaved insolently towards the Command of their Lord! So then a thunderbolt struck them as they looked on.",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "ref": "51:45",
+    "arabic": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ",
+    "transliteration": "Fama istataAAoo min qiyamin wama kanoo muntasireena",
+    "translation": "So they were unable to rise up, nor could they find any helpers.",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "ref": "51:46",
+    "arabic": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ",
+    "transliteration": "Waqawma noohin min qablu innahum kanoo qawman fasiqeena",
+    "translation": "And the people of Noah before them all – they were indeed a people immersed in transgression!",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "ref": "51:47",
+    "arabic": "وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ",
+    "transliteration": "Waalssamaa banaynaha biaydin wainna lamoosiAAoona",
+    "translation": "And the heaven - We made it powerful and We can certainly indeed expand it.",
+    "notes": "It is only recently that science has stumbled upon the fact that the universe is expanding. And modern science has become aware of the mind-boggling interplay of tremendous forces that keep the innumerable and huge heavenly bodies floating in their respective orbits without crushing into one another."
+  },
+  {
+    "id": 48,
+    "ref": "51:48",
+    "arabic": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ",
+    "transliteration": "Waalarda farashnaha faniAAma almahidoona",
+    "translation": "And the earth - We prepared its crust, and how well have We prepared it!",
+    "notes": "Imagine what would happen if the earth surface had not its ups and downs: we would not have any land; water would envelope it entirely!"
+  },
+  {
+    "id": 49,
+    "ref": "51:49",
+    "arabic": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
+    "transliteration": "Wamin kulli shayin khalaqna zawjayni laAAallakum tathakkaroona",
+    "translation": "And of everything We have created in pairs, so that you ponder over this and remember!",
+    "notes": "But Allah, the Creator, is One - He has no pair, equal or opposite!"
+  },
+  {
+    "id": 50,
+    "ref": "51:50",
+    "arabic": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+    "transliteration": "Fafirroo ila Allahi innee lakum minhu natheerun mubeenun",
+    "translation": "\"Flee , therefore, to Allah. I am indeed a plain warner to you from Him.\"",
+    "notes": "Flee from the lure – and the inevitable pitfalls – of worldly life."
+  },
+  {
+    "id": 51,
+    "ref": "51:51",
+    "arabic": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+    "transliteration": "Wala tajAAaloo maAAa Allahi ilahan akhara innee lakum minhu natheerun mubeenun",
+    "translation": "“And set up no other deity with Allah. I am indeed a plain warner to you from Him.”",
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "ref": "51:52",
+    "arabic": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ",
+    "transliteration": "Kathalika ma ata allatheena min qablihim min rasoolin illa qaloo sahirun aw majnoonun",
+    "translation": "Likewise, never did a Messenger come to those that preceded them, but they called him a magician or a mad-man.",
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "ref": "51:53",
+    "arabic": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+    "transliteration": "Atawasaw bihi bal hum qawmun taghoona",
+    "translation": "Do they persist with the same [canard]!? Nay, they are a people committing transgression.",
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "ref": "51:54",
+    "arabic": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ",
+    "transliteration": "Fatawalla AAanhum fama anta bimaloomin",
+    "translation": "So turn away from them; you are not to blame!",
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "ref": "51:55",
+    "arabic": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ",
+    "transliteration": "Wathakkir fainna alththikra tanfaAAu almumineena",
+    "translation": "And keep on counselling them; for counselling does indeed benefit the believers!",
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "ref": "51:56",
+    "arabic": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ",
+    "transliteration": "Wama khalaqtu aljinna waalinsa illa liyaAAbudooni",
+    "translation": "And I created the jinn and the humans for nothing but that they worship Me.",
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "ref": "51:57",
+    "arabic": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ",
+    "transliteration": "Ma oreedu minhum min rizqin wama oreedu an yutAAimooni",
+    "translation": "I want from them no provision, nor do I want them to feed Me.",
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "ref": "51:58",
+    "arabic": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
+    "transliteration": "Inna Allaha huwa alrrazzaqu thoo alquwwati almateenu",
+    "translation": "Indeed, Allah is the One Who provides all sustenance. He is Possessor of power that never fails!",
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "ref": "51:59",
+    "arabic": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
+    "transliteration": "Fainna lillatheena thalamoo thanooban mithla thanoobi ashabihim fala yastaAAjiloona",
+    "translation": "And, indeed, the lot of those who do wrong is like the lot of their counterparts (of yore). So, let them not hasten Me.",
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "ref": "51:60",
+    "arabic": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
+    "transliteration": "Fawaylun lillatheena kafaroo min yawmihimu allathee yooAAadoona",
+    "translation": "Woe, then, to those, who suppress the Truth, during that Day of theirs which they are warned against.",
+    "notes": ""
+  }
+]

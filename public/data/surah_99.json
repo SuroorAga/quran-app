@@ -1,1 +1,66 @@
-[{"id":1,"ref":"99:1","arabic":"إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا","transliteration":"Itha zulzilati alardu zilzalaha","translation":"","notes":""},{"id":2,"ref":"99:2","arabic":"وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا","transliteration":"Waakhrajati alardu athqalaha","translation":"","notes":""},{"id":3,"ref":"99:3","arabic":"وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا","transliteration":"Waqala alinsanu ma laha","translation":"","notes":""},{"id":4,"ref":"99:4","arabic":"يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا","transliteration":"Yawmaithin tuhaddithu akhbaraha","translation":"","notes":""},{"id":5,"ref":"99:5","arabic":"بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا","transliteration":"Bianna rabbaka awha laha","translation":"","notes":""},{"id":6,"ref":"99:6","arabic":"يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ","transliteration":"Yawmaithin yasduru alnnasu ashtatan liyuraw aAAmalahum","translation":"","notes":""},{"id":7,"ref":"99:7","arabic":"فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ","transliteration":"Faman yaAAmal mithqala tharratin khayran yarahu","translation":"","notes":""},{"id":8,"ref":"99:8","arabic":"وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ","transliteration":"Waman yaAAmal mithqala tharratin sharran yarahu","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "99:1",
+    "arabic": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+    "transliteration": "Itha zulzilati alardu zilzalaha",
+    "translation": "When the earth is shaken with its earthquake",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "ref": "99:2",
+    "arabic": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+    "transliteration": "Waakhrajati alardu athqalaha",
+    "translation": "And the earth brings out its burdens,",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "ref": "99:3",
+    "arabic": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+    "transliteration": "Waqala alinsanu ma laha",
+    "translation": "And man wonders, “What is the matter with it?”",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "ref": "99:4",
+    "arabic": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+    "transliteration": "Yawmaithin tuhaddithu akhbaraha",
+    "translation": "That Day it [the earth] will relate its stories,",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "ref": "99:5",
+    "arabic": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+    "transliteration": "Bianna rabbaka awha laha",
+    "translation": "Because your Lord inspires it.",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "ref": "99:6",
+    "arabic": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+    "transliteration": "Yawmaithin yasduru alnnasu ashtatan liyuraw aAAmalahum",
+    "translation": "That Day mankind will proceed in groups to be shown their deeds.",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "ref": "99:7",
+    "arabic": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+    "transliteration": "Faman yaAAmal mithqala tharratin khayran yarahu",
+    "translation": "Then whoever does [even] an atom's weight of good deed will see it,",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "ref": "99:8",
+    "arabic": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+    "transliteration": "Waman yaAAmal mithqala tharratin sharran yarahu",
+    "translation": "And whoever does [even] an atom's weight of bad deed will see it.",
+    "notes": "The subject of this Qur’aanic Chapter is of course the earthquake that would engulf the earth to bring an end to it in its present state; and thereafter how mankind, after Resurrection, would be shown all their deeds, big or small, while they lived on this earth. But there is an astonishing analogy of the description here to an earthquake that occurred in Turkey in 1999. That analogy was mainly shown by a Turkish gentleman soon after the earthquake that year, but a little part of it was discovered by me myself. Please click The Earthquake to read the article thereon."
+  }
+]

@@ -3,3 +3,8 @@ dist/
 .DS_Store
 *.local
 .vercel
+*.zip
+*.pdf
+.vscode/
+scripts/part2_checkpoint.json
+scripts/full_extract_checkpoint.json

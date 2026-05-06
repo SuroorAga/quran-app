@@ -1,1 +1,66 @@
-[{"id":1,"ref":"98:1","arabic":"لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ","transliteration":"Lam yakuni allatheena kafaroo min ahli alkitabi waalmushrikeena munfakkeena hatta tatiyahumu albayyinatu","translation":"","notes":""},{"id":2,"ref":"98:2","arabic":"رَسُولٞ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفٗا مُّطَهَّرَةٗ","transliteration":"Rasoolun mina Allahi yatloo suhufan mutahharatan","translation":"","notes":""},{"id":3,"ref":"98:3","arabic":"فِيهَا كُتُبٞ قَيِّمَةٞ","transliteration":"Feeha kutubun qayyimatun","translation":"","notes":""},{"id":4,"ref":"98:4","arabic":"وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ","transliteration":"Wama tafarraqa allatheena ootoo alkitaba illa min baAAdi ma jaathumu albayyinatu","translation":"","notes":""},{"id":5,"ref":"98:5","arabic":"وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ","transliteration":"Wama omiroo illa liyaAAbudoo Allaha mukhliseena lahu alddeena hunafaa wayuqeemoo alssalata wayutoo alzzakata wathalika deenu alqayyimati","translation":"","notes":""},{"id":6,"ref":"98:6","arabic":"إِنَّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ فِي نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآۚ أُوْلَـٰٓئِكَ هُمۡ شَرُّ ٱلۡبَرِيَّةِ","transliteration":"Inna allatheena kafaroo min ahli alkitabi waalmushrikeena fee nari jahannama khalideena feeha olaika hum sharru albariyyati","translation":"","notes":""},{"id":7,"ref":"98:7","arabic":"إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ أُوْلَـٰٓئِكَ هُمۡ خَيۡرُ ٱلۡبَرِيَّةِ","transliteration":"Inna allatheena amanoo waAAamiloo alssalihati olaika hum khayru albariyyati","translation":"","notes":""},{"id":8,"ref":"98:8","arabic":"جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّـٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ","transliteration":"Jazaohum AAinda rabbihim jannatu AAadnin tajree min tahtiha alanharu khalideena feeha abadan radiya Allahu AAanhum waradoo AAanhu thalika liman khashiya rabbahu","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "98:1",
+    "arabic": "لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ",
+    "transliteration": "Lam yakuni allatheena kafaroo min ahli alkitabi waalmushrikeena munfakkeena hatta tatiyahumu albayyinatu",
+    "translation": "It could not be that those suppressing the Truth from among the people of the Book [Jews and Christians] and the polytheists were abandoned [by Allah], until there came to them the clear evidence:",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "ref": "98:2",
+    "arabic": "رَسُولٞ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفٗا مُّطَهَّرَةٗ",
+    "transliteration": "Rasoolun mina Allahi yatloo suhufan mutahharatan",
+    "translation": "A Messenger from Allah, reciting scripts freed of all impurities.",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "ref": "98:3",
+    "arabic": "فِيهَا كُتُبٞ قَيِّمَةٞ",
+    "transliteration": "Feeha kutubun qayyimatun",
+    "translation": "In it are rulings sound, clear and ever applicable.",
+    "notes": "Wama tafarraqa allatheena ootoo alkitaba illa min baAAdi ma jaat-humu albayyinatu"
+  },
+  {
+    "id": 4,
+    "ref": "98:4",
+    "arabic": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ",
+    "transliteration": "Wama tafarraqa allatheena ootoo alkitaba illa min baAAdi ma jaathumu albayyinatu",
+    "translation": "And those who have been given the divine Book [earlier] differed not but after the clear evidence had come to them!",
+    "notes": "Wama omiroo illa liyaAAbudoo Allaha mukhliseena lahu alddeena hunafaa wayuqeemoo alssalata wayu/too alzzakata wathalika deenu alqayyimati"
+  },
+  {
+    "id": 5,
+    "ref": "98:5",
+    "arabic": "وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ",
+    "transliteration": "Wama omiroo illa liyaAAbudoo Allaha mukhliseena lahu alddeena hunafaa wayuqeemoo alssalata wayutoo alzzakata wathalika deenu alqayyimati",
+    "translation": "And they were enjoined not but to worship Allah, keeping their way of life exclusively for Him, turning away from all that was false; and to establish the prayer ; and to give the Zakaat . And that is the way of life sound, clear and ever applicable.",
+    "notes": "See study notes 4 & 108 on Chapter 2 (PART I of this Tafsir).\n\nInna allatheena kafaroo min ahli alkitabi waalmushrikeena fee nari jahannama khalideena feeha ola-ika hum sharru albariyyati"
+  },
+  {
+    "id": 6,
+    "ref": "98:6",
+    "arabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ فِي نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآۚ أُوْلَـٰٓئِكَ هُمۡ شَرُّ ٱلۡبَرِيَّةِ",
+    "transliteration": "Inna allatheena kafaroo min ahli alkitabi waalmushrikeena fee nari jahannama khalideena feeha olaika hum sharru albariyyati",
+    "translation": "Indeed, those who suppress the Truth from among the peoples who had been given the divine Book earlier and the polytheists – those will be in the fire of Hell, therein to abide: they are the worst of all creatures.",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "ref": "98:7",
+    "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ أُوْلَـٰٓئِكَ هُمۡ خَيۡرُ ٱلۡبَرِيَّةِ",
+    "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati olaika hum khayru albariyyati",
+    "translation": "Indeed, those who believe and do righteous deeds – it is they who are the best of all creatures.",
+    "notes": "Jazaohum AAinda rabbihim jannatu AAadnin tajree min tahtiha al-anharu khalideena feeha abadan radiya Allahu AAanhum waradoo AAanhu thalika liman khashiya rabbahu"
+  },
+  {
+    "id": 8,
+    "ref": "98:8",
+    "arabic": "جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّـٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ",
+    "transliteration": "Jazaohum AAinda rabbihim jannatu AAadnin tajree min tahtiha alanharu khalideena feeha abadan radiya Allahu AAanhum waradoo AAanhu thalika liman khashiya rabbahu",
+    "translation": "Their reward with their Lord: gardens of perpetual bliss, underneath which rivers flow, wherein to abide forever. Allah will be well-pleased with them, and they with Him. All that for him who fears his Lord!",
+    "notes": ""
+  }
+]

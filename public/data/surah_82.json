@@ -1,1 +1,154 @@
-[{"id":1,"ref":"82:1","arabic":"إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ","transliteration":"Itha alssamao infatarat","translation":"","notes":""},{"id":2,"ref":"82:2","arabic":"وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ","transliteration":"Waitha alkawakibu intatharat","translation":"","notes":""},{"id":3,"ref":"82:3","arabic":"وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ","transliteration":"Waitha albiharu fujjirat","translation":"","notes":""},{"id":4,"ref":"82:4","arabic":"وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ","transliteration":"Waitha alqubooru buAAthirat","translation":"","notes":""},{"id":5,"ref":"82:5","arabic":"عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ","transliteration":"AAalimat nafsun ma qaddamat waakhkharat","translation":"","notes":""},{"id":6,"ref":"82:6","arabic":"يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ","transliteration":"Ya ayyuha alinsanu ma gharraka birabbika alkareemi","translation":"","notes":""},{"id":7,"ref":"82:7","arabic":"ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ","transliteration":"Allathee khalaqaka fasawwaka faAAadalaka","translation":"","notes":""},{"id":8,"ref":"82:8","arabic":"فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ","transliteration":"Fee ayyi sooratin ma shaa rakkabaka","translation":"","notes":""},{"id":9,"ref":"82:9","arabic":"كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ","transliteration":"Kalla bal tukaththiboona bialddeeni","translation":"","notes":""},{"id":10,"ref":"82:10","arabic":"وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ","transliteration":"Wainna AAalaykum lahafitheena","translation":"","notes":""},{"id":11,"ref":"82:11","arabic":"كِرَامٗا كَٰتِبِينَ","transliteration":"Kiraman katibeena","translation":"","notes":""},{"id":12,"ref":"82:12","arabic":"يَعۡلَمُونَ مَا تَفۡعَلُونَ","transliteration":"YaAAlamoona ma tafAAaloona","translation":"","notes":""},{"id":13,"ref":"82:13","arabic":"إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ","transliteration":"Inna alabrara lafee naAAeemin","translation":"","notes":""},{"id":14,"ref":"82:14","arabic":"وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ","transliteration":"Wainna alfujjara lafee jaheemin","translation":"","notes":""},{"id":15,"ref":"82:15","arabic":"يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ","transliteration":"Yaslawnaha yawma alddeeni","translation":"","notes":""},{"id":16,"ref":"82:16","arabic":"وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ","transliteration":"Wama hum AAanha bighaibeena","translation":"","notes":""},{"id":17,"ref":"82:17","arabic":"وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ","transliteration":"Wama adraka ma yawmu alddeeni","translation":"","notes":""},{"id":18,"ref":"82:18","arabic":"ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ","transliteration":"Thumma ma adraka ma yawmu alddeeni","translation":"","notes":""},{"id":19,"ref":"82:19","arabic":"يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ","transliteration":"Yawma la tamliku nafsun linafsin shayan waalamru yawmaithin lillahi","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "82:1",
+    "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+    "transliteration": "Itha alssamao infatarat",
+    "translation": "When the sky breaks,",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "ref": "82:2",
+    "arabic": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+    "transliteration": "Waitha alkawakibu intatharat",
+    "translation": "And when the stars disperse,",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "ref": "82:3",
+    "arabic": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+    "transliteration": "Waitha albiharu fujjirat",
+    "translation": "And when the seas overflow,",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "ref": "82:4",
+    "arabic": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+    "transliteration": "Waitha alqubooru buAAthirat",
+    "translation": "And when the graves are uncovered, taken out and examined,",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "ref": "82:5",
+    "arabic": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
+    "transliteration": "AAalimat nafsun ma qaddamat waakhkharat",
+    "translation": "Every soul comes to know what it had sent ahead and what it had left behind.",
+    "notes": "A sinner, for example, would know that what he had sent ahead (bad deeds in this world) would take him to Hell in the Hereafter. And what he had left undone in this world (follow the path as shown in the Qur’aan) would have given him a ticket for Paradise in the Hereafter."
+  },
+  {
+    "id": 6,
+    "ref": "82:6",
+    "arabic": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+    "transliteration": "Ya ayyuha alinsanu ma gharraka birabbika alkareemi",
+    "translation": "O human! What has deluded you away from your Lord, the Most Noble?",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "ref": "82:7",
+    "arabic": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+    "transliteration": "Allathee khalaqaka fasawwaka faAAadalaka",
+    "translation": "HE is the One Who created you, then moulded you, and then gave you a good poise.",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "ref": "82:8",
+    "arabic": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
+    "transliteration": "Fee ayyi sooratin ma shaa rakkabaka",
+    "translation": "HE cast you into an appearance He willed.",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "ref": "82:9",
+    "arabic": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
+    "transliteration": "Kalla bal tukaththiboona bialddeeni",
+    "translation": "And, yet, you refused to believe in the Judgment Day!",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "ref": "82:10",
+    "arabic": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
+    "transliteration": "Wainna AAalaykum lahafitheena",
+    "translation": "And certainly indeed Guards are appointed to keep watch on you and protect you,",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "ref": "82:11",
+    "arabic": "كِرَامٗا كَٰتِبِينَ",
+    "transliteration": "Kiraman katibeena",
+    "translation": "Noble recorders are they [recording all your omissions and commissions]!",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "ref": "82:12",
+    "arabic": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+    "transliteration": "YaAAlamoona ma tafAAaloona",
+    "translation": "They know what you do.",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "ref": "82:13",
+    "arabic": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ",
+    "transliteration": "Inna alabrara lafee naAAeemin",
+    "translation": "Indeed, the righteous will be in bliss,",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "ref": "82:14",
+    "arabic": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+    "transliteration": "Wainna alfujjara lafee jaheemin",
+    "translation": "And certainly indeed, the wicked persons will be in Hell.",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "ref": "82:15",
+    "arabic": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+    "transliteration": "Yaslawnaha yawma alddeeni",
+    "translation": "They will enter it on the day of Judgment.",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "ref": "82:16",
+    "arabic": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
+    "transliteration": "Wama hum AAanha bighaibeena",
+    "translation": "And they will not be absent from it.",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "ref": "82:17",
+    "arabic": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+    "transliteration": "Wama adraka ma yawmu alddeeni",
+    "translation": "And what do you understand what the Day of Judgment is?",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "ref": "82:18",
+    "arabic": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+    "transliteration": "Thumma ma adraka ma yawmu alddeeni",
+    "translation": "Repeat, what do you understand what the Day of Judgment is?",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "ref": "82:19",
+    "arabic": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
+    "transliteration": "Yawma la tamliku nafsun linafsin shayan waalamru yawmaithin lillahi",
+    "translation": "That Day no creature shall be of any avail to another. And Allah’s shall be the sole command that Day!",
+    "notes": "Christians, who are sure their Christ will take them to Paradise, beware! And Muslims, who claim that whatever their deeds here in this world their Muhammad will ensure their entry into Jannah, beware!"
+  }
+]

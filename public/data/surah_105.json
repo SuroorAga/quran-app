@@ -1,1 +1,42 @@
-[{"id":1,"ref":"105:1","arabic":"أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ","transliteration":"Alam tara kayfa faAAala rabbuka biashabi alfeeli","translation":"","notes":""},{"id":2,"ref":"105:2","arabic":"أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ","transliteration":"Alam yajAAal kaydahum fee tadleelin","translation":"","notes":""},{"id":3,"ref":"105:3","arabic":"وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ","transliteration":"Waarsala AAalayhim tayran ababeela","translation":"","notes":""},{"id":4,"ref":"105:4","arabic":"تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ","transliteration":"Tarmeehim bihijaratin min sijjeelin","translation":"","notes":""},{"id":5,"ref":"105:5","arabic":"فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ","transliteration":"FajaAAalahum kaAAasfin makoolin","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "105:1",
+    "arabic": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
+    "transliteration": "Alam tara kayfa faAAala rabbuka biashabi alfeeli",
+    "translation": "Have you not seen what your Lord did to the companions of the elephant ?",
+    "notes": "In the Arabic, the pronoun is in the singular. So, the addressee of this Verse is primarily the Prophet, but, by inference, every believer.\n\nThe event described in this Chapter was well-known to the Prophet and to the Arabs living during his lifetime. So it was not necessary for them to be told the background history that led to the event. But for people of later generations, with access to better knowledge, the recorded history of that time should serve the purpose. What that hazy history clearly tells us is that a Christian ruler in the southern part of Arabian Peninsula got jealous of the popular acceptance of Kaabah in Makkah as the centre of religious pilgrimage by all Arabs. He wanted either to destroy this centre or to bring it under his dominion. So he set out with a very large army. The distinguishing feature of that army was that it had one or more elephants in it, perhaps for the first time in the history of mankind. The Makkans were no match for that huge army of reportedly 60 thousand men. Although they were all polytheists then, they had belief in the Kaabah being the House of Allah, and they ardently prayed to Him to protect His House. The following Verses in this Chapter narrate how Allah protected His House."
+  },
+  {
+    "id": 2,
+    "ref": "105:2",
+    "arabic": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ",
+    "transliteration": "Alam yajAAal kaydahum fee tadleelin",
+    "translation": "Did He not bring their plan to naught,",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "ref": "105:3",
+    "arabic": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ",
+    "transliteration": "Waarsala AAalayhim tayran ababeela",
+    "translation": "And send upon them swarms of birds,",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "ref": "105:4",
+    "arabic": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ",
+    "transliteration": "Tarmeehim bihijaratin min sijjeelin",
+    "translation": "Pelting them with stones of baked clay,",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "ref": "105:5",
+    "arabic": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ",
+    "transliteration": "FajaAAalahum kaAAasfin makoolin",
+    "translation": "And then making them look like chewed husk?",
+    "notes": "Commentators try to rationalize that a sort of pestilence, like smallpox, broke out and spread rapidly among the huge army incapacitating them from undertaking the intended assault on the Kaabah. If that indeed had happened, why did not the Qur’aan say so? I would rather literally accept what the Book says here. Miracles are not beyond Allah Almighty! What is important for us to understand here is that the evil forces were annihilated, and the Kaabah was saved."
+  }
+]

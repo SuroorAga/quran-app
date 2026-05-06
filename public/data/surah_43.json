@@ -1,1 +1,714 @@
-[{"id":1,"ref":"43:1","arabic":"حمٓ","transliteration":"Hameem","translation":"","notes":""},{"id":2,"ref":"43:2","arabic":"وَٱلۡكِتَٰبِ ٱلۡمُبِينِ","transliteration":"Waalkitabi almubeeni","translation":"","notes":""},{"id":3,"ref":"43:3","arabic":"إِنَّا جَعَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ","transliteration":"Inna jaAAalnahu quranan AAarabiyyan laAAallakum taAAqiloona","translation":"","notes":""},{"id":4,"ref":"43:4","arabic":"وَإِنَّهُۥ فِيٓ أُمِّ ٱلۡكِتَٰبِ لَدَيۡنَا لَعَلِيٌّ حَكِيمٌ","transliteration":"Wainnahu fee ommi alkitabi ladayna laAAaliyyun hakeemun","translation":"","notes":""},{"id":5,"ref":"43:5","arabic":"أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمٗا مُّسۡرِفِينَ","transliteration":"Afanadribu AAankumu alththikra safhan an kuntum qawman musrifeena","translation":"","notes":""},{"id":6,"ref":"43:6","arabic":"وَكَمۡ أَرۡسَلۡنَا مِن نَّبِيّٖ فِي ٱلۡأَوَّلِينَ","transliteration":"Wakam arsalna min nabiyyin fee alawwaleena","translation":"","notes":""},{"id":7,"ref":"43:7","arabic":"وَمَا يَأۡتِيهِم مِّن نَّبِيٍّ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ","transliteration":"Wama yateehim min nabiyyin illa kanoo bihi yastahzioona","translation":"","notes":""},{"id":8,"ref":"43:8","arabic":"فَأَهۡلَكۡنَآ أَشَدَّ مِنۡهُم بَطۡشٗا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِينَ","transliteration":"Faahlakna ashadda minhum batshan wamada mathalu alawwaleena","translation":"","notes":""},{"id":9,"ref":"43:9","arabic":"وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلۡعَزِيزُ ٱلۡعَلِيمُ","transliteration":"Walain saaltahum man khalaqa alssamawati waalarda layaqoolunna khalaqahunna alAAazeezu alAAaleemu","translation":"","notes":""},{"id":10,"ref":"43:10","arabic":"ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَجَعَلَ لَكُمۡ فِيهَا سُبُلٗا لَّعَلَّكُمۡ تَهۡتَدُونَ","transliteration":"Allathee jaAAala lakumu alarda mahdan wajaAAala lakum feeha subulan laAAallakum tahtadoona","translation":"","notes":""},{"id":11,"ref":"43:11","arabic":"وَٱلَّذِي نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَنشَرۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ تُخۡرَجُونَ","transliteration":"Waallathee nazzala mina alssamai maan biqadarin faansharna bihi baldatan maytan kathalika tukhrajoona","translation":"","notes":""},{"id":12,"ref":"43:12","arabic":"وَٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلۡفُلۡكِ وَٱلۡأَنۡعَٰمِ مَا تَرۡكَبُونَ","transliteration":"Waallathee khalaqa alazwaja kullaha wajaAAala lakum mina alfulki waalanAAami ma tarkaboona","translation":"","notes":""},{"id":13,"ref":"43:13","arabic":"لِتَسۡتَوُۥاْ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذۡكُرُواْ نِعۡمَةَ رَبِّكُمۡ إِذَا ٱسۡتَوَيۡتُمۡ عَلَيۡهِ وَتَقُولُواْ سُبۡحَٰنَ ٱلَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقۡرِنِينَ","transliteration":"Litastawoo AAala thuhoorihi thumma tathkuroo niAAmata rabbikum itha istawaytum AAalayhi wataqooloo subhana allathee sakhkhara lana hatha wama kunna lahu muqrineena","translation":"","notes":""},{"id":14,"ref":"43:14","arabic":"وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ","transliteration":"Wainna ila rabbina lamunqaliboona","translation":"","notes":""},{"id":15,"ref":"43:15","arabic":"وَجَعَلُواْ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ مُّبِينٌ","transliteration":"WajaAAaloo lahu min AAibadihi juzan inna alinsana lakafoorun mubeenun","translation":"","notes":""},{"id":16,"ref":"43:16","arabic":"أَمِ ٱتَّخَذَ مِمَّا يَخۡلُقُ بَنَاتٖ وَأَصۡفَىٰكُم بِٱلۡبَنِينَ","transliteration":"Ami ittakhatha mimma yakhluqu banatin waasfakum bialbaneena","translation":"","notes":""},{"id":17,"ref":"43:17","arabic":"وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحۡمَٰنِ مَثَلٗا ظَلَّ وَجۡهُهُۥ مُسۡوَدّٗا وَهُوَ كَظِيمٌ","transliteration":"Waitha bushshira ahaduhum bima daraba lilrrahmani mathalan thalla wajhuhu muswaddan wahuwa katheemun","translation":"","notes":""},{"id":18,"ref":"43:18","arabic":"أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينٖ","transliteration":"Awaman yunashshao fee alhilyati wahuwa fee alkhisami ghayru mubeenin","translation":"","notes":""},{"id":19,"ref":"43:19","arabic":"وَجَعَلُواْ ٱلۡمَلَـٰٓئِكَةَ ٱلَّذِينَ هُمۡ عِبَٰدُ ٱلرَّحۡمَٰنِ إِنَٰثًاۚ أَشَهِدُواْ خَلۡقَهُمۡۚ سَتُكۡتَبُ شَهَٰدَتُهُمۡ وَيُسۡـَٔلُونَ","transliteration":"WajaAAaloo almalaikata allatheena hum AAibadu alrrahmani inathan ashahidoo khalqahum satuktabu shahadatuhum wayusaloona","translation":"","notes":""},{"id":20,"ref":"43:20","arabic":"وَقَالُواْ لَوۡ شَآءَ ٱلرَّحۡمَٰنُ مَا عَبَدۡنَٰهُمۗ مَّا لَهُم بِذَٰلِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا يَخۡرُصُونَ","transliteration":"Waqaloo law shaa alrrahmanu ma AAabadnahum ma lahum bithalika min AAilmin in hum illa yakhrusoona","translation":"","notes":""},{"id":21,"ref":"43:21","arabic":"أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا مِّن قَبۡلِهِۦ فَهُم بِهِۦ مُسۡتَمۡسِكُونَ","transliteration":"Am ataynahum kitaban min qablihi fahum bihi mustamsikoona","translation":"","notes":""},{"id":22,"ref":"43:22","arabic":"بَلۡ قَالُوٓاْ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهۡتَدُونَ","transliteration":"Bal qaloo inna wajadna abaana AAala ommatin wainna AAala atharihim muhtadoona","translation":"","notes":""},{"id":23,"ref":"43:23","arabic":"وَكَذَٰلِكَ مَآ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقۡتَدُونَ","transliteration":"Wakathalika ma arsalna min qablika fee qaryatin min natheerin illa qala mutrafooha inna wajadna abaana AAala ommatin wainna AAala atharihim muqtadoona","translation":"","notes":""},{"id":24,"ref":"43:24","arabic":"۞قَٰلَ أَوَلَوۡ جِئۡتُكُم بِأَهۡدَىٰ مِمَّا وَجَدتُّمۡ عَلَيۡهِ ءَابَآءَكُمۡۖ قَالُوٓاْ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ","transliteration":"Qala awalaw jitukum biahda mimma wajadtum AAalayhi abaakum qaloo inna bima orsiltum bihi kafiroona","translation":"","notes":""},{"id":25,"ref":"43:25","arabic":"فَٱنتَقَمۡنَا مِنۡهُمۡۖ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ","transliteration":"Faintaqamna minhum faonthur kayfa kana AAaqibatu almukaththibeena","translation":"","notes":""},{"id":26,"ref":"43:26","arabic":"وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ وَقَوۡمِهِۦٓ إِنَّنِي بَرَآءٞ مِّمَّا تَعۡبُدُونَ","transliteration":"Waith qala ibraheemu liabeehi waqawmihi innanee baraon mimma taAAbudoona","translation":"","notes":""},{"id":27,"ref":"43:27","arabic":"إِلَّا ٱلَّذِي فَطَرَنِي فَإِنَّهُۥ سَيَهۡدِينِ","transliteration":"Illa allathee fataranee fainnahu sayahdeeni","translation":"","notes":""},{"id":28,"ref":"43:28","arabic":"وَجَعَلَهَا كَلِمَةَۢ بَاقِيَةٗ فِي عَقِبِهِۦ لَعَلَّهُمۡ يَرۡجِعُونَ","transliteration":"WajaAAalaha kalimatan baqiyatan fee AAaqibihi laAAallahum yarjiAAoona","translation":"","notes":""},{"id":29,"ref":"43:29","arabic":"بَلۡ مَتَّعۡتُ هَـٰٓؤُلَآءِ وَءَابَآءَهُمۡ حَتَّىٰ جَآءَهُمُ ٱلۡحَقُّ وَرَسُولٞ مُّبِينٞ","transliteration":"Bal mattaAAtu haolai waabaahum hatta jaahumu alhaqqu warasoolun mubeenun","translation":"","notes":""},{"id":30,"ref":"43:30","arabic":"وَلَمَّا جَآءَهُمُ ٱلۡحَقُّ قَالُواْ هَٰذَا سِحۡرٞ وَإِنَّا بِهِۦ كَٰفِرُونَ","transliteration":"Walamma jaahumu alhaqqu qaloo hatha sihrun wainna bihi kafiroona","translation":"","notes":""},{"id":31,"ref":"43:31","arabic":"وَقَالُواْ لَوۡلَا نُزِّلَ هَٰذَا ٱلۡقُرۡءَانُ عَلَىٰ رَجُلٖ مِّنَ ٱلۡقَرۡيَتَيۡنِ عَظِيمٍ","transliteration":"Waqaloo lawla nuzzila hatha alquranu AAala rajulin mina alqaryatayni AAatheemun","translation":"","notes":""},{"id":32,"ref":"43:32","arabic":"أَهُمۡ يَقۡسِمُونَ رَحۡمَتَ رَبِّكَۚ نَحۡنُ قَسَمۡنَا بَيۡنَهُم مَّعِيشَتَهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَرَفَعۡنَا بَعۡضَهُمۡ فَوۡقَ بَعۡضٖ دَرَجَٰتٖ لِّيَتَّخِذَ بَعۡضُهُم بَعۡضٗا سُخۡرِيّٗاۗ وَرَحۡمَتُ رَبِّكَ خَيۡرٞ مِّمَّا يَجۡمَعُونَ","transliteration":"Ahum yaqsimoona rahmata rabbika nahnu qasamna baynahum maAAeeshatahum fee alhayati alddunya warafaAAna baAAdahum fawqa baAAdin darajatin liyattakhitha baAAduhum baAAdan sukhriyyan warahmatu rabbika khayrun mimma yajmaAAoona","translation":"","notes":""},{"id":33,"ref":"43:33","arabic":"وَلَوۡلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةٗ وَٰحِدَةٗ لَّجَعَلۡنَا لِمَن يَكۡفُرُ بِٱلرَّحۡمَٰنِ لِبُيُوتِهِمۡ سُقُفٗا مِّن فِضَّةٖ وَمَعَارِجَ عَلَيۡهَا يَظۡهَرُونَ","transliteration":"Walawla an yakoona alnnasu ommatan wahidatan lajaAAalna liman yakfuru bialrrahmani libuyootihim suqufan min fiddatin wamaAAarija AAalayha yathharoona","translation":"","notes":""},{"id":34,"ref":"43:34","arabic":"وَلِبُيُوتِهِمۡ أَبۡوَٰبٗا وَسُرُرًا عَلَيۡهَا يَتَّكِـُٔونَ","transliteration":"Walibuyootihim abwaban wasururan AAalayha yattakioona","translation":"","notes":""},{"id":35,"ref":"43:35","arabic":"وَزُخۡرُفٗاۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَٱلۡأٓخِرَةُ عِندَ رَبِّكَ لِلۡمُتَّقِينَ","transliteration":"Wazukhrufan wain kullu thalika lamma mataAAu alhayati alddunya waalakhiratu AAinda rabbika lilmuttaqeena","translation":"","notes":""},{"id":36,"ref":"43:36","arabic":"وَمَن يَعۡشُ عَن ذِكۡرِ ٱلرَّحۡمَٰنِ نُقَيِّضۡ لَهُۥ شَيۡطَٰنٗا فَهُوَ لَهُۥ قَرِينٞ","transliteration":"Waman yaAAshu AAan thikri alrrahmani nuqayyid lahu shaytanan fahuwa lahu qareenun","translation":"","notes":""},{"id":37,"ref":"43:37","arabic":"وَإِنَّهُمۡ لَيَصُدُّونَهُمۡ عَنِ ٱلسَّبِيلِ وَيَحۡسَبُونَ أَنَّهُم مُّهۡتَدُونَ","transliteration":"Wainnahum layasuddoonahum AAani alssabeeli wayahsaboona annahum muhtadoona","translation":"","notes":""},{"id":38,"ref":"43:38","arabic":"حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيۡتَ بَيۡنِي وَبَيۡنَكَ بُعۡدَ ٱلۡمَشۡرِقَيۡنِ فَبِئۡسَ ٱلۡقَرِينُ","transliteration":"Hatta itha jaana qala ya layta baynee wabaynaka buAAda almashriqayni fabisa alqareenu","translation":"","notes":""},{"id":39,"ref":"43:39","arabic":"وَلَن يَنفَعَكُمُ ٱلۡيَوۡمَ إِذ ظَّلَمۡتُمۡ أَنَّكُمۡ فِي ٱلۡعَذَابِ مُشۡتَرِكُونَ","transliteration":"Walan yanfaAAakumu alyawma ith thalamtum annakum fee alAAathabi mushtarikoona","translation":"","notes":""},{"id":40,"ref":"43:40","arabic":"أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ أَوۡ تَهۡدِي ٱلۡعُمۡيَ وَمَن كَانَ فِي ضَلَٰلٖ مُّبِينٖ","transliteration":"Afaanta tusmiAAu alssumma aw tahdee alAAumya waman kana fee dalalin mubeenin","translation":"","notes":""},{"id":41,"ref":"43:41","arabic":"فَإِمَّا نَذۡهَبَنَّ بِكَ فَإِنَّا مِنۡهُم مُّنتَقِمُونَ","transliteration":"Faimma nathhabanna bika fainna minhum muntaqimoona","translation":"","notes":""},{"id":42,"ref":"43:42","arabic":"أَوۡ نُرِيَنَّكَ ٱلَّذِي وَعَدۡنَٰهُمۡ فَإِنَّا عَلَيۡهِم مُّقۡتَدِرُونَ","transliteration":"Aw nuriyannaka allathee waAAadnahum fainna AAalayhim muqtadiroona","translation":"","notes":""},{"id":43,"ref":"43:43","arabic":"فَٱسۡتَمۡسِكۡ بِٱلَّذِيٓ أُوحِيَ إِلَيۡكَۖ إِنَّكَ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ","transliteration":"Faistamsik biallathee oohiya ilayka innaka AAala siratin mustaqeemin","translation":"","notes":""},{"id":44,"ref":"43:44","arabic":"وَإِنَّهُۥ لَذِكۡرٞ لَّكَ وَلِقَوۡمِكَۖ وَسَوۡفَ تُسۡـَٔلُونَ","transliteration":"Wainnahu lathikrun laka waliqawmika wasawfa tusaloona","translation":"","notes":""},{"id":45,"ref":"43:45","arabic":"وَسۡـَٔلۡ مَنۡ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رُّسُلِنَآ أَجَعَلۡنَا مِن دُونِ ٱلرَّحۡمَٰنِ ءَالِهَةٗ يُعۡبَدُونَ","transliteration":"Waisal man arsalna min qablika min rusulina ajaAAalna min dooni alrrahmani alihatan yuAAbadoona","translation":"","notes":""},{"id":46,"ref":"43:46","arabic":"وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَقَالَ إِنِّي رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ","transliteration":"Walaqad arsalna moosa biayatina ila firAAawna wamalaihi faqala innee rasoolu rabbi alAAalameena","translation":"","notes":""},{"id":47,"ref":"43:47","arabic":"فَلَمَّا جَآءَهُم بِـَٔايَٰتِنَآ إِذَا هُم مِّنۡهَا يَضۡحَكُونَ","transliteration":"Falamma jaahum biayatina itha hum minha yadhakoona","translation":"","notes":""},{"id":48,"ref":"43:48","arabic":"وَمَا نُرِيهِم مِّنۡ ءَايَةٍ إِلَّا هِيَ أَكۡبَرُ مِنۡ أُخۡتِهَاۖ وَأَخَذۡنَٰهُم بِٱلۡعَذَابِ لَعَلَّهُمۡ يَرۡجِعُونَ","transliteration":"Wama nureehim min ayatin illa hiya akbaru min okhtiha waakhathnahum bialAAathabi laAAallahum yarjiAAoona","translation":"","notes":""},{"id":49,"ref":"43:49","arabic":"وَقَالُواْ يَـٰٓأَيُّهَ ٱلسَّاحِرُ ٱدۡعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهۡتَدُونَ","transliteration":"Waqaloo ya ayyuha alsahiru odAAu lana rabbaka bima AAahida AAindaka innana lamuhtadoona","translation":"","notes":""},{"id":50,"ref":"43:50","arabic":"فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِذَا هُمۡ يَنكُثُونَ","transliteration":"Falamma kashafna AAanhumu alAAathaba itha hum yankuthoona","translation":"","notes":""},{"id":51,"ref":"43:51","arabic":"وَنَادَىٰ فِرۡعَوۡنُ فِي قَوۡمِهِۦ قَالَ يَٰقَوۡمِ أَلَيۡسَ لِي مُلۡكُ مِصۡرَ وَهَٰذِهِ ٱلۡأَنۡهَٰرُ تَجۡرِي مِن تَحۡتِيٓۚ أَفَلَا تُبۡصِرُونَ","transliteration":"Wanada firAAawnu fee qawmihi qala ya qawmi alaysa lee mulku misra wahathihi alanharu tajree min tahtee afala tubsiroona","translation":"","notes":""},{"id":52,"ref":"43:52","arabic":"أَمۡ أَنَا۠ خَيۡرٞ مِّنۡ هَٰذَا ٱلَّذِي هُوَ مَهِينٞ وَلَا يَكَادُ يُبِينُ","transliteration":"Am ana khayrun min hatha allathee huwa maheenun wala yakadu yubeenu","translation":"","notes":""},{"id":53,"ref":"43:53","arabic":"فَلَوۡلَآ أُلۡقِيَ عَلَيۡهِ أَسۡوِرَةٞ مِّن ذَهَبٍ أَوۡ جَآءَ مَعَهُ ٱلۡمَلَـٰٓئِكَةُ مُقۡتَرِنِينَ","transliteration":"Falawla olqiya AAalayhi aswiratun min thahabin aw jaa maAAahu almalaikatu muqtarineena","translation":"","notes":""},{"id":54,"ref":"43:54","arabic":"فَٱسۡتَخَفَّ قَوۡمَهُۥ فَأَطَاعُوهُۚ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ","transliteration":"Faistakhaffa qawmahu faataAAoohu innahum kanoo qawman fasiqeena","translation":"","notes":""},{"id":55,"ref":"43:55","arabic":"فَلَمَّآ ءَاسَفُونَا ٱنتَقَمۡنَا مِنۡهُمۡ فَأَغۡرَقۡنَٰهُمۡ أَجۡمَعِينَ","transliteration":"Falamma asafoona intaqamna minhum faaghraqnahum ajmaAAeena","translation":"","notes":""},{"id":56,"ref":"43:56","arabic":"فَجَعَلۡنَٰهُمۡ سَلَفٗا وَمَثَلٗا لِّلۡأٓخِرِينَ","transliteration":"FajaAAalnahum salafan wamathalan lilakhireena","translation":"","notes":""},{"id":57,"ref":"43:57","arabic":"۞وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ","transliteration":"Walamma duriba ibnu maryama mathalan itha qawmuka minhu yasiddoona","translation":"","notes":""},{"id":58,"ref":"43:58","arabic":"وَقَالُوٓاْ ءَأَٰلِهَتُنَا خَيۡرٌ أَمۡ هُوَۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلَۢاۚ بَلۡ هُمۡ قَوۡمٌ خَصِمُونَ","transliteration":"Waqaloo aalihatuna khayrun am huwa ma daraboohu laka illa jadalan bal hum qawmun khasimoona","translation":"","notes":""},{"id":59,"ref":"43:59","arabic":"إِنۡ هُوَ إِلَّا عَبۡدٌ أَنۡعَمۡنَا عَلَيۡهِ وَجَعَلۡنَٰهُ مَثَلٗا لِّبَنِيٓ إِسۡرَـٰٓءِيلَ","transliteration":"In huwa illa AAabdun anAAamna AAalayhi wajaAAalnahu mathalan libanee israeela","translation":"","notes":""},{"id":60,"ref":"43:60","arabic":"وَلَوۡ نَشَآءُ لَجَعَلۡنَا مِنكُم مَّلَـٰٓئِكَةٗ فِي ٱلۡأَرۡضِ يَخۡلُفُونَ","transliteration":"Walaw nashao lajaAAalna minkum malaikatan fee alardi yakhlufoona","translation":"","notes":""},{"id":61,"ref":"43:61","arabic":"وَإِنَّهُۥ لَعِلۡمٞ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ","transliteration":"Wainnahu laAAilmun lilssaAAati fala tamtarunna biha waittabiAAooni hatha siratun mustaqeemun","translation":"","notes":""},{"id":62,"ref":"43:62","arabic":"وَلَا يَصُدَّنَّكُمُ ٱلشَّيۡطَٰنُۖ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ","transliteration":"Wala yasuddannakumu alshshaytanu innahu lakum AAaduwwun mubeenun","translation":"","notes":""},{"id":63,"ref":"43:63","arabic":"وَلَمَّا جَآءَ عِيسَىٰ بِٱلۡبَيِّنَٰتِ قَالَ قَدۡ جِئۡتُكُم بِٱلۡحِكۡمَةِ وَلِأُبَيِّنَ لَكُم بَعۡضَ ٱلَّذِي تَخۡتَلِفُونَ فِيهِۖ فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ","transliteration":"Walamma jaa AAeesa bialbayyinati qala qad jitukum bialhikmati waliobayyina lakum baAAda allathee takhtalifoona feehi faittaqoo Allaha waateeAAooni","translation":"","notes":""},{"id":64,"ref":"43:64","arabic":"إِنَّ ٱللَّهَ هُوَ رَبِّي وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ","transliteration":"Inna Allaha huwa rabbee warabbukum faoAAbudoohu hatha siratun mustaqeemun","translation":"","notes":""},{"id":65,"ref":"43:65","arabic":"فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ ظَلَمُواْ مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ","transliteration":"Faikhtalafa alahzabu min baynihim fawaylun lillatheena thalamoo min AAathabi yawmin aleemin","translation":"","notes":""},{"id":66,"ref":"43:66","arabic":"هَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ","transliteration":"Hal yanthuroona illa alssaAAata an tatiyahum baghtatan wahum la yashAAuroona","translation":"","notes":""},{"id":67,"ref":"43:67","arabic":"ٱلۡأَخِلَّآءُ يَوۡمَئِذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِينَ","transliteration":"Alakhillao yawmaithin baAAduhum libaAAdin AAaduwwun illa almuttaqeena","translation":"","notes":""},{"id":68,"ref":"43:68","arabic":"يَٰعِبَادِ لَا خَوۡفٌ عَلَيۡكُمُ ٱلۡيَوۡمَ وَلَآ أَنتُمۡ تَحۡزَنُونَ","transliteration":"Ya AAibadi la khawfun AAalaykumu alyawma wala antum tahzanoona","translation":"","notes":""},{"id":69,"ref":"43:69","arabic":"ٱلَّذِينَ ءَامَنُواْ بِـَٔايَٰتِنَا وَكَانُواْ مُسۡلِمِينَ","transliteration":"Allatheena amanoo biayatina wakanoo muslimeena","translation":"","notes":""},{"id":70,"ref":"43:70","arabic":"ٱدۡخُلُواْ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَٰجُكُمۡ تُحۡبَرُونَ","transliteration":"Odkhuloo aljannata antum waazwajukum tuhbaroona","translation":"","notes":""},{"id":71,"ref":"43:71","arabic":"يُطَافُ عَلَيۡهِم بِصِحَافٖ مِّن ذَهَبٖ وَأَكۡوَابٖۖ وَفِيهَا مَا تَشۡتَهِيهِ ٱلۡأَنفُسُ وَتَلَذُّ ٱلۡأَعۡيُنُۖ وَأَنتُمۡ فِيهَا خَٰلِدُونَ","transliteration":"Yutafu AAalayhim bisihafin min thahabin waakwabin wafeeha ma tashtaheehi alanfusu watalaththu alaAAyunu waantum feeha khalidoona","translation":"","notes":""},{"id":72,"ref":"43:72","arabic":"وَتِلۡكَ ٱلۡجَنَّةُ ٱلَّتِيٓ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ تَعۡمَلُونَ","transliteration":"Watilka aljannatu allatee oorithtumooha bima kuntum taAAmaloona","translation":"","notes":""},{"id":73,"ref":"43:73","arabic":"لَكُمۡ فِيهَا فَٰكِهَةٞ كَثِيرَةٞ مِّنۡهَا تَأۡكُلُونَ","transliteration":"Lakum feeha fakihatun katheeratun minha takuloona","translation":"","notes":""},{"id":74,"ref":"43:74","arabic":"إِنَّ ٱلۡمُجۡرِمِينَ فِي عَذَابِ جَهَنَّمَ خَٰلِدُونَ","transliteration":"Inna almujrimeena fee AAathabi jahannama khalidoona","translation":"","notes":""},{"id":75,"ref":"43:75","arabic":"لَا يُفَتَّرُ عَنۡهُمۡ وَهُمۡ فِيهِ مُبۡلِسُونَ","transliteration":"La yufattaru AAanhum wahum feehi mublisoona","translation":"","notes":""},{"id":76,"ref":"43:76","arabic":"وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُواْ هُمُ ٱلظَّـٰلِمِينَ","transliteration":"Wama thalamnahum walakin kanoo humu alththalimeena","translation":"","notes":""},{"id":77,"ref":"43:77","arabic":"وَنَادَوۡاْ يَٰمَٰلِكُ لِيَقۡضِ عَلَيۡنَا رَبُّكَۖ قَالَ إِنَّكُم مَّـٰكِثُونَ","transliteration":"Wanadaw ya maliku liyaqdi AAalayna rabbuka qala innakum makithoona","translation":"","notes":""},{"id":78,"ref":"43:78","arabic":"لَقَدۡ جِئۡنَٰكُم بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَكُمۡ لِلۡحَقِّ كَٰرِهُونَ","transliteration":"Laqad jinakum bialhaqqi walakinna aktharakum lilhaqqi karihoona","translation":"","notes":""},{"id":79,"ref":"43:79","arabic":"أَمۡ أَبۡرَمُوٓاْ أَمۡرٗا فَإِنَّا مُبۡرِمُونَ","transliteration":"Am abramoo amran fainna mubrimoona","translation":"","notes":""},{"id":80,"ref":"43:80","arabic":"أَمۡ يَحۡسَبُونَ أَنَّا لَا نَسۡمَعُ سِرَّهُمۡ وَنَجۡوَىٰهُمۚ بَلَىٰ وَرُسُلُنَا لَدَيۡهِمۡ يَكۡتُبُونَ","transliteration":"Am yahsaboona anna la nasmaAAu sirrahum wanajwahum bala warusuluna ladayhim yaktuboona","translation":"","notes":""},{"id":81,"ref":"43:81","arabic":"قُلۡ إِن كَانَ لِلرَّحۡمَٰنِ وَلَدٞ فَأَنَا۠ أَوَّلُ ٱلۡعَٰبِدِينَ","transliteration":"Qul in kana lilrrahmani waladun faana awwalu alAAabideena","translation":"","notes":""},{"id":82,"ref":"43:82","arabic":"سُبۡحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ","transliteration":"Subhana rabbi alssamawati waalardi rabbi alAAarshi AAamma yasifoona","translation":"","notes":""},{"id":83,"ref":"43:83","arabic":"فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ","transliteration":"Fatharhum yakhoodoo wayalAAaboo hatta yulaqoo yawmahumu allathee yooAAadoona","translation":"","notes":""},{"id":84,"ref":"43:84","arabic":"وَهُوَ ٱلَّذِي فِي ٱلسَّمَآءِ إِلَٰهٞ وَفِي ٱلۡأَرۡضِ إِلَٰهٞۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ","transliteration":"Wahuwa allathee fee alssamai ilahun wafee alardi ilahun wahuwa alhakeemu alAAaleemu","translation":"","notes":""},{"id":85,"ref":"43:85","arabic":"وَتَبَارَكَ ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَعِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَإِلَيۡهِ تُرۡجَعُونَ","transliteration":"Watabaraka allathee lahu mulku alssamawati waalardi wama baynahuma waAAindahu AAilmu alssaAAati wailayhi turjaAAoona","translation":"","notes":""},{"id":86,"ref":"43:86","arabic":"وَلَا يَمۡلِكُ ٱلَّذِينَ يَدۡعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن شَهِدَ بِٱلۡحَقِّ وَهُمۡ يَعۡلَمُونَ","transliteration":"Wala yamliku allatheena yadAAoona min doonihi alshshafaAAata illa man shahida bialhaqqi wahum yaAAlamoona","translation":"","notes":""},{"id":87,"ref":"43:87","arabic":"وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَهُمۡ لَيَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ يُؤۡفَكُونَ","transliteration":"Walain saaltahum man khalaqahum layaqoolunna Allahu faanna yufakoona","translation":"","notes":""},{"id":88,"ref":"43:88","arabic":"وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَـٰٓؤُلَآءِ قَوۡمٞ لَّا يُؤۡمِنُونَ","transliteration":"Waqeelihi yarabbi inna haolai qawmun la yuminoona","translation":"","notes":""},{"id":89,"ref":"43:89","arabic":"فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَٰمٞۚ فَسَوۡفَ يَعۡلَمُونَ","transliteration":"Faisfah AAanhum waqul salamun fasawfa yaAAlamoona","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "43:1",
+    "arabic": "حمٓ",
+    "transliteration": "Hameem",
+    "translation": "Ha Mim",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "ref": "43:2",
+    "arabic": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+    "transliteration": "Waalkitabi almubeeni",
+    "translation": "By the Book that makes things clear!",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "ref": "43:3",
+    "arabic": "إِنَّا جَعَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ",
+    "transliteration": "Inna jaAAalnahu quranan AAarabiyyan laAAallakum taAAqiloona",
+    "translation": "We have made it a Qur'aan [reading material] in Arabic, so that you understand.",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "ref": "43:4",
+    "arabic": "وَإِنَّهُۥ فِيٓ أُمِّ ٱلۡكِتَٰبِ لَدَيۡنَا لَعَلِيٌّ حَكِيمٌ",
+    "transliteration": "Wainnahu fee ommi alkitabi ladayna laAAaliyyun hakeemun",
+    "translation": "And it is indeed in the Mother Book with Us, certainly [with contents] of the highest order and wisdom.",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "ref": "43:5",
+    "arabic": "أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمٗا مُّسۡرِفِينَ",
+    "transliteration": "Afanadribu AAankumu alththikra safhan an kuntum qawman musrifeena",
+    "translation": "Should We then keep the divine Message away from you altogether as you are a people steeped in transgression?",
+    "notes": "Man is endowed with intelligence primarily for him to recognize the existence of the sole Creator of the entire universe with everything therein. But most people, under satanic influence, suppress the inevitable conclusion this faculty would throw up. As a result, they become atheists, agnostics or polytheists. The All-knowing, immensely considerate and merciful Creator has not therefore stopped merely at giving man the faculty of intelligence of a higher order than that given to other animals. HE has in addition given them a Book of guidance. HE would not, in His infinite mercy, deprive even an ingrate, sinful people of this guidance."
+  },
+  {
+    "id": 6,
+    "ref": "43:6",
+    "arabic": "وَكَمۡ أَرۡسَلۡنَا مِن نَّبِيّٖ فِي ٱلۡأَوَّلِينَ",
+    "transliteration": "Wakam arsalna min nabiyyin fee alawwaleena",
+    "translation": "And how many of the prophets did We send amongst the ancient peoples!?",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "ref": "43:7",
+    "arabic": "وَمَا يَأۡتِيهِم مِّن نَّبِيٍّ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+    "transliteration": "Wama yateehim min nabiyyin illa kanoo bihi yastahzioona",
+    "translation": "And no prophet did ever come to them but they mocked at him.",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "ref": "43:8",
+    "arabic": "فَأَهۡلَكۡنَآ أَشَدَّ مِنۡهُم بَطۡشٗا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِينَ",
+    "transliteration": "Faahlakna ashadda minhum batshan wamada mathalu alawwaleena",
+    "translation": "And We destroyed those that were stronger in power than these. And gone were the likes of the ancient peoples!",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "ref": "43:9",
+    "arabic": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلۡعَزِيزُ ٱلۡعَلِيمُ",
+    "transliteration": "Walain saaltahum man khalaqa alssamawati waalarda layaqoolunna khalaqahunna alAAazeezu alAAaleemu",
+    "translation": "And were you to question them, ‘Who created the heavens and the earth?’ they would surely reply, ‘the Omnipotent, the All-knowing did surely create them.’",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "ref": "43:10",
+    "arabic": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَجَعَلَ لَكُمۡ فِيهَا سُبُلٗا لَّعَلَّكُمۡ تَهۡتَدُونَ",
+    "transliteration": "Allathee jaAAala lakumu alarda mahdan wajaAAala lakum feeha subulan laAAallakum tahtadoona",
+    "translation": "The One Who has made the earth spread out for you and has made therein ways for you to travel by.",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "ref": "43:11",
+    "arabic": "وَٱلَّذِي نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَنشَرۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ تُخۡرَجُونَ",
+    "transliteration": "Waallathee nazzala mina alssamai maan biqadarin faansharna bihi baldatan maytan kathalika tukhrajoona",
+    "translation": "And the One Who sends down rain from the sky in due measure. And We raise to life therewith a land that is dead. You too will be raised likewise (when you are dead).",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "ref": "43:12",
+    "arabic": "وَٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلۡفُلۡكِ وَٱلۡأَنۡعَٰمِ مَا تَرۡكَبُونَ",
+    "transliteration": "Waallathee khalaqa alazwaja kullaha wajaAAala lakum mina alfulki waalanAAami ma tarkaboona",
+    "translation": "And the One Who has created all things in pairs and has made ships and cattle for you to ride on.",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "ref": "43:13",
+    "arabic": "لِتَسۡتَوُۥاْ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذۡكُرُواْ نِعۡمَةَ رَبِّكُمۡ إِذَا ٱسۡتَوَيۡتُمۡ عَلَيۡهِ وَتَقُولُواْ سُبۡحَٰنَ ٱلَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقۡرِنِينَ",
+    "transliteration": "Litastawoo AAala thuhoorihi thumma tathkuroo niAAmata rabbikum itha istawaytum AAalayhi wataqooloo subhana allathee sakhkhara lana hatha wama kunna lahu muqrineena",
+    "translation": "So that you may mount on their backs, and then remember your Lord’s favour, while so mounted, and say, “Glory to Him Who has made these subservient to us, and we could never have done this by ourselves.”",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "ref": "43:14",
+    "arabic": "وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+    "transliteration": "Wainna ila rabbina lamunqaliboona",
+    "translation": "\"And to our Lord, indeed, must we turn back!\"",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "ref": "43:15",
+    "arabic": "وَجَعَلُواْ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ مُّبِينٌ",
+    "transliteration": "WajaAAaloo lahu min AAibadihi juzan inna alinsana lakafoorun mubeenun",
+    "translation": "And they created partners for Him from amongst His subjects! Man is certainly indeed openly ungrateful [to his Lord].",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "ref": "43:16",
+    "arabic": "أَمِ ٱتَّخَذَ مِمَّا يَخۡلُقُ بَنَاتٖ وَأَصۡفَىٰكُم بِٱلۡبَنِينَ",
+    "transliteration": "Ami ittakhatha mimma yakhluqu banatin waasfakum bialbaneena",
+    "translation": "Has He taken daughters out of what He himself creates and chosen sons for you!?",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "ref": "43:17",
+    "arabic": "وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحۡمَٰنِ مَثَلٗا ظَلَّ وَجۡهُهُۥ مُسۡوَدّٗا وَهُوَ كَظِيمٌ",
+    "transliteration": "Waitha bushshira ahaduhum bima daraba lilrrahmani mathalan thalla wajhuhu muswaddan wahuwa katheemun",
+    "translation": "And when news is given to anyone of them of the birth of one [daughter] like what he allots [in a display of pernicious audacity] to the Gracious One, his face becomes darkened with suppressed anger!",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "ref": "43:18",
+    "arabic": "أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينٖ",
+    "transliteration": "Awaman yunashshao fee alhilyati wahuwa fee alkhisami ghayru mubeenin",
+    "translation": "[The man given the news of a daughter born to him thinks, “Am I now saddled with an offspring] to be brought up in jewellery?” And he lapses into a dilemma [whether to keep the child alive or kill her. Refer Verses 16:58, 59].",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "ref": "43:19",
+    "arabic": "وَجَعَلُواْ ٱلۡمَلَـٰٓئِكَةَ ٱلَّذِينَ هُمۡ عِبَٰدُ ٱلرَّحۡمَٰنِ إِنَٰثًاۚ أَشَهِدُواْ خَلۡقَهُمۡۚ سَتُكۡتَبُ شَهَٰدَتُهُمۡ وَيُسۡـَٔلُونَ",
+    "transliteration": "WajaAAaloo almalaikata allatheena hum AAibadu alrrahmani inathan ashahidoo khalqahum satuktabu shahadatuhum wayusaloona",
+    "translation": "And they make angels, who themselves are subjects of the Gracious One, into females. Did they witness their creation? Their evidence will be recorded, and they will be questioned!",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "ref": "43:20",
+    "arabic": "وَقَالُواْ لَوۡ شَآءَ ٱلرَّحۡمَٰنُ مَا عَبَدۡنَٰهُمۗ مَّا لَهُم بِذَٰلِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا يَخۡرُصُونَ",
+    "transliteration": "Waqaloo law shaa alrrahmanu ma AAabadnahum ma lahum bithalika min AAilmin in hum illa yakhrusoona",
+    "translation": "And they say, “Had the Gracious One so willed, we should not have worshipped them (deities)!” They have no knowledge thereof. Indeed, they do nothing but lie!",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "ref": "43:21",
+    "arabic": "أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا مِّن قَبۡلِهِۦ فَهُم بِهِۦ مُسۡتَمۡسِكُونَ",
+    "transliteration": "Am ataynahum kitaban min qablihi fahum bihi mustamsikoona",
+    "translation": "Had We given them a Writ before this, to which they are holding fast?",
+    "notes": "There has been no divine authority ever for worshipping angels."
+  },
+  {
+    "id": 22,
+    "ref": "43:22",
+    "arabic": "بَلۡ قَالُوٓاْ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهۡتَدُونَ",
+    "transliteration": "Bal qaloo inna wajadna abaana AAala ommatin wainna AAala atharihim muhtadoona",
+    "translation": "But they say, “We did find our fathers following certain community rites, and we do indeed follow in their footsteps.”",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "ref": "43:23",
+    "arabic": "وَكَذَٰلِكَ مَآ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقۡتَدُونَ",
+    "transliteration": "Wakathalika ma arsalna min qablika fee qaryatin min natheerin illa qala mutrafooha inna wajadna abaana AAala ommatin wainna AAala atharihim muqtadoona",
+    "translation": "And, just the same way, We did never send a Warner before you to any people, but the affluent among them said, “We did find our fathers following certain community rites, and we do indeed emulate them.\"",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "ref": "43:24",
+    "arabic": "۞قَٰلَ أَوَلَوۡ جِئۡتُكُم بِأَهۡدَىٰ مِمَّا وَجَدتُّمۡ عَلَيۡهِ ءَابَآءَكُمۡۖ قَالُوٓاْ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
+    "transliteration": "Qala awalaw jitukum biahda mimma wajadtum AAalayhi abaakum qaloo inna bima orsiltum bihi kafiroona",
+    "translation": "He [the Warner] said, “How could you emulate them even when I brought you better guidance than that which you found your fathers following?” They said, “We do indeed deny that you are sent with any divine message at all!”",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "ref": "43:25",
+    "arabic": "فَٱنتَقَمۡنَا مِنۡهُمۡۖ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ",
+    "transliteration": "Faintaqamna minhum faonthur kayfa kana AAaqibatu almukaththibeena",
+    "translation": "We then penalised them. And see what end the liars met with!",
+    "notes": "Those who denied Allah’s Messengers are described here as liars because in denying the Messengers, they acted against their conscience."
+  },
+  {
+    "id": 26,
+    "ref": "43:26",
+    "arabic": "وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ وَقَوۡمِهِۦٓ إِنَّنِي بَرَآءٞ مِّمَّا تَعۡبُدُونَ",
+    "transliteration": "Waith qala ibraheemu liabeehi waqawmihi innanee baraon mimma taAAbudoona",
+    "translation": "And when Abraham said to his father and his people, “I do indeed have nothing to do with what you worship.”",
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "ref": "43:27",
+    "arabic": "إِلَّا ٱلَّذِي فَطَرَنِي فَإِنَّهُۥ سَيَهۡدِينِ",
+    "transliteration": "Illa allathee fataranee fainnahu sayahdeeni",
+    "translation": "“(I do worship none) but Him Who made me, and He will certainly guide me.”",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "ref": "43:28",
+    "arabic": "وَجَعَلَهَا كَلِمَةَۢ بَاقِيَةٗ فِي عَقِبِهِۦ لَعَلَّهُمۡ يَرۡجِعُونَ",
+    "transliteration": "WajaAAalaha kalimatan baqiyatan fee AAaqibihi laAAallahum yarjiAAoona",
+    "translation": "And He [Allah] made it [what Abraham said] an enduring statement among those who came after him, that they may turn back [to Allah].",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "ref": "43:29",
+    "arabic": "بَلۡ مَتَّعۡتُ هَـٰٓؤُلَآءِ وَءَابَآءَهُمۡ حَتَّىٰ جَآءَهُمُ ٱلۡحَقُّ وَرَسُولٞ مُّبِينٞ",
+    "transliteration": "Bal mattaAAtu haolai waabaahum hatta jaahumu alhaqqu warasoolun mubeenun",
+    "translation": "Nevertheless, I did give means of livelihood to these and to their fathers, until the Truth came to them, and a Messenger manifest.",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "ref": "43:30",
+    "arabic": "وَلَمَّا جَآءَهُمُ ٱلۡحَقُّ قَالُواْ هَٰذَا سِحۡرٞ وَإِنَّا بِهِۦ كَٰفِرُونَ",
+    "transliteration": "Walamma jaahumu alhaqqu qaloo hatha sihrun wainna bihi kafiroona",
+    "translation": "And when the Truth came to them, they said, “This is deceptive magic, and we do indeed reject it!”",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "ref": "43:31",
+    "arabic": "وَقَالُواْ لَوۡلَا نُزِّلَ هَٰذَا ٱلۡقُرۡءَانُ عَلَىٰ رَجُلٖ مِّنَ ٱلۡقَرۡيَتَيۡنِ عَظِيمٍ",
+    "transliteration": "Waqaloo lawla nuzzila hatha alquranu AAala rajulin mina alqaryatayni AAatheemun",
+    "translation": "And they say, “Why is not this Qur'aan sent down to some leading man in either of the two cities?”",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "ref": "43:32",
+    "arabic": "أَهُمۡ يَقۡسِمُونَ رَحۡمَتَ رَبِّكَۚ نَحۡنُ قَسَمۡنَا بَيۡنَهُم مَّعِيشَتَهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَرَفَعۡنَا بَعۡضَهُمۡ فَوۡقَ بَعۡضٖ دَرَجَٰتٖ لِّيَتَّخِذَ بَعۡضُهُم بَعۡضٗا سُخۡرِيّٗاۗ وَرَحۡمَتُ رَبِّكَ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
+    "transliteration": "Ahum yaqsimoona rahmata rabbika nahnu qasamna baynahum maAAeeshatahum fee alhayati alddunya warafaAAna baAAdahum fawqa baAAdin darajatin liyattakhitha baAAduhum baAAdan sukhriyyan warahmatu rabbika khayrun mimma yajmaAAoona",
+    "translation": "Is it they who apportion the Mercy of your Lord? It is We Who apportion among them their livelihood in the life of this world! And We raise some of them above others in rank, so that some may take service from others. And the Mercy of your Lord is better than the worldly wealth they amass.",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "ref": "43:33",
+    "arabic": "وَلَوۡلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةٗ وَٰحِدَةٗ لَّجَعَلۡنَا لِمَن يَكۡفُرُ بِٱلرَّحۡمَٰنِ لِبُيُوتِهِمۡ سُقُفٗا مِّن فِضَّةٖ وَمَعَارِجَ عَلَيۡهَا يَظۡهَرُونَ",
+    "transliteration": "Walawla an yakoona alnnasu ommatan wahidatan lajaAAalna liman yakfuru bialrrahmani libuyootihim suqufan min fiddatin wamaAAarija AAalayha yathharoona",
+    "translation": "And were it not that mankind might all go the same (evil) way, We would provide, for everyone that becomes ungrateful towards the Gracious One, silver roofs – and staircases by which to go up – for their houses.",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "ref": "43:34",
+    "arabic": "وَلِبُيُوتِهِمۡ أَبۡوَٰبٗا وَسُرُرًا عَلَيۡهَا يَتَّكِـُٔونَ",
+    "transliteration": "Walibuyootihim abwaban wasururan AAalayha yattakioona",
+    "translation": "And for their houses doors, and couches on which they could recline,",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "ref": "43:35",
+    "arabic": "وَزُخۡرُفٗاۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَٱلۡأٓخِرَةُ عِندَ رَبِّكَ لِلۡمُتَّقِينَ",
+    "transliteration": "Wazukhrufan wain kullu thalika lamma mataAAu alhayati alddunya waalakhiratu AAinda rabbika lilmuttaqeena",
+    "translation": "And adornments of gold. And all those are nothing but conveniences of the present life. And the Hereafter, with your Lord, is for the Righteous.",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "ref": "43:36",
+    "arabic": "وَمَن يَعۡشُ عَن ذِكۡرِ ٱلرَّحۡمَٰنِ نُقَيِّضۡ لَهُۥ شَيۡطَٰنٗا فَهُوَ لَهُۥ قَرِينٞ",
+    "transliteration": "Waman yaAAshu AAan thikri alrrahmani nuqayyid lahu shaytanan fahuwa lahu qareenun",
+    "translation": "If anyone turns away from remembrance of the Gracious One, We appoint for him a devil to be a companion to him.",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "ref": "43:37",
+    "arabic": "وَإِنَّهُمۡ لَيَصُدُّونَهُمۡ عَنِ ٱلسَّبِيلِ وَيَحۡسَبُونَ أَنَّهُم مُّهۡتَدُونَ",
+    "transliteration": "Wainnahum layasuddoonahum AAani alssabeeli wayahsaboona annahum muhtadoona",
+    "translation": "And the devils do certainly indeed hinder them from the Path, and they think they are being guided aright!",
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "ref": "43:38",
+    "arabic": "حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيۡتَ بَيۡنِي وَبَيۡنَكَ بُعۡدَ ٱلۡمَشۡرِقَيۡنِ فَبِئۡسَ ٱلۡقَرِينُ",
+    "transliteration": "Hatta itha jaana qala ya layta baynee wabaynaka buAAda almashriqayni fabisa alqareenu",
+    "translation": "Ultimately, when (such a one that turns away from Allah) comes to Us, he says (to the devil appointed as his companion), “Would that I and you were as far apart as the two Easts are!” And a wretched companion is that devil!",
+    "notes": "The dual word mashriqayn [two Easts] is also used in Verse 55:17. In Chapter 55 both mankind and Jinns are addressed. In that context the two Easts referred to appear to be one for mankind and the other for the Jinn. Mankind knows where its East is, but it does not know where the East of the Jinn lies. In other words, the distance between the two Easts is infinite. The same sense of an infinitely long distance is implied in the use of the same dual word here."
+  },
+  {
+    "id": 39,
+    "ref": "43:39",
+    "arabic": "وَلَن يَنفَعَكُمُ ٱلۡيَوۡمَ إِذ ظَّلَمۡتُمۡ أَنَّكُمۡ فِي ٱلۡعَذَابِ مُشۡتَرِكُونَ",
+    "transliteration": "Walan yanfaAAakumu alyawma ith thalamtum annakum fee alAAathabi mushtarikoona",
+    "translation": "And the Day of Resurrection shall have nothing good for you when you have been wicked. Instead, you shall join others in getting punished!",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "ref": "43:40",
+    "arabic": "أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ أَوۡ تَهۡدِي ٱلۡعُمۡيَ وَمَن كَانَ فِي ضَلَٰلٖ مُّبِينٖ",
+    "transliteration": "Afaanta tusmiAAu alssumma aw tahdee alAAumya waman kana fee dalalin mubeenin",
+    "translation": "Can you then make the deaf to hear, or show the way to the blind or to one gone far astray?",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "ref": "43:41",
+    "arabic": "فَإِمَّا نَذۡهَبَنَّ بِكَ فَإِنَّا مِنۡهُم مُّنتَقِمُونَ",
+    "transliteration": "Faimma nathhabanna bika fainna minhum muntaqimoona",
+    "translation": "Even if We take you away, We shall not fail to exact retribution from them.",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "ref": "43:42",
+    "arabic": "أَوۡ نُرِيَنَّكَ ٱلَّذِي وَعَدۡنَٰهُمۡ فَإِنَّا عَلَيۡهِم مُّقۡتَدِرُونَ",
+    "transliteration": "Aw nuriyannaka allathee waAAadnahum fainna AAalayhim muqtadiroona",
+    "translation": "Or We shall show you what We have promised them; for, indeed, they are completely under our control.",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "ref": "43:43",
+    "arabic": "فَٱسۡتَمۡسِكۡ بِٱلَّذِيٓ أُوحِيَ إِلَيۡكَۖ إِنَّكَ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+    "transliteration": "Faistamsik biallathee oohiya ilayka innaka AAala siratin mustaqeemin",
+    "translation": "So hold fast to the Revelation sent down to you. You are indeed on the Straight Path.",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "ref": "43:44",
+    "arabic": "وَإِنَّهُۥ لَذِكۡرٞ لَّكَ وَلِقَوۡمِكَۖ وَسَوۡفَ تُسۡـَٔلُونَ",
+    "transliteration": "Wainnahu lathikrun laka waliqawmika wasawfa tusaloona",
+    "translation": "And it (the Qur'aan) is certainly indeed the divine Message for you and for your people. And soon shall you (all) be brought to account.",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "ref": "43:45",
+    "arabic": "وَسۡـَٔلۡ مَنۡ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رُّسُلِنَآ أَجَعَلۡنَا مِن دُونِ ٱلرَّحۡمَٰنِ ءَالِهَةٗ يُعۡبَدُونَ",
+    "transliteration": "Waisal man arsalna min qablika min rusulina ajaAAalna min dooni alrrahmani alihatan yuAAbadoona",
+    "translation": "And ask our Messengers whom We sent before you, “Did We appoint any deities, other than the Gracious One, to be worshipped?",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "ref": "43:46",
+    "arabic": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَقَالَ إِنِّي رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ",
+    "transliteration": "Walaqad arsalna moosa biayatina ila firAAawna wamalaihi faqala innee rasoolu rabbi alAAalameena",
+    "translation": "And We did send Moses, with Our Signs, to Pharaoh and his Chiefs: He [Moses] said, \"I am a Messenger of the Lord of the Worlds.\"",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "ref": "43:47",
+    "arabic": "فَلَمَّا جَآءَهُم بِـَٔايَٰتِنَآ إِذَا هُم مِّنۡهَا يَضۡحَكُونَ",
+    "transliteration": "Falamma jaahum biayatina itha hum minha yadhakoona",
+    "translation": "Then when he came to them with Our Signs, they ridiculed those Signs.",
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "ref": "43:48",
+    "arabic": "وَمَا نُرِيهِم مِّنۡ ءَايَةٍ إِلَّا هِيَ أَكۡبَرُ مِنۡ أُخۡتِهَاۖ وَأَخَذۡنَٰهُم بِٱلۡعَذَابِ لَعَلَّهُمۡ يَرۡجِعُونَ",
+    "transliteration": "Wama nureehim min ayatin illa hiya akbaru min okhtiha waakhathnahum bialAAathabi laAAallahum yarjiAAoona",
+    "translation": "And We showed them not any Sign but that which was better than the one preceding. And We seized them with Punishment, so that they turn to Us.",
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "ref": "43:49",
+    "arabic": "وَقَالُواْ يَـٰٓأَيُّهَ ٱلسَّاحِرُ ٱدۡعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهۡتَدُونَ",
+    "transliteration": "Waqaloo ya ayyuha alsahiru odAAu lana rabbaka bima AAahida AAindaka innana lamuhtadoona",
+    "translation": "And they said, “O you magician! Invoke thy Lord for us since He has a covenant with you. We shall certainly be of those guided.”",
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "ref": "43:50",
+    "arabic": "فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِذَا هُمۡ يَنكُثُونَ",
+    "transliteration": "Falamma kashafna AAanhumu alAAathaba itha hum yankuthoona",
+    "translation": "Then as We relieved them of the punishing calamity, they broke their word!",
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "ref": "43:51",
+    "arabic": "وَنَادَىٰ فِرۡعَوۡنُ فِي قَوۡمِهِۦ قَالَ يَٰقَوۡمِ أَلَيۡسَ لِي مُلۡكُ مِصۡرَ وَهَٰذِهِ ٱلۡأَنۡهَٰرُ تَجۡرِي مِن تَحۡتِيٓۚ أَفَلَا تُبۡصِرُونَ",
+    "transliteration": "Wanada firAAawnu fee qawmihi qala ya qawmi alaysa lee mulku misra wahathihi alanharu tajree min tahtee afala tubsiroona",
+    "translation": "And Pharaoh issued a proclamation among his people, saying, “O my people! Are not the dominion of Egypt mine and these streams flowing underneath? Do you not then see all this?”",
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "ref": "43:52",
+    "arabic": "أَمۡ أَنَا۠ خَيۡرٞ مِّنۡ هَٰذَا ٱلَّذِي هُوَ مَهِينٞ وَلَا يَكَادُ يُبِينُ",
+    "transliteration": "Am ana khayrun min hatha allathee huwa maheenun wala yakadu yubeenu",
+    "translation": "“Am I not better than this man (Moses), who is so contemptible and cannot express himself clearly?”",
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "ref": "43:53",
+    "arabic": "فَلَوۡلَآ أُلۡقِيَ عَلَيۡهِ أَسۡوِرَةٞ مِّن ذَهَبٍ أَوۡ جَآءَ مَعَهُ ٱلۡمَلَـٰٓئِكَةُ مُقۡتَرِنِينَ",
+    "transliteration": "Falawla olqiya AAalayhi aswiratun min thahabin aw jaa maAAahu almalaikatu muqtarineena",
+    "translation": "“Then why are not gold bracelets bestowed upon him, or the angels accompanying him?”",
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "ref": "43:54",
+    "arabic": "فَٱسۡتَخَفَّ قَوۡمَهُۥ فَأَطَاعُوهُۚ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ",
+    "transliteration": "Faistakhaffa qawmahu faataAAoohu innahum kanoo qawman fasiqeena",
+    "translation": "Thus did he [Pharaoh] trick his people into obeying him! They were indeed a people depraved.",
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "ref": "43:55",
+    "arabic": "فَلَمَّآ ءَاسَفُونَا ٱنتَقَمۡنَا مِنۡهُمۡ فَأَغۡرَقۡنَٰهُمۡ أَجۡمَعِينَ",
+    "transliteration": "Falamma asafoona intaqamna minhum faaghraqnahum ajmaAAeena",
+    "translation": "Then as they incurred our displeasure, We exacted retribution from them, and drowned them all.",
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "ref": "43:56",
+    "arabic": "فَجَعَلۡنَٰهُمۡ سَلَفٗا وَمَثَلٗا لِّلۡأٓخِرِينَ",
+    "transliteration": "FajaAAalnahum salafan wamathalan lilakhireena",
+    "translation": "And We made them part of history and example for later peoples.",
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "ref": "43:57",
+    "arabic": "۞وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ",
+    "transliteration": "Walamma duriba ibnu maryama mathalan itha qawmuka minhu yasiddoona",
+    "translation": "When (Jesus) the son of Mary is mentioned by way of an example, your people protest!",
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "ref": "43:58",
+    "arabic": "وَقَالُوٓاْ ءَأَٰلِهَتُنَا خَيۡرٌ أَمۡ هُوَۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلَۢاۚ بَلۡ هُمۡ قَوۡمٌ خَصِمُونَ",
+    "transliteration": "Waqaloo aalihatuna khayrun am huwa ma daraboohu laka illa jadalan bal hum qawmun khasimoona",
+    "translation": "And they say, “Are our gods better, or he [Jesus]?” They mention him to you not but by way of argument. Yes, they are a contentious people.",
+    "notes": "Jesus [peace on him] was worshipped then, just as he is now, by Christians. To the pagan Arabs, he was a god just like one of their own gods. So, they argued, why was the Christian god mentioned with respect in the Qur’aan whereas their gods were not?"
+  },
+  {
+    "id": 59,
+    "ref": "43:59",
+    "arabic": "إِنۡ هُوَ إِلَّا عَبۡدٌ أَنۡعَمۡنَا عَلَيۡهِ وَجَعَلۡنَٰهُ مَثَلٗا لِّبَنِيٓ إِسۡرَـٰٓءِيلَ",
+    "transliteration": "In huwa illa AAabdun anAAamna AAalayhi wajaAAalnahu mathalan libanee israeela",
+    "translation": "He [Jesus] was no more than a worshipper of Allah. We granted Our favour to him, and We made him an example for the Children of Israel.",
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "ref": "43:60",
+    "arabic": "وَلَوۡ نَشَآءُ لَجَعَلۡنَا مِنكُم مَّلَـٰٓئِكَةٗ فِي ٱلۡأَرۡضِ يَخۡلُفُونَ",
+    "transliteration": "Walaw nashao lajaAAalna minkum malaikatan fee alardi yakhlufoona",
+    "translation": "And had We so willed, We could certainly have made angels, instead of you, to be our representatives on the earth.",
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "ref": "43:61",
+    "arabic": "وَإِنَّهُۥ لَعِلۡمٞ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+    "transliteration": "Wainnahu laAAilmun lilssaAAati fala tamtarunna biha waittabiAAooni hatha siratun mustaqeemun",
+    "translation": "And this [divine revelation] indeed is definite knowledge of the Hour (the time when the present world will end and the Hereafter begin). Have no doubt then about it, and follow Me. This is the Straight Path.",
+    "notes": "Allah Almighty has given man the gift of enhanced intelligence to enable him, inter alia, to recognize the existence of the Creator without seeing Him physically. But his intelligence is not enough to give him definite knowledge of there being a life after death. He can get this knowledge only through divine revelation."
+  },
+  {
+    "id": 62,
+    "ref": "43:62",
+    "arabic": "وَلَا يَصُدَّنَّكُمُ ٱلشَّيۡطَٰنُۖ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
+    "transliteration": "Wala yasuddannakumu alshshaytanu innahu lakum AAaduwwun mubeenun",
+    "translation": "And let the Satan hinder you not [from the Straight Path]. Indeed, he is an open enemy to you!",
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "ref": "43:63",
+    "arabic": "وَلَمَّا جَآءَ عِيسَىٰ بِٱلۡبَيِّنَٰتِ قَالَ قَدۡ جِئۡتُكُم بِٱلۡحِكۡمَةِ وَلِأُبَيِّنَ لَكُم بَعۡضَ ٱلَّذِي تَخۡتَلِفُونَ فِيهِۖ فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "transliteration": "Walamma jaa AAeesa bialbayyinati qala qad jitukum bialhikmati waliobayyina lakum baAAda allathee takhtalifoona feehi faittaqoo Allaha waateeAAooni",
+    "translation": "And when Jesus came with clear Signs, he said, “Verily, I have come to you with divine revelation spelling out Wisdom, and to make clear to you some of the (points) on which you differ. So, fear Allah, and obey me.”",
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "ref": "43:64",
+    "arabic": "إِنَّ ٱللَّهَ هُوَ رَبِّي وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+    "transliteration": "Inna Allaha huwa rabbee warabbukum faoAAbudoohu hatha siratun mustaqeemun",
+    "translation": "\"Allah is indeed my Lord as also yours! So, worship Him. This is the Straight Path.\"",
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "ref": "43:65",
+    "arabic": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ ظَلَمُواْ مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ",
+    "transliteration": "Faikhtalafa alahzabu min baynihim fawaylun lillatheena thalamoo min AAathabi yawmin aleemin",
+    "translation": "Then the sects had differences among themselves. Woe then to the wicked ones from the punishment of a painful Day!",
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "ref": "43:66",
+    "arabic": "هَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
+    "transliteration": "Hal yanthuroona illa alssaAAata an tatiyahum baghtatan wahum la yashAAuroona",
+    "translation": "Are they waiting for the Hour to come upon them unawares, suddenly?",
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "ref": "43:67",
+    "arabic": "ٱلۡأَخِلَّآءُ يَوۡمَئِذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِينَ",
+    "transliteration": "Alakhillao yawmaithin baAAduhum libaAAdin AAaduwwun illa almuttaqeena",
+    "translation": "Friends on that day will be foes, one to another, the Righteous excepted.",
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "ref": "43:68",
+    "arabic": "يَٰعِبَادِ لَا خَوۡفٌ عَلَيۡكُمُ ٱلۡيَوۡمَ وَلَآ أَنتُمۡ تَحۡزَنُونَ",
+    "transliteration": "Ya AAibadi la khawfun AAalaykumu alyawma wala antum tahzanoona",
+    "translation": "O those who worship me! You shall have no fear that Day, nor shall you grieve.",
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "ref": "43:69",
+    "arabic": "ٱلَّذِينَ ءَامَنُواْ بِـَٔايَٰتِنَا وَكَانُواْ مُسۡلِمِينَ",
+    "transliteration": "Allatheena amanoo biayatina wakanoo muslimeena",
+    "translation": "Those that have believed in Our Verses/Signs and submitted to Allah’s Will.",
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "ref": "43:70",
+    "arabic": "ٱدۡخُلُواْ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَٰجُكُمۡ تُحۡبَرُونَ",
+    "transliteration": "Odkhuloo aljannata antum waazwajukum tuhbaroona",
+    "translation": "Enter the Garden, you and your wives, rejoicing.",
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "ref": "43:71",
+    "arabic": "يُطَافُ عَلَيۡهِم بِصِحَافٖ مِّن ذَهَبٖ وَأَكۡوَابٖۖ وَفِيهَا مَا تَشۡتَهِيهِ ٱلۡأَنفُسُ وَتَلَذُّ ٱلۡأَعۡيُنُۖ وَأَنتُمۡ فِيهَا خَٰلِدُونَ",
+    "transliteration": "Yutafu AAalayhim bisihafin min thahabin waakwabin wafeeha ma tashtaheehi alanfusu watalaththu alaAAyunu waantum feeha khalidoona",
+    "translation": "Dishes and goblets of gold will be passed round to them. And they will have there all that they desire, all that looked pleasing to their eyes. And you shall abide therein for ever.",
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "ref": "43:72",
+    "arabic": "وَتِلۡكَ ٱلۡجَنَّةُ ٱلَّتِيٓ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+    "transliteration": "Watilka aljannatu allatee oorithtumooha bima kuntum taAAmaloona",
+    "translation": "And that will be the Garden you shall be heirs to for your deeds (in worldly life).",
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "ref": "43:73",
+    "arabic": "لَكُمۡ فِيهَا فَٰكِهَةٞ كَثِيرَةٞ مِّنۡهَا تَأۡكُلُونَ",
+    "transliteration": "Lakum feeha fakihatun katheeratun minha takuloona",
+    "translation": "You shall have fruits therein in abundance, to eat from.",
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "ref": "43:74",
+    "arabic": "إِنَّ ٱلۡمُجۡرِمِينَ فِي عَذَابِ جَهَنَّمَ خَٰلِدُونَ",
+    "transliteration": "Inna almujrimeena fee AAathabi jahannama khalidoona",
+    "translation": "The sinners will indeed dwell under punishment in Hell.",
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "ref": "43:75",
+    "arabic": "لَا يُفَتَّرُ عَنۡهُمۡ وَهُمۡ فِيهِ مُبۡلِسُونَ",
+    "transliteration": "La yufattaru AAanhum wahum feehi mublisoona",
+    "translation": "The severity of punishment will not be lightened from them, and they will be overwhelmed with despair there.",
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "ref": "43:76",
+    "arabic": "وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُواْ هُمُ ٱلظَّـٰلِمِينَ",
+    "transliteration": "Wama thalamnahum walakin kanoo humu alththalimeena",
+    "translation": "And We did them no wrong; but they wronged themselves.",
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "ref": "43:77",
+    "arabic": "وَنَادَوۡاْ يَٰمَٰلِكُ لِيَقۡضِ عَلَيۡنَا رَبُّكَۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+    "transliteration": "Wanadaw ya maliku liyaqdi AAalayna rabbuka qala innakum makithoona",
+    "translation": "They will cry, “O Malik [guarding angel of Hell]! Would that your Lord put an end to us!\" He [the guard] will say, “But indeed, you are here to stay.”",
+    "notes": ""
+  },
+  {
+    "id": 78,
+    "ref": "43:78",
+    "arabic": "لَقَدۡ جِئۡنَٰكُم بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَكُمۡ لِلۡحَقِّ كَٰرِهُونَ",
+    "transliteration": "Laqad jinakum bialhaqqi walakinna aktharakum lilhaqqi karihoona",
+    "translation": "Verily, We have brought the Truth to you; but most of you have a hatred for Truth.",
+    "notes": ""
+  },
+  {
+    "id": 79,
+    "ref": "43:79",
+    "arabic": "أَمۡ أَبۡرَمُوٓاْ أَمۡرٗا فَإِنَّا مُبۡرِمُونَ",
+    "transliteration": "Am abramoo amran fainna mubrimoona",
+    "translation": "Do they decide what to do? Then We decide what to do.",
+    "notes": "There is an inevitable divine reaction to every human plan of action. Say, for example, a thief decides to burgle a house one dark night. A divine plan, in relation to that human plan, does immediately get set up. If it is the divine Will that the intended victim be punished for some bad deed on his part, or be put to one of those many trials and tribulations of human life, the thief’s plan gets facilitated and the burglary happens. Otherwise, it fails. Nothing can happen in this world without divine concurrence."
+  },
+  {
+    "id": 80,
+    "ref": "43:80",
+    "arabic": "أَمۡ يَحۡسَبُونَ أَنَّا لَا نَسۡمَعُ سِرَّهُمۡ وَنَجۡوَىٰهُمۚ بَلَىٰ وَرُسُلُنَا لَدَيۡهِمۡ يَكۡتُبُونَ",
+    "transliteration": "Am yahsaboona anna la nasmaAAu sirrahum wanajwahum bala warusuluna ladayhim yaktuboona",
+    "translation": "Or do they think that We hear not their secrecies and their secret talks? Yes, We do! And Our messengers [angels] are with them, recording.",
+    "notes": ""
+  },
+  {
+    "id": 81,
+    "ref": "43:81",
+    "arabic": "قُلۡ إِن كَانَ لِلرَّحۡمَٰنِ وَلَدٞ فَأَنَا۠ أَوَّلُ ٱلۡعَٰبِدِينَ",
+    "transliteration": "Qul in kana lilrrahmani waladun faana awwalu alAAabideena",
+    "translation": "Say, “If the Gracious One had a son, I would be the first to worship him.”",
+    "notes": ""
+  },
+  {
+    "id": 82,
+    "ref": "43:82",
+    "arabic": "سُبۡحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ",
+    "transliteration": "Subhana rabbi alssamawati waalardi rabbi alAAarshi AAamma yasifoona",
+    "translation": "The Lord of the heavens and the earth, the Lord of the Throne – He is free from things they attribute to him!",
+    "notes": ""
+  },
+  {
+    "id": 83,
+    "ref": "43:83",
+    "arabic": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ",
+    "transliteration": "Fatharhum yakhoodoo wayalAAaboo hatta yulaqoo yawmahumu allathee yooAAadoona",
+    "translation": "So let them continue to be engaged in their vain talks and games until they meet the Day promised to them.",
+    "notes": ""
+  },
+  {
+    "id": 84,
+    "ref": "43:84",
+    "arabic": "وَهُوَ ٱلَّذِي فِي ٱلسَّمَآءِ إِلَٰهٞ وَفِي ٱلۡأَرۡضِ إِلَٰهٞۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+    "transliteration": "Wahuwa allathee fee alssamai ilahun wafee alardi ilahun wahuwa alhakeemu alAAaleemu",
+    "translation": "And He is the One worthy of worship in the heaven and worthy of worship on the earth! And He is full of Wisdom and Knowledge.",
+    "notes": ""
+  },
+  {
+    "id": 85,
+    "ref": "43:85",
+    "arabic": "وَتَبَارَكَ ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَعِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَإِلَيۡهِ تُرۡجَعُونَ",
+    "transliteration": "Watabaraka allathee lahu mulku alssamawati waalardi wama baynahuma waAAindahu AAilmu alssaAAati wailayhi turjaAAoona",
+    "translation": "And blessed is He to Whom belongs the absolute sovereignty over the heavens and the earth, and of all in between them. And with Him is the Knowledge of the Hour (the time when the present world will end and the Hereafter begin). And to Him shall you be brought back!",
+    "notes": ""
+  },
+  {
+    "id": 86,
+    "ref": "43:86",
+    "arabic": "وَلَا يَمۡلِكُ ٱلَّذِينَ يَدۡعُونَ مِن دُونِهِ ٱلشَّفَٰعَةَ إِلَّا مَن شَهِدَ بِٱلۡحَقِّ وَهُمۡ يَعۡلَمُونَ",
+    "transliteration": "Wala yamliku allatheena yadAAoona min doonihi alshshafaAAata illa man shahida bialhaqqi wahum yaAAlamoona",
+    "translation": "And those whom they invoke besides Allah have no power of intercession, except for one who bears witness to the Truth. And they know (they have no power)!",
+    "notes": ""
+  },
+  {
+    "id": 87,
+    "ref": "43:87",
+    "arabic": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَهُمۡ لَيَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ يُؤۡفَكُونَ",
+    "transliteration": "Walain saaltahum man khalaqahum layaqoolunna Allahu faanna yufakoona",
+    "translation": "And if you ask them who created them, they will surely say, ‘Allah!’ How then are they deluded (from His Guidance)?",
+    "notes": ""
+  },
+  {
+    "id": 88,
+    "ref": "43:88",
+    "arabic": "وَقِيلِهِۦ يَٰرَبِّ إِنَّ هَـٰٓؤُلَآءِ قَوۡمٞ لَّا يُؤۡمِنُونَ",
+    "transliteration": "Waqeelihi yarabbi inna haolai qawmun la yuminoona",
+    "translation": "And (their delusion induces the Prophet to) exclaim, “O my Lord! These people will never believe.\"",
+    "notes": ""
+  },
+  {
+    "id": 89,
+    "ref": "43:89",
+    "arabic": "فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَٰمٞۚ فَسَوۡفَ يَعۡلَمُونَ",
+    "transliteration": "Faisfah AAanhum waqul salamun fasawfa yaAAlamoona",
+    "translation": "Leave them alone then and say \"Peace!\" Soon shall they know!",
+    "notes": ""
+  }
+]
