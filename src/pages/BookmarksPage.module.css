@@ -79,3 +79,34 @@
 }
 .emptyIcon { font-size: 36px; }
 .emptySub { font-size: 12px; color: var(--text-faint); max-width: 240px; line-height: 1.6; }
+
+.syncBanner {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 10px 16px;
+  background: var(--gold-light);
+  border: none;
+  border-bottom: 1px solid var(--gold-border);
+  color: var(--gold-dark);
+  font-size: 13px;
+  text-align: left;
+  flex-shrink: 0;
+}
+.syncBanner:hover { background: var(--gold-border); }
+.syncBannerCta { margin-left: auto; font-weight: 700; white-space: nowrap; }
+
+.syncedBar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: var(--emerald-light);
+  border-bottom: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--emerald);
+  flex-shrink: 0;
+}
+.syncedEmail { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; opacity: 0.7; }
+.syncSignOut { font-size: 11px; color: var(--text-faint); background: none; border: none; text-decoration: underline; }

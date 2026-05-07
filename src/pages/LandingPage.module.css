@@ -459,6 +459,98 @@
 }
 .ctaBannerBtn:hover { background: #071F15; transform: translateY(-1px); }
 
+/* ── Blog section ── */
+.blogsSection {
+  padding: 72px 0;
+  background: var(--bg);
+}
+
+.blogsSectionHeader {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 36px;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.writeBtn {
+  background: var(--emerald);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 22px;
+  font-size: 15px;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  transition: background 0.15s;
+  white-space: nowrap;
+}
+.writeBtn:hover { background: var(--emerald-mid); }
+
+.blogsEmpty {
+  background: var(--card);
+  border: 1px dashed var(--border);
+  border-radius: 12px;
+  padding: 40px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.blogsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.blogCard {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--gold-border);
+  border-radius: 12px;
+  padding: 24px;
+  text-align: left;
+  width: 100%;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.blogCard:hover {
+  border-top-color: var(--gold);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+
+.blogCardDate {
+  font-size: 12px;
+  color: var(--gold-dark);
+  font-style: italic;
+}
+
+.blogCardTitle {
+  font-size: 20px;
+  font-family: Georgia, serif;
+  color: var(--text);
+  line-height: 1.35;
+  font-weight: bold;
+}
+
+.blogCardSnippet {
+  font-size: 14px;
+  color: var(--text-muted);
+  line-height: 1.75;
+  flex: 1;
+}
+
+.blogCardReadMore {
+  font-size: 13px;
+  color: var(--gold-dark);
+  font-weight: 600;
+}
+
 /* ── Footer ── */
 .footer {
   background: #071F15;
@@ -472,10 +564,52 @@
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-size: 12px;
   letter-spacing: 0.02em;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 16px;
+}
+
+.footerLeft {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.footerTitle {
+  color: rgba(255,255,255,0.6);
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.footerSub {
+  color: rgba(255,255,255,0.3);
+  font-size: 12px;
+}
+
+.socialRow {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.socialIcon {
+  color: rgba(255,255,255,0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid rgba(255,255,255,0.12);
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  text-decoration: none;
+}
+.socialIcon:hover {
+  color: var(--gold);
+  border-color: rgba(201,168,76,0.4);
+  background: rgba(201,168,76,0.08);
 }
 
 /* ── Verse of the Day ── */

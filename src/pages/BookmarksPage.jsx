@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import styles from './BookmarksPage.module.css'
 
-export default function BookmarksPage({ bookmarks, onOpenSurah }) {
+export default function BookmarksPage({ bookmarks, onOpenSurah, auth }) {
   const [tab, setTab] = useState('all') // all | surah | recent
 
   const { bookmarks: saved, removeBookmark } = bookmarks
@@ -54,6 +54,22 @@ export default function BookmarksPage({ bookmarks, onOpenSurah }) {
           {saved.length === 0 ? 'No saved verses yet' : `${saved.length} verse${saved.length !== 1 ? 's' : ''} saved`}
         </div>
       </div>
+
+      {/* Sync banner */}
+      {auth && !auth.user && (
+        <button className={styles.syncBanner} onClick={auth.signIn}>
+          <span>☁</span>
+          <span>Sign in with Google to sync bookmarks across all your devices</span>
+          <span className={styles.syncBannerCta}>Sign in →</span>
+        </button>
+      )}
+      {auth && auth.user && bookmarks.synced && (
+        <div className={styles.syncedBar}>
+          <span>☁ Synced</span>
+          <span className={styles.syncedEmail}>{auth.user.email}</span>
+          <button className={styles.syncSignOut} onClick={auth.logOut}>Sign out</button>
+        </div>
+      )}
 
       <div className={styles.tabs}>
         {[['all','All'],['surah','By Surah'],['recent','Recent']].map(([key,label]) => (

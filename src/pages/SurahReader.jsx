@@ -10,10 +10,14 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [notesVisible, setNotesVisible] = useState(true)
   const [hiddenNotes, setHiddenNotes] = useState(new Set())
   const [jumpVal, setJumpVal] = useState('')
+  const [surahVal, setSurahVal] = useState('')
   const [fontScale, setFontScale] = useState(() => parseInt(localStorage.getItem('fontScale') || '2'))
   const [copiedRef, setCopiedRef] = useState(null)
   const [highlightedRef, setHighlightedRef] = useState(null)
   const [showScrollTop, setShowScrollTop] = useState(false)
+  const [refSheet, setRefSheet] = useState(null)
+  const [refVerseData, setRefVerseData] = useState(null)
+  const [refLoading, setRefLoading] = useState(false)
   const contentRef = useRef(null)
 
   const prevSurah = chapters.find(c => c.id === surah.id - 1)
@@ -84,6 +88,15 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
     })
   }
 
+  const jumpToSurah = () => {
+    const n = parseInt(surahVal)
+    if (n >= 1 && n <= 114) {
+      const target = chapters.find(c => c.id === n)
+      if (target) navigateTo(target)
+    }
+    setSurahVal('')
+  }
+
   const jumpToVerse = () => {
     const n = parseInt(jumpVal)
     if (n >= 1 && n <= surah.total_verses) {
@@ -118,6 +131,24 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
     onNavigate(target)
   }
 
+  const openRefSheet = (ref) => {
+    const [surahId, verseId] = ref.split(':').map(Number)
+    setRefSheet({ surahId, verseId, ref })
+    setRefVerseData(null)
+    setRefLoading(true)
+    fetch(`/data/surah_${surahId}.json`)
+      .then(r => r.json())
+      .then(data => {
+        setRefVerseData(data.find(v => v.id === verseId) || null)
+        setRefLoading(false)
+      })
+  }
+
+  const closeRefSheet = () => {
+    setRefSheet(null)
+    setRefVerseData(null)
+  }
+
   return (
     <div className={styles.page}>
       {/* Header */}
@@ -148,26 +179,36 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
         </div>
       </div>
 
-      {/* Bismillah */}
-      {surah.id !== 9 && (
-        <div className={styles.bismillah}>
-          <span className={styles.bismillahAr}>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</span>
-          <span className={styles.bismillahEn}>In the Name of Allah, the Gracious, the Merciful</span>
-        </div>
-      )}
-
       {/* Controls bar */}
       <div className={styles.controlBar}>
-        <div className={styles.jumpWrap}>
-          <input
-            className={styles.jumpInput}
-            type="number"
-            placeholder={`1–${surah.total_verses}`}
-            value={jumpVal}
-            onChange={e => setJumpVal(e.target.value)}
-            onKeyDown={e => e.key === 'Enter' && jumpToVerse()}
-          />
-          <button className={styles.jumpBtn} onClick={jumpToVerse}>Go</button>
+        <div className={styles.controlsLeft}>
+          <div className={styles.jumpWrap}>
+            <input
+              className={styles.jumpInput}
+              type="number"
+              min="1"
+              max="114"
+              placeholder="S 1–114"
+              value={surahVal}
+              onChange={e => setSurahVal(e.target.value)}
+              onKeyDown={e => e.key === 'Enter' && jumpToSurah()}
+              title="Go to surah"
+            />
+            <button className={styles.jumpBtn} onClick={jumpToSurah}>Go</button>
+          </div>
+          <div className={styles.jumpDivider} />
+          <div className={styles.jumpWrap}>
+            <input
+              className={styles.jumpInput}
+              type="number"
+              placeholder={`1–${surah.total_verses}`}
+              value={jumpVal}
+              onChange={e => setJumpVal(e.target.value)}
+              onKeyDown={e => e.key === 'Enter' && jumpToVerse()}
+              title="Go to verse"
+            />
+            <button className={styles.jumpBtn} onClick={jumpToVerse}>Go</button>
+          </div>
         </div>
         <div className={styles.notesToggleWrap}>
           <span className={styles.notesLabel}>Notes</span>
@@ -183,6 +224,14 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
 
       {/* Verses */}
       <div className={styles.content} ref={contentRef}>
+        {/* Bismillah */}
+        {surah.id !== 9 && (
+          <div className={styles.bismillah}>
+            <span className={styles.bismillahAr}>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</span>
+            <span className={styles.bismillahEn}>In the Name of Allah, the Gracious, the Merciful</span>
+          </div>
+        )}
+
         {loading && (
           <div className={styles.loading}>
             <div className={styles.spinner} />
@@ -251,7 +300,7 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
                     {verse.notes.split('\n\n').filter(Boolean).map((para, i) => (
                       <div key={i} className={styles.notePara}>
                         <span className={styles.noteBullet}>•</span>
-                        <span>{para}</span>
+                        <span>{renderNoteText(para, openRefSheet)}</span>
                       </div>
                     ))}
                   </div>
@@ -302,6 +351,53 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           </svg>
         </button>
       )}
+
+      {/* Reference slide-up sheet */}
+      {refSheet && (
+        <div className={styles.refOverlay} onClick={closeRefSheet}>
+          <div className={styles.refSheet} onClick={e => e.stopPropagation()}>
+            <div className={styles.refSheetHandle} />
+            <div className={styles.refSheetHeader}>
+              <span className={styles.refSheetBadge}>{refSheet.ref}</span>
+              <button className={styles.refSheetClose} onClick={closeRefSheet}>✕</button>
+            </div>
+            {refLoading && (
+              <div className={styles.refSheetLoading}>
+                <div className={styles.spinner} />
+              </div>
+            )}
+            {refVerseData && (
+              <div className={styles.refSheetBody}>
+                <div className={styles.refSheetArabic}>{refVerseData.arabic}</div>
+                {refVerseData.transliteration && (
+                  <div className={styles.refSheetTranslit}>{refVerseData.transliteration}</div>
+                )}
+                {refVerseData.translation && (
+                  <div className={styles.refSheetTranslation}>{refVerseData.translation}</div>
+                )}
+              </div>
+            )}
+            {!refLoading && !refVerseData && (
+              <div className={styles.refSheetLoading}>Verse not found.</div>
+            )}
+          </div>
+        </div>
+      )}
     </div>
   )
+}
+
+function renderNoteText(text, onRefClick) {
+  const parts = text.split(/(\[\d{1,3}:\d{1,3}\])/g)
+  return parts.map((part, i) => {
+    const match = part.match(/^\[(\d{1,3}:\d{1,3})\]$/)
+    if (match) {
+      return (
+        <button key={i} className={styles.refLink} onClick={() => onRefClick(match[1])}>
+          {part}
+        </button>
+      )
+    }
+    return <span key={i}>{part}</span>
+  })
 }
