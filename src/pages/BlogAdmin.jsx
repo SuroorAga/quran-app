@@ -112,6 +112,7 @@ function AdminPanel({ blogs, onPublish, onUpdate, onDelete, onExport, onImport, 
 
   if (view === 'write') {
     return <BlogEditor
+      key={editPost?.id ?? 'new'}
       post={editPost}
       onSave={async (data) => {
         if (editPost) await onUpdate(editPost.id, data)
@@ -211,9 +212,10 @@ function BlogEditor({ post, onSave, onBack, user }) {
   const [uploading, setUploading] = useState(false)
   const imgInputRef = useRef()
 
-  // Load draft from localStorage if new post
-  const draftContent = !post ? (localStorage.getItem(DRAFT_KEY + '_content') || '') : ''
-  const draftTitle  = !post ? (localStorage.getItem(DRAFT_KEY + '_title')   || '') : ''
+  // Load draft only for new posts, never for edits
+  const isNew = !post
+  const draftContent = isNew ? (localStorage.getItem(DRAFT_KEY + '_content') || '') : ''
+  const draftTitle   = isNew ? (localStorage.getItem(DRAFT_KEY + '_title')   || '') : ''
 
   const editor = useEditor({
     extensions: [
@@ -225,17 +227,16 @@ function BlogEditor({ post, onSave, onBack, user }) {
     ],
     content: post?.content || draftContent,
     onUpdate: ({ editor }) => {
-      if (!post) localStorage.setItem(DRAFT_KEY + '_content', editor.getHTML())
+      if (isNew) localStorage.setItem(DRAFT_KEY + '_content', editor.getHTML())
     },
   })
 
-  // Auto-save title draft
   useEffect(() => {
-    if (!post) localStorage.setItem(DRAFT_KEY + '_title', title)
-  }, [title, post])
+    if (isNew) localStorage.setItem(DRAFT_KEY + '_title', title)
+  }, [title, isNew])
 
   useEffect(() => {
-    if (!post && draftTitle) setTitle(draftTitle)
+    if (isNew && draftTitle) setTitle(draftTitle)
   }, [])
 
   const handleSave = async () => {
@@ -244,7 +245,7 @@ function BlogEditor({ post, onSave, onBack, user }) {
     setError(''); setSaving(true)
     try {
       await onSave({ title, content: editor.getHTML() })
-      if (!post) {
+      if (isNew) {
         localStorage.removeItem(DRAFT_KEY + '_content')
         localStorage.removeItem(DRAFT_KEY + '_title')
       }
@@ -369,7 +370,7 @@ function BlogEditor({ post, onSave, onBack, user }) {
         {/* Editor */}
         <EditorContent editor={editor} className={styles.editorContent} />
 
-        {!post && <p className={styles.draftNote}>✦ Draft auto-saved</p>}
+        {isNew && <p className={styles.draftNote}>✦ Draft auto-saved</p>}
       </div>
     </div>
   )

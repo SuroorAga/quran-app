@@ -6,7 +6,6 @@ import BookmarksPage from './pages/BookmarksPage.jsx'
 import LandingPage from './pages/LandingPage.jsx'
 import BlogAdmin from './pages/BlogAdmin.jsx'
 import BlogPost from './pages/BlogPost.jsx'
-import BooksPage from './pages/BooksPage.jsx'
 import { useBookmarks } from './hooks/useBookmarks.js'
 import { useLastRead } from './hooks/useLastRead.js'
 import { useBlogs } from './hooks/useBlogs.js'
@@ -22,7 +21,7 @@ export default function App() {
   const [chapters, setChapters] = useState([])
   const [selectedBlog, setSelectedBlog] = useState(null)
   const [showBlogAdmin, setShowBlogAdmin] = useState(false)
-  const [showBooks, setShowBooks] = useState(false)
+  const openBooks = () => window.open('/books.html', '_blank')
 
   const blogs = useBlogs()
   const auth = useAuth()
@@ -96,15 +95,6 @@ export default function App() {
     )
   }
 
-  /* Books page full-screen */
-  if (showBooks) {
-    return (
-      <div className={styles.app}>
-        <BooksPage onBack={() => setShowBooks(false)} />
-      </div>
-    )
-  }
-
   /* Blog post full-screen */
   if (selectedBlog) {
     return (
@@ -144,7 +134,7 @@ export default function App() {
             onResume={resumeReading}
             onGoHome={() => setShowLanding(true)}
             auth={auth}
-            onOpenBooks={() => setShowBooks(true)}
+            onOpenBooks={openBooks}
             onOpenBlog={() => setTab('blogs')}
           />
         )}
@@ -157,6 +147,7 @@ export default function App() {
             initialVerseId={resumeVerseId}
             chapters={chapters}
             onNavigate={openSurah}
+            onGoHome={() => { setShowLanding(true); setSelectedSurah(null) }}
           />
         )}
         {tab === 'search' && (
@@ -184,8 +175,12 @@ export default function App() {
       </div>
 
       <nav className={styles.nav}>
-        <button className={`${styles.navItem} ${tab === 'surahs' ? styles.navActive : ''}`} onClick={() => setTab('surahs')}>
-          <IconSurahs active={tab === 'surahs'} />
+        <button className={styles.navItem} onClick={() => { setShowLanding(true); setSelectedSurah(null) }}>
+          <IconHome />
+          <span>Home</span>
+        </button>
+        <button className={`${styles.navItem} ${tab === 'surahs' ? styles.navActive : ''}`} onClick={() => { setTab('surahs'); setSelectedSurah(null) }}>
+          <IconSurahs active={tab === 'surahs' && !selectedSurah} />
           <span>Surahs</span>
         </button>
         <button className={`${styles.navItem} ${tab === 'search' ? styles.navActive : ''}`} onClick={() => setTab('search')}>
@@ -249,6 +244,15 @@ function BlogsListTab({ blogs, onOpenPost, onOpenAdmin, isAdmin }) {
         ))}
       </div>
     </div>
+  )
+}
+
+function IconHome() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+      <path d="M3 9.5L10 3l7 6.5V17a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"/>
+      <path d="M7 18v-6h6v6" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"/>
+    </svg>
   )
 }
 

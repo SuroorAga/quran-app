@@ -4,7 +4,7 @@ import styles from './SurahReader.module.css'
 const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px']
 const AR_SIZES = ['20px', '24px', '28px', '33px', '38px', '46px', '56px']
 
-export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, initialVerseId, chapters = [], onNavigate }) {
+export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, initialVerseId, chapters = [], onNavigate, onGoHome }) {
   const [verses, setVerses] = useState([])
   const [loading, setLoading] = useState(true)
   const [notesVisible, setNotesVisible] = useState(true)
@@ -159,6 +159,14 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           </svg>
           Back
         </button>
+        {onGoHome && (
+          <button className={styles.homeBtn} onClick={onGoHome} title="Go to home">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="none">
+              <path d="M3 9.5L10 3l7 6.5V17a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M7 18v-5h6v5" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+            </svg>
+          </button>
+        )}
         <div className={styles.headerInfo}>
           <div className={styles.headerTitle}>{surah.transliteration} · {surah.name}</div>
           <div className={styles.headerSub}>Chapter {surah.id} · {surah.total_verses} verses · {surah.type === 'meccan' ? 'Meccan' : 'Medinan'}</div>

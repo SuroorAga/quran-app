@@ -186,7 +186,7 @@ export default function LandingPage({ onEnter, blogs = [], onOpenBlog, onWriteBl
               <p className={styles.sectionEyebrow}>From the Author</p>
               <h2 className={styles.sectionTitle}>Mohammad Shafi's Reflections</h2>
             </div>
-            {onWriteBlog && (
+            {auth?.isAdmin && onWriteBlog && (
               <button className={styles.writeBtn} onClick={onWriteBlog}>
                 ✍ Write a Post
               </button>
@@ -195,20 +195,30 @@ export default function LandingPage({ onEnter, blogs = [], onOpenBlog, onWriteBl
 
           {blogs.length === 0 ? (
             <div className={styles.blogsEmpty}>
-              <p>No posts yet. Tap <strong>Write a Post</strong> to publish your first reflection.</p>
+              <p>No reflections published yet — check back soon.</p>
             </div>
           ) : (
             <div className={styles.blogsGrid}>
-              {blogs.slice(0, 3).map(post => (
+              {blogs.slice(0, 3).map((post, idx) => (
                 <button key={post.id} className={styles.blogCard} onClick={() => onOpenBlog?.(post)}>
-                  <div className={styles.blogCardDate}>
-                    {new Date(post.date).toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' })}
+                  {/* Cover image or themed placeholder */}
+                  {post.coverImage ? (
+                    <div className={styles.blogCardImg} style={{ backgroundImage: `url(${post.coverImage})` }} />
+                  ) : (
+                    <div className={`${styles.blogCardImg} ${styles.blogCardImgPlaceholder}`}>
+                      <span className={styles.blogCardAr}>{['﴾وَنُنَزِّلُ﴿','﴾اقۡرَأۡ﴿','﴾نُّورٌ﴿'][idx % 3]}</span>
+                    </div>
+                  )}
+                  <div className={styles.blogCardBody}>
+                    <div className={styles.blogCardDate}>
+                      {new Date(post.date).toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' })}
+                    </div>
+                    <h3 className={styles.blogCardTitle}>{post.title}</h3>
+                    <p className={styles.blogCardSnippet}>
+                      {stripHtml(post.content).slice(0, 140)}{stripHtml(post.content).length > 140 ? '…' : ''}
+                    </p>
+                    <span className={styles.blogCardReadMore}>Read more →</span>
                   </div>
-                  <h3 className={styles.blogCardTitle}>{post.title}</h3>
-                  <p className={styles.blogCardSnippet}>
-                    {post.content.slice(0, 160)}{post.content.length > 160 ? '…' : ''}
-                  </p>
-                  <span className={styles.blogCardReadMore}>Read more →</span>
                 </button>
               ))}
             </div>
@@ -327,6 +337,10 @@ function IconSearch() {
 }
 function IconBookmark() {
   return <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+}
+
+function stripHtml(html = '') {
+  return html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim()
 }
 
 function SocialIcon({ platform }) {
