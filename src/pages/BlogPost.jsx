@@ -41,14 +41,16 @@ export default function BlogPost({ post, onBack }) {
 
       <div className={styles.scroll}>
         <article className={styles.article}>
+          {post.coverImage && (
+            <img src={post.coverImage} alt="" className={styles.coverImage} onError={e => e.target.style.display='none'} />
+          )}
           <div className={styles.meta}>{fmtDate(post.date)}</div>
           <h1 className={styles.title}>{post.title}</h1>
           <div className={styles.divider} />
-          <div className={styles.body}>
-            {post.content.split('\n\n').filter(Boolean).map((para, i) => (
-              <p key={i}>{para}</p>
-            ))}
-          </div>
+          <div
+            className={styles.body}
+            dangerouslySetInnerHTML={{ __html: post.content }}
+          />
           <div className={styles.footerShare}>
             <p className={styles.footerShareLabel}>Share this post</p>
             <div className={styles.shareBtns}>

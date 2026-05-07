@@ -48,6 +48,25 @@
   filter: drop-shadow(0 4px 24px rgba(201,168,76,0.25));
 }
 
+.burgerBtn {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 6px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.burgerLine {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: var(--emerald);
+  border-radius: 2px;
+}
+
 .navCta {
   background: transparent;
   color: var(--gold-dark);

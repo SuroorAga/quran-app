@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import styles from './LandingPage.module.css'
 import Logo from '../components/Logo.jsx'
+import BurgerMenu from '../components/BurgerMenu.jsx'
 import { getVerseOfTheDayRef } from '../utils/verseOfTheDay.js'
 
 // ── Social media links — fill in real URLs here ──────────────────────────
@@ -12,9 +13,10 @@ const SOCIAL_LINKS = [
   // { platform: 'whatsapp',  url: 'https://wa.me/YOUR_NUMBER',         label: 'WhatsApp'  },
 ]
 
-export default function LandingPage({ onEnter, blogs = [], onOpenBlog, onWriteBlog }) {
+export default function LandingPage({ onEnter, blogs = [], onOpenBlog, onWriteBlog, onOpenBooks, auth, darkMode, toggleDarkMode }) {
   const [votd, setVotd] = useState(null)
   const [votdSurah, setVotdSurah] = useState(null)
+  const [burgerOpen, setBurgerOpen] = useState(false)
 
   useEffect(() => {
     const ref = getVerseOfTheDayRef()
@@ -32,9 +34,28 @@ export default function LandingPage({ onEnter, blogs = [], onOpenBlog, onWriteBl
   return (
     <div className={styles.page}>
 
+      <BurgerMenu
+        open={burgerOpen}
+        onClose={() => setBurgerOpen(false)}
+        darkMode={darkMode}
+        toggleDarkMode={toggleDarkMode}
+        auth={auth}
+        context="landing"
+        onNavigate={{
+          openApp: onEnter,
+          blog: onOpenBlog,
+          books: onOpenBooks,
+        }}
+      />
+
       {/* Nav */}
       <header className={styles.nav}>
         <div className={styles.navInner}>
+          <button className={styles.burgerBtn} onClick={() => setBurgerOpen(true)}>
+            <span className={styles.burgerLine} />
+            <span className={styles.burgerLine} />
+            <span className={styles.burgerLine} />
+          </button>
           <span className={styles.navLogo}>
             <Logo size={28} />
             Qur'aanic Studies

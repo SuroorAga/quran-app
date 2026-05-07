@@ -77,6 +77,14 @@
   padding: 28px 20px 48px;
 }
 
+.coverImage {
+  width: calc(100% + 40px);
+  margin: -28px -20px 24px;
+  max-height: 260px;
+  object-fit: cover;
+  display: block;
+}
+
 .meta {
   font-size: 14px;
   color: var(--gold-dark);
@@ -103,10 +111,17 @@
   font-size: 19px;
   color: var(--text);
   line-height: 2.0;
-  display: flex;
-  flex-direction: column;
-  gap: 18px;
 }
+.body :global(h2) { font-size: 26px; font-weight: bold; margin: 28px 0 12px; color: var(--text); }
+.body :global(h3) { font-size: 22px; font-weight: bold; margin: 22px 0 10px; color: var(--text); }
+.body :global(p)  { margin: 0 0 16px; }
+.body :global(ul), .body :global(ol) { padding-left: 24px; margin: 12px 0; }
+.body :global(li) { margin: 6px 0; }
+.body :global(blockquote) { border-left: 4px solid var(--gold); margin: 20px 0; padding: 14px 18px; background: var(--gold-light); border-radius: 0 8px 8px 0; font-style: italic; color: var(--text-muted); }
+.body :global(hr) { border: none; border-top: 2px solid var(--border); margin: 24px 0; }
+.body :global(img) { max-width: 100%; border-radius: 8px; margin: 12px 0; display: block; }
+.body :global(strong) { font-weight: bold; }
+.body :global(em) { font-style: italic; }
 
 .footerShare {
   margin-top: 48px;

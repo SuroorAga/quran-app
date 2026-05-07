@@ -6,6 +6,7 @@ import BookmarksPage from './pages/BookmarksPage.jsx'
 import LandingPage from './pages/LandingPage.jsx'
 import BlogAdmin from './pages/BlogAdmin.jsx'
 import BlogPost from './pages/BlogPost.jsx'
+import BooksPage from './pages/BooksPage.jsx'
 import { useBookmarks } from './hooks/useBookmarks.js'
 import { useLastRead } from './hooks/useLastRead.js'
 import { useBlogs } from './hooks/useBlogs.js'
@@ -21,6 +22,7 @@ export default function App() {
   const [chapters, setChapters] = useState([])
   const [selectedBlog, setSelectedBlog] = useState(null)
   const [showBlogAdmin, setShowBlogAdmin] = useState(false)
+  const [showBooks, setShowBooks] = useState(false)
 
   const blogs = useBlogs()
   const auth = useAuth()
@@ -86,7 +88,20 @@ export default function App() {
         blogs={blogs.blogs}
         onOpenBlog={openBlogFromLanding}
         onWriteBlog={openBlogAdmin}
+        onOpenBooks={() => { setShowLanding(false); setShowBooks(true) }}
+        auth={auth}
+        darkMode={darkMode}
+        toggleDarkMode={() => setDarkMode(d => !d)}
       />
+    )
+  }
+
+  /* Books page full-screen */
+  if (showBooks) {
+    return (
+      <div className={styles.app}>
+        <BooksPage onBack={() => setShowBooks(false)} />
+      </div>
     )
   }
 
@@ -128,6 +143,9 @@ export default function App() {
             lastRead={lastRead}
             onResume={resumeReading}
             onGoHome={() => setShowLanding(true)}
+            auth={auth}
+            onOpenBooks={() => setShowBooks(true)}
+            onOpenBlog={() => setTab('blogs')}
           />
         )}
         {tab === 'surahs' && selectedSurah && (

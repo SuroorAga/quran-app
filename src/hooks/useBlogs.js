@@ -19,26 +19,43 @@ export function useBlogs() {
   const [blogsLoading, setBlogsLoading] = useState(true)
 
   useEffect(() => {
+    // Try ordered query first, fall back to unordered if index missing
     const q = query(collection(db, COL), orderBy('date', 'desc'))
-    const unsub = onSnapshot(q, (snap) => {
-      setBlogs(snap.docs.map(d => {
-        const data = d.data()
-        return { id: d.id, ...data, date: normaliseDate(data.date) }
-      }))
-      setBlogsLoading(false)
-    })
+    const unsub = onSnapshot(q,
+      (snap) => {
+        setBlogs(snap.docs.map(d => {
+          const data = d.data()
+          return { id: d.id, ...data, date: normaliseDate(data.date) }
+        }))
+        setBlogsLoading(false)
+      },
+      (err) => {
+        console.warn('Ordered query failed, falling back:', err.code)
+        // Fall back to unordered collection read
+        const fallback = onSnapshot(collection(db, COL), (snap) => {
+          const items = snap.docs.map(d => {
+            const data = d.data()
+            return { id: d.id, ...data, date: normaliseDate(data.date) }
+          })
+          items.sort((a, b) => new Date(b.date) - new Date(a.date))
+          setBlogs(items)
+          setBlogsLoading(false)
+        })
+        return fallback
+      }
+    )
     return unsub
   }, [])
 
   const publish = ({ title, content }) =>
     addDoc(collection(db, COL), {
       title: title.trim(),
-      content: content.trim(),
+      content,
       date: serverTimestamp(),
     })
 
   const update = (id, { title, content }) =>
-    updateDoc(doc(db, COL, id), { title: title.trim(), content: content.trim() })
+    updateDoc(doc(db, COL, id), { title: title.trim(), content })
 
   const remove = (id) => deleteDoc(doc(db, COL, id))
 

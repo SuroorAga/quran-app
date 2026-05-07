@@ -1,0 +1,308 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 500;
+  animation: fadeIn 0.2s ease;
+}
+@keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+
+.drawer {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 300px;
+  background: #071F15;
+  border-right: 1px solid rgba(201,168,76,0.25);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  animation: slideIn 0.28s cubic-bezier(0.32, 0.72, 0, 1);
+}
+@keyframes slideIn { from { transform: translateX(-100%) } to { transform: translateX(0) } }
+
+/* Brand */
+.brand {
+  background: linear-gradient(160deg, #0A3D2B 0%, #071F15 100%);
+  padding: 20px 20px 24px;
+  border-bottom: 1px solid rgba(201,168,76,0.2);
+  position: relative;
+}
+
+.closeBtn {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: rgba(201,168,76,0.1);
+  border: 1px solid rgba(201,168,76,0.2);
+  color: rgba(201,168,76,0.7);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.closeBtn:hover { background: rgba(201,168,76,0.2); color: var(--gold); }
+
+.brandCenter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.brandTitle {
+  font-size: 18px;
+  font-family: Georgia, serif;
+  font-weight: bold;
+  color: white;
+  letter-spacing: 0.02em;
+}
+
+.brandSub {
+  font-size: 11px;
+  color: rgba(201,168,76,0.7);
+  font-style: italic;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+.brandAr {
+  text-align: center;
+  font-family: var(--arabic-font);
+  font-size: 16px;
+  color: rgba(201,168,76,0.5);
+  direction: rtl;
+  letter-spacing: 0.05em;
+}
+
+/* Nav */
+.nav {
+  padding: 12px 12px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.navItem {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 16px;
+  border-radius: 10px;
+  background: transparent;
+  border: none;
+  color: rgba(201,168,76,0.75);
+  font-size: 16px;
+  font-family: Georgia, serif;
+  text-align: left;
+  transition: background 0.15s, color 0.15s;
+  width: 100%;
+}
+.navItem:hover {
+  background: rgba(201,168,76,0.08);
+  color: #D4AF6A;
+}
+
+.navItemPrimary {
+  color: white;
+  background: rgba(201,168,76,0.1);
+  border: 1px solid rgba(201,168,76,0.2);
+  margin-bottom: 4px;
+}
+.navItemPrimary:hover { background: rgba(201,168,76,0.18); color: white; }
+
+.navItemBooks { color: #D4AF6A; }
+.navItemBooks:hover { background: rgba(201,168,76,0.12); }
+
+.navIcon {
+  width: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  opacity: 0.9;
+}
+
+.navLabel { flex: 1; }
+
+.navArrow {
+  font-size: 14px;
+  opacity: 0.6;
+}
+
+.shopBadge {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  background: rgba(201,168,76,0.2);
+  color: #D4AF6A;
+  border: 1px solid rgba(201,168,76,0.35);
+  padding: 3px 9px;
+  border-radius: 12px;
+}
+
+/* Divider */
+.divider {
+  height: 1px;
+  background: rgba(201,168,76,0.15);
+  margin: 8px 16px;
+}
+
+/* Dark mode toggle */
+.setting {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+}
+
+.settingLabel {
+  font-size: 14px;
+  color: rgba(201,168,76,0.7);
+  font-family: Georgia, serif;
+}
+
+.toggle {
+  width: 44px;
+  height: 24px;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(201,168,76,0.2);
+  position: relative;
+  transition: background 0.2s;
+  flex-shrink: 0;
+}
+.toggleOn { background: rgba(201,168,76,0.3); border-color: rgba(201,168,76,0.5); }
+
+.toggleKnob {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.5);
+  top: 2px;
+  left: 2px;
+  transition: left 0.2s, background 0.2s;
+}
+.toggleOn .toggleKnob { left: 22px; background: #D4AF6A; }
+
+/* Auth */
+.authArea {
+  padding: 12px 16px;
+}
+
+.userCard {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 14px;
+  background: rgba(201,168,76,0.06);
+  border: 1px solid rgba(201,168,76,0.15);
+  border-radius: 12px;
+}
+
+.userAvatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid rgba(201,168,76,0.3);
+  flex-shrink: 0;
+}
+
+.userAvatarFallback {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgba(201,168,76,0.2);
+  border: 2px solid rgba(201,168,76,0.3);
+  color: #D4AF6A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.userInfo { flex: 1; min-width: 0; }
+
+.userName {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(255,255,255,0.9);
+  font-family: Georgia, serif;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.userEmail {
+  font-size: 11px;
+  color: rgba(201,168,76,0.5);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 4px;
+}
+
+.userSync {
+  font-size: 11px;
+  color: rgba(100,200,140,0.7);
+  font-style: italic;
+}
+
+.signOutBtn {
+  font-size: 11px;
+  padding: 5px 10px;
+  background: transparent;
+  border: 1px solid rgba(201,168,76,0.2);
+  border-radius: 6px;
+  color: rgba(201,168,76,0.5);
+  flex-shrink: 0;
+  margin-top: 2px;
+  transition: all 0.15s;
+}
+.signOutBtn:hover { border-color: rgba(192,57,43,0.5); color: rgba(192,57,43,0.8); }
+
+.signInBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  padding: 13px 16px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(201,168,76,0.2);
+  border-radius: 10px;
+  color: rgba(255,255,255,0.8);
+  font-size: 15px;
+  font-family: Georgia, serif;
+  transition: background 0.15s, border-color 0.15s;
+}
+.signInBtn:hover { background: rgba(255,255,255,0.1); border-color: rgba(201,168,76,0.4); }
+
+/* Bottom ornament */
+.ornament {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 20px 24px;
+  margin-top: auto;
+}
+
+.ornamentLine {
+  flex: 1;
+  height: 1px;
+  background: rgba(201,168,76,0.15);
+}
+
+.ornamentDot {
+  color: rgba(201,168,76,0.3);
+  font-size: 12px;
+}
