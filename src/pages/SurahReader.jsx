@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 import styles from './SurahReader.module.css'
 
 const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px']
@@ -10,7 +10,6 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [notesVisible, setNotesVisible] = useState(true)
   const [hiddenNotes, setHiddenNotes] = useState(new Set())
   const [jumpVal, setJumpVal] = useState('')
-  const [surahVal, setSurahVal] = useState('')
   const [fontScale, setFontScale] = useState(() => parseInt(localStorage.getItem('fontScale') || '2'))
   const [copiedRef, setCopiedRef] = useState(null)
   const [highlightedRef, setHighlightedRef] = useState(null)
@@ -19,6 +18,7 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [refVerseData, setRefVerseData] = useState(null)
   const [refLoading, setRefLoading] = useState(false)
   const contentRef = useRef(null)
+  const verseJumpTimer = useRef(null)
 
   const prevSurah = chapters.find(c => c.id === surah.id - 1)
   const nextSurah = chapters.find(c => c.id === surah.id + 1)
@@ -88,29 +88,25 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
     })
   }
 
-  const jumpToSurah = () => {
-    const n = parseInt(surahVal)
-    if (n >= 1 && n <= 114) {
-      const target = chapters.find(c => c.id === n)
-      if (target) navigateTo(target)
-    }
-    setSurahVal('')
-  }
-
-  const jumpToVerse = () => {
-    const n = parseInt(jumpVal)
-    if (n >= 1 && n <= surah.total_verses) {
-      const el = document.getElementById(`verse-${surah.id}-${n}`)
-      if (el) {
-        el.scrollIntoView({ behavior: 'smooth', block: 'start' })
-        const ref = verses.find(v => v.id === n)?.ref
-        if (ref) {
-          setHighlightedRef(ref)
-          setTimeout(() => setHighlightedRef(null), 1800)
-        }
+  const scrollToVerse = useCallback((n) => {
+    const el = document.getElementById(`verse-${surah.id}-${n}`)
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      const ref = verses.find(v => v.id === n)?.ref
+      if (ref) {
+        setHighlightedRef(ref)
+        setTimeout(() => setHighlightedRef(null), 1800)
       }
     }
-    setJumpVal('')
+  }, [surah.id, verses])
+
+  const handleVerseChange = (val) => {
+    setJumpVal(val)
+    clearTimeout(verseJumpTimer.current)
+    const n = parseInt(val)
+    if (n >= 1 && n <= surah.total_verses) {
+      verseJumpTimer.current = setTimeout(() => scrollToVerse(n), 400)
+    }
   }
 
   const scrollToTop = () => {
@@ -132,14 +128,19 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   }
 
   const openRefSheet = (ref) => {
-    const [surahId, verseId] = ref.split(':').map(Number)
-    setRefSheet({ surahId, verseId, ref })
+    const match = ref.match(/^(\d+):(\d+)(?:-(\d+))?$/)
+    if (!match) return
+    const surahId = parseInt(match[1])
+    const startVerse = parseInt(match[2])
+    const endVerse = match[3] ? parseInt(match[3]) : startVerse
+    setRefSheet({ surahId, startVerse, endVerse, ref })
     setRefVerseData(null)
     setRefLoading(true)
     fetch(`/data/surah_${surahId}.json`)
       .then(r => r.json())
       .then(data => {
-        setRefVerseData(data.find(v => v.id === verseId) || null)
+        const verses = data.filter(v => v.id >= startVerse && v.id <= endVerse)
+        setRefVerseData(verses.length ? verses : null)
         setRefLoading(false)
       })
   }
@@ -190,33 +191,40 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
       {/* Controls bar */}
       <div className={styles.controlBar}>
         <div className={styles.controlsLeft}>
-          <div className={styles.jumpWrap}>
-            <input
-              className={styles.jumpInput}
-              type="number"
-              min="1"
-              max="114"
-              placeholder="S 1–114"
-              value={surahVal}
-              onChange={e => setSurahVal(e.target.value)}
-              onKeyDown={e => e.key === 'Enter' && jumpToSurah()}
-              title="Go to surah"
-            />
-            <button className={styles.jumpBtn} onClick={jumpToSurah}>Go</button>
-          </div>
+          <select
+            className={styles.surahSelect}
+            value={surah.id}
+            onChange={e => {
+              const target = chapters.find(c => c.id === parseInt(e.target.value))
+              if (target) navigateTo(target)
+            }}
+            title="Jump to surah"
+          >
+            {chapters.map(ch => (
+              <option key={ch.id} value={ch.id}>
+                {ch.id}. {ch.transliteration}
+              </option>
+            ))}
+          </select>
           <div className={styles.jumpDivider} />
-          <div className={styles.jumpWrap}>
-            <input
-              className={styles.jumpInput}
-              type="number"
-              placeholder={`1–${surah.total_verses}`}
-              value={jumpVal}
-              onChange={e => setJumpVal(e.target.value)}
-              onKeyDown={e => e.key === 'Enter' && jumpToVerse()}
-              title="Go to verse"
-            />
-            <button className={styles.jumpBtn} onClick={jumpToVerse}>Go</button>
-          </div>
+          <input
+            className={styles.jumpInput}
+            type="number"
+            min="1"
+            max={surah.total_verses}
+            placeholder={`Verse 1–${surah.total_verses}`}
+            value={jumpVal}
+            onChange={e => handleVerseChange(e.target.value)}
+            onKeyDown={e => {
+              if (e.key === 'Enter') {
+                clearTimeout(verseJumpTimer.current)
+                const n = parseInt(jumpVal)
+                if (n >= 1 && n <= surah.total_verses) scrollToVerse(n)
+                setJumpVal('')
+              }
+            }}
+            title="Jump to verse"
+          />
         </div>
         <div className={styles.notesToggleWrap}>
           <span className={styles.notesLabel}>Notes</span>
@@ -376,13 +384,20 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
             )}
             {refVerseData && (
               <div className={styles.refSheetBody}>
-                <div className={styles.refSheetArabic}>{refVerseData.arabic}</div>
-                {refVerseData.transliteration && (
-                  <div className={styles.refSheetTranslit}>{refVerseData.transliteration}</div>
-                )}
-                {refVerseData.translation && (
-                  <div className={styles.refSheetTranslation}>{refVerseData.translation}</div>
-                )}
+                {refVerseData.map((v, i) => (
+                  <div key={v.ref} className={i > 0 ? styles.refSheetVerseExtra : ''}>
+                    {refVerseData.length > 1 && (
+                      <div className={styles.refSheetVerseBadge}>{v.ref}</div>
+                    )}
+                    <div className={styles.refSheetArabic}>{v.arabic}</div>
+                    {v.transliteration && (
+                      <div className={styles.refSheetTranslit}>{v.transliteration}</div>
+                    )}
+                    {v.translation && (
+                      <div className={styles.refSheetTranslation}>{v.translation}</div>
+                    )}
+                  </div>
+                ))}
               </div>
             )}
             {!refLoading && !refVerseData && (
@@ -396,9 +411,9 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
 }
 
 function renderNoteText(text, onRefClick) {
-  const parts = text.split(/(\[\d{1,3}:\d{1,3}\])/g)
+  const parts = text.split(/(\[\d{1,3}:\d{1,3}(?:-\d{1,3})?\])/g)
   return parts.map((part, i) => {
-    const match = part.match(/^\[(\d{1,3}:\d{1,3})\]$/)
+    const match = part.match(/^\[(\d{1,3}:\d{1,3}(?:-\d{1,3})?)\]$/)
     if (match) {
       return (
         <button key={i} className={styles.refLink} onClick={() => onRefClick(match[1])}>

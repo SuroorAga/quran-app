@@ -64,10 +64,13 @@ export default function SearchPage({ bookmarks, onSelectVerse }) {
     <div className={styles.page}>
       <div className={styles.header}>
         <div className={styles.headerTitle}>Search</div>
+      </div>
+
+      <div className={styles.searchBar}>
         <div className={styles.searchWrap}>
           <svg className={styles.searchIco} width="15" height="15" viewBox="0 0 20 20" fill="none">
-            <circle cx="9" cy="9" r="5" stroke="rgba(255,255,255,0.7)" strokeWidth="2"/>
-            <path d="M13 13l3 3" stroke="rgba(255,255,255,0.7)" strokeWidth="2" strokeLinecap="round"/>
+            <circle cx="9" cy="9" r="5" stroke="var(--text-faint)" strokeWidth="2"/>
+            <path d="M13 13l3 3" stroke="var(--text-faint)" strokeWidth="2" strokeLinecap="round"/>
           </svg>
           <input
             ref={inputRef}

@@ -51,7 +51,7 @@ export default function BookmarksPage({ bookmarks, onOpenSurah, auth }) {
       <div className={styles.header}>
         <div className={styles.headerTitle}>Saved Verses</div>
         <div className={styles.headerSub}>
-          {saved.length === 0 ? 'No saved verses yet' : `${saved.length} verse${saved.length !== 1 ? 's' : ''} saved`}
+          {saved.length === 0 ? 'None saved' : `${saved.length} verse${saved.length !== 1 ? 's' : ''}`}
         </div>
       </div>
 

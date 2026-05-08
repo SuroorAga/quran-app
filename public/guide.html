@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>How to Use · Qur'aanic Studies</title>
+  <style>
+    :root {
+      --green: #0D2818;
+      --gold: #C9A84C;
+      --gold-light: #f5ecd4;
+      --gold-border: rgba(201,168,76,0.35);
+      --text: #1a1714;
+      --muted: #5a5448;
+      --bg: #faf8f4;
+      --card: #ffffff;
+      --border: #e8e2d8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    /* Header */
+    .site-header {
+      background: var(--green);
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 2px solid var(--gold-border);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .site-header-brand {
+      display: flex; align-items: center; gap: 12px;
+    }
+    .site-header svg { flex-shrink: 0; }
+    .site-header-name { color: white; font-size: 17px; font-weight: bold; }
+    .site-header-sub { color: var(--gold); font-size: 12px; font-style: italic; }
+    .open-btn {
+      background: var(--gold);
+      color: var(--green);
+      border: none;
+      border-radius: 8px;
+      padding: 8px 18px;
+      font-size: 14px;
+      font-weight: bold;
+      font-family: Georgia, serif;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    /* Hero */
+    .hero {
+      background: var(--green);
+      color: white;
+      text-align: center;
+      padding: 48px 24px 40px;
+      border-bottom: 2px solid var(--gold-border);
+    }
+    .hero-arabic {
+      font-size: 28px;
+      direction: rtl;
+      margin-bottom: 8px;
+      color: var(--gold);
+      letter-spacing: 0.02em;
+    }
+    .hero-title { font-size: 28px; font-weight: bold; margin-bottom: 6px; }
+    .hero-sub { font-size: 15px; color: rgba(255,255,255,0.7); margin-bottom: 20px; }
+    .hero-desc {
+      font-size: 14px;
+      color: rgba(255,255,255,0.6);
+      max-width: 520px;
+      margin: 0 auto;
+      line-height: 1.8;
+    }
+
+    /* Nav pills */
+    .toc {
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: center;
+      position: sticky;
+      top: 57px;
+      z-index: 9;
+    }
+    .toc a {
+      font-size: 12px;
+      padding: 5px 13px;
+      border-radius: 20px;
+      border: 1px solid var(--gold-border);
+      color: var(--muted);
+      text-decoration: none;
+      transition: all 0.15s;
+      font-family: sans-serif;
+    }
+    .toc a:hover { background: var(--gold-light); color: var(--green); border-color: var(--gold); }
+
+    /* Main content */
+    .main { max-width: 720px; margin: 0 auto; padding: 32px 20px 60px; }
+
+    /* Section */
+    .section { margin-bottom: 48px; scroll-margin-top: 110px; }
+    .section-num {
+      display: inline-block;
+      background: var(--green);
+      color: var(--gold);
+      font-size: 11px;
+      font-weight: bold;
+      font-family: sans-serif;
+      padding: 2px 8px;
+      border-radius: 4px;
+      margin-bottom: 8px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    .section-title {
+      font-size: 22px;
+      font-weight: bold;
+      color: var(--green);
+      margin-bottom: 4px;
+    }
+    .section-intro {
+      font-size: 15px;
+      color: var(--muted);
+      margin-bottom: 20px;
+      font-style: italic;
+    }
+
+    /* Step cards */
+    .steps { display: flex; flex-direction: column; gap: 14px; }
+    .step {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 18px;
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+    }
+    .step-icon {
+      width: 36px; height: 36px;
+      background: var(--gold-light);
+      border: 1px solid var(--gold-border);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+    }
+    .step-body {}
+    .step-title { font-size: 15px; font-weight: bold; color: var(--green); margin-bottom: 3px; }
+    .step-desc { font-size: 14px; color: var(--muted); line-height: 1.65; }
+
+    /* Tips */
+    .tip {
+      background: var(--gold-light);
+      border: 1px solid var(--gold-border);
+      border-left: 4px solid var(--gold);
+      border-radius: 8px;
+      padding: 14px 16px;
+      font-size: 14px;
+      color: #5a4a1a;
+      margin-top: 16px;
+    }
+    .tip strong { color: var(--green); }
+
+    /* Screen mockup */
+    .mockup {
+      background: var(--green);
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin: 16px 0;
+      font-family: sans-serif;
+    }
+    .mockup-bar {
+      background: rgba(255,255,255,0.08);
+      border-radius: 8px;
+      padding: 8px 12px;
+      color: white;
+      font-size: 13px;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .mockup-bar-label { color: var(--gold); font-weight: bold; font-size: 11px; }
+    .mockup-ref {
+      display: inline-block;
+      background: rgba(201,168,76,0.2);
+      border: 1px solid var(--gold-border);
+      color: var(--gold);
+      border-radius: 5px;
+      padding: 1px 7px;
+      font-size: 12px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .mockup-arabic {
+      color: white;
+      font-size: 20px;
+      direction: rtl;
+      text-align: right;
+      line-height: 2;
+      padding: 8px 0 4px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+    .mockup-translit { color: rgba(255,255,255,0.5); font-size: 12px; font-style: italic; padding: 2px 0; }
+    .mockup-translation { color: rgba(255,255,255,0.85); font-size: 13px; padding: 4px 0; }
+
+    /* Feature grid */
+    .feature-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 16px;
+    }
+    @media (max-width: 480px) { .feature-grid { grid-template-columns: 1fr; } }
+    .feature-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px;
+    }
+    .feature-card-icon { font-size: 22px; margin-bottom: 6px; }
+    .feature-card-title { font-size: 14px; font-weight: bold; color: var(--green); margin-bottom: 3px; }
+    .feature-card-desc { font-size: 13px; color: var(--muted); line-height: 1.6; }
+
+    /* Divider */
+    .divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 48px 0;
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--green);
+      color: rgba(255,255,255,0.55);
+      text-align: center;
+      padding: 28px 20px;
+      font-size: 13px;
+      line-height: 1.9;
+    }
+    .footer strong { color: var(--gold); }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="site-header-brand">
+      <svg width="32" height="32" viewBox="0 0 40 40" fill="none">
+        <rect width="40" height="40" rx="10" fill="#C9A84C" fill-opacity="0.15"/>
+        <path d="M20 8c-1.5 3-4 5-7 6 0 8 3 14 7 18 4-4 7-10 7-18-3-1-5.5-3-7-6z" fill="#C9A84C" opacity="0.9"/>
+      </svg>
+      <div>
+        <div class="site-header-name">Qur'aanic Studies</div>
+        <div class="site-header-sub">A Modern Tafsir by Mohammad Shafi</div>
+      </div>
+    </div>
+    <a class="open-btn" href="/">Open App →</a>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-arabic">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</div>
+    <h1 class="hero-title">How to Use the App</h1>
+    <p class="hero-sub">A simple guide for family & friends</p>
+    <p class="hero-desc">
+      This app puts Mohammad Shafi's complete Qur'aanic Studies — all 114 Surahs with Arabic,
+      transliteration, English translation and his verse-by-verse notes — in your pocket.
+      No account needed to read.
+    </p>
+  </section>
+
+  <!-- Quick nav -->
+  <nav class="toc">
+    <a href="#start">Getting Started</a>
+    <a href="#reading">Reading a Surah</a>
+    <a href="#notes">Tafsir Notes</a>
+    <a href="#references">References</a>
+    <a href="#navigate">Navigation</a>
+    <a href="#search">Search</a>
+    <a href="#save">Saving Verses</a>
+    <a href="#votd">Verse of the Day</a>
+    <a href="#tips">Tips</a>
+  </nav>
+
+  <main class="main">
+
+    <!-- 1. Getting Started -->
+    <section class="section" id="start">
+      <div class="section-num">01</div>
+      <h2 class="section-title">Getting Started</h2>
+      <p class="section-intro">Opening the app for the first time.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-icon">🌐</div>
+          <div class="step-body">
+            <div class="step-title">Open the link</div>
+            <div class="step-desc">Tap the link shared with you. The app opens directly in your browser — no download or installation required. It works on any phone, tablet or computer.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">📖</div>
+          <div class="step-body">
+            <div class="step-title">Tap "Begin Reading"</div>
+            <div class="step-desc">The landing page shows a Verse of the Day and introduces the app. Tap <strong>Begin Reading</strong> or <strong>Browse Surahs</strong> to enter.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">🌙</div>
+          <div class="step-body">
+            <div class="step-title">Switch to Dark Mode (optional)</div>
+            <div class="step-desc">Tap the moon/sun icon in the top-right to switch between light and dark themes. Your preference is saved automatically.</div>
+          </div>
+        </div>
+      </div>
+      <div class="tip"><strong>Add to Home Screen:</strong> In your phone's browser, tap Share → "Add to Home Screen" to save the app as an icon, just like a real app.</div>
+    </section>
+
+    <!-- 2. Reading a Surah -->
+    <section class="section" id="reading">
+      <div class="section-num">02</div>
+      <h2 class="section-title">Reading a Surah</h2>
+      <p class="section-intro">Every verse has Arabic text, romanised pronunciation, and an English translation.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-icon">📋</div>
+          <div class="step-body">
+            <div class="step-title">Choose a Surah</div>
+            <div class="step-desc">The Surahs screen lists all 114 chapters. You can filter by <strong>Meccan</strong> or <strong>Medinan</strong> (when each chapter was revealed), or type a name or number in the search box at the top.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">🔤</div>
+          <div class="step-body">
+            <div class="step-title">Each verse shows three layers</div>
+            <div class="step-desc">
+              <strong>Arabic</strong> — the original Qur'aanic text<br/>
+              <strong>Transliteration</strong> — how to pronounce it in English letters<br/>
+              <strong>Translation</strong> — Mohammad Shafi's English meaning
+            </div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">🔠</div>
+          <div class="step-body">
+            <div class="step-title">Adjust the font size</div>
+            <div class="step-desc">Tap <strong>A−</strong> or <strong>A+</strong> in the top-right corner to make text smaller or larger. Your setting is remembered next time.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">💾</div>
+          <div class="step-body">
+            <div class="step-title">Resume where you left off</div>
+            <div class="step-desc">The app remembers the last verse you were reading. When you return, tap <strong>Continue Reading</strong> on the home screen to pick up exactly where you stopped.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mockup">
+        <div class="mockup-bar">
+          <span class="mockup-bar-label">2:255</span>
+          <span style="color:white;font-size:13px;">Al-Baqarah · Ayatul Kursi</span>
+        </div>
+        <div class="mockup-arabic">ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ</div>
+        <div class="mockup-translit">Allahu la ilaha illa huwa al-Hayyu al-Qayyum</div>
+        <div class="mockup-translation">Allah — there is no deity except Him, the Ever-Living, the Sustainer of existence.</div>
+      </div>
+    </section>
+
+    <!-- 3. Tafsir Notes -->
+    <section class="section" id="notes">
+      <div class="section-num">03</div>
+      <h2 class="section-title">Mohammad Shafi's Tafsir Notes</h2>
+      <p class="section-intro">The heart of the app — verse-by-verse explanations drawn entirely from the Qur'aan itself.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-icon">📝</div>
+          <div class="step-body">
+            <div class="step-title">Notes appear below each verse</div>
+            <div class="step-desc">When a verse has a study note from Mohammad Shafi, it appears in a shaded box below the translation. These explain the deeper meaning, historical context, and connections to other verses.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">👁</div>
+          <div class="step-body">
+            <div class="step-title">Show / Hide individual notes</div>
+            <div class="step-desc">Each verse with a note has a <strong>Hide</strong> / <strong>Note</strong> button on the right. Tap it to collapse or expand that note individually.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">🔘</div>
+          <div class="step-body">
+            <div class="step-title">Toggle all notes at once</div>
+            <div class="step-desc">The <strong>Notes</strong> toggle switch in the top control bar turns all notes on or off across the whole Surah at once — useful if you just want to read the translation without commentary.</div>
+          </div>
+        </div>
+      </div>
+      <div class="tip"><strong>Which Surahs have notes?</strong> Notes are available across all 114 Surahs — this is the complete text of the Modern Tafsir.</div>
+    </section>
+
+    <!-- 4. References -->
+    <section class="section" id="references">
+      <div class="section-num">04</div>
+      <h2 class="section-title">Qur'aanic References</h2>
+      <p class="section-intro">Mohammad Shafi frequently references other verses. You can read them with one tap.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-icon">🔗</div>
+          <div class="step-body">
+            <div class="step-title">Tap a reference like [2:255]</div>
+            <div class="step-desc">Inside the notes you'll see references in golden brackets — for example <strong>[4:82]</strong> or <strong>[2:67-71]</strong>. Tap any of them and a panel slides up showing that verse instantly, without leaving your current place.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">📑</div>
+          <div class="step-body">
+            <div class="step-title">Verse ranges show all verses</div>
+            <div class="step-desc">A range like <strong>[18:65-82]</strong> means verses 65 through 82 of Surah 18. Tapping it shows all the verses in that range, stacked in the same panel.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">✕</div>
+          <div class="step-body">
+            <div class="step-title">Close the panel</div>
+            <div class="step-desc">Tap the ✕ button or tap anywhere outside the panel to close it and return to reading.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. Navigation -->
+    <section class="section" id="navigate">
+      <div class="section-num">05</div>
+      <h2 class="section-title">Jumping to Any Surah or Verse</h2>
+      <p class="section-intro">You don't have to scroll — jump directly to where you want to go.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-icon">📂</div>
+          <div class="step-body">
+            <div class="step-title">Surah dropdown</div>
+            <div class="step-desc">Inside the reader, there is a dropdown in the control bar listing all 114 Surahs by name. Select any Surah and it navigates there instantly — no button needed.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">🔢</div>
+          <div class="step-body">
+            <div class="step-title">Jump to a verse</div>
+            <div class="step-desc">Type a verse number in the verse box next to the dropdown (e.g. <strong>255</strong>) and the page scrolls to that verse automatically after a moment, or press Enter immediately.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">⬆</div>
+          <div class="step-body">
+            <div class="step-title">Scroll back to top</div>
+            <div class="step-desc">A green arrow button appears at the bottom-right once you scroll down. Tap it to return to the top of the Surah instantly.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">⏭</div>
+          <div class="step-body">
+            <div class="step-title">Next / Previous Surah</div>
+            <div class="step-desc">At the bottom of every Surah are two buttons to go to the previous or next Surah in order — useful for reading consecutively.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. Search -->
+    <section class="section" id="search">
+      <div class="section-num">06</div>
+      <h2 class="section-title">Searching the Qur'aan</h2>
+      <p class="section-intro">Find any word or phrase across all 114 Surahs in seconds.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-icon">🔍</div>
+          <div class="step-body">
+            <div class="step-title">Tap the Search tab</div>
+            <div class="step-desc">The Search tab is in the bottom navigation bar. Type any English word — from the translation, transliteration, or the tafsir notes.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">🏷</div>
+          <div class="step-body">
+            <div class="step-title">Filter what you search</div>
+            <div class="step-desc">Use the filter pills — <strong>All</strong>, <strong>Translation</strong>, or <strong>Notes</strong> — to narrow results. For example, select Notes to search only within the tafsir commentary.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">↗</div>
+          <div class="step-body">
+            <div class="step-title">Tap a result to open it</div>
+            <div class="step-desc">Each result card shows the verse reference, Arabic, and a snippet of matching text. Tap any card to open that verse in the reader.</div>
+          </div>
+        </div>
+      </div>
+      <div class="tip"><strong>Tip:</strong> Try searching <em>"mercy"</em>, <em>"patience"</em>, or <em>"prayer"</em> to explore what the Qur'aan and the tafsir say about a topic.</div>
+    </section>
+
+    <!-- 7. Saving Verses -->
+    <section class="section" id="save">
+      <div class="section-num">07</div>
+      <h2 class="section-title">Saving Verses</h2>
+      <p class="section-intro">Bookmark any verse to revisit it later.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-icon">🔖</div>
+          <div class="step-body">
+            <div class="step-title">Tap "Save" on any verse</div>
+            <div class="step-desc">Each verse card has a <strong>Save</strong> button. Tap it to bookmark that verse. It turns to <strong>✓ Saved</strong> to confirm. Tap again to remove it.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">📚</div>
+          <div class="step-body">
+            <div class="step-title">View your saved verses</div>
+            <div class="step-desc">Tap the <strong>Saved</strong> tab in the bottom bar. Your bookmarks are shown with options to sort by <strong>All</strong>, <strong>By Surah</strong>, or <strong>Recent</strong>.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">☁</div>
+          <div class="step-body">
+            <div class="step-title">Sign in to sync across devices (optional)</div>
+            <div class="step-desc">Sign in with your Google account from the Saved screen to sync bookmarks across all your devices — phone, tablet, and computer.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 8. Verse of the Day -->
+    <section class="section" id="votd">
+      <div class="section-num">08</div>
+      <h2 class="section-title">Verse of the Day</h2>
+      <p class="section-intro">A different verse every day, chosen from across the Qur'aan.</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-icon">🌅</div>
+          <div class="step-body">
+            <div class="step-title">Shown on the home screen</div>
+            <div class="step-desc">Every day a new verse is featured on the landing page with its Arabic text and English translation. The selection cycles through 536 meaningful verses — including the cross-references from Mohammad Shafi's own notes — so you will rarely see the same verse twice.</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-icon">📖</div>
+          <div class="step-body">
+            <div class="step-title">Tap "Read with Tafsir"</div>
+            <div class="step-desc">Tap the <strong>Read with Tafsir →</strong> button on the verse card to open that exact verse in the reader — including Mohammad Shafi's note if one exists for it.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 9. Tips -->
+    <section class="section" id="tips">
+      <div class="section-num">09</div>
+      <h2 class="section-title">Quick Tips</h2>
+      <p class="section-intro">A few things worth knowing.</p>
+      <div class="feature-grid">
+        <div class="feature-card">
+          <div class="feature-card-icon">📵</div>
+          <div class="feature-card-title">Works offline (partially)</div>
+          <div class="feature-card-desc">Once a Surah has been opened, it stays cached in your browser and can be read without internet.</div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-card-icon">📋</div>
+          <div class="feature-card-title">Copy any verse</div>
+          <div class="feature-card-desc">Each verse has a <strong>Copy</strong> button. It copies the Arabic, transliteration and translation together — ready to paste into WhatsApp or Notes.</div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-card-icon">🔢</div>
+          <div class="feature-card-title">Verse references</div>
+          <div class="feature-card-desc">References like 2:255 mean Surah 2, Verse 255. The first number is always the Surah, the second is the verse.</div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-card-icon">🕌</div>
+          <div class="feature-card-title">Meccan vs Medinan</div>
+          <div class="feature-card-desc">The Surah list filter lets you view only Meccan surahs (revealed before the migration) or Medinan ones (after). 86 are Meccan, 28 are Medinan.</div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-card-icon">📰</div>
+          <div class="feature-card-title">Blog</div>
+          <div class="feature-card-desc">The Blog tab contains posts by Mohammad Shafi. Posts can be shared directly to WhatsApp or Email from inside the post.</div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-card-icon">📚</div>
+          <div class="feature-card-title">PDF Books</div>
+          <div class="feature-card-desc">The Books section lets you download or read the original Qur'aanic Studies volumes as PDF files.</div>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <div style="text-align:center; padding: 0 0 20px;">
+      <p style="color:var(--muted); font-size:14px; margin-bottom:20px;">Ready to begin? Tap below to open the app.</p>
+      <a class="open-btn" href="/" style="font-size:16px; padding: 12px 28px;">Open Qur'aanic Studies →</a>
+    </div>
+
+  </main>
+
+  <footer class="footer">
+    <strong>Qur'aanic Studies — A Modern Tafsir</strong><br/>
+    by Mohammad Shafi · Mumbai, India · Completed 14th May 2018<br/>
+    <span style="font-size:12px;">This app is a gift for the family. Share freely.</span>
+  </footer>
+
+</body>
+</html>

@@ -38,12 +38,19 @@ export default function App() {
     localStorage.setItem('darkMode', String(darkMode))
   }, [darkMode])
 
-  const openSurah = (surah) => {
+  const openSurah = (surah, verseId = null) => {
     setSelectedSurah(surah)
-    setResumeVerseId(null)
+    setResumeVerseId(verseId)
     setTab('surahs')
     saveLastRead(surah, null)
     history.pushState({ surah: true }, '')
+  }
+
+  const openVerse = (surahId, verseId) => {
+    const surah = chapters.find(c => c.id === surahId)
+    if (!surah) return
+    setShowLanding(false)
+    openSurah(surah, verseId)
   }
 
   const resumeReading = () => {
@@ -84,6 +91,7 @@ export default function App() {
     return (
       <LandingPage
         onEnter={() => setShowLanding(false)}
+        onOpenVerse={openVerse}
         blogs={blogs.blogs}
         onOpenBlog={openBlogFromLanding}
         onWriteBlog={openBlogAdmin}

@@ -23,8 +23,7 @@ export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, 
     const matchFilter =
       filter === 'all' ||
       (filter === 'meccan' && ch.type === 'meccan') ||
-      (filter === 'medinan' && ch.type === 'medinan') ||
-      (filter === 'tafsir' && ch.has_tafsir)
+      (filter === 'medinan' && ch.type === 'medinan')
     return matchSearch && matchFilter
   })
 
@@ -122,7 +121,7 @@ export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, 
       </div>
 
       <div className={styles.filters}>
-        {[['all','All 114'],['meccan','Meccan'],['medinan','Medinan'],['tafsir','With Tafsir']].map(([key, label]) => (
+        {[['all','All 114'],['meccan','Meccan'],['medinan','Medinan']].map(([key, label]) => (
           <button key={key} className={`${styles.pill} ${filter === key ? styles.pillActive : ''}`} onClick={() => setFilter(key)}>
             {label}
           </button>
@@ -137,7 +136,6 @@ export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, 
             <div className={styles.info}>
               <div className={styles.name}>{ch.transliteration}</div>
               <div className={styles.meta}>{ch.type === 'meccan' ? 'Meccan' : 'Medinan'} · {ch.total_verses} verses</div>
-              {ch.has_tafsir && <div className={styles.tafsirTag}>Tafsir available</div>}
             </div>
             <div className={styles.arabic}>{ch.name}</div>
           </button>

@@ -13,7 +13,7 @@ const SOCIAL_LINKS = [
   // { platform: 'whatsapp',  url: 'https://wa.me/YOUR_NUMBER',         label: 'WhatsApp'  },
 ]
 
-export default function LandingPage({ onEnter, blogs = [], onOpenBlog, onWriteBlog, onOpenBooks, auth, darkMode, toggleDarkMode }) {
+export default function LandingPage({ onEnter, onOpenVerse, blogs = [], onOpenBlog, onWriteBlog, onOpenBooks, auth, darkMode, toggleDarkMode }) {
   const [votd, setVotd] = useState(null)
   const [votdSurah, setVotdSurah] = useState(null)
   const [burgerOpen, setBurgerOpen] = useState(false)
@@ -129,7 +129,10 @@ export default function LandingPage({ onEnter, blogs = [], onOpenBlog, onWriteBl
                 <span className={styles.votdRef}>
                   {votd.ref}{votdSurah ? ` · ${votdSurah.transliteration}` : ''}
                 </span>
-                <button className={styles.votdCta} onClick={onEnter}>
+                <button
+                  className={styles.votdCta}
+                  onClick={() => onOpenVerse ? onOpenVerse(votd.surahId, votd.id) : onEnter()}
+                >
                   Read with Tafsir →
                 </button>
               </div>

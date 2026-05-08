@@ -46,7 +46,7 @@
 .headerInfo { flex: 1; min-width: 0; }
 
 .headerTitle {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: bold;
   white-space: nowrap;
   overflow: hidden;
@@ -131,10 +131,22 @@
   flex-shrink: 0;
 }
 
-.jumpWrap { display: flex; gap: 6px; align-items: center; }
+.surahSelect {
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 13px;
+  background: var(--bg);
+  color: var(--text);
+  outline: none;
+  max-width: 160px;
+  transition: border-color 0.15s;
+  cursor: pointer;
+}
+.surahSelect:focus { border-color: var(--gold-border); }
 
 .jumpInput {
-  width: 80px;
+  width: 110px;
   padding: 6px 10px;
   border: 1px solid var(--border);
   border-radius: 6px;
@@ -145,18 +157,6 @@
   transition: border-color 0.15s;
 }
 .jumpInput:focus { border-color: var(--gold-border); }
-
-.jumpBtn {
-  padding: 6px 14px;
-  background: var(--emerald);
-  color: white;
-  border: none;
-  border-radius: 6px;
-  font-size: 12px;
-  font-family: Georgia, serif;
-  transition: background 0.15s;
-}
-.jumpBtn:hover { background: #071F15; }
 
 .notesToggleWrap { display: flex; align-items: center; gap: 8px; }
 
@@ -590,4 +590,20 @@
   font-size: 14px;
   color: var(--text);
   line-height: 1.85;
+}
+
+.refSheetVerseExtra {
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.refSheetVerseBadge {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
