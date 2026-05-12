@@ -2,8 +2,8 @@ import { useState, useEffect, useRef, useCallback } from 'react'
 import styles from './SurahReader.module.css'
 import { useQuranAudio, RECITERS } from '../hooks/useQuranAudio.js'
 
-const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px']
-const AR_SIZES = ['20px', '24px', '28px', '33px', '38px', '46px', '56px']
+const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px', '40px', '48px']
+const AR_SIZES = ['20px', '24px', '28px', '33px', '38px', '46px', '56px', '68px', '82px']
 
 export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, initialVerseId, chapters = [], onNavigate, onGoHome }) {
   const [verses, setVerses] = useState([])
@@ -193,8 +193,8 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           >A−</button>
           <button
             className={styles.fontBtn}
-            onClick={() => setFontScale(s => Math.min(6, s + 1))}
-            disabled={fontScale === 6}
+            onClick={() => setFontScale(s => Math.min(8, s + 1))}
+            disabled={fontScale === 8}
             title="Increase font size"
           >A+</button>
         </div>
