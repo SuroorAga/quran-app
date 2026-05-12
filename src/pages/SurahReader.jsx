@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import styles from './SurahReader.module.css'
+import { useQuranAudio, RECITERS } from '../hooks/useQuranAudio.js'
 
 const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px']
 const AR_SIZES = ['20px', '24px', '28px', '33px', '38px', '46px', '56px']
@@ -17,8 +18,11 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [refSheet, setRefSheet] = useState(null)
   const [refVerseData, setRefVerseData] = useState(null)
   const [refLoading, setRefLoading] = useState(false)
+  const [showReciterPicker, setShowReciterPicker] = useState(false)
   const contentRef = useRef(null)
   const verseJumpTimer = useRef(null)
+
+  const audio = useQuranAudio()
 
   const prevSurah = chapters.find(c => c.id === surah.id - 1)
   const nextSurah = chapters.find(c => c.id === surah.id + 1)
@@ -45,6 +49,14 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
       }, 150)
     }
   }, [loading, initialVerseId])
+
+  // Auto-scroll to playing verse
+  useEffect(() => {
+    if (!audio.playingRef) return
+    const [, vid] = audio.playingRef.split(':').map(Number)
+    const el = document.getElementById(`verse-${surah.id}-${vid}`)
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  }, [audio.playingRef, surah.id])
 
   // Track last visible verse for resume reading + scroll-to-top button
   useEffect(() => {
@@ -267,10 +279,24 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
               key={verse.ref}
               id={`verse-${surah.id}-${verse.id}`}
               data-verse-id={verse.id}
-              className={`${styles.verseCard} ${isHighlighted ? styles.verseCardHighlight : ''}`}
+              className={`${styles.verseCard} ${isHighlighted ? styles.verseCardHighlight : ''} ${audio.playingRef === verse.ref ? styles.verseCardPlaying : ''}`}
             >
               <div className={styles.verseTop}>
-                <span className={styles.verseBadge}>{verse.ref}</span>
+                <div className={styles.verseTopLeft}>
+                  <span className={styles.verseBadge}>{verse.ref}</span>
+                  <button
+                    className={`${styles.playBtn} ${audio.playingRef === verse.ref ? styles.playBtnActive : ''}`}
+                    onClick={() => audio.toggle(surah.id, verse.id, verses)}
+                    title={audio.playingRef === verse.ref && audio.isPlaying ? 'Pause' : 'Play'}
+                  >
+                    {audio.playingRef === verse.ref && audio.isLoading
+                      ? <span className={styles.playSpinner} />
+                      : audio.playingRef === verse.ref && audio.isPlaying
+                        ? <PauseIcon />
+                        : <PlayIcon />
+                    }
+                  </button>
+                </div>
                 <div className={styles.verseBtns}>
                   <button
                     className={`${styles.saveBtn} ${bookmarks.isBookmarked(verse.ref) ? styles.saveBtnActive : ''}`}
@@ -406,7 +432,90 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           </div>
         </div>
       )}
+
+      {/* Mini audio player */}
+      {audio.playingRef && (
+        <div className={styles.audioPlayer}>
+          <div className={styles.audioInfo}>
+            <span className={styles.audioRef}>{audio.playingRef}</span>
+            <button
+              className={styles.audioReciterBtn}
+              onClick={() => setShowReciterPicker(p => !p)}
+              title="Change reciter"
+            >
+              {RECITERS.find(r => r.id === audio.reciter)?.name}
+              <svg width="10" height="10" viewBox="0 0 20 20" fill="none">
+                <path d="M5 8l5 5 5-5" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
+              </svg>
+            </button>
+          </div>
+          <div className={styles.audioControls}>
+            <button className={styles.audioSpeedBtn} onClick={audio.cycleSpeed} title="Tap to change speed">
+              {audio.speed === 1 ? '1×' : `${audio.speed}×`}
+            </button>
+            <button className={styles.audioBtn} onClick={audio.playPrev} title="Previous verse">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                <path d="M19 5L9 12l10 7V5z" fill="currentColor" opacity="0.8"/>
+                <rect x="5" y="5" width="2" height="14" rx="1" fill="currentColor"/>
+              </svg>
+            </button>
+            <button className={`${styles.audioBtn} ${styles.audioBtnMain}`} onClick={() => {
+              const [sid, vid] = audio.playingRef.split(':').map(Number)
+              audio.toggle(sid, vid, verses)
+            }} title={audio.isPlaying ? 'Pause' : 'Play'}>
+              {audio.isLoading
+                ? <span className={styles.audioSpinner} />
+                : audio.isPlaying ? <PauseIcon /> : <PlayIcon />
+              }
+            </button>
+            <button className={styles.audioBtn} onClick={audio.playNext} title="Next verse">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+                <path d="M5 5l10 7-10 7V5z" fill="currentColor" opacity="0.8"/>
+                <rect x="17" y="5" width="2" height="14" rx="1" fill="currentColor"/>
+              </svg>
+            </button>
+            <button className={styles.audioStopBtn} onClick={audio.stop} title="Stop">✕</button>
+          </div>
+        </div>
+      )}
+
+      {/* Reciter picker */}
+      {showReciterPicker && (
+        <div className={styles.reciterOverlay} onClick={() => setShowReciterPicker(false)}>
+          <div className={styles.reciterSheet} onClick={e => e.stopPropagation()}>
+            <div className={styles.reciterHandle} />
+            <div className={styles.reciterTitle}>Choose Reciter</div>
+            {RECITERS.map(r => (
+              <button
+                key={r.id}
+                className={`${styles.reciterOption} ${audio.reciter === r.id ? styles.reciterOptionActive : ''}`}
+                onClick={() => { audio.changeReciter(r.id); setShowReciterPicker(false) }}
+              >
+                <span>{r.name}</span>
+                {audio.reciter === r.id && <span className={styles.reciterCheck}>✓</span>}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
+  )
+}
+
+function PlayIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+      <path d="M6 4l14 8-14 8V4z" fill="currentColor"/>
+    </svg>
+  )
+}
+
+function PauseIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+      <rect x="5" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+      <rect x="15" y="4" width="4" height="16" rx="1" fill="currentColor"/>
+    </svg>
   )
 }
 

@@ -1,7 +1,8 @@
 import { useState, useEffect, useRef } from 'react'
 import styles from './SearchPage.module.css'
+import AppHeader from '../components/AppHeader.jsx'
 
-export default function SearchPage({ bookmarks, onSelectVerse }) {
+export default function SearchPage({ bookmarks, onSelectVerse, darkMode, toggleDarkMode, auth, onNavigate }) {
   const [query, setQuery] = useState('')
   const [filter, setFilter] = useState('all') // all | translation | notes
   const [results, setResults] = useState([])
@@ -62,9 +63,13 @@ export default function SearchPage({ bookmarks, onSelectVerse }) {
 
   return (
     <div className={styles.page}>
-      <div className={styles.header}>
-        <div className={styles.headerTitle}>Search</div>
-      </div>
+      <AppHeader
+        darkMode={darkMode}
+        toggleDarkMode={toggleDarkMode}
+        auth={auth}
+        title="Search"
+        onNavigate={onNavigate}
+      />
 
       <div className={styles.searchBar}>
         <div className={styles.searchWrap}>

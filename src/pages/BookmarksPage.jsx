@@ -1,7 +1,8 @@
 import { useState } from 'react'
 import styles from './BookmarksPage.module.css'
+import AppHeader from '../components/AppHeader.jsx'
 
-export default function BookmarksPage({ bookmarks, onOpenSurah, auth }) {
+export default function BookmarksPage({ bookmarks, onOpenSurah, auth, darkMode, toggleDarkMode, onNavigate }) {
   const [tab, setTab] = useState('all') // all | surah | recent
 
   const { bookmarks: saved, removeBookmark } = bookmarks
@@ -48,12 +49,14 @@ export default function BookmarksPage({ bookmarks, onOpenSurah, auth }) {
 
   return (
     <div className={styles.page}>
-      <div className={styles.header}>
-        <div className={styles.headerTitle}>Saved Verses</div>
-        <div className={styles.headerSub}>
-          {saved.length === 0 ? 'None saved' : `${saved.length} verse${saved.length !== 1 ? 's' : ''}`}
-        </div>
-      </div>
+      <AppHeader
+        darkMode={darkMode}
+        toggleDarkMode={toggleDarkMode}
+        auth={auth}
+        title="Saved Verses"
+        subtitle={saved.length === 0 ? 'None saved' : `${saved.length} verse${saved.length !== 1 ? 's' : ''}`}
+        onNavigate={onNavigate}
+      />
 
       {/* Sync banner */}
       {auth && !auth.user && (
