@@ -6,6 +6,7 @@
   overflow: hidden;
 }
 
+/* ── Header ─────────────────────────────── */
 .header {
   display: flex;
   align-items: center;
@@ -21,129 +22,243 @@
   display: flex;
   align-items: center;
   gap: 4px;
-  background: rgba(255,255,255,0.15);
-  border: 1px solid rgba(255,255,255,0.25);
+  background: rgba(255,255,255,0.13);
+  border: 1px solid rgba(255,255,255,0.2);
   color: white;
   border-radius: 8px;
-  padding: 8px 14px;
-  font-size: 15px;
+  padding: 7px 14px;
+  font-size: 14px;
+  font-family: Georgia, serif;
   flex-shrink: 0;
 }
-.backBtn:hover { background: rgba(255,255,255,0.25); }
+.backBtn:hover { background: rgba(255,255,255,0.22); }
 
-.shareBtns {
+.headerRight {
   display: flex;
+  align-items: center;
   gap: 8px;
 }
 
-.whatsappBtn {
+.editBtn {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding: 8px 12px;
-  background: #25D366;
+  gap: 5px;
+  background: rgba(201,168,76,0.2);
+  border: 1px solid rgba(201,168,76,0.4);
   color: white;
-  border: none;
   border-radius: 8px;
-  font-size: 14px;
-  font-weight: bold;
-  white-space: nowrap;
+  padding: 7px 13px;
+  font-size: 13px;
+  font-family: Georgia, serif;
 }
-.whatsappBtn:hover { background: #1DA851; }
+.editBtn:hover { background: rgba(201,168,76,0.35); }
 
-.emailBtn {
+.shareWrap { position: relative; }
+
+.shareBtn {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding: 8px 12px;
-  background: #EA4335;
+  gap: 5px;
+  background: rgba(255,255,255,0.13);
+  border: 1px solid rgba(255,255,255,0.2);
   color: white;
-  border: none;
   border-radius: 8px;
+  padding: 7px 13px;
+  font-size: 13px;
+  font-family: Georgia, serif;
+}
+.shareBtn:hover { background: rgba(255,255,255,0.22); }
+
+.shareDropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  overflow: hidden;
+  z-index: 20;
+  min-width: 160px;
+}
+
+.shareOption {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 12px 16px;
   font-size: 14px;
-  font-weight: bold;
-  white-space: nowrap;
+  color: var(--text);
+  background: none;
+  border: none;
+  text-align: left;
+  font-family: Georgia, serif;
 }
-.emailBtn:hover { background: #C5221F; }
+.shareOption:hover { background: var(--bg); }
+.shareOption + .shareOption { border-top: 1px solid var(--border); }
 
-.scroll {
-  flex: 1;
-  overflow-y: auto;
-}
-
-.article {
-  max-width: 680px;
-  margin: 0 auto;
-  padding: 28px 20px 48px;
-}
+/* ── Scroll + Cover ─────────────────────── */
+.scroll { flex: 1; overflow-y: auto; }
 
 .coverImage {
-  width: calc(100% + 40px);
-  margin: -28px -20px 24px;
-  max-height: 260px;
+  width: 100%;
+  max-height: 280px;
   object-fit: cover;
   display: block;
 }
 
+/* ── Article ─────────────────────────────── */
+.article {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 32px 22px 56px;
+}
+
 .meta {
-  font-size: 14px;
+  margin-bottom: 10px;
+}
+.metaDate {
+  font-size: 12px;
   color: var(--gold-dark);
-  margin-bottom: 12px;
   font-style: italic;
+  letter-spacing: 0.02em;
 }
 
 .title {
-  font-size: 30px;
+  font-size: 28px;
   font-family: Georgia, serif;
   color: var(--text);
   line-height: 1.3;
-  margin-bottom: 20px;
+  font-weight: bold;
+  margin-bottom: 18px;
 }
 
-.divider {
+.byline {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 22px;
+}
+.bylineAvatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--emerald);
+  color: var(--gold);
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  font-family: 'Noto Naskh Arabic', serif;
+}
+.bylineName {
+  font-size: 14px;
+  font-weight: bold;
+  color: var(--text);
+}
+.bylineRole {
+  font-size: 11px;
+  color: var(--text-faint);
+  margin-top: 1px;
+}
+
+.rule {
   height: 3px;
   background: linear-gradient(90deg, var(--gold), transparent);
   border-radius: 2px;
   margin-bottom: 28px;
 }
 
+/* ── Body ─────────────────────────────────── */
 .body {
-  font-size: 19px;
+  font-size: 18px;
   color: var(--text);
-  line-height: 2.0;
+  line-height: 1.95;
 }
-.body :global(h2) { font-size: 26px; font-weight: bold; margin: 28px 0 12px; color: var(--text); }
-.body :global(h3) { font-size: 22px; font-weight: bold; margin: 22px 0 10px; color: var(--text); }
-.body :global(p)  { margin: 0 0 16px; }
-.body :global(ul), .body :global(ol) { padding-left: 24px; margin: 12px 0; }
-.body :global(li) { margin: 6px 0; }
-.body :global(blockquote) { border-left: 4px solid var(--gold); margin: 20px 0; padding: 14px 18px; background: var(--gold-light); border-radius: 0 8px 8px 0; font-style: italic; color: var(--text-muted); }
-.body :global(hr) { border: none; border-top: 2px solid var(--border); margin: 24px 0; }
-.body :global(img) { max-width: 100%; border-radius: 8px; margin: 12px 0; display: block; }
+.body :global(h2) { font-size: 24px; font-weight: bold; margin: 30px 0 12px; color: var(--text); }
+.body :global(h3) { font-size: 20px; font-weight: bold; margin: 24px 0 10px; color: var(--text); }
+.body :global(p)  { margin: 0 0 18px; }
+.body :global(ul), .body :global(ol) { padding-left: 24px; margin: 14px 0; }
+.body :global(li) { margin: 7px 0; }
+.body :global(blockquote) {
+  border-left: 4px solid var(--gold);
+  margin: 24px 0;
+  padding: 16px 20px;
+  background: var(--gold-light);
+  border-radius: 0 10px 10px 0;
+  color: var(--text-muted);
+}
+.body :global(hr) { border: none; border-top: 2px solid var(--border); margin: 28px 0; }
+.body :global(img) { max-width: 100%; border-radius: 10px; margin: 16px 0; display: block; }
 .body :global(strong) { font-weight: bold; }
 .body :global(em) { font-style: italic; }
 
+/* Verse blockquote — inserted from editor */
+.body :global(.quran-verse) {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Noto Naskh Arabic', serif;
+  font-size: 24px;
+  line-height: 2.2;
+  color: var(--text);
+  margin: 0 0 6px;
+}
+.body :global(.quran-translit) {
+  direction: ltr;
+  text-align: left;
+  font-size: 13px;
+  color: var(--text-faint);
+  font-style: italic;
+  margin: 0 0 4px;
+}
+.body :global(.quran-translation) {
+  direction: ltr;
+  text-align: left;
+  font-size: 15px;
+  color: var(--text-muted);
+  margin: 0 0 6px;
+}
+.body :global(.quran-ref) {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--gold-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* ── Footer share ─────────────────────────── */
 .footerShare {
-  margin-top: 48px;
+  margin-top: 52px;
   padding-top: 24px;
   border-top: 1px solid var(--border);
 }
-
 .footerShareLabel {
-  font-size: 14px;
+  font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.08em;
   color: var(--text-faint);
-  margin-bottom: 12px;
+  margin-bottom: 14px;
 }
-
-.footerShare .shareBtns {
+.footerBtns {
+  display: flex;
+  gap: 10px;
   flex-wrap: wrap;
 }
-
-.footerShare .whatsappBtn,
-.footerShare .emailBtn {
-  padding: 14px 20px;
-  font-size: 16px;
+.footerWhatsapp, .footerEmail {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Georgia, serif;
+  border: none;
 }
+.footerWhatsapp { background: #25D366; color: white; }
+.footerWhatsapp:hover { background: #1DA851; }
+.footerEmail { background: var(--card); color: var(--text); border: 1px solid var(--border); }
+.footerEmail:hover { background: var(--bg); }

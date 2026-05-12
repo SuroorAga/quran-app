@@ -27,7 +27,7 @@ function useStats() {
   return stats
 }
 
-export default function BlogAdmin({ blogs, onPublish, onUpdate, onDelete, onBack, onExport, onImport, auth }) {
+export default function BlogAdmin({ blogs, onPublish, onUpdate, onDelete, onBack, onExport, onImport, auth, initialEditPost }) {
   const { user, loading, isAdmin, signIn, logOut } = auth
 
   if (loading) return <LoadingScreen onBack={onBack} />
@@ -37,6 +37,7 @@ export default function BlogAdmin({ blogs, onPublish, onUpdate, onDelete, onBack
   return <AdminPanel
     blogs={blogs} onPublish={onPublish} onUpdate={onUpdate} onDelete={onDelete}
     onExport={onExport} onImport={onImport} onBack={onBack} user={user} onSignOut={logOut}
+    initialEditPost={initialEditPost}
   />
 }
 
@@ -93,9 +94,9 @@ function SimpleHeader({ onBack, title, right }) {
 }
 
 /* ── Admin panel ── */
-function AdminPanel({ blogs, onPublish, onUpdate, onDelete, onExport, onImport, onBack, user, onSignOut }) {
-  const [view, setView] = useState('list')
-  const [editPost, setEditPost] = useState(null)
+function AdminPanel({ blogs, onPublish, onUpdate, onDelete, onExport, onImport, onBack, user, onSignOut, initialEditPost }) {
+  const [view, setView] = useState(initialEditPost ? 'write' : 'list')
+  const [editPost, setEditPost] = useState(initialEditPost || null)
   const stats = useStats()
   const fileRef = useRef()
   const [importMsg, setImportMsg] = useState('')
@@ -206,11 +207,39 @@ function AdminPanel({ blogs, onPublish, onUpdate, onDelete, onExport, onImport, 
 /* ── Rich Blog Editor ── */
 function BlogEditor({ post, onSave, onBack, user }) {
   const [title, setTitle] = useState(post?.title || '')
+  const [coverImage, setCoverImage] = useState(post?.coverImage || '')
   const [saving, setSaving] = useState(false)
   const [error, setError] = useState('')
   const [done, setDone] = useState(false)
   const [uploading, setUploading] = useState(false)
+  const [coverUploading, setCoverUploading] = useState(false)
+  const [verseInput, setVerseInput] = useState('')
+  const [versePickerOpen, setVersePickerOpen] = useState(false)
+  const [verseFetching, setVerseFetching] = useState(false)
+  const [verseError, setVerseError] = useState('')
   const imgInputRef = useRef()
+  const coverInputRef = useRef()
+
+  const insertVerse = async () => {
+    const ref = verseInput.trim()
+    const m = ref.match(/^(\d{1,3}):(\d{1,3})$/)
+    if (!m) { setVerseError('Use format like 2:255'); return }
+    setVerseFetching(true); setVerseError('')
+    try {
+      const data = await fetch(`/data/surah_${m[1]}.json`).then(r => r.json())
+      const verse = data.find(v => v.id === parseInt(m[2]))
+      if (!verse) { setVerseError('Verse not found'); setVerseFetching(false); return }
+      const html = `<blockquote>` +
+        `<p class="quran-verse">${verse.arabic}</p>` +
+        (verse.transliteration ? `<p class="quran-translit">${verse.transliteration}</p>` : '') +
+        (verse.translation ? `<p class="quran-translation">${verse.translation}</p>` : '') +
+        `<p class="quran-ref">${ref} · ${verse.surahName || ''}</p>` +
+        `</blockquote>`
+      editor?.chain().focus().insertContent(html).run()
+      setVerseInput(''); setVersePickerOpen(false)
+    } catch { setVerseError('Could not load verse') }
+    setVerseFetching(false)
+  }
 
   // Load draft only for new posts, never for edits
   const isNew = !post
@@ -239,12 +268,27 @@ function BlogEditor({ post, onSave, onBack, user }) {
     if (isNew && draftTitle) setTitle(draftTitle)
   }, [])
 
+  const uploadCoverImage = async (file) => {
+    if (!file) return
+    setCoverUploading(true)
+    try {
+      const storageRef = ref(storage, `blog-covers/${Date.now()}-${file.name}`)
+      await uploadBytes(storageRef, file)
+      const url = await getDownloadURL(storageRef)
+      setCoverImage(url)
+    } catch {
+      setError('Cover image upload failed. Make sure Firebase Storage is enabled.')
+    } finally {
+      setCoverUploading(false)
+    }
+  }
+
   const handleSave = async () => {
     if (!title.trim()) { setError('Please add a title.'); return }
     if (!editor || editor.isEmpty) { setError('Please write some content.'); return }
     setError(''); setSaving(true)
     try {
-      await onSave({ title, content: editor.getHTML() })
+      await onSave({ title, content: editor.getHTML(), coverImage: coverImage || null })
       if (isNew) {
         localStorage.removeItem(DRAFT_KEY + '_content')
         localStorage.removeItem(DRAFT_KEY + '_title')
@@ -306,6 +350,34 @@ function BlogEditor({ post, onSave, onBack, user }) {
       {error && <div className={styles.errorBar}>⚠ {error}</div>}
 
       <div className={styles.editorArea}>
+        {/* Cover image */}
+        <div className={styles.coverArea}>
+          {coverImage ? (
+            <div className={styles.coverPreview}>
+              <img src={coverImage} alt="Cover" className={styles.coverPreviewImg} />
+              <button className={styles.coverRemoveBtn} onClick={() => setCoverImage('')} title="Remove cover">✕</button>
+            </div>
+          ) : (
+            <button
+              className={styles.coverUploadBtn}
+              onClick={() => coverInputRef.current?.click()}
+              disabled={coverUploading}
+            >
+              {coverUploading
+                ? <><span className={styles.spinner} /> Uploading…</>
+                : <><CoverIcon /> Add cover image</>
+              }
+            </button>
+          )}
+          <input
+            ref={coverInputRef}
+            type="file"
+            accept="image/*"
+            style={{ display: 'none' }}
+            onChange={e => { uploadCoverImage(e.target.files[0]); e.target.value = '' }}
+          />
+        </div>
+
         {/* Title */}
         <input
           className={styles.titleInput}
@@ -361,6 +433,32 @@ function BlogEditor({ post, onSave, onBack, user }) {
             <ToolBtn active={false} onClick={() => editor?.chain().focus().setHorizontalRule().run()} title="Divider line">—</ToolBtn>
           </div>
           <div className={styles.toolbarDivider} />
+          {/* Insert Quran verse */}
+          <div className={styles.toolbarGroup} style={{ position: 'relative' }}>
+            <ToolBtn active={versePickerOpen} onClick={() => { setVersePickerOpen(v => !v); setVerseError('') }} title="Insert Quran verse">
+              ﷽
+            </ToolBtn>
+            {versePickerOpen && (
+              <div className={styles.versePicker}>
+                <div className={styles.versePickerLabel}>Insert Qur'aanic verse</div>
+                <div className={styles.versePickerRow}>
+                  <input
+                    className={styles.versePickerInput}
+                    placeholder="e.g. 2:255"
+                    value={verseInput}
+                    onChange={e => setVerseInput(e.target.value)}
+                    onKeyDown={e => e.key === 'Enter' && insertVerse()}
+                    autoFocus
+                  />
+                  <button className={styles.versePickerBtn} onClick={insertVerse} disabled={verseFetching}>
+                    {verseFetching ? '…' : 'Insert'}
+                  </button>
+                </div>
+                {verseError && <div className={styles.versePickerError}>{verseError}</div>}
+              </div>
+            )}
+          </div>
+          <div className={styles.toolbarDivider} />
           <div className={styles.toolbarGroup}>
             <ToolBtn active={false} onClick={() => editor?.chain().focus().undo().run()} title="Undo">↩</ToolBtn>
             <ToolBtn active={false} onClick={() => editor?.chain().focus().redo().run()} title="Redo">↪</ToolBtn>
@@ -387,6 +485,16 @@ function ToolBtn({ active, onClick, title, children, disabled }) {
     >
       {children}
     </button>
+  )
+}
+
+function CoverIcon() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="3" y="3" width="18" height="18" rx="2"/>
+      <circle cx="8.5" cy="8.5" r="1.5"/>
+      <polyline points="21 15 16 10 5 21"/>
+    </svg>
   )
 }
 

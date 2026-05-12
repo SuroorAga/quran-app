@@ -3,9 +3,11 @@ import SurahList from './pages/SurahList.jsx'
 import SurahReader from './pages/SurahReader.jsx'
 import SearchPage from './pages/SearchPage.jsx'
 import BookmarksPage from './pages/BookmarksPage.jsx'
+import BooksPage from './pages/BooksPage.jsx'
 import LandingPage from './pages/LandingPage.jsx'
 import BlogAdmin from './pages/BlogAdmin.jsx'
 import BlogPost from './pages/BlogPost.jsx'
+import AppHeader from './components/AppHeader.jsx'
 import { useBookmarks } from './hooks/useBookmarks.js'
 import { useLastRead } from './hooks/useLastRead.js'
 import { useBlogs } from './hooks/useBlogs.js'
@@ -21,7 +23,9 @@ export default function App() {
   const [chapters, setChapters] = useState([])
   const [selectedBlog, setSelectedBlog] = useState(null)
   const [showBlogAdmin, setShowBlogAdmin] = useState(false)
-  const openBooks = () => window.open('/books.html', '_blank')
+  const [editBlogPost, setEditBlogPost] = useState(null)
+  const [showBooks, setShowBooks] = useState(false)
+  const openBooks = () => setShowBooks(true)
 
   const blogs = useBlogs()
   const auth = useAuth()
@@ -95,7 +99,7 @@ export default function App() {
         blogs={blogs.blogs}
         onOpenBlog={openBlogFromLanding}
         onWriteBlog={openBlogAdmin}
-        onOpenBooks={() => { setShowLanding(false); setShowBooks(true) }}
+        onOpenBooks={() => { setShowLanding(false); setShowBooks(true); }}
         auth={auth}
         darkMode={darkMode}
         toggleDarkMode={() => setDarkMode(d => !d)}
@@ -107,7 +111,27 @@ export default function App() {
   if (selectedBlog) {
     return (
       <div className={styles.app}>
-        <BlogPost post={selectedBlog} onBack={() => setSelectedBlog(null)} />
+        <BlogPost
+          post={selectedBlog}
+          onBack={() => setSelectedBlog(null)}
+          auth={auth}
+          onEdit={(post) => { setSelectedBlog(null); setEditBlogPost(post); setShowBlogAdmin(true) }}
+        />
+      </div>
+    )
+  }
+
+  /* Books full-screen */
+  if (showBooks) {
+    return (
+      <div className={styles.app}>
+        <BooksPage
+          onBack={() => setShowBooks(false)}
+          darkMode={darkMode}
+          toggleDarkMode={() => setDarkMode(d => !d)}
+          auth={auth}
+          onNavigate={{ surahs: () => { setShowBooks(false); setTab('surahs') }, blog: () => { setShowBooks(false); setTab('blogs') }, books: null, home: () => { setShowBooks(false); setShowLanding(true) } }}
+        />
       </div>
     )
   }
@@ -123,8 +147,9 @@ export default function App() {
           onDelete={blogs.remove}
           onExport={blogs.exportAll}
           onImport={blogs.importFile}
-          onBack={() => setShowBlogAdmin(false)}
+          onBack={() => { setShowBlogAdmin(false); setEditBlogPost(null) }}
           auth={auth}
+          initialEditPost={editBlogPost}
         />
       </div>
     )
@@ -163,6 +188,10 @@ export default function App() {
             onOpenSurah={openSurah}
             bookmarks={bookmarks}
             onSelectVerse={(surah) => { openSurah(surah); setTab('surahs') }}
+            darkMode={darkMode}
+            toggleDarkMode={() => setDarkMode(d => !d)}
+            auth={auth}
+            onNavigate={{ surahs: () => setTab('surahs'), blog: () => setTab('blogs'), books: openBooks, home: () => setShowLanding(true) }}
           />
         )}
         {tab === 'saved' && (
@@ -170,6 +199,9 @@ export default function App() {
             bookmarks={bookmarks}
             onOpenSurah={(surah) => { openSurah(surah); setTab('surahs') }}
             auth={auth}
+            darkMode={darkMode}
+            toggleDarkMode={() => setDarkMode(d => !d)}
+            onNavigate={{ surahs: () => setTab('surahs'), blog: () => setTab('blogs'), books: openBooks, home: () => setShowLanding(true) }}
           />
         )}
         {tab === 'blogs' && (
@@ -178,6 +210,10 @@ export default function App() {
             onOpenPost={setSelectedBlog}
             onOpenAdmin={() => setShowBlogAdmin(true)}
             isAdmin={auth.isAdmin}
+            darkMode={darkMode}
+            toggleDarkMode={() => setDarkMode(d => !d)}
+            auth={auth}
+            onNavigate={{ surahs: () => setTab('surahs'), blog: null, books: openBooks, home: () => setShowLanding(true) }}
           />
         )}
       </div>
@@ -214,18 +250,26 @@ export default function App() {
   )
 }
 
-function BlogsListTab({ blogs, onOpenPost, onOpenAdmin, isAdmin }) {
+function BlogsListTab({ blogs, onOpenPost, onOpenAdmin, isAdmin, darkMode, toggleDarkMode, auth, onNavigate }) {
+  const adminBtn = (
+    <button
+      onClick={onOpenAdmin}
+      style={{ background: 'var(--gold)', color: '#1A1714', border: 'none', borderRadius: '8px', padding: '6px 14px', fontSize: '13px', fontWeight: 'bold', fontFamily: 'Georgia, serif', flexShrink: 0 }}
+    >
+      {isAdmin ? '✍ Write' : '🔐 Admin'}
+    </button>
+  )
+
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%', background: 'var(--bg)', overflow: 'hidden' }}>
-      <div style={{ padding: '14px 16px 12px', background: 'var(--emerald)', borderBottom: '2px solid rgba(201,168,76,0.25)', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexShrink: 0 }}>
-        <span style={{ color: 'white', fontSize: '17px', fontWeight: 'bold' }}>Mohammad Shafi's Blog</span>
-        <button
-          onClick={onOpenAdmin}
-          style={{ background: 'var(--gold)', color: '#1A1714', border: 'none', borderRadius: '8px', padding: '8px 16px', fontSize: '15px', fontWeight: 'bold' }}
-        >
-          {isAdmin ? '✍ Write' : '🔐 Admin'}
-        </button>
-      </div>
+      <AppHeader
+        darkMode={darkMode}
+        toggleDarkMode={toggleDarkMode}
+        auth={auth}
+        title="Mohammad Shafi's Blog"
+        onNavigate={onNavigate}
+        rightContent={adminBtn}
+      />
       <div style={{ flex: 1, overflowY: 'auto', padding: '16px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
         {blogs.length === 0 ? (
           <div style={{ textAlign: 'center', padding: '60px 20px', color: 'var(--text-faint)' }}>

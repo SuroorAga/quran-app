@@ -47,15 +47,20 @@ export function useBlogs() {
     return unsub
   }, [])
 
-  const publish = ({ title, content }) =>
+  const publish = ({ title, content, coverImage }) =>
     addDoc(collection(db, COL), {
       title: title.trim(),
       content,
       date: serverTimestamp(),
+      ...(coverImage ? { coverImage } : {}),
     })
 
-  const update = (id, { title, content }) =>
-    updateDoc(doc(db, COL, id), { title: title.trim(), content })
+  const update = (id, { title, content, coverImage }) =>
+    updateDoc(doc(db, COL, id), {
+      title: title.trim(),
+      content,
+      ...(coverImage !== undefined ? { coverImage: coverImage || null } : {}),
+    })
 
   const remove = (id) => deleteDoc(doc(db, COL, id))
 
