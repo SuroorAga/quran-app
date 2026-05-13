@@ -2,8 +2,8 @@ import { useState, useEffect, useRef, useCallback } from 'react'
 import styles from './SurahReader.module.css'
 import { useQuranAudio, RECITERS } from '../hooks/useQuranAudio.js'
 
-const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px']
-const AR_SIZES = ['20px', '24px', '28px', '33px', '38px', '46px', '56px']
+const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px', '40px', '48px']
+const AR_SIZES = ['20px', '24px', '28px', '33px', '38px', '46px', '56px', '68px', '82px']
 
 export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, initialVerseId, chapters = [], onNavigate, onGoHome }) {
   const [verses, setVerses] = useState([])
@@ -19,6 +19,7 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [refVerseData, setRefVerseData] = useState(null)
   const [refLoading, setRefLoading] = useState(false)
   const [showReciterPicker, setShowReciterPicker] = useState(false)
+  const [highestVerse, setHighestVerse] = useState(initialVerseId || 1)
   const contentRef = useRef(null)
   const verseJumpTimer = useRef(null)
 
@@ -58,7 +59,12 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
     if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' })
   }, [audio.playingRef, surah.id])
 
-  // Track last visible verse for resume reading + scroll-to-top button
+  // Reset progress when surah changes
+  useEffect(() => {
+    setHighestVerse(initialVerseId || 1)
+  }, [surah.id])
+
+  // Track last visible verse for resume reading + scroll-to-top + progress
   useEffect(() => {
     const el = contentRef.current
     if (!el || !verses.length) return
@@ -71,7 +77,9 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
         for (const card of cards) {
           const rect = card.getBoundingClientRect()
           if (rect.top >= 0 && rect.top < window.innerHeight * 0.6) {
-            onSaveLastRead(surah, parseInt(card.dataset.verseId))
+            const vid = parseInt(card.dataset.verseId)
+            onSaveLastRead(surah, vid)
+            setHighestVerse(prev => Math.max(prev, vid))
             break
           }
         }
@@ -184,6 +192,10 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           <div className={styles.headerTitle}>{surah.transliteration} · {surah.name}</div>
           <div className={styles.headerSub}>Chapter {surah.id} · {surah.total_verses} verses · {surah.type === 'meccan' ? 'Meccan' : 'Medinan'}</div>
         </div>
+        <SurahProgressRing
+          current={highestVerse}
+          total={surah.total_verses || 1}
+        />
         <div className={styles.fontControls}>
           <button
             className={styles.fontBtn}
@@ -193,8 +205,8 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           >A−</button>
           <button
             className={styles.fontBtn}
-            onClick={() => setFontScale(s => Math.min(6, s + 1))}
-            disabled={fontScale === 6}
+            onClick={() => setFontScale(s => Math.min(8, s + 1))}
+            disabled={fontScale === 8}
             title="Increase font size"
           >A+</button>
         </div>
@@ -498,6 +510,53 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
           </div>
         </div>
       )}
+    </div>
+  )
+}
+
+function SurahProgressRing({ current, total }) {
+  const pct     = Math.min(100, Math.round((current / total) * 100))
+  const radius  = 14
+  const stroke  = 2.8
+  const circ    = 2 * Math.PI * radius
+  const offset  = circ - (pct / 100) * circ
+  const done    = pct === 100
+
+  return (
+    <div className={styles.progressRing} title={`${current} / ${total} verses`}>
+      <svg width="40" height="40" viewBox="0 0 40 40">
+        {/* Track */}
+        <circle
+          cx="20" cy="20" r={radius}
+          fill="none"
+          stroke="rgba(201,168,76,0.18)"
+          strokeWidth={stroke}
+        />
+        {/* Progress */}
+        <circle
+          cx="20" cy="20" r={radius}
+          fill="none"
+          stroke={done ? '#C9A84C' : 'rgba(201,168,76,0.85)'}
+          strokeWidth={stroke}
+          strokeLinecap="round"
+          strokeDasharray={circ}
+          strokeDashoffset={offset}
+          transform="rotate(-90 20 20)"
+          style={{ transition: 'stroke-dashoffset 0.4s ease' }}
+        />
+        {/* Label */}
+        <text
+          x="20" y="20"
+          textAnchor="middle"
+          dominantBaseline="central"
+          fill={done ? '#C9A84C' : 'rgba(255,255,255,0.85)'}
+          fontSize={pct === 100 ? '8' : '7.5'}
+          fontFamily="Georgia, serif"
+          fontWeight="bold"
+        >
+          {done ? '✓' : `${pct}%`}
+        </text>
+      </svg>
     </div>
   )
 }

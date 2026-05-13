@@ -2,7 +2,7 @@ import { useState } from 'react'
 import styles from './BookmarksPage.module.css'
 import AppHeader from '../components/AppHeader.jsx'
 
-export default function BookmarksPage({ bookmarks, onOpenSurah, auth, darkMode, toggleDarkMode, onNavigate }) {
+export default function BookmarksPage({ bookmarks, onOpenSurah, onOpenVerse, auth, darkMode, toggleDarkMode, onNavigate }) {
   const [tab, setTab] = useState('all') // all | surah | recent
 
   const { bookmarks: saved, removeBookmark } = bookmarks
@@ -27,12 +27,17 @@ export default function BookmarksPage({ bookmarks, onOpenSurah, auth, darkMode, 
   }
 
   const renderVerse = (b) => (
-    <div key={b.ref} className={styles.card}>
+    <div
+      key={b.ref}
+      className={styles.card}
+      onClick={() => onOpenVerse?.(b.surahId, b.id)}
+      style={{ cursor: 'pointer' }}
+    >
       <div className={styles.cardTop}>
         <span className={styles.ref}>{b.ref}</span>
         <button
           className={styles.removeBtn}
-          onClick={() => removeBookmark(b.ref)}
+          onClick={e => { e.stopPropagation(); removeBookmark(b.ref) }}
           title="Remove bookmark"
         >✕</button>
       </div>
@@ -43,6 +48,7 @@ export default function BookmarksPage({ bookmarks, onOpenSurah, auth, darkMode, 
         {b.surahName && tab !== 'surah' && (
           <span className={styles.surahTag}>{b.surahName}</span>
         )}
+        <span className={styles.openHint}>Open →</span>
       </div>
     </div>
   )

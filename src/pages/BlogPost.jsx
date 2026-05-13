@@ -7,24 +7,37 @@ function fmtDate(iso) {
   })
 }
 
-export default function BlogPost({ post, onBack, auth, onEdit }) {
+function readingTime(content) {
+  const words = content.replace(/<[^>]+>/g, '').split(/\s+/).filter(Boolean).length
+  return Math.max(1, Math.ceil(words / 200))
+}
+
+export default function BlogPost({ post, onBack, auth, onEdit, blogs = [], onNavigate }) {
   const [shareOpen, setShareOpen] = useState(false)
   const isAdmin = auth?.isAdmin
 
+  const currentIdx = blogs.findIndex(b => b.id === post.id)
+  const prevPost   = currentIdx < blogs.length - 1 ? blogs[currentIdx + 1] : null
+  const nextPost   = currentIdx > 0 ? blogs[currentIdx - 1] : null
+  const mins       = readingTime(post.content)
+
+  const plainText = () => post.content.replace(/<[^>]+>/g, '')
+
   const shareWhatsApp = () => {
-    const text = `*${post.title}*\n\n${post.content.replace(/<[^>]+>/g, '')}`
-    window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank')
+    window.open(`https://wa.me/?text=${encodeURIComponent(`*${post.title}*\n\n${plainText().slice(0, 300)}…`)}`, '_blank')
     setShareOpen(false)
   }
-
   const shareEmail = () => {
-    window.open(`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(post.content.replace(/<[^>]+>/g, ''))}`)
+    window.open(`mailto:?subject=${encodeURIComponent(post.title)}&body=${encodeURIComponent(plainText())}`)
+    setShareOpen(false)
+  }
+  const copyLink = () => {
+    navigator.clipboard.writeText(window.location.href).catch(() => {})
     setShareOpen(false)
   }
 
   return (
     <div className={styles.page}>
-      {/* Header */}
       <div className={styles.header}>
         <button className={styles.backBtn} onClick={onBack}>
           <svg width="18" height="18" viewBox="0 0 20 20" fill="none">
@@ -41,49 +54,29 @@ export default function BlogPost({ post, onBack, auth, onEdit }) {
               Edit
             </button>
           )}
-          <div className={styles.shareWrap}>
-            <button className={styles.shareBtn} onClick={() => setShareOpen(s => !s)} title="Share">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
-              </svg>
-              Share
-            </button>
-            {shareOpen && (
-              <div className={styles.shareDropdown}>
-                <button className={styles.shareOption} onClick={shareWhatsApp}>
-                  <IconWhatsApp /> WhatsApp
-                </button>
-                <button className={styles.shareOption} onClick={shareEmail}>
-                  <IconEmail /> Email
-                </button>
-              </div>
-            )}
-          </div>
+          <button className={styles.shareBtn} onClick={() => setShareOpen(true)}>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+              <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+            </svg>
+            Share
+          </button>
         </div>
       </div>
 
       <div className={styles.scroll}>
-        {/* Cover image */}
         {post.coverImage && (
-          <img
-            src={post.coverImage}
-            alt=""
-            className={styles.coverImage}
-            onError={e => e.target.style.display = 'none'}
-          />
+          <img src={post.coverImage} alt="" className={styles.coverImage} onError={e => e.target.style.display = 'none'} />
         )}
 
         <article className={styles.article}>
-          {/* Meta */}
           <div className={styles.meta}>
             <span className={styles.metaDate}>{fmtDate(post.date)}</span>
+            <span className={styles.metaTime}>{mins} min read</span>
           </div>
 
-          {/* Title */}
           <h1 className={styles.title}>{post.title}</h1>
 
-          {/* Byline */}
           <div className={styles.byline}>
             <div className={styles.bylineAvatar}>م</div>
             <div>
@@ -92,29 +85,61 @@ export default function BlogPost({ post, onBack, auth, onEdit }) {
             </div>
           </div>
 
-          {/* Gold rule */}
           <div className={styles.rule} />
 
-          {/* Body */}
-          <div
-            className={styles.body}
-            dangerouslySetInnerHTML={{ __html: post.content }}
-          />
+          <div className={styles.body} dangerouslySetInnerHTML={{ __html: post.content }} />
 
-          {/* Footer share */}
+          {/* Prev / Next */}
+          {(prevPost || nextPost) && (
+            <div className={styles.postNav}>
+              {prevPost ? (
+                <button className={styles.postNavBtn} onClick={() => onNavigate?.(prevPost)}>
+                  <span className={styles.postNavLabel}>← Older</span>
+                  <span className={styles.postNavTitle}>{prevPost.title}</span>
+                </button>
+              ) : <div />}
+              {nextPost && (
+                <button className={`${styles.postNavBtn} ${styles.postNavRight}`} onClick={() => onNavigate?.(nextPost)}>
+                  <span className={styles.postNavLabel}>Newer →</span>
+                  <span className={styles.postNavTitle}>{nextPost.title}</span>
+                </button>
+              )}
+            </div>
+          )}
+
           <div className={styles.footerShare}>
             <div className={styles.footerShareLabel}>Share this post</div>
             <div className={styles.footerBtns}>
-              <button className={styles.footerWhatsapp} onClick={shareWhatsApp}>
-                <IconWhatsApp /> Share on WhatsApp
-              </button>
-              <button className={styles.footerEmail} onClick={shareEmail}>
-                <IconEmail /> Share via Email
-              </button>
+              <button className={styles.footerWhatsapp} onClick={shareWhatsApp}><IconWhatsApp /> WhatsApp</button>
+              <button className={styles.footerEmail} onClick={shareEmail}><IconEmail /> Email</button>
             </div>
           </div>
         </article>
       </div>
+
+      {/* Slide-up share sheet */}
+      {shareOpen && (
+        <div className={styles.shareOverlay} onClick={() => setShareOpen(false)}>
+          <div className={styles.shareSheet} onClick={e => e.stopPropagation()}>
+            <div className={styles.shareHandle} />
+            <div className={styles.shareTitle}>Share</div>
+            <button className={styles.shareOption} onClick={shareWhatsApp}>
+              <span className={styles.shareOptionIcon}><IconWhatsApp /></span>
+              Share on WhatsApp
+            </button>
+            <button className={styles.shareOption} onClick={shareEmail}>
+              <span className={styles.shareOptionIcon}><IconEmail /></span>
+              Share via Email
+            </button>
+            <button className={styles.shareOption} onClick={copyLink}>
+              <span className={styles.shareOptionIcon}>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/></svg>
+              </span>
+              Copy Link
+            </button>
+          </div>
+        </div>
+      )}
     </div>
   )
 }

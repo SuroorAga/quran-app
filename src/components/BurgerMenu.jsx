@@ -1,10 +1,18 @@
 import styles from './BurgerMenu.module.css'
 import Logo from './Logo.jsx'
 
-export default function BurgerMenu({ open, onClose, onNavigate, darkMode, toggleDarkMode, auth, context }) {
+export default function BurgerMenu({ open, onClose, onNavigate, darkMode, toggleDarkMode, auth, context, onResetProgress }) {
   if (!open) return null
 
   const nav = (action) => { action?.(); onClose() }
+
+  const handleResetProgress = () => {
+    if (window.confirm('Reset all reading progress? This cannot be undone.')) {
+      localStorage.removeItem('quranProgress')
+      onResetProgress?.()
+      onClose()
+    }
+  }
 
   return (
     <div className={styles.overlay} onClick={onClose}>
@@ -64,6 +72,13 @@ export default function BurgerMenu({ open, onClose, onNavigate, darkMode, toggle
             </button>
           )}
         </nav>
+
+        <div className={styles.divider} />
+
+        {/* Reset progress */}
+        <button className={styles.resetBtn} onClick={handleResetProgress}>
+          Reset reading progress
+        </button>
 
         <div className={styles.divider} />
 
