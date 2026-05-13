@@ -5,7 +5,8 @@
     "arabic": "وَٱلضُّحَىٰ",
     "transliteration": "Waaldduha",
     "translation": "By the morning brightness,",
-    "notes": ""
+    "notes": "",
+    "urdu": "آفتاب کی روشنی کی قسم"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "وَٱلَّيۡلِ إِذَا سَجَىٰ",
     "transliteration": "Waallayli itha saja",
     "translation": "And by the night when it is still,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور رات (کی تاریکی) کی جب چھا جائے"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
     "transliteration": "Ma waddaAAaka rabbuka wama qala",
     "translation": "Your Lord has not forsaken you [Prophet Muhammad], nor does He hate you.",
-    "notes": "This Verse was revealed during the very initial period of Muhammad’s prophethood. From the context we may surmise that there was a period when no revelation had come to the Prophet. He was worried on that account. But this Verse gave him the needed reassurance. Significantly, the stillness of the night on which the oath was taken in Verse 2 above, represented the period during which there was no divine revelation. And the oath on morning brightness, as taken in Verse 1, aptly represented the divine revelation that subsequently came."
+    "notes": "This Verse was revealed during the very initial period of Muhammad’s prophethood. From the context we may surmise that there was a period when no revelation had come to the Prophet. He was worried on that account. But this Verse gave him the needed reassurance. Significantly, the stillness of the night on which the oath was taken in Verse 2 above, represented the period during which there was no divine revelation. And the oath on morning brightness, as taken in Verse 1, aptly represented the divine revelation that subsequently came.",
+    "urdu": "کہ (اے محمدﷺ) تمہارے پروردگار نے نہ تو تم کو چھوڑا اور نہ (تم سے) ناراض ہوا"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ",
     "transliteration": "Walalakhiratu khayrun laka mina aloola",
     "translation": "And, surely, the latter part [of your life] will be better for you than the earlier.",
-    "notes": "This Verse was revealed in the beginning period of the Prophet’s life, which was indeed full of hardships. The latter period, which started with the Prophet’s migration to Medina from Makkah, did prove to be immensely better as this Verse predicted."
+    "notes": "This Verse was revealed in the beginning period of the Prophet’s life, which was indeed full of hardships. The latter period, which started with the Prophet’s migration to Medina from Makkah, did prove to be immensely better as this Verse predicted.",
+    "urdu": "اور آخرت تمہارے لیے پہلی (حالت یعنی دنیا) سے کہیں بہتر ہے"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ",
     "transliteration": "Walasawfa yuAAteeka rabbuka fatarda",
     "translation": "And surely your Lord will give you [stability, security and authority], and then you will be happy.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور تمہیں پروردگار عنقریب وہ کچھ عطا فرمائے گا کہ تم خوش ہو جاؤ گے"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ",
     "transliteration": "Alam yajidka yateeman faawa",
     "translation": "Did He not find you an orphan and give you shelter?",
-    "notes": ""
+    "notes": "",
+    "urdu": "بھلا اس نے تمہیں یتیم پا کر جگہ نہیں دی؟ (بےشک دی)"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ",
     "transliteration": "Wawajadaka dallan fahada",
     "translation": "Did He not find you wandering and give you guidance?",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور رستے سے ناواقف دیکھا تو رستہ دکھایا"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ",
     "transliteration": "Wawajadaka AAailan faaghna",
     "translation": "Did He not find you poor and make you overcome poverty?",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور تنگ دست پایا تو غنی کر دیا"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ",
     "transliteration": "Faamma alyateema fala taqhar",
     "translation": "Oppress not the orphan then!",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو تم بھی یتیم پر ستم نہ کرنا"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ",
     "transliteration": "Waamma alssaila fala tanhar",
     "translation": "And scare not the beggar away!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور مانگنے والے کو جھڑکی نہ دینا"
   },
   {
     "id": 11,
@@ -85,6 +95,7 @@
     "arabic": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ",
     "transliteration": "Waamma biniAAmati rabbika fahaddith",
     "translation": "And recount then the bounty of your Lord.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اپنے پروردگار کی نعمتوں کا بیان کرتے رہنا"
   }
 ]

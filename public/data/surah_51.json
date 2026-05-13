@@ -5,7 +5,8 @@
     "arabic": "وَٱلذَّـٰرِيَٰتِ ذَرۡوٗا",
     "transliteration": "Waalththariyati tharwan",
     "translation": "By the scattering [winds] that scatter [dust particles]",
-    "notes": ""
+    "notes": "",
+    "urdu": "بکھیرنے والیوں کی قسم جو اُڑا کر بکھیر دیتی ہیں"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
     "transliteration": "Faalhamilati wiqran",
     "translation": "Then bear a load [of tiny water globues condensing around the dust particles]",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر (پانی کا) بوجھ اٹھاتی ہیں"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
     "transliteration": "Faaljariyati yusran",
     "translation": "Then sail smoothly along",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر آہستہ آہستہ چلتی ہیں"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
     "transliteration": "Faalmuqassimati amran",
     "translation": "And then execute given task of apportioning [rainfall].",
-    "notes": "Refer study note 8 on Chapter 30 in this context. The role of dust particles in this natural process has been discovered very recently, as late as in 2011 [source], while it was hinted at in the Qur'aan over 1400 years ago!"
+    "notes": "Refer study note 8 on Chapter 30 in this context. The role of dust particles in this natural process has been discovered very recently, as late as in 2011 [source], while it was hinted at in the Qur'aan over 1400 years ago!",
+    "urdu": "پھر چیزیں تقسیم کرتی ہیں"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
     "transliteration": "Innama tooAAadoona lasadiqun",
     "translation": "What you are being promised is certainly indeed true,",
-    "notes": ""
+    "notes": "",
+    "urdu": "کہ جس چیز کا تم سے وعدہ کیا جاتا ہے وہ سچا ہے"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
     "transliteration": "Wainna alddeena lawaqiAAun",
     "translation": "And the Judgement Day shall certainly indeed happen!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور انصاف (کا دن) ضرور واقع ہوگا"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
     "transliteration": "Waalssamai thati alhubuki",
     "translation": "By the heaven full of perfectly defined pathways",
-    "notes": "One might well have seen a circus artiste keeping onlookers spellbound with his artistry of playing with 3 or 4 balls with his two hands continuously for a few minutes without the balls crashing against one another or without their being floored. But the artiste is a human being after all. He can sustain the show only for a limited period and with limited number of balls. But consider the superhuman Artiste Who has been sustaining such a Show for an infinitely long time now and with innumerable balls [heavenly bodies] billions of times bigger than the poor circus artiste can ever handle. We are witness to this Show day in and day out without being ever spellbound by it or without ever giving recognition to the Great Artiste! The Show is brought about by the interplay of innumerable centripetal and centrifugal forces. The mathematical precision with which this is done is simply mind-boggling."
+    "notes": "One might well have seen a circus artiste keeping onlookers spellbound with his artistry of playing with 3 or 4 balls with his two hands continuously for a few minutes without the balls crashing against one another or without their being floored. But the artiste is a human being after all. He can sustain the show only for a limited period and with limited number of balls. But consider the superhuman Artiste Who has been sustaining such a Show for an infinitely long time now and with innumerable balls [heavenly bodies] billions of times bigger than the poor circus artiste can ever handle. We are witness to this Show day in and day out without being ever spellbound by it or without ever giving recognition to the Great Artiste! The Show is brought about by the interplay of innumerable centripetal and centrifugal forces. The mathematical precision with which this is done is simply mind-boggling.",
+    "urdu": "اور آسمان کی قسم جس میں رسے ہیں"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ",
     "transliteration": "Innakum lafee qawlin mukhtalifin",
     "translation": "You do certainly indeed differ in what you say [about the Qur'aan]!",
-    "notes": ""
+    "notes": "",
+    "urdu": "کہ (اے اہل مکہ) تم ایک متناقض بات میں (پڑے ہوئے) ہو"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
     "transliteration": "Yufaku AAanhu man ofika",
     "translation": "Those are deluded from it [Qur'aan] who are deluded from the Truth.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس سے وہی پھرتا ہے جو (خدا کی طرف سے) پھیرا جائے"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "قُتِلَ ٱلۡخَرَّـٰصُونَ",
     "transliteration": "Qutila alkharrasoona",
     "translation": "Doomed are those who just guess!",
-    "notes": "Darwin's theory is nothing but guesswork."
+    "notes": "Darwin's theory is nothing but guesswork.",
+    "urdu": "اٹکل دوڑانے والے ہلاک ہوں"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "arabic": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
     "transliteration": "Allatheena hum fee ghamratin sahoona",
     "translation": "Those that are submerged in carelessness about Truth and Reality.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو بےخبری میں بھولے ہوئے ہیں"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "arabic": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
     "transliteration": "Yasaloona ayyana yawmu alddeeni",
     "translation": "They ask, “When will the Judgement Day be?”",
-    "notes": ""
+    "notes": "",
+    "urdu": "پوچھتے ہیں کہ جزا کا دن کب ہوگا؟"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "arabic": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
     "transliteration": "Yawma hum AAala alnnari yuftanoona",
     "translation": "It will be the Day when they shall be made to suffer on the Fire.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اُس دن (ہوگا) جب ان کو آگ میں عذاب دیا جائے گا"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "arabic": "ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ",
     "transliteration": "Thooqoo fitnatakum hatha allathee kuntum bihi tastaAAjiloona",
     "translation": "\"Taste the suffering you deserve! This is what you had sought to hasten.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "اب اپنی شرارت کا مزہ چکھو۔ یہ وہی ہے جس کے لئے تم جلدی مچایا کرتے تھے"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "arabic": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَعُيُونٍ",
     "transliteration": "Inna almuttaqeena fee jannatin waAAuyoonin",
     "translation": "The pious and Allah-fearing shall indeed be in the midst of gardens and fountains.",
-    "notes": ""
+    "notes": "",
+    "urdu": "بےشک پرہیزگار بہشتوں اور چشموں میں (عیش کر رہے) ہوں گے"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "arabic": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ",
     "transliteration": "Akhitheena ma atahum rabbuhum innahum kanoo qabla thalika muhsineena",
     "translation": "They accept what their Lord gives them. They did indeed do good work before (in the life of the world.)",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور) جو جو (نعمتیں) ان کا پروردگار انہیں دیتا ہوگا ان کو لے رہے ہوں گے۔ بےشک وہ اس سے پہلے نیکیاں کرتے تھے"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "arabic": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
     "transliteration": "Kanoo qaleelan mina allayli ma yahjaAAoona",
     "translation": "They slept but little at night",
-    "notes": ""
+    "notes": "",
+    "urdu": "رات کے تھوڑے سے حصے میں سوتے تھے"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "arabic": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
     "transliteration": "Wabialashari hum yastaghfiroona",
     "translation": "And they asked for forgiveness in the wee hours before dawn.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اوقات سحر میں بخشش مانگا کرتے تھے"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "arabic": "وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
     "transliteration": "Wafee amwalihim haqqun lilssaili waalmahroomi",
     "translation": "And they considered it their duty to keep something aside in their property for the needy and the destitute.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ان کے مال میں مانگنے والے اور نہ مانگنے والے (دونوں) کا حق ہوتا تھا"
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "arabic": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ",
     "transliteration": "Wafee alardi ayatun lilmooqineena",
     "translation": "And in the earth are there many signs for those who are certain in their belief",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور یقین کرنے والوں کے لئے زمین میں (بہت سی) نشانیاں ہیں"
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "arabic": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
     "transliteration": "Wafee anfusikum afala tubsiroona",
     "translation": "And in your own persons too! Do you not see?",
-    "notes": "In [41:56], the Qur'aan inter alia declares: We will show Our signs to them in the wide world outside and within themselves, until it becomes clear to them that it (Qur'aan) is the truth. If readers would take the trouble of scanning the two blog sites RabbunAllah and Al-mu'min they can find such signs galore pointed out therein. And if they would but sincerely reflect on how the earth is the only heavenly body in the entire Universe tailor-made to sustain life, human and non-human, they cannot fail to recognize the hidden hand of the Tailor Who fashioned it. Or, if they would just consider how their own fingers – and leave alone all the other parts of their bodies having even more complicated structure – are so ingeniously fashioned to enable them to do umpteen number of their daily jobs therewith, they should not fail to recognize the Great Fashioner working behind the scenes. Imagine life without those fingers!"
+    "notes": "In [41:56], the Qur'aan inter alia declares: We will show Our signs to them in the wide world outside and within themselves, until it becomes clear to them that it (Qur'aan) is the truth. If readers would take the trouble of scanning the two blog sites RabbunAllah and Al-mu'min they can find such signs galore pointed out therein. And if they would but sincerely reflect on how the earth is the only heavenly body in the entire Universe tailor-made to sustain life, human and non-human, they cannot fail to recognize the hidden hand of the Tailor Who fashioned it. Or, if they would just consider how their own fingers – and leave alone all the other parts of their bodies having even more complicated structure – are so ingeniously fashioned to enable them to do umpteen number of their daily jobs therewith, they should not fail to recognize the Great Fashioner working behind the scenes. Imagine life without those fingers!",
+    "urdu": "اور خود تمہارے نفوس میں تو کیا تم دیکھتے نہیں؟"
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "arabic": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
     "transliteration": "Wafee alssamai rizqukum wama tooAAadoona",
     "translation": "And in the heaven is your provision and what you are being promised.",
-    "notes": "In physical terms, it is the rain that comes from the sky that provides mankind with means of sustenance. And, in spiritual terms, it is the Guidance that comes down from Allah that shows the correct way to lead human ife to get the promised life in the Hereafter where there would be no trial and tribulations, but an ad-infinitum continuity of life without sorrow, pain or any wickedness. None other than the Divine Being can give this provision and this promise."
+    "notes": "In physical terms, it is the rain that comes from the sky that provides mankind with means of sustenance. And, in spiritual terms, it is the Guidance that comes down from Allah that shows the correct way to lead human ife to get the promised life in the Hereafter where there would be no trial and tribulations, but an ad-infinitum continuity of life without sorrow, pain or any wickedness. None other than the Divine Being can give this provision and this promise.",
+    "urdu": "اور تمہارا رزق اور جس چیز کا تم سے وعدہ کیا جاتا ہے آسمان میں ہے"
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "arabic": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
     "transliteration": "Fawarabbi alssamai waalardi innahu lahaqqun mithla ma annakum tantiqoona",
     "translation": "By the Lord of the heaven and the earth, then, this is indeed true, as true as the fact of your speaking.",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو آسمانوں اور زمین کے مالک کی قسم! یہ (اسی طرح) قابل یقین ہے جس طرح تم بات کرتے ہو"
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "arabic": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
     "transliteration": "Hal ataka hadeethu dayfi ibraheema almukrameena",
     "translation": "Has the story of Abraham´s honoured guests reached you, (O Prophet)?",
-    "notes": ""
+    "notes": "",
+    "urdu": "بھلا تمہارے پاس ابراہیمؑ کے معزز مہمانوں کی خبر پہنچی ہے؟"
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "arabic": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ",
     "transliteration": "Ith dakhaloo AAalayhi faqaloo salaman qala salamun qawmun munkaroona",
     "translation": "On coming to him, they said: \"Peace!\" He said, \"Peace, strangers!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "جب وہ ان کے پاس آئے تو سلام کہا۔ انہوں نے بھی (جواب میں) سلام کہا (دیکھا تو) ایسے لوگ کہ نہ جان نہ پہچان"
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "arabic": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
     "transliteration": "Faragha ila ahlihi fajaa biAAijlin sameenin",
     "translation": "Then slipping away from them to his family, he brought a fat calf [to feast his stranger guests therewith.]",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو اپنے گھر جا کر ایک (بھنا ہوا) موٹا بچھڑا لائے"
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "arabic": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
     "transliteration": "Faqarrabahu ilayhim qala ala takuloona",
     "translation": "And he laid it before them, saying, \"Would you not eat it?\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اور کھانے کے لئے) ان کے آگے رکھ دیا۔ کہنے لگے کہ آپ تناول کیوں نہیں کرتے؟"
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "arabic": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ",
     "transliteration": "Faawjasa minhum kheefatan qaloo la takhaf wabashsharoohu bighulamin AAaleemin",
     "translation": "Then he was afraid of them. They said, \"Fear not!\" And they gave him the good news of a son endowed with knowledge.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور دل میں ان سے خوف معلوم کیا۔ (انہوں نے) کہا کہ خوف نہ کیجیئے۔ اور ان کو ایک دانشمند لڑکے کی بشارت بھی سنائی"
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "arabic": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
     "transliteration": "Faaqbalati imraatuhu fee sarratin fasakkat wajhaha waqalat AAajoozun AAaqeemun",
     "translation": "His wife thereupon came forward crying. She struck her face and exclaimed, \"A barren old woman am I!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو ابراہیمؑ کی بیوی چلاّتی آئی اور اپنا منہ پیٹ کر کہنے لگی کہ (اے ہے ایک تو) بڑھیا اور (دوسرے) بانجھ"
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "arabic": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
     "transliteration": "Qaloo kathaliki qala rabbuki innahu huwa alhakeemu alAAaleemu",
     "translation": "They said, \"Your Lord has said so! Indeed, He is the One Most Wise, All-Knowing.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "(انہوں نے) کہا (ہاں) تمہارے پروردگار نے یوں ہی فرمایا ہے۔ وہ بےشک صاحبِ حکمت (اور) خبردار ہے"
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "arabic": "۞قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
     "transliteration": "Qala fama khatbukum ayyuha almursaloona",
     "translation": "Abraham said, \"What is your mission then, O Messengers?\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "ابراہیمؑ نے کہا کہ فرشتو! تمہارا مدعا کیا ہے؟"
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "arabic": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
     "transliteration": "Qaloo inna orsilna ila qawmin mujrimeena",
     "translation": "They replied, \"We have indeed been sent towards a sinning people.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "انہوں نے کہا کہ ہم گنہگار لوگوں کی طرف بھیجے گئے ہیں"
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "arabic": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
     "transliteration": "Linursila AAalayhim hijaratan min teenin",
     "translation": "\"To throw stones of clay upon them.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "تاکہ ان پر کھنگر برسائیں"
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "arabic": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
     "transliteration": "Musawwamatan AAinda rabbika lilmusrifeena",
     "translation": "\"Targeted with your Lord upon those who go beyond all bounds!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "جن پر حد سے بڑھ جانے والوں کے لئے تمہارے پروردگار کے ہاں سے نشان کردیئے گئے ہیں"
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "arabic": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ",
     "transliteration": "Faakhrajna man kana feeha mina almumineena",
     "translation": "We then evacuated all the believers who lived therein.",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو وہاں جتنے مومن تھے ان کو ہم نے نکال لیا"
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "arabic": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
     "transliteration": "Fama wajadna feeha ghayra baytin mina almuslimeena",
     "translation": "And We did not find therein any Muslims, apart from a single house.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اس میں ایک گھر کے سوا مسلمانوں کا کوئی گھر نہ پایا"
   },
   {
     "id": 37,
@@ -293,7 +329,8 @@
     "arabic": "وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
     "transliteration": "Watarakna feeha ayatan lillatheena yakhafoona alAAathaba alaleema",
     "translation": "And We left therein a sign for those who fear the painful punishment.",
-    "notes": "Refer [25:40] and study note thereon in PART I of this Tafsir."
+    "notes": "Refer [25:40] and study note thereon in PART I of this Tafsir.",
+    "urdu": "اور جو لوگ عذاب الیم سے ڈرتے ہیں ان کے لئے وہاں نشانی چھوڑ دی"
   },
   {
     "id": 38,
@@ -301,7 +338,8 @@
     "arabic": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ",
     "transliteration": "Wafee moosa ith arsalnahu ila firAAawna bisultanin mubeenin",
     "translation": "And in Moses [there is a sign] - when We sent him with a clear authority to Pharaoh.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور موسیٰ (کے حال) میں (بھی نشانی ہے) جب ہم نے ان کو فرعون کی طرف کھلا ہوا معجزہ دے کر بھیجا"
   },
   {
     "id": 39,
@@ -309,7 +347,8 @@
     "arabic": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ",
     "transliteration": "Fatawalla biruknihi waqala sahirun aw majnoonun",
     "translation": "And he [Pharaoh] turned in arrogance on the strength of his support, and he said (to his council of elders), \"He is a magician or a madman.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو اس نے اپنی جماعت (کے گھمنڈ) پر منہ موڑ لیا اور کہنے لگا یہ تو جادوگر ہے یا دیوانہ"
   },
   {
     "id": 40,
@@ -317,7 +356,8 @@
     "arabic": "فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ",
     "transliteration": "Faakhathnahu wajunoodahu fanabathnahum fee alyammi wahuwa muleemun",
     "translation": "So then We seized him and his troops and threw them into the sea. And he was to blame [for this fate].",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو ہم نے اس کو اور اس کے لشکروں کو پکڑ لیا اور ان کو دریا میں پھینک دیا اور وہ کام ہی قابل ملامت کرتا تھا"
   },
   {
     "id": 41,
@@ -325,7 +365,8 @@
     "arabic": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ",
     "transliteration": "Wafee AAadin ith arsalna AAalayhimu alrreeha alAAaqeema",
     "translation": "And in Aad [there is a sign] - when We sent upon them a devastating wind",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور عاد (کی قوم کے حال) میں بھی (نشانی ہے) جب ہم نے ان پر نامبارک ہوا چلائی"
   },
   {
     "id": 42,
@@ -333,7 +374,8 @@
     "arabic": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
     "transliteration": "Ma tatharu min shayin atat AAalayhi illa jaAAalathu kaalrrameemi",
     "translation": "[The devastating wind] left nothing that it came upon without making it look like old and rotten bones.",
-    "notes": ""
+    "notes": "",
+    "urdu": "وہ جس چیز پر چلتی اس کو ریزہ ریزہ کئے بغیر نہ چھوڑتی"
   },
   {
     "id": 43,
@@ -341,7 +383,8 @@
     "arabic": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
     "transliteration": "Wafee thamooda ith qeela lahum tamattaAAoo hatta heenin",
     "translation": "And in Thamood [there is a sign] - when they were told, \"Enjoy yourselves for a while.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور (قوم) ثمود (کے حال) میں (نشانی ہے) جب ان سے کہا گیا کہ ایک وقت تک فائدہ اٹھالو"
   },
   {
     "id": 44,
@@ -349,7 +392,8 @@
     "arabic": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ وَهُمۡ يَنظُرُونَ",
     "transliteration": "FaAAataw AAan amri rabbihim faakhathathumu alssaAAiqatu wahum yanthuroona",
     "translation": "They had behaved insolently towards the Command of their Lord! So then a thunderbolt struck them as they looked on.",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو انہوں نے اپنے پروردگار کے حکم سے سرکشی کی۔ سو ان کو کڑک نے آ پکڑا اور وہ دیکھ رہے تھے"
   },
   {
     "id": 45,
@@ -357,7 +401,8 @@
     "arabic": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ",
     "transliteration": "Fama istataAAoo min qiyamin wama kanoo muntasireena",
     "translation": "So they were unable to rise up, nor could they find any helpers.",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر وہ نہ تو اُٹھنے کی طاقت رکھتے تھے اور نہ مقابلہ ہی کرسکتے تھے"
   },
   {
     "id": 46,
@@ -365,7 +410,8 @@
     "arabic": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ",
     "transliteration": "Waqawma noohin min qablu innahum kanoo qawman fasiqeena",
     "translation": "And the people of Noah before them all – they were indeed a people immersed in transgression!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اس سے پہلے (ہم) نوح کی قوم کو (ہلاک کرچکے تھے) بےشک وہ نافرمان لوگ تھے"
   },
   {
     "id": 47,
@@ -373,7 +419,8 @@
     "arabic": "وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ",
     "transliteration": "Waalssamaa banaynaha biaydin wainna lamoosiAAoona",
     "translation": "And the heaven - We made it powerful and We can certainly indeed expand it.",
-    "notes": "It is only recently that science has stumbled upon the fact that the universe is expanding. And modern science has become aware of the mind-boggling interplay of tremendous forces that keep the innumerable and huge heavenly bodies floating in their respective orbits without crushing into one another."
+    "notes": "It is only recently that science has stumbled upon the fact that the universe is expanding. And modern science has become aware of the mind-boggling interplay of tremendous forces that keep the innumerable and huge heavenly bodies floating in their respective orbits without crushing into one another.",
+    "urdu": "اور آسمانوں کو ہم ہی نے ہاتھوں سے بنایا اور ہم کو سب مقدور ہے"
   },
   {
     "id": 48,
@@ -381,7 +428,8 @@
     "arabic": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ",
     "transliteration": "Waalarda farashnaha faniAAma almahidoona",
     "translation": "And the earth - We prepared its crust, and how well have We prepared it!",
-    "notes": "Imagine what would happen if the earth surface had not its ups and downs: we would not have any land; water would envelope it entirely!"
+    "notes": "Imagine what would happen if the earth surface had not its ups and downs: we would not have any land; water would envelope it entirely!",
+    "urdu": "اور زمین کو ہم ہی نے بچھایا تو (دیکھو) ہم کیا خوب بچھانے والے ہیں"
   },
   {
     "id": 49,
@@ -389,7 +437,8 @@
     "arabic": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
     "transliteration": "Wamin kulli shayin khalaqna zawjayni laAAallakum tathakkaroona",
     "translation": "And of everything We have created in pairs, so that you ponder over this and remember!",
-    "notes": "But Allah, the Creator, is One - He has no pair, equal or opposite!"
+    "notes": "But Allah, the Creator, is One - He has no pair, equal or opposite!",
+    "urdu": "اور ہر چیز کی ہم نے دو قسمیں بنائیں تاکہ تم نصیحت پکڑو"
   },
   {
     "id": 50,
@@ -397,7 +446,8 @@
     "arabic": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
     "transliteration": "Fafirroo ila Allahi innee lakum minhu natheerun mubeenun",
     "translation": "\"Flee , therefore, to Allah. I am indeed a plain warner to you from Him.\"",
-    "notes": "Flee from the lure – and the inevitable pitfalls – of worldly life."
+    "notes": "Flee from the lure – and the inevitable pitfalls – of worldly life.",
+    "urdu": "تو تم لوگ خدا کی طرف بھاگ چلو میں اس کی طرف سے تم کو صریح رستہ بتانے والا ہوں"
   },
   {
     "id": 51,
@@ -405,7 +455,8 @@
     "arabic": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
     "transliteration": "Wala tajAAaloo maAAa Allahi ilahan akhara innee lakum minhu natheerun mubeenun",
     "translation": "“And set up no other deity with Allah. I am indeed a plain warner to you from Him.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور خدا کے ساتھ کسی اَور کو معبود نہ بناؤ۔ میں اس کی طرف سے تم کو صریح رستہ بتانے والا ہوں"
   },
   {
     "id": 52,
@@ -413,7 +464,8 @@
     "arabic": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ",
     "transliteration": "Kathalika ma ata allatheena min qablihim min rasoolin illa qaloo sahirun aw majnoonun",
     "translation": "Likewise, never did a Messenger come to those that preceded them, but they called him a magician or a mad-man.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اسی طرح ان سے پہلے لوگوں کے پاس جو پیغمبر آتا وہ اس کو جادوگر یا دیوانہ کہتے"
   },
   {
     "id": 53,
@@ -421,7 +473,8 @@
     "arabic": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
     "transliteration": "Atawasaw bihi bal hum qawmun taghoona",
     "translation": "Do they persist with the same [canard]!? Nay, they are a people committing transgression.",
-    "notes": ""
+    "notes": "",
+    "urdu": "کیا یہ کہ ایک دوسرے کو اسی بات کی وصیت کرتے آئے ہیں بلکہ یہ شریر لوگ ہیں"
   },
   {
     "id": 54,
@@ -429,7 +482,8 @@
     "arabic": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ",
     "transliteration": "Fatawalla AAanhum fama anta bimaloomin",
     "translation": "So turn away from them; you are not to blame!",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو ان سے اعراض کرو۔ تم کو (ہماری) طرف سے ملامت نہ ہوگی"
   },
   {
     "id": 55,
@@ -437,7 +491,8 @@
     "arabic": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ",
     "transliteration": "Wathakkir fainna alththikra tanfaAAu almumineena",
     "translation": "And keep on counselling them; for counselling does indeed benefit the believers!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور نصیحت کرتے رہو کہ نصیحت مومنوں کو نفع دیتی ہے"
   },
   {
     "id": 56,
@@ -445,7 +500,8 @@
     "arabic": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ",
     "transliteration": "Wama khalaqtu aljinna waalinsa illa liyaAAbudooni",
     "translation": "And I created the jinn and the humans for nothing but that they worship Me.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور میں نے جنوں اور انسانوں کو اس لئے پیدا کیا ہے کہ میری عبادت کریں"
   },
   {
     "id": 57,
@@ -453,7 +509,8 @@
     "arabic": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ",
     "transliteration": "Ma oreedu minhum min rizqin wama oreedu an yutAAimooni",
     "translation": "I want from them no provision, nor do I want them to feed Me.",
-    "notes": ""
+    "notes": "",
+    "urdu": "میں ان سے طالب رزق نہیں اور نہ یہ چاہتا ہوں کہ مجھے (کھانا) کھلائیں"
   },
   {
     "id": 58,
@@ -461,7 +518,8 @@
     "arabic": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
     "transliteration": "Inna Allaha huwa alrrazzaqu thoo alquwwati almateenu",
     "translation": "Indeed, Allah is the One Who provides all sustenance. He is Possessor of power that never fails!",
-    "notes": ""
+    "notes": "",
+    "urdu": "خدا ہی تو رزق دینے والا زور آور اور مضبوط ہے"
   },
   {
     "id": 59,
@@ -469,7 +527,8 @@
     "arabic": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
     "transliteration": "Fainna lillatheena thalamoo thanooban mithla thanoobi ashabihim fala yastaAAjiloona",
     "translation": "And, indeed, the lot of those who do wrong is like the lot of their counterparts (of yore). So, let them not hasten Me.",
-    "notes": ""
+    "notes": "",
+    "urdu": "کچھ شک نہیں کہ ان ظالموں کے لئے بھی (عذاب کی) نوبت مقرر ہے جس طرح ان کے ساتھیوں کی نوبت تھی تو ان کو مجھ سے (عذاب) جلدی نہیں طلب کرنا چاہیئے"
   },
   {
     "id": 60,
@@ -477,6 +536,7 @@
     "arabic": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
     "transliteration": "Fawaylun lillatheena kafaroo min yawmihimu allathee yooAAadoona",
     "translation": "Woe, then, to those, who suppress the Truth, during that Day of theirs which they are warned against.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جس دن کا ان کافروں سے وعدہ کیا جاتا ہے اس سے ان کے لئے خرابی ہے"
   }
 ]

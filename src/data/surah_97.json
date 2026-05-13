@@ -1,1 +1,47 @@
-[{"id":1,"ref":"97:1","arabic":"إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ","transliteration":"Inna anzalnahu fee laylati alqadri","translation":"","notes":""},{"id":2,"ref":"97:2","arabic":"وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ","transliteration":"Wama adraka ma laylatu alqadri","translation":"","notes":""},{"id":3,"ref":"97:3","arabic":"لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ","transliteration":"Laylatu alqadri khayrun min alfi shahrin","translation":"","notes":""},{"id":4,"ref":"97:4","arabic":"تَنَزَّلُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ","transliteration":"Tanazzalu almalaikatu waalrroohu feeha biithni rabbihim min kulli amrin","translation":"","notes":""},{"id":5,"ref":"97:5","arabic":"سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ","transliteration":"Salamun hiya hatta matlaAAi alfajri","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "97:1",
+    "arabic": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+    "transliteration": "Inna anzalnahu fee laylati alqadri",
+    "translation": "We have indeed bestowed it [the Qur’aan] in the Night of Destiny.",
+    "notes": "",
+    "urdu": "ہم نے اس (قرآن) کو شب قدر میں نازل (کرنا شروع) کیا"
+  },
+  {
+    "id": 2,
+    "ref": "97:2",
+    "arabic": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+    "transliteration": "Wama adraka ma laylatu alqadri",
+    "translation": "And what do you understand what the Night of Destiny is?",
+    "notes": "",
+    "urdu": "اور تمہیں کیا معلوم کہ شب قدر کیا ہے؟"
+  },
+  {
+    "id": 3,
+    "ref": "97:3",
+    "arabic": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+    "transliteration": "Laylatu alqadri khayrun min alfi shahrin",
+    "translation": "The Night of Destiny is better than a thousand months.",
+    "notes": "",
+    "urdu": "شب قدر ہزار مہینے سے بہتر ہے"
+  },
+  {
+    "id": 4,
+    "ref": "97:4",
+    "arabic": "تَنَزَّلُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+    "transliteration": "Tanazzalu almalaikatu waalrroohu feeha biithni rabbihim min kulli amrin",
+    "translation": "The angels and the Spirit descend in that Night, with their Lord’s decree on every matter,",
+    "notes": "See study notes 113 to 116 on [2:87] (PART I of this Tafsir) in this regard.",
+    "urdu": "اس میں روح (الامین) اور فرشتے ہر کام کے (انتظام کے) لیے اپنے پروردگار کے حکم سے اترتے ہیں"
+  },
+  {
+    "id": 5,
+    "ref": "97:5",
+    "arabic": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+    "transliteration": "Salamun hiya hatta matlaAAi alfajri",
+    "translation": "In complete confidence and security. This continues until the break of dawn.",
+    "notes": "Laylatu alqadri – the night that is described in this 97th Chapter of the Qur’aan – is one of the mutashabihaat (parts of the Holy Book that the human mind cannot clearly understand) in terms of [3:7]. Therefore, in pursuance of divine directions in that Verse, we must content ourselves with what Allah Almighty was pleased to inform us about it in this Chapter. But we are not content! We insist on giving our own error-prone interpretations thereof or on searching for such interpretations in the books of ahaadeeth. We are thus guilty of seeking mischief as the [3:7] tells us. According to that Verse only Allah knows its correct interpretation.",
+    "urdu": "یہ (رات) طلوع صبح تک (امان اور) سلامتی ہے"
+  }
+]

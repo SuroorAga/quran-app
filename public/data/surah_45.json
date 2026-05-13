@@ -5,7 +5,8 @@
     "arabic": "حمٓ",
     "transliteration": "Hameem",
     "translation": "Ha Mim",
-    "notes": ""
+    "notes": "",
+    "urdu": "حٰم"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "تَنزِيلُ ٱلۡكِتَٰبِ مِنَ ٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ",
     "transliteration": "Tanzeelu alkitabi mina Allahi alAAazeezi alhakeemi",
     "translation": "Revelation of the Book is from Allah, the Omnipotent, and Wise.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس کتاب کا اُتارا جانا خدائے غالب (اور) دانا (کی طرف) سے ہے"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "إِنَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّلۡمُؤۡمِنِينَ",
     "transliteration": "Inna fee alssamawati waalardi laayatin lilmumineena",
     "translation": "Indeed, in the heavens and the earth there are Signs for those who believe!",
-    "notes": ""
+    "notes": "",
+    "urdu": "بےشک آسمانوں اور زمین میں ایمان والوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "وَفِي خَلۡقِكُمۡ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَٰتٞ لِّقَوۡمٖ يُوقِنُونَ",
     "transliteration": "Wafee khalqikum wama yabuththu min dabbatin ayatun liqawmin yooqinoona",
     "translation": "And in your creation and in animals Allah proliferates, there are Signs for people certain of their belief in Him.",
-    "notes": "Take only one part – the eye – of human creation. Scientists are agreed that it is one of the marvels of creation, which no man can equal. All other parts of the body – of any animal – are all marvels of creation, which no man can ever hope to equal! And the atheists’ unscientific assumption that all these marvels just happened of their own, is just nonsense! Every part of the body provides a loud and clear evidence of the existence of the Creator. The other Sign that this Verse mentions is the proliferation of some animals like sheep. Imagine the factual position of lakhs of sheep being slaughtered everyday for their meat being served as food for mankind all over the world! But has this fact ever rendered sheep as endangered species like tiger and other wild animals are? Here, in this case also, the divine Hand operating behind the scenes is very much apparent."
+    "notes": "Take only one part – the eye – of human creation. Scientists are agreed that it is one of the marvels of creation, which no man can equal. All other parts of the body – of any animal – are all marvels of creation, which no man can ever hope to equal! And the atheists’ unscientific assumption that all these marvels just happened of their own, is just nonsense! Every part of the body provides a loud and clear evidence of the existence of the Creator. The other Sign that this Verse mentions is the proliferation of some animals like sheep. Imagine the factual position of lakhs of sheep being slaughtered everyday for their meat being served as food for mankind all over the world! But has this fact ever rendered sheep as endangered species like tiger and other wild animals are? Here, in this case also, the divine Hand operating behind the scenes is very much apparent.",
+    "urdu": "اور تمہاری پیدائش میں بھی۔ اور جانوروں میں بھی جن کو وہ پھیلاتا ہے یقین کرنے والوں کے لئے نشانیاں ہیں"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزۡقٖ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَتَصۡرِيفِ ٱلرِّيَٰحِ ءَايَٰتٞ لِّقَوۡمٖ يَعۡقِلُونَ",
     "transliteration": "Waikhtilafi allayli waalnnahari wama anzala Allahu mina alssamai min rizqin faahya bihi alarda baAAda mawtiha watasreefi alrriyahi ayatun liqawmin yaAAqiloona",
     "translation": "And in the succession of night and day, and in the provision that Allah sends down from the sky wherewith He gives life to the earth after it had been dead, and in the winds changing their directions, there are Signs for people who make use of their intelligence.",
-    "notes": "In this context, you may kindly also go through study notes on [2:164] [Qur’aanic Studies Manzil I]"
+    "notes": "In this context, you may kindly also go through study notes on [2:164] [Qur’aanic Studies Manzil I]",
+    "urdu": "اور رات اور دن کے آگے پیچھے آنے جانے میں اور وہ جو خدا نے آسمان سے (ذریعہٴ) رزق نازل فرمایا پھر اس سے زمین کو اس کے مرجانے کے بعد زندہ کیا اس میں اور ہواؤں کے بدلنے میں عقل والوں کے لئے نشانیاں ہیں"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۖ فَبِأَيِّ حَدِيثِۭ بَعۡدَ ٱللَّهِ وَءَايَٰتِهِۦ يُؤۡمِنُونَ",
     "transliteration": "Tilka ayatu Allahi natlooha AAalayka bialhaqqi fabiayyi hadeethin baAAda Allahi waayatihi yuminoona",
     "translation": "Those are Allah´s Verses being recited to you [O Muhammad] in Truth. In what Hadeeth after Allah and His Verses will they, then, believe?",
-    "notes": "Refer study note 74 on [7:185]"
+    "notes": "Refer study note 74 on [7:185]",
+    "urdu": "یہ خدا کی آیتیں ہیں جو ہم تم کو سچائی کے ساتھ پڑھ کر سناتے ہیں۔ تو یہ خدا اور اس کی آیتوں کے بعد کس بات پر ایمان لائیں گے؟"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "وَيۡلٞ لِّكُلِّ أَفَّاكٍ أَثِيمٖ",
     "transliteration": "Waylun likulli affakin atheemin",
     "translation": "Woe to every sinful liar.",
-    "notes": ""
+    "notes": "",
+    "urdu": "ہر جھوٹے گنہگار پر افسوس ہے"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "يَسۡمَعُ ءَايَٰتِ ٱللَّهِ تُتۡلَىٰ عَلَيۡهِ ثُمَّ يُصِرُّ مُسۡتَكۡبِرٗا كَأَن لَّمۡ يَسۡمَعۡهَاۖ فَبَشِّرۡهُ بِعَذَابٍ أَلِيمٖ",
     "transliteration": "YasmaAAu ayati Allahi tutla AAalayhi thumma yusirru mustakbiran kaan lam yasmaAAha fabashshirhu biAAathabin aleemin",
     "translation": "He hears Allah´s Verses recited to him, and then arrogantly persists [in being a sinful liar] as though he had not heard it. Tell him, then, he shall suffer a painful punishment.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(کہ) خدا کی آیتیں اس کو پڑھ کر سنائی جاتی ہیں تو ان کو سن تو لیتا ہے (مگر) پھر غرور سے ضد کرتا ہے کہ گویا ان کو سنا ہی نہیں۔ سو ایسے شخص کو دکھ دینے والے عذاب کی خوشخبری سنا دو"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "وَإِذَا عَلِمَ مِنۡ ءَايَٰتِنَا شَيۡـًٔا ٱتَّخَذَهَا هُزُوًاۚ أُوْلَـٰٓئِكَ لَهُمۡ عَذَابٞ مُّهِينٞ",
     "transliteration": "Waitha AAalima min ayatina shayan ittakhathaha huzuwan olaika lahum AAathabun muheenun",
     "translation": "When he comes to know something from Our Verses, he makes a fun of it. For such there shall be a humiliating punishment.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جب ہماری کچھ آیتیں اسے معلوم ہوتی ہیں تو ان کی ہنسی اُڑاتا ہے۔ ایسے لوگوں کے لئے ذلیل کرنے والا عذاب ہے"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "مِّن وَرَآئِهِمۡ جَهَنَّمُۖ وَلَا يُغۡنِي عَنۡهُم مَّا كَسَبُواْ شَيۡـٔٗا وَلَا مَا ٱتَّخَذُواْ مِن دُونِ ٱللَّهِ أَوۡلِيَآءَۖ وَلَهُمۡ عَذَابٌ عَظِيمٌ",
     "transliteration": "Min waraihim jahannamu wala yughnee AAanhum ma kasaboo shayan wala ma ittakhathoo min dooni Allahi awliyaa walahum AAathabun AAatheemun",
     "translation": "There is Hell beyond, for them. Their worldly earnings, or those whom they took as awliya besides Allah, shall avail them not! And for them, there is a great punishment.",
-    "notes": "Refer study notes on [2:107]."
+    "notes": "Refer study notes on [2:107].",
+    "urdu": "ان کے سامنے دوزخ ہے۔ اور جو کام وہ کرتے رہے کچھ بھی ان کے کام نہ آئیں گے۔ اور نہ وہی (کام آئیں گے) جن کو انہوں نے خدا کے سوا معبود بنا رکھا تھا۔ اور ان کے لئے بڑا عذاب ہے"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "arabic": "هَٰذَا هُدٗىۖ وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ رَبِّهِمۡ لَهُمۡ عَذَابٞ مِّن رِّجۡزٍ أَلِيمٌ",
     "transliteration": "Hatha hudan waallatheena kafaroo biayati rabbihim lahum AAathabun min rijzin aleemin",
     "translation": "This (Qur’aan) is guidance. For those who suppress the truth of the Verses of their Lord, there shall be punishment of a painful scourge.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ ہدایت (کی کتاب) ہے۔ اور جو لوگ اپنے پروردگار کی آیتوں سے انکار کرتے ہیں ان کو سخت قسم کا درد دینے والا عذاب ہوگا"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "arabic": "۞ٱللَّهُ ٱلَّذِي سَخَّرَ لَكُمُ ٱلۡبَحۡرَ لِتَجۡرِيَ ٱلۡفُلۡكُ فِيهِ بِأَمۡرِهِۦ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
     "transliteration": "Allahu allathee sakhkhara lakumu albahra litajriya alfulku feehi biamrihi walitabtaghoo min fadlihi walaAAallakum tashkuroona",
     "translation": "Allah it is Who has made the sea subservient to you so that ships may sail in it at His command and you may seek of His Favour and give thanks to Him.",
-    "notes": ""
+    "notes": "",
+    "urdu": "خدا ہی تو ہے جس نے دریا کو تمہارے قابو کردیا تاکہ اس کے حکم سے اس میں کشتیاں چلیں اور تاکہ تم اس کے فضل سے (معاش) تلاش کرو اور تاکہ شکر کرو"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "arabic": "وَسَخَّرَ لَكُم مَّا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ جَمِيعٗا مِّنۡهُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
     "transliteration": "Wasakhkhara lakum ma fee alssamawati wama fee alardi jameeAAan minhu inna fee thalika laayatin liqawmin yatafakkaroona",
     "translation": "And He has made things in the heavens and all that is in the earth, subservient to you. Indeed, there are Signs in that for those who reflect.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب کو اپنے (حکم) سے تمہارے کام میں لگا دیا۔ جو لوگ غور کرتے ہیں ان کے لئے اس میں (قدرت خدا کی) نشانیاں ہیں"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "arabic": "قُل لِّلَّذِينَ ءَامَنُواْ يَغۡفِرُواْ لِلَّذِينَ لَا يَرۡجُونَ أَيَّامَ ٱللَّهِ لِيَجۡزِيَ قَوۡمَۢا بِمَا كَانُواْ يَكۡسِبُونَ",
     "transliteration": "Qul lillatheena amanoo yaghfiroo lillatheena la yarjoona ayyama Allahi liyajziya qawman bima kanoo yaksiboona",
     "translation": "Tell those who believe to forgive those who do not look forward to the Divine Times (Hereafter) for Allah Himself to requite them for their deeds.",
-    "notes": "It is not for man to punish anyone just for disbelief in the Hereafter. It is for Allah to do that."
+    "notes": "It is not for man to punish anyone just for disbelief in the Hereafter. It is for Allah to do that.",
+    "urdu": "مومنوں سے کہہ دو کہ جو لوگ خدا کے دنوں کی (جو اعمال کے بدلے کے لئے مقرر ہیں) توقع نہیں رکھتے ان سے درگزر کریں۔ تاکہ وہ ان لوگوں کو ان کے اعمال کا بدلے دے"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "arabic": "مَنۡ عَمِلَ صَٰلِحٗا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَآءَ فَعَلَيۡهَاۖ ثُمَّ إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ",
     "transliteration": "Man AAamila salihan falinafsihi waman asaa faAAalayha thumma ila rabbikum turjaAAoona",
     "translation": "He who does a good deed does so for his own good; and he who commits a bad deed, will himself suffer its consequence. All of you will then [after you have done your deeds here, good or bad] be sent back to your Lord.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو کوئی عمل نیک کرے گا تو اپنے لئے۔ اور جو برے کام کرے گا تو ان کا ضرر اسی کو ہوگا۔ پھر تم اپنے پروردگار کی طرف لوٹ کر جاؤ گے"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "arabic": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَـٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
     "transliteration": "Walaqad atayna banee israeela alkitaba waalhukma waalnnubuwwata warazaqnahum mina alttayyibati wafaddalnahum AAala alAAalameena",
     "translation": "Indeed We did bestow upon the Children of Israel the Book, political power and Prophethood. And We provided them with good things and exalted them above the worlds .",
-    "notes": "See study note 1:5 on Chapter 1."
+    "notes": "See study note 1:5 on Chapter 1.",
+    "urdu": "اور ہم نے بنی اسرائیل کو کتاب (ہدایت) اور حکومت اور نبوت بخشی اور پاکیزہ چیزیں عطا فرمائیں اور اہل عالم پر فضیلت دی"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "arabic": "وَءَاتَيۡنَٰهُم بَيِّنَٰتٖ مِّنَ ٱلۡأَمۡرِۖ فَمَا ٱخۡتَلَفُوٓاْ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۚ إِنَّ رَبَّكَ يَقۡضِي بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
     "transliteration": "Waataynahum bayyinatin mina alamri fama ikhtalafoo illa min baAAdi ma jaahumu alAAilmu baghyan baynahum inna rabbaka yaqdee baynahum yawma alqiyamati feema kanoo feehi yakhtalifoona",
     "translation": "And We gave them clear directions on what to do. Then they differed not until after knowledge had come to them out of spite, one against another. On the Day of Resurrection, Allah will indeed judge among them in what they differed.",
-    "notes": "Divine Law in the Torah for Jews was as clear as it is in the Qur’aan for the Muslims. And like the Jews, the Muslims differed not because of any lack of clarity in the Law, but because most of them would not admit their own mistakes and magnanimously yield to correct views given by others."
+    "notes": "Divine Law in the Torah for Jews was as clear as it is in the Qur’aan for the Muslims. And like the Jews, the Muslims differed not because of any lack of clarity in the Law, but because most of them would not admit their own mistakes and magnanimously yield to correct views given by others.",
+    "urdu": "اور ان کو دین کے بارے میں دلیلیں عطا کیں۔ تو انہوں نے جو اختلاف کیا تو علم آچکنے کے بعد آپس کی ضد سے کیا۔ بےشک تمہارا پروردگار قیامت کے دن ان میں ان باتوں کا جن میں وہ اختلاف کرتے تھے فیصلہ کرے گا"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "arabic": "ثُمَّ جَعَلۡنَٰكَ عَلَىٰ شَرِيعَةٖ مِّنَ ٱلۡأَمۡرِ فَٱتَّبِعۡهَا وَلَا تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ لَا يَعۡلَمُونَ",
     "transliteration": "Thumma jaAAalnaka AAala shareeAAatin mina alamri faittabiAAha wala tattabiAA ahwaa allatheena la yaAAlamoona",
     "translation": "Then We have set you, (O Prophet), on a certain course of action. So follow that course, and not desires of those who know not.",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر ہم نے تم کو دین کے کھلے رستے پر (قائم) کر دیا تو اسی (رستے) پر چلے چلو اور نادانوں کی خواہشوں کے پیچھے نہ چلنا"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "arabic": "إِنَّهُمۡ لَن يُغۡنُواْ عَنكَ مِنَ ٱللَّهِ شَيۡـٔٗاۚ وَإِنَّ ٱلظَّـٰلِمِينَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۖ وَٱللَّهُ وَلِيُّ ٱلۡمُتَّقِينَ",
     "transliteration": "Innahum lan yughnoo AAanka mina Allahi shayan wainna alththalimeena baAAduhum awliyao baAAdin waAllahu waliyyu almuttaqeena",
     "translation": "They will indeed be of no avail to you against Allah. And indeed, the wrong-doers are friends one to another, whereas Allah is the wali to those who fear Him.",
-    "notes": "Refer study notes on [2:107]."
+    "notes": "Refer study notes on [2:107].",
+    "urdu": "یہ خدا کے سامنے تمہارے کسی کام نہیں آئیں گے۔ اور ظالم لوگ ایک دوسرے کے دوست ہوتے ہیں۔ اور خدا پرہیزگاروں کا دوست ہے"
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "arabic": "هَٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدٗى وَرَحۡمَةٞ لِّقَوۡمٖ يُوقِنُونَ",
     "transliteration": "Hatha basairu lilnnasi wahudan warahmatun liqawmin yooqinoona",
     "translation": "These (Qur’aanic Verses) are insights for mankind, and guidance and mercy for people certain of their belief in Allah.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ قرآن لوگوں کے لئے دانائی کی باتیں ہیں اور جو یقین رکھتے ہیں ان کے لئے ہدایت اور رحمت ہے"
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "arabic": "أَمۡ حَسِبَ ٱلَّذِينَ ٱجۡتَرَحُواْ ٱلسَّيِّـَٔاتِ أَن نَّجۡعَلَهُمۡ كَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ سَوَآءٗ مَّحۡيَاهُمۡ وَمَمَاتُهُمۡۚ سَآءَ مَا يَحۡكُمُونَ",
     "transliteration": "Am hasiba allatheena ijtarahoo alssayyiati an najAAalahum kaallatheena amanoo waAAamiloo alssalihati sawaan mahyahum wamamatuhum saa ma yahkumoona",
     "translation": "Do those who do bad things think that We shall make them equal, in their lives and in their deaths, to those who believe and do good deeds? Vile is their judgement!",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو لوگ برے کام کرتے ہیں کیا وہ یہ خیال کرتے ہیں کہ ہم ان کو ان لوگوں جیسا کردیں گے جو ایمان لائے اور عمل نیک کرتے رہے اور ان کی زندگی اور موت یکساں ہوگی۔ یہ جو دعوے کرتے ہیں برے ہیں"
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "arabic": "وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَلِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
     "transliteration": "Wakhalaqa Allahu alssamawati waalarda bialhaqqi walitujza kullu nafsin bima kasabat wahum la yuthlamoona",
     "translation": "Allah created the heavens and the earth in Truth to requit every person for his/her deeds. And none shall be wronged.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور خدا نے آسمانوں اور زمین کو حکمت سے پیدا کیا ہے اور تاکہ ہر شخص اپنے اعمال کا بدلہ پائے اور ان پر ظلم نہیں کیا جائے گا"
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "arabic": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
     "transliteration": "Afaraayta mani ittakhatha ilahahu hawahu waadallahu Allahu AAala AAilmin wakhatama AAala samAAihi waqalbihi wajaAAala AAala basarihi ghishawatan faman yahdeehi min baAAdi Allahi afala tathakkaroona",
     "translation": "Have you then seen a person who has taken his desire for his god, and then Allah, knowing this, caused him to go astray, put a seal on his hearing and his heart, and cast a veil over his sight? Who is there then to guide him after Allah? Will you not then ponder over this?",
-    "notes": ""
+    "notes": "",
+    "urdu": "بھلا تم نے اس شخص کو دیکھا جس نے اپنی خواہش کو معبود بنا رکھا ہے اور باوجود جاننے بوجھنے کے (گمراہ ہو رہا ہے تو) خدا نے (بھی) اس کو گمراہ کردیا اور اس کے کانوں اور دل پر مہر لگا دی اور اس کی آنکھوں پر پردہ ڈال دیا۔ اب خدا کے سوا اس کو کون راہ پر لاسکتا ہے۔ بھلا تم کیوں نصیحت نہیں پکڑتے؟"
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "arabic": "وَقَالُواْ مَا هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا يُهۡلِكُنَآ إِلَّا ٱلدَّهۡرُۚ وَمَا لَهُم بِذَٰلِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا يَظُنُّونَ",
     "transliteration": "Waqaloo ma hiya illa hayatuna alddunya namootu wanahya wama yuhlikuna illa alddahru wama lahum bithalika min AAilmin in hum illa yathunnoona",
     "translation": "And they say, “There is nothing other than our present worldly life. We die, and we live here; and it is the passage of time that destroys us, nothing else.” And they have no knowledge about that; they are indulging in nothing but conjecture!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور کہتے ہیں کہ ہماری زندگی تو صرف دنیا ہی کی ہے کہ (یہیں) مرتے اور جیتے ہیں اور ہمیں تو زمانہ مار دیتا ہے۔ اور ان کو اس کا کچھ علم نہیں۔ صرف ظن سے کام لیتے ہیں"
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "arabic": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ مَّا كَانَ حُجَّتَهُمۡ إِلَّآ أَن قَالُواْ ٱئۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ",
     "transliteration": "Waitha tutla AAalayhim ayatuna bayyinatin ma kana hujjatahum illa an qaloo itoo biabaina in kuntum sadiqeena",
     "translation": "And when Our Clear Verses are recited to them, their only contention is, “Bring back to us our fathers if what you say is true.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جب ان کے سامنے ہماری کھلی کھلی آیتیں پڑھی جاتی ہیں تو ان کی یہی حجت ہوتی ہے کہ اگر تم سچے ہو تو ہمارے باپ دادا کو (زندہ کر) لاؤ"
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "arabic": "قُلِ ٱللَّهُ يُحۡيِيكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يَجۡمَعُكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
     "transliteration": "Quli Allahu yuhyeekum thumma yumeetukum thumma yajmaAAukum ila yawmi alqiyamati la rayba feehi walakinna akthara alnnasi la yaAAlamoona",
     "translation": "Say, “It is Allah Who gives you life and then causes you to die, and then brings all of you together on the Day of Resurrection, a Day wherein there is no doubt. Yet, most people know not.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "کہہ دو کہ خدا ہی تم کو جان بخشتا ہے پھر (وہی) تم کو موت دیتا ہے پھر تم کو قیامت کے روز جس (کے آنے) میں کچھ شک نہیں تم کو جمع کرے گا لیکن بہت سے لوگ نہیں جانتے"
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "arabic": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يَوۡمَئِذٖ يَخۡسَرُ ٱلۡمُبۡطِلُونَ",
     "transliteration": "Walillahi mulku alssamawati waalardi wayawma taqoomu alssaAAatu yawmaithin yakhsaru almubtiloona",
     "translation": "And Allah´s is the absolute sovereignty over the heavens and the earth! And the Day the Hour (of Resurrection) comes to pass, the followers of falsehood shall be in doom.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور آسمانوں اور زمین کی بادشاہت خدا ہی کی ہے۔ اور جس روز قیامت برپا ہوگی اس روز اہل باطل خسارے میں پڑ جائیں گے"
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "arabic": "وَتَرَىٰ كُلَّ أُمَّةٖ جَاثِيَةٗۚ كُلُّ أُمَّةٖ تُدۡعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلۡيَوۡمَ تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
     "transliteration": "Watara kulla ommatin jathiyatan kullu ommatin tudAAa ila kitabiha alyawma tujzawna ma kuntum taAAmaloona",
     "translation": "And you shall see every people on their knees. Every people will be summoned to come forth and see their Record and will be told, “Today you shall be given your dues for what you did.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور تم ہر ایک فرقے کو دیکھو گے کہ گھٹنوں کے بل بیٹھا ہوگا۔ اور ہر ایک جماعت اپنی کتاب (اعمال) کی طرف بلائی جائے گی۔ جو کچھ تم کرتے رہے ہو آج تم کو اس کا بدلہ دیا جائے گا"
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "arabic": "هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيۡكُم بِٱلۡحَقِّۚ إِنَّا كُنَّا نَسۡتَنسِخُ مَا كُنتُمۡ تَعۡمَلُونَ",
     "transliteration": "Hatha kitabuna yantiqu AAalaykum bialhaqqi inna kunna nastansikhu ma kuntum taAAmaloona",
     "translation": "“This, Our Record, speaks the truth about you. We did indeed record all that you did.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ ہماری کتاب تمہارے بارے میں سچ سچ بیان کردے گی۔ جو کچھ تم کیا کرتے تھے ہم لکھواتے جاتے ہیں"
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "arabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ فَيُدۡخِلُهُمۡ رَبُّهُمۡ فِي رَحۡمَتِهِۦۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡمُبِينُ",
     "transliteration": "Faamma allatheena amanoo waAAamiloo alssalihati fayudkhiluhum rabbuhum fee rahmatihi thalika huwa alfawzu almubeenu",
     "translation": "Those then who believe and do righteous deeds – their Lord shall admit them to His Mercy. That is the success manifest!",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کا پروردگار انہیں رحمت (کے باغ) میں داخل کرے گا۔ یہی صریح کامیابی ہے"
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "arabic": "وَأَمَّا ٱلَّذِينَ كَفَرُوٓاْ أَفَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَٱسۡتَكۡبَرۡتُمۡ وَكُنتُمۡ قَوۡمٗا مُّجۡرِمِينَ",
     "transliteration": "Waamma allatheena kafaroo afalam takun ayatee tutla AAalaykum faistakbartum wakuntum qawman mujrimeena",
     "translation": "And those that suppressed the Truth shall be told, “Were My Verses not recited to you? But then you were a proud and sinful people!”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جنہوں نے کفر کیا۔ (ان سے کہا جائے گا کہ) بھلا ہماری آیتیں تم کو پڑھ کر سنائی نہیں جاتی تھیں؟ پھر تم نے تکبر کیا اور تم نافرمان لوگ تھے"
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "arabic": "وَإِذَا قِيلَ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱلسَّاعَةُ لَا رَيۡبَ فِيهَا قُلۡتُم مَّا نَدۡرِي مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنّٗا وَمَا نَحۡنُ بِمُسۡتَيۡقِنِينَ",
     "transliteration": "Waitha qeela inna waAAda Allahi haqqun waalssaAAatu la rayba feeha qultum ma nadree ma alssaAAatu in nathunnu illa thannan wama nahnu bimustayqineena",
     "translation": "And when told, “Allah´s promise is true indeed! And the Hour (the time when the present world will end and the Hereafter begin) – there is no doubt therein.” you said, “We do not know what the Hour is. We are just guessing and are not at all certain.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جب کہا جاتا تھا کہ خدا کا وعدہ سچا ہے اور قیامت میں کچھ شک نہیں تو تم کہتے تھے ہم نہیں جانتے کہ قیامت کیا ہے۔ ہم اس کو محض ظنی خیال کرتے ہیں اور ہمیں یقین نہیں آتا"
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "arabic": "وَبَدَا لَهُمۡ سَيِّـَٔاتُ مَا عَمِلُواْ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
     "transliteration": "Wabada lahum sayyiatu ma AAamiloo wahaqa bihim ma kanoo bihi yastahzioona",
     "translation": "And the evil of what they do will be apparent to them, and that which they scoff at will besiege them.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ان کے اعمال کی برائیاں ان پر ظاہر ہوجائیں گی اور جس (عذاب) کی وہ ہنسی اُڑاتے تھے وہ ان کو آگھیرے گا"
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "arabic": "وَقِيلَ ٱلۡيَوۡمَ نَنسَىٰكُمۡ كَمَا نَسِيتُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَا وَمَأۡوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ",
     "transliteration": "Waqeela alyawma nansakum kama naseetum liqaa yawmikum hatha wamawakumu alnnaru wama lakum min nasireena",
     "translation": "And it will be said, “We forget you today as you forgot your appointment this Day. The Fire shall now be your abode, and none shall come to help you.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور کہا جائے گا کہ جس طرح تم نے اس دن کے آنے کو بھلا رکھا تھا۔ اسی طرح آج ہم تمہیں بھلا دیں گے اور تمہارا ٹھکانا دوزخ ہے اور کوئی تمہارا مددگار نہیں"
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "arabic": "ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذۡتُمۡ ءَايَٰتِ ٱللَّهِ هُزُوٗا وَغَرَّتۡكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَاۚ فَٱلۡيَوۡمَ لَا يُخۡرَجُونَ مِنۡهَا وَلَا هُمۡ يُسۡتَعۡتَبُونَ",
     "transliteration": "Thalikum biannakumu ittakhathtum ayati Allahi huzuwan wagharratkumu alhayatu alddunya faalyawma la yukhrajoona minha wala hum yustaAAtaboona",
     "translation": "“That is because you held Allah´s Verses/Signs in ridicule and the worldly life deluded you.\" That Day then they shall not be taken out of that (unenviable) state of theirs nor shall they be allowed to solicit favours.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ اس لئے کہ تم نے خدا کی آیتوں کو مخول بنا رکھا تھا اور دنیا کی زندگی نے تم کو دھوکے میں ڈال رکھا تھا۔ سو آج یہ لوگ نہ دوزخ سے نکالے جائیں گے اور نہ ان کی توبہ قبول کی جائے گی"
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "arabic": "فَلِلَّهِ ٱلۡحَمۡدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلۡأَرۡضِ رَبِّ ٱلۡعَٰلَمِينَ",
     "transliteration": "Falillahi alhamdu rabbi alssamawati warabbi alardi rabbi alAAalameena",
     "translation": "All praise is due then to Allah, the Lord of the heavens, the Lord of the earth, the Lord of the entire Universe.",
-    "notes": ""
+    "notes": "",
+    "urdu": "پس خدا ہی کو ہر طرح کی تعریف (سزاوار) ہے جو آسمانوں کا مالک اور زمین کا مالک اور تمام جہان کا پروردگار ہے"
   },
   {
     "id": 37,
@@ -293,6 +329,7 @@
     "arabic": "وَلَهُ ٱلۡكِبۡرِيَآءُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
     "transliteration": "Walahu alkibriyao fee alssamawati waalardi wahuwa alAAazeezu alhakeemu",
     "translation": "And all greatness in the heavens and the earth is His! He is the One Omnipotent, Wise.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور آسمانوں اور زمین میں اُسی کے لئے بڑائی ہے۔ اور وہ غالب اور دانا ہے"
   }
 ]

@@ -1,1 +1,155 @@
-[{"id":1,"ref":"86:1","arabic":"وَٱلسَّمَآءِ وَٱلطَّارِقِ","transliteration":"Waalssamai waalttariqi","translation":"","notes":""},{"id":2,"ref":"86:2","arabic":"وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ","transliteration":"Wama adraka ma alttariqu","translation":"","notes":""},{"id":3,"ref":"86:3","arabic":"ٱلنَّجۡمُ ٱلثَّاقِبُ","transliteration":"Alnnajmu alththaqibu","translation":"","notes":""},{"id":4,"ref":"86:4","arabic":"إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ","transliteration":"In kullu nafsin lamma AAalayha hafithun","translation":"","notes":""},{"id":5,"ref":"86:5","arabic":"فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ","transliteration":"Falyanthuri alinsanu mimma khuliqa","translation":"","notes":""},{"id":6,"ref":"86:6","arabic":"خُلِقَ مِن مَّآءٖ دَافِقٖ","transliteration":"Khuliqa min main dafiqin","translation":"","notes":""},{"id":7,"ref":"86:7","arabic":"يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ","transliteration":"Yakhruju min bayni alssulbi waalttaraibi","translation":"","notes":""},{"id":8,"ref":"86:8","arabic":"إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ","transliteration":"Innahu AAala rajAAihi laqadirun","translation":"","notes":""},{"id":9,"ref":"86:9","arabic":"يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ","transliteration":"Yawma tubla alssarairu","translation":"","notes":""},{"id":10,"ref":"86:10","arabic":"فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ","transliteration":"Fama lahu min quwwatin wala nasirin","translation":"","notes":""},{"id":11,"ref":"86:11","arabic":"وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ","transliteration":"Waalssamai thati alrrajAAi","translation":"","notes":""},{"id":12,"ref":"86:12","arabic":"وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ","transliteration":"Waalardi thati alssadAAi","translation":"","notes":""},{"id":13,"ref":"86:13","arabic":"إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ","transliteration":"Innahu laqawlun faslun","translation":"","notes":""},{"id":14,"ref":"86:14","arabic":"وَمَا هُوَ بِٱلۡهَزۡلِ","transliteration":"Wama huwa bialhazli","translation":"","notes":""},{"id":15,"ref":"86:15","arabic":"إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا","transliteration":"Innahum yakeedoona kaydan","translation":"","notes":""},{"id":16,"ref":"86:16","arabic":"وَأَكِيدُ كَيۡدٗا","transliteration":"Waakeedu kaydan","translation":"","notes":""},{"id":17,"ref":"86:17","arabic":"فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا","transliteration":"Famahhili alkafireena amhilhum ruwaydan","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "86:1",
+    "arabic": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+    "transliteration": "Waalssamai waalttariqi",
+    "translation": "By the sky and the Taariq ,",
+    "notes": "",
+    "urdu": "آسمان اور رات کے وقت آنے والے کی قسم"
+  },
+  {
+    "id": 2,
+    "ref": "86:2",
+    "arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ",
+    "transliteration": "Wama adraka ma alttariqu",
+    "translation": "– And what do you understand what the Taariq is?",
+    "notes": "",
+    "urdu": "اور تم کو کیا معلوم کہ رات کے وقت آنے والا کیا ہے"
+  },
+  {
+    "id": 3,
+    "ref": "86:3",
+    "arabic": "ٱلنَّجۡمُ ٱلثَّاقِبُ",
+    "transliteration": "Alnnajmu alththaqibu",
+    "translation": "It is the shining star –",
+    "notes": "",
+    "urdu": "وہ تارا ہے چمکنے والا"
+  },
+  {
+    "id": 4,
+    "ref": "86:4",
+    "arabic": "إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ",
+    "transliteration": "In kullu nafsin lamma AAalayha hafithun",
+    "translation": "Not a soul but has a protector over it.",
+    "notes": "Were it not for the divine protection over him every second of his life, man would be dead in no time! Allah Almighty has granted him a fixed tenure of life on this earth, and He provides him unseen security to make him live the complete term. Without that security – and left to fend for himself – he would foolishly entangle himself in situations that could prevent him from proceeding an inch in his span of life.",
+    "urdu": "کہ کوئی متنفس نہیں جس پر نگہبان مقرر نہیں"
+  },
+  {
+    "id": 5,
+    "ref": "86:5",
+    "arabic": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ",
+    "transliteration": "Falyanthuri alinsanu mimma khuliqa",
+    "translation": "Let man then see how he is created.",
+    "notes": "",
+    "urdu": "تو انسان کو دیکھنا چاہئے کہ وہ کاہے سے پیدا ہوا ہے"
+  },
+  {
+    "id": 6,
+    "ref": "86:6",
+    "arabic": "خُلِقَ مِن مَّآءٖ دَافِقٖ",
+    "transliteration": "Khuliqa min main dafiqin",
+    "translation": "He is created by means of fluid [blood] spurting",
+    "notes": "",
+    "urdu": "وہ اچھلتے ہوئے پانی سے پیدا ہوا ہے"
+  },
+  {
+    "id": 7,
+    "ref": "86:7",
+    "arabic": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
+    "transliteration": "Yakhruju min bayni alssulbi waalttaraibi",
+    "translation": "Out from between the spine and the ribs.",
+    "notes": "",
+    "urdu": "جو پیٹھ اور سینے کے بیچ میں سے نکلتا ہے"
+  },
+  {
+    "id": 8,
+    "ref": "86:8",
+    "arabic": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ",
+    "transliteration": "Innahu AAala rajAAihi laqadirun",
+    "translation": "It [blood] is certainly indeed capable of its return.",
+    "notes": "These 4 Verses 5 to 8 of this Chapter is an in-capsule description of the blood circulatory system in a human body by means of which the body is developed and sustained. Please refer article The Qur’aan and Blood Circulation for details.",
+    "urdu": "بےشک خدا اس کے اعادے (یعنی پھر پیدا کرنے) پر قادر ہے"
+  },
+  {
+    "id": 9,
+    "ref": "86:9",
+    "arabic": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ",
+    "transliteration": "Yawma tubla alssarairu",
+    "translation": "The Day secrets are disclosed,",
+    "notes": "",
+    "urdu": "جس دن دلوں کے بھید جانچے جائیں گے"
+  },
+  {
+    "id": 10,
+    "ref": "86:10",
+    "arabic": "فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ",
+    "transliteration": "Fama lahu min quwwatin wala nasirin",
+    "translation": "For him [man] there will then be no power, and no helper.",
+    "notes": "",
+    "urdu": "تو انسان کی کچھ پیش نہ چل سکے گی اور نہ کوئی اس کا مددگار ہو گا"
+  },
+  {
+    "id": 11,
+    "ref": "86:11",
+    "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ",
+    "transliteration": "Waalssamai thati alrrajAAi",
+    "translation": "By the sky, ever returning [revolving] ,",
+    "notes": "The innumerable heavenly bodies in the sky traverse their respective orbits repeatedly. In other words, they return repeatedly to traverse their own respective paths.",
+    "urdu": "آسمان کی قسم جو مینہ برساتا ہے"
+  },
+  {
+    "id": 12,
+    "ref": "86:12",
+    "arabic": "وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ",
+    "transliteration": "Waalardi thati alssadAAi",
+    "translation": "And by the earth with its surface cracking open again and again with new growth of plants and vegetation,",
+    "notes": "",
+    "urdu": "اور زمین کی قسم جو پھٹ جاتی ہے"
+  },
+  {
+    "id": 13,
+    "ref": "86:13",
+    "arabic": "إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ",
+    "transliteration": "Innahu laqawlun faslun",
+    "translation": "It [Qur’aan] is indeed a decisive Word.",
+    "notes": "",
+    "urdu": "کہ یہ کلام (حق کو باطل سے) جدا کرنے والا ہے"
+  },
+  {
+    "id": 14,
+    "ref": "86:14",
+    "arabic": "وَمَا هُوَ بِٱلۡهَزۡلِ",
+    "transliteration": "Wama huwa bialhazli",
+    "translation": "And it is not for just sport and amusement.",
+    "notes": "",
+    "urdu": "اور بیہودہ بات نہیں ہے"
+  },
+  {
+    "id": 15,
+    "ref": "86:15",
+    "arabic": "إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا",
+    "transliteration": "Innahum yakeedoona kaydan",
+    "translation": "They [suppressors of Truth] are indeed hatching a plot,",
+    "notes": "",
+    "urdu": "یہ لوگ تو اپنی تدبیروں میں لگ رہے ہیں"
+  },
+  {
+    "id": 16,
+    "ref": "86:16",
+    "arabic": "وَأَكِيدُ كَيۡدٗا",
+    "transliteration": "Waakeedu kaydan",
+    "translation": "And I [Allah] am devising a plot.",
+    "notes": "",
+    "urdu": "اور ہم اپنی تدبیر کر رہے ہیں"
+  },
+  {
+    "id": 17,
+    "ref": "86:17",
+    "arabic": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
+    "transliteration": "Famahhili alkafireena amhilhum ruwaydan",
+    "translation": "So let those who suppress the Truth go their way; let them go for a little while.",
+    "notes": "Muslims do generally feel despondent in today’s world as they have become a favourite whipping boy for every Tom, Dick and Harry. These Verses (15, 16, 17) should give them heart. Tom, Dick and Harry may well be hatching a plot against them, but Allah too is devising a plot. Muslims just have to abide by what the Qur’aan says. All Toms, Dicks and Harrys will in due course get annihilated.",
+    "urdu": "تو تم کافروں کو مہلت دو بس چند روز ہی مہلت دو"
+  }
+]

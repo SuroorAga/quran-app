@@ -5,7 +5,8 @@
     "arabic": "سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى",
     "transliteration": "Sabbihi isma rabbika alaAAla",
     "translation": "Glorify the name of your Lord, the Most High,",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اے پیغمبر) اپنے پروردگار جلیل الشان کے نام کی تسبیح کرو"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "ٱلَّذِي خَلَقَ فَسَوَّىٰ",
     "transliteration": "Allathee khalaqa fasawwa",
     "translation": "Who created and gave the things created good shape;",
-    "notes": ""
+    "notes": "",
+    "urdu": "جس نے (انسان کو) بنایا پھر (اس کے اعضاء کو) درست کیا"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "وَٱلَّذِي قَدَّرَ فَهَدَىٰ",
     "transliteration": "Waallathee qaddara fahada",
     "translation": "And Who determined [the span of existence for the things created] and guided them,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جس نے (اس کا) اندازہ ٹہرایا (پھر اس کو) رستہ بتایا"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ",
     "transliteration": "Waallathee akhraja almarAAa",
     "translation": "And Who brought out the verdure [on the earth],",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جس نے چارہ اگایا"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ",
     "transliteration": "FajaAAalahu ghuthaan ahwa",
     "translation": "And then made it into dark rubble,",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر اس کو سیاہ رنگ کا کوڑا کر دیا"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ",
     "transliteration": "Sanuqrioka fala tansa",
     "translation": "We shall make you recite and then you will not forget",
-    "notes": "It is apparent from the context that the Prophet (peace on him) was, in the initial period of his prophethood, anxious that he might not forget the Verses that were being revealed to him. He was reassured as in this and the next two Verses."
+    "notes": "It is apparent from the context that the Prophet (peace on him) was, in the initial period of his prophethood, anxious that he might not forget the Verses that were being revealed to him. He was reassured as in this and the next two Verses.",
+    "urdu": "ہم تمہیں پڑھا دیں گے کہ تم فراموش نہ کرو گے"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ",
     "transliteration": "Illa ma shaa Allahu innahu yaAAlamu aljahra wama yakhfa",
     "translation": "Except for what Allah wills. HE knows what is manifest and what is hidden.",
-    "notes": ""
+    "notes": "",
+    "urdu": "مگر جو خدا چاہے۔ وہ کھلی بات کو بھی جانتا ہے اور چھپی کو بھی"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
     "transliteration": "Wanuyassiruka lilyusra",
     "translation": "And We shall make things easy for you.",
-    "notes": ""
+    "notes": "",
+    "urdu": "ہم تم کو آسان طریقے کی توفیق دیں گے"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ",
     "transliteration": "Fathakkir in nafaAAati alththikra",
     "translation": "Should the divine Words of the Qur’aan benefit them, do recite these to them!",
-    "notes": ""
+    "notes": "",
+    "urdu": "سو جہاں تک نصیحت (کے) نافع (ہونے کی امید) ہو نصیحت کرتے رہو"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "سَيَذَّكَّرُ مَن يَخۡشَىٰ",
     "transliteration": "Sayaththakkaru man yakhsha",
     "translation": "He who fears (Allah) shall take heed there from,",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو خوف رکھتا ہے وہ تو نصیحت پکڑے گا"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "arabic": "وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى",
     "transliteration": "Wayatajannabuha alashqa",
     "translation": "And he who is wicked will shun it;",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور (بےخوف) بدبخت پہلو تہی کرے گا"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "arabic": "ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ",
     "transliteration": "Allathee yasla alnnara alkubra",
     "translation": "He who will burn in the Great Fire.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو (قیامت کو) بڑی (تیز) آگ میں داخل ہو گا"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "arabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ",
     "transliteration": "Thumma la yamootu feeha wala yahya",
     "translation": "Then he will neither die in it, nor live.",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر وہاں نہ مرے گا اور نہ جئے گا"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "arabic": "قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ",
     "transliteration": "Qad aflaha man tazakka",
     "translation": "He will surely attain salvation who keeps himself pure [in worldly life],",
-    "notes": ""
+    "notes": "",
+    "urdu": "بے شک وہ مراد کو پہنچ گیا جو پاک ہوا"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "arabic": "وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ",
     "transliteration": "Wathakara isma rabbihi fasalla",
     "translation": "And oft-remembers his Lord´s name and then prays to Him.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اپنے پروردگار کے نام کا ذکر کرتا رہا اور نماز پڑھتا رہا"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "arabic": "بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
     "transliteration": "Bal tuthiroona alhayata alddunya",
     "translation": "But no, you prefer this worldly life!",
-    "notes": ""
+    "notes": "",
+    "urdu": "مگر تم لوگ تو دنیا کی زندگی کو اختیار کرتے ہو"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "arabic": "وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ",
     "transliteration": "Waalakhiratu khayrun waabqa",
     "translation": "Whereas the Hereafter is better and enduring.",
-    "notes": ""
+    "notes": "",
+    "urdu": "حالانکہ آخرت بہت بہتر اور پائندہ تر ہے"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "arabic": "إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
     "transliteration": "Inna hatha lafee alssuhufi aloola",
     "translation": "This fact, indeed, was [also stated] in the earlier Scriptures –",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ بات پہلے صحیفوں میں (مرقوم) ہے"
   },
   {
     "id": 19,
@@ -149,6 +167,7 @@
     "arabic": "صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ",
     "transliteration": "Suhufi ibraheema wamoosa",
     "translation": "The Scriptures of Abraham and Moses.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یعنی) ابراہیم اور موسیٰ کے صحیفوں میں"
   }
 ]

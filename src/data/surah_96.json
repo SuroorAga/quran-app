@@ -1,1 +1,173 @@
-[{"id":1,"ref":"96:1","arabic":"ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ","transliteration":"Iqra biismi rabbika allathee khalaqa","translation":"","notes":""},{"id":2,"ref":"96:2","arabic":"خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ","transliteration":"Khalaqa alinsana min AAalaqin","translation":"","notes":""},{"id":3,"ref":"96:3","arabic":"ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ","transliteration":"Iqra warabbuka alakramu","translation":"","notes":""},{"id":4,"ref":"96:4","arabic":"ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ","transliteration":"Allathee AAallama bialqalami","translation":"","notes":""},{"id":5,"ref":"96:5","arabic":"عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ","transliteration":"AAallama alinsana ma lam yaAAlam","translation":"","notes":""},{"id":6,"ref":"96:6","arabic":"كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ","transliteration":"Kalla inna alinsana layatgha","translation":"","notes":""},{"id":7,"ref":"96:7","arabic":"أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ","transliteration":"An raahu istaghna","translation":"","notes":""},{"id":8,"ref":"96:8","arabic":"إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ","transliteration":"Inna ila rabbika alrrujAAa","translation":"","notes":""},{"id":9,"ref":"96:9","arabic":"أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ","transliteration":"Araayta allathee yanha","translation":"","notes":""},{"id":10,"ref":"96:10","arabic":"عَبۡدًا إِذَا صَلَّىٰٓ","transliteration":"AAabdan itha salla","translation":"","notes":""},{"id":11,"ref":"96:11","arabic":"أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ","transliteration":"Araayta in kana AAala alhuda","translation":"","notes":""},{"id":12,"ref":"96:12","arabic":"أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ","transliteration":"Aw amara bialttaqwa","translation":"","notes":""},{"id":13,"ref":"96:13","arabic":"أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ","transliteration":"Araayta in kaththaba watawalla","translation":"","notes":""},{"id":14,"ref":"96:14","arabic":"أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ","transliteration":"Alam yaAAlam bianna Allaha yara","translation":"","notes":""},{"id":15,"ref":"96:15","arabic":"كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ","transliteration":"Kalla lain lam yantahi lanasfaAAan bialnnasiyati","translation":"","notes":""},{"id":16,"ref":"96:16","arabic":"نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ","transliteration":"Nasiyatin kathibatin khatiatin","translation":"","notes":""},{"id":17,"ref":"96:17","arabic":"فَلۡيَدۡعُ نَادِيَهُۥ","transliteration":"FalyadAAu nadiyahu","translation":"","notes":""},{"id":18,"ref":"96:18","arabic":"سَنَدۡعُ ٱلزَّبَانِيَةَ","transliteration":"SanadAAu alzzabaniyata","translation":"","notes":""},{"id":19,"ref":"96:19","arabic":"كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩","transliteration":"Kalla la tutiAAhu waosjud waiqtarib","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "96:1",
+    "arabic": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+    "transliteration": "Iqra biismi rabbika allathee khalaqa",
+    "translation": "Read in the name of your Lord who creates –",
+    "notes": "This is generally accepted to be the first Verse to be revealed to Prophet Muhammad (peace on him). It was revealed to him while he was meditating in a cave on the outskirts of Makkah. He was 40 years of age then. And it is significant to note that this very first Verse of divine revelation laid stress on reading or learning.",
+    "urdu": "(اے محمدﷺ) اپنے پروردگار کا نام لے کر پڑھو جس نے (عالم کو) پیدا کیا"
+  },
+  {
+    "id": 2,
+    "ref": "96:2",
+    "arabic": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+    "transliteration": "Khalaqa alinsana min AAalaqin",
+    "translation": "Creates man from a clinging substance.",
+    "notes": "Modern science has discovered that clinging substance to be the human fertilized egg – clinging to the wall of the uterus.",
+    "urdu": "جس نے انسان کو خون کی پھٹکی سے بنایا"
+  },
+  {
+    "id": 3,
+    "ref": "96:3",
+    "arabic": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ",
+    "transliteration": "Iqra warabbuka alakramu",
+    "translation": "Read and your Lord is most Liberal,",
+    "notes": "",
+    "urdu": "پڑھو اور تمہارا پروردگار بڑا کریم ہے"
+  },
+  {
+    "id": 4,
+    "ref": "96:4",
+    "arabic": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ",
+    "transliteration": "Allathee AAallama bialqalami",
+    "translation": "Who taught by the pen –",
+    "notes": "A pen is what one writes with. In the modern scenario, it could be the digital software with which one can type or write.",
+    "urdu": "جس نے قلم کے ذریعے سے علم سکھایا"
+  },
+  {
+    "id": 5,
+    "ref": "96:5",
+    "arabic": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+    "transliteration": "AAallama alinsana ma lam yaAAlam",
+    "translation": "Taught mankind what it knew not.",
+    "notes": "How true! It is through the writings on any subject that man learns that subject.",
+    "urdu": "اور انسان کو وہ باتیں سکھائیں جس کا اس کو علم نہ تھا"
+  },
+  {
+    "id": 6,
+    "ref": "96:6",
+    "arabic": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+    "transliteration": "Kalla inna alinsana layatgha",
+    "translation": "Man, on the other hand, is certainly indeed prone to transgression,",
+    "notes": "",
+    "urdu": "مگر انسان سرکش ہو جاتا ہے"
+  },
+  {
+    "id": 7,
+    "ref": "96:7",
+    "arabic": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ",
+    "transliteration": "An raahu istaghna",
+    "translation": "As he sees himself independent of any divine help!",
+    "notes": "",
+    "urdu": "جب کہ اپنے تیئں غنی دیکھتا ہے"
+  },
+  {
+    "id": 8,
+    "ref": "96:8",
+    "arabic": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+    "transliteration": "Inna ila rabbika alrrujAAa",
+    "translation": "Indeed, to your Lord is the return.",
+    "notes": "",
+    "urdu": "کچھ شک نہیں کہ (اس کو) تمہارے پروردگار ہی کی طرف لوٹ کر جانا ہے"
+  },
+  {
+    "id": 9,
+    "ref": "96:9",
+    "arabic": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+    "transliteration": "Araayta allathee yanha",
+    "translation": "Have you seen him who forbids",
+    "notes": "",
+    "urdu": "بھلا تم نے اس شخص کو دیکھا جو منع کرتا ہے"
+  },
+  {
+    "id": 10,
+    "ref": "96:10",
+    "arabic": "عَبۡدًا إِذَا صَلَّىٰٓ",
+    "transliteration": "AAabdan itha salla",
+    "translation": "A devotee when he prays?",
+    "notes": "",
+    "urdu": "(یعنی) ایک بندے کو جب وہ نماز پڑھنے لگتا ہے"
+  },
+  {
+    "id": 11,
+    "ref": "96:11",
+    "arabic": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+    "transliteration": "Araayta in kana AAala alhuda",
+    "translation": "Do you see if he [the devotee] is on the right guidance,",
+    "notes": "",
+    "urdu": "بھلا دیکھو تو اگر یہ راہِ راست پر ہو"
+  },
+  {
+    "id": 12,
+    "ref": "96:12",
+    "arabic": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+    "transliteration": "Aw amara bialttaqwa",
+    "translation": "Or enjoins piety?",
+    "notes": "",
+    "urdu": "یا پرہیز گاری کا حکم کرے (تو منع کرنا کیسا)"
+  },
+  {
+    "id": 13,
+    "ref": "96:13",
+    "arabic": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+    "transliteration": "Araayta in kaththaba watawalla",
+    "translation": "[And] do you see if he [who forbids the devotee from praying] denies [Guidance] and turns away [from it]?",
+    "notes": "",
+    "urdu": "اور دیکھو تو اگر اس نے دین حق کو جھٹلایا اور اس سے منہ موڑا (تو کیا ہوا)"
+  },
+  {
+    "id": 14,
+    "ref": "96:14",
+    "arabic": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+    "transliteration": "Alam yaAAlam bianna Allaha yara",
+    "translation": "Does he not know that Allah does indeed see [his wickedness]?",
+    "notes": "",
+    "urdu": "کیااس کو معلوم نہیں کہ خدا دیکھ رہا ہے"
+  },
+  {
+    "id": 15,
+    "ref": "96:15",
+    "arabic": "كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+    "transliteration": "Kalla lain lam yantahi lanasfaAAan bialnnasiyati",
+    "translation": "Nay! If he does not desist, We will drag him by the forelock –",
+    "notes": "",
+    "urdu": "دیکھو اگر وہ باز نہ آئے گا تو ہم (اس کی) پیشانی کے بال پکڑ گھسیٹیں گے"
+  },
+  {
+    "id": 16,
+    "ref": "96:16",
+    "arabic": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+    "transliteration": "Nasiyatin kathibatin khatiatin",
+    "translation": "A lying, sinning forelock!",
+    "notes": "",
+    "urdu": "یعنی اس جھوٹے خطاکار کی پیشانی کے بال"
+  },
+  {
+    "id": 17,
+    "ref": "96:17",
+    "arabic": "فَلۡيَدۡعُ نَادِيَهُۥ",
+    "transliteration": "FalyadAAu nadiyahu",
+    "translation": "Then let him call those who would help him,",
+    "notes": "",
+    "urdu": "تو وہ اپنے یاروں کی مجلس کو بلالے"
+  },
+  {
+    "id": 18,
+    "ref": "96:18",
+    "arabic": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+    "transliteration": "SanadAAu alzzabaniyata",
+    "translation": "We will call the guardians of Hell.",
+    "notes": "",
+    "urdu": "ہم بھی اپنے موکلانِ دوزخ کو بلا لیں گے"
+  },
+  {
+    "id": 19,
+    "ref": "96:19",
+    "arabic": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+    "transliteration": "Kalla la tutiAAhu waosjud waiqtarib",
+    "translation": "Nay! Obey him not, but prostrate and get near (to Allah).",
+    "notes": "The incidence narrated here apparently refers to a real one that took place during the early (Makkan) period of Muhammad’s prophethood. The devotee referred to here could be the Prophet himself. He used to pray at the Kaabah, and one of his bitter opponents forbade him from doing so.",
+    "urdu": "دیکھو اس کا کہا نہ ماننا اور قربِ (خدا) حاصل کرتے رہنا"
+  }
+]

@@ -5,7 +5,8 @@
     "arabic": "يَـٰٓأَيُّهَا ٱلۡمُزَّمِّلُ",
     "transliteration": "Ya ayyuha almuzzammilu",
     "translation": "O you who are wrapped up [against cold or to go to sleep]!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اے (محمدﷺ) جو کپڑے میں لپٹ رہے ہو"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "قُمِ ٱلَّيۡلَ إِلَّا قَلِيلٗا",
     "transliteration": "Qumi allayla illa qaleelan",
     "translation": "Get up at night, but for a part of it.",
-    "notes": "This is primarily addressed to the Prophet (peace on him) while he was covered up maybe to go to sleep. It was just the beginning of his prophethood. Allah was instructing him to devote a part of the night to study whatever was till then revealed to him from the Qur’aan, since he would not get the time during the day."
+    "notes": "This is primarily addressed to the Prophet (peace on him) while he was covered up maybe to go to sleep. It was just the beginning of his prophethood. Allah was instructing him to devote a part of the night to study whatever was till then revealed to him from the Qur’aan, since he would not get the time during the day.",
+    "urdu": "رات کو قیام کیا کرو مگر تھوڑی سی رات"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "نِّصۡفَهُۥٓ أَوِ ٱنقُصۡ مِنۡهُ قَلِيلًا",
     "transliteration": "Nisfahu awi onqus minhu qaleelan",
     "translation": "Half of it [night] or a little less",
-    "notes": ""
+    "notes": "",
+    "urdu": "(قیام) آدھی رات (کیا کرو)"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "أَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِيلًا",
     "transliteration": "Aw zid AAalayhi warattili alqurana tarteelan",
     "translation": "Or a little more and put the Qur’aan in proper order.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یا اس سے کچھ کم یا کچھ زیادہ اور قرآن کو ٹھہر ٹھہر کر پڑھا کرو"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "إِنَّا سَنُلۡقِي عَلَيۡكَ قَوۡلٗا ثَقِيلًا",
     "transliteration": "Inna sanulqee AAalayka qawlan thaqeelan",
     "translation": "Indeed, We are about to send down to you a message of great importance.",
-    "notes": ""
+    "notes": "",
+    "urdu": "ہم عنقریب تم پر ایک بھاری فرمان نازل کریں گے"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "إِنَّ نَاشِئَةَ ٱلَّيۡلِ هِيَ أَشَدُّ وَطۡـٔٗا وَأَقۡوَمُ قِيلًا",
     "transliteration": "Inna nashiata allayli hiya ashaddu watan waaqwamu qeelan",
     "translation": "Indeed, rising at night is most suitable for impression and retention of words.",
-    "notes": "That is, words of the Qur’aan. In the solitude of the night, the Prophet could concentrate on the words, get a better impression of them in his mind and get them committed to memory."
+    "notes": "That is, words of the Qur’aan. In the solitude of the night, the Prophet could concentrate on the words, get a better impression of them in his mind and get them committed to memory.",
+    "urdu": "کچھ شک نہیں کہ رات کا اٹھنا (نفس بہیمی) کو سخت پامال کرتا ہے اور اس وقت ذکر بھی خوب درست ہوتا ہے"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "إِنَّ لَكَ فِي ٱلنَّهَارِ سَبۡحٗا طَوِيلٗا",
     "transliteration": "Inna laka fee alnnahari sabhan taweelan",
     "translation": "[And] indeed, there are prolonged engagements for you during the day.",
-    "notes": ""
+    "notes": "",
+    "urdu": "دن کے وقت تو تمہیں اور بہت سے شغل ہوتے ہیں"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَيۡهِ تَبۡتِيلٗا",
     "transliteration": "Waothkuri isma rabbika watabattal ilayhi tabteelan",
     "translation": "And keep remembering name [attribute] of your Lord and devote yourself to Him exclusively.",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو اپنے پروردگار کے نام کا ذکر کرو اور ہر طرف سے بےتعلق ہو کر اسی کی طرف متوجہ ہوجاؤ"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِيلٗا",
     "transliteration": "Rabbu almashriqi waalmaghribi la ilaha illa huwa faittakhithhu wakeelan",
     "translation": "He is the Lord of the east and the west! None is worthy of worship but He, so entrust all your affairs to His care.",
-    "notes": ""
+    "notes": "",
+    "urdu": "مشرق اور مغرب کا مالک (ہے اور) اس کے سوا کوئی معبود نہیں تو اسی کو اپنا کارساز بناؤ"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "وَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرٗا جَمِيلٗا",
     "transliteration": "Waisbir AAala ma yaqooloona waohjurhum hajran jameelan",
     "translation": "Be patient on what they say, and graciously leave them alone.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جو جو (دل آزار) باتیں یہ لوگ کہتے ہیں ان کو سہتے رہو اور اچھے طریق سے ان سے کنارہ کش رہو"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "arabic": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا",
     "transliteration": "Watharnee waalmukaththibeena olee alnnaAAmati wamahhilhum qaleelan",
     "translation": "And leave it to Me to deal with them, and with those who deny the Truth, living a life of comfort! And let them have a little respite.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور مجھے ان جھٹلانے والوں سے جو دولتمند ہیں سمجھ لینے دو اور ان کو تھوڑی سی مہلت دے دو"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "arabic": "إِنَّ لَدَيۡنَآ أَنكَالٗا وَجَحِيمٗا",
     "transliteration": "Inna ladayna ankalan wajaheeman",
     "translation": "Certainly indeed, We have for them heavy fetters and a blazing Fire,",
-    "notes": ""
+    "notes": "",
+    "urdu": "کچھ شک نہیں کہ ہمارے پاس بیڑیاں ہیں اور بھڑکتی ہوئی آگ ہے"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "arabic": "وَطَعَامٗا ذَا غُصَّةٖ وَعَذَابًا أَلِيمٗا",
     "transliteration": "WataAAaman tha ghussatin waAAathaban aleeman",
     "translation": "And food that chokes, and painful punishment,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور گلوگیر کھانا ہے اور درد دینے والا عذاب (بھی) ہے"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "arabic": "يَوۡمَ تَرۡجُفُ ٱلۡأَرۡضُ وَٱلۡجِبَالُ وَكَانَتِ ٱلۡجِبَالُ كَثِيبٗا مَّهِيلًا",
     "transliteration": "Yawma tarjufu alardu waaljibalu wakanati aljibalu katheeban maheelan",
     "translation": "On the Day the earth and mountains shake, and the mountains become sand dunes crumbling down.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جس دن زمین اور پہاڑ کانپنے لگیں اور پہاڑ ایسے بھر بھرے (گویا) ریت کے ٹیلے ہوجائیں"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "arabic": "إِنَّآ أَرۡسَلۡنَآ إِلَيۡكُمۡ رَسُولٗا شَٰهِدًا عَلَيۡكُمۡ كَمَآ أَرۡسَلۡنَآ إِلَىٰ فِرۡعَوۡنَ رَسُولٗا",
     "transliteration": "Inna arsalna ilaykum rasoolan shahidan AAalaykum kama arsalna ila firAAawna rasoolan",
     "translation": "We have indeed sent a Messenger to you who is a witness over you, just as We sent a Messenger to Pharaoh.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اے اہل مکہ) جس طرح ہم نے فرعون کے پاس (موسیٰ کو) پیغمبر (بنا کر) بھیجا تھا (اسی طرح) تمہارے پاس بھی (محمدﷺ) رسول بھیجے ہیں جو تمہارے مقابلے میں گواہ ہوں گے"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "arabic": "فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَٰهُ أَخۡذٗا وَبِيلٗا",
     "transliteration": "FaAAasa firAAawnu alrrasoola faakhathnahu akhthan wabeelan",
     "translation": "But Pharaoh did not obey the Messenger, so We seized him with a violent seizure.",
-    "notes": "Pharaoh was drowned."
+    "notes": "Pharaoh was drowned.",
+    "urdu": "سو فرعون نے (ہمارے) پیغمبر کا کہا نہ مانا تو ہم نے اس کو بڑے وبال میں پکڑ لیا"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "arabic": "فَكَيۡفَ تَتَّقُونَ إِن كَفَرۡتُمۡ يَوۡمٗا يَجۡعَلُ ٱلۡوِلۡدَٰنَ شِيبًا",
     "transliteration": "Fakayfa tattaqoona in kafartum yawman yajAAalu alwildana sheeban",
     "translation": "If you deny the Day that will turn the children old, then how can you become righteous?",
-    "notes": "The ‘Day’ here is the Judgment Day. It would be so prolonged that a child could turn old. In [32:5] its duration is given as being equivalent to a thousand years of this present world. One cannot become righteous unless one really believes in this Day."
+    "notes": "The ‘Day’ here is the Judgment Day. It would be so prolonged that a child could turn old. In [32:5] its duration is given as being equivalent to a thousand years of this present world. One cannot become righteous unless one really believes in this Day.",
+    "urdu": "اگر تم بھی (ان پیغمبروں کو) نہ مانو گے تو اس دن سے کیونکر بچو گے جو بچّوں کو بوڑھا کر دے گا"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "arabic": "ٱلسَّمَآءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعۡدُهُۥ مَفۡعُولًا",
     "transliteration": "Alssamao munfatirun bihi kana waAAduhu mafAAoolan",
     "translation": "The sky will break apart whereat, as His promise is fulfilled!",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اور) جس سے آسمان پھٹ جائے گا۔ یہ اس کا وعدہ (پورا) ہو کر رہے گا"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "arabic": "إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
     "transliteration": "Inna hathihi tathkiratun faman shaa ittakhatha ila rabbihi sabeelan",
     "translation": "This, indeed, is the divine Counsel. So, let him who will, take the path to his Lord.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ (قرآن) تو نصیحت ہے۔ سو جو چاہے اپنے پروردگار تک (پہنچنے کا) رستہ اختیار کرلے"
   },
   {
     "id": 20,
@@ -157,6 +176,7 @@
     "arabic": "۞إِنَّ رَبَّكَ يَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَيِ ٱلَّيۡلِ وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٞ مِّنَ ٱلَّذِينَ مَعَكَۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيۡلَ وَٱلنَّهَارَۚ عَلِمَ أَن لَّن تُحۡصُوهُ فَتَابَ عَلَيۡكُمۡۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنَ ٱلۡقُرۡءَانِۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرۡضَىٰ وَءَاخَرُونَ يَضۡرِبُونَ فِي ٱلۡأَرۡضِ يَبۡتَغُونَ مِن فَضۡلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنۡهُۚ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗاۚ وَمَا تُقَدِّمُواْ لِأَنفُسِكُم مِّنۡ خَيۡرٖ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيۡرٗا وَأَعۡظَمَ أَجۡرٗاۚ وَٱسۡتَغۡفِرُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمُۢ",
     "transliteration": "Inna rabbaka yaAAlamu annaka taqoomu adna min thuluthayi allayli wanisfahu wathuluthahu wataifatun mina allatheena maAAaka waAllahu yuqaddiru allayla waalnnahara AAalima an lan tuhsoohu fataba AAalaykum faiqraoo ma tayassara mina alqurani AAalima an sayakoonu minkum marda waakharoona yadriboona fee alardi yabtaghoona min fadli Allahi waakharoona yuqatiloona fee sabeeli Allahi faiqraoo ma tayassara minhu waaqeemoo alssalata waatoo alzzakata waaqridoo Allaha qardan hasanan wama tuqaddimoo lianfusikum min khayrin tajidoohu AAinda Allahi huwa khayran waaAAthama ajran waistaghfiroo Allaha inna Allaha ghafoorun raheemun",
     "translation": "Your Lord does indeed know that you are up for nearly two-thirds of the night, sometimes one-half of it and sometimes one-third of it, as do a group among your followers. And Allah determines the duration of the night and of the day. He knows that you will not be able to keep count of it [your night vigil], so He has turned to you in mercy. Read [study], then, as much of the Qur’aan as is easy for you. He knows that some among you would be sick and some others would be travelling in search of Allah’s bounty [livelihood], and yet others would be fighting for the cause of Allah. So, read, then as much of it [Qur’aan] as is easy for you. And establish the prayer, pay the Zakaat , and give Allah a good loan. And the good deed you send in advance for your souls, you will find it with Allah. That is better and greater in reward. And seek Allah’s forgiveness! Allah is indeed Forgiving, Merciful.",
-    "notes": "Refer [2:245] and study note 464 thereunder in PART I of this Tafsir."
+    "notes": "Refer [2:245] and study note 464 thereunder in PART I of this Tafsir.",
+    "urdu": "تمہارا پروردگار خوب جانتا ہے کہ تم اور تمہارے ساتھ کے لوگ (کبھی) دو تہائی رات کے قریب اور (کبھی) آدھی رات اور (کبھی) تہائی رات قیام کیا کرتے ہو۔ اور خدا تو رات اور دن کا اندازہ رکھتا ہے۔ اس نے معلوم کیا کہ تم اس کو نباہ نہ سکو گے تو اس نے تم پر مہربانی کی۔ پس جتنا آسانی سے ہوسکے (اتنا) قرآن پڑھ لیا کرو۔ اس نے جانا کہ تم میں بعض بیمار بھی ہوتے ہیں اور بعض خدا کے فضل (یعنی معاش) کی تلاش میں ملک میں سفر کرتے ہیں اور بعض خدا کی راہ میں لڑتے ہیں۔ تو جتنا آسانی سے ہوسکے اتنا پڑھ لیا کرو۔ اور نماز پڑھتے رہو اور زکوٰة ادا کرتے رہو اور خدا کو نیک (اور خلوص نیت سے) قرض دیتے رہو۔ اور جو عمل نیک تم اپنے لئے آگے بھیجو گے اس کو خدا کے ہاں بہتر اور صلے میں بزرگ تر پاؤ گے۔ اور خدا سے بخشش مانگتے رہو۔ بےشک خدا بخشنے والا مہربان ہے"
   }
 ]

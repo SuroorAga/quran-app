@@ -5,7 +5,8 @@
     "arabic": "قٓۚ وَٱلۡقُرۡءَانِ ٱلۡمَجِيدِ",
     "transliteration": "Qaf waalqurani almajeedi",
     "translation": "Qaf. By the Glorious Qur'aan, [We swear its authenticity]!",
-    "notes": "This is one of the letters of the Arabic language that appear at the beginning of some Qur'aanic chapters. Significance of these letters is a mystery. Omniscient Allah has perhaps purposely kept it mysterious to remind mankind of the limitation of knowledge it is bestowed with."
+    "notes": "This is one of the letters of the Arabic language that appear at the beginning of some Qur'aanic chapters. Significance of these letters is a mystery. Omniscient Allah has perhaps purposely kept it mysterious to remind mankind of the limitation of knowledge it is bestowed with.",
+    "urdu": "قٓ۔ قرآن مجید کی قسم (کہ محمد پیغمبر خدا ہیں)"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "بَلۡ عَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡ فَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا شَيۡءٌ عَجِيبٌ",
     "transliteration": "Bal AAajiboo an jaahum munthirun minhum faqala alkafiroona hatha shayon AAajeebun",
     "translation": "But they wonder that there has come to them a Warner [from Allah] from among themselves. So, the suppressors of the Truth say, \"This is a strange thing!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "لیکن ان لوگوں نے تعجب کیا کہ انہی میں سے ایک ہدایت کرنے والا ان کے پاس آیا تو کافر کہنے لگے کہ یہ بات تو (بڑی) عجیب ہے"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗاۖ ذَٰلِكَ رَجۡعُۢ بَعِيدٞ",
     "transliteration": "Aitha mitna wakunna turaban thalika rajAAun baAAeedun",
     "translation": "\"What! When we die and have become dust, (shall we rise again to life?) That is a return far [from being ever possible]!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "بھلا جب ہم مر گئے اور مٹی ہوگئے (تو پھر زندہ ہوں گے؟) یہ زندہ ہونا (عقل سے) بعید ہے"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "قَدۡ عَلِمۡنَا مَا تَنقُصُ ٱلۡأَرۡضُ مِنۡهُمۡۖ وَعِندَنَا كِتَٰبٌ حَفِيظُۢ",
     "transliteration": "Qad AAalimna ma tanqusu alardu minhum waAAindana kitabun hafeethun",
     "translation": "We do know what the earth takes away from them. And with Us is a record protected!",
-    "notes": ""
+    "notes": "",
+    "urdu": "ان کے جسموں کو زمین جتنا (کھا کھا کر) کم کرتی جاتی ہے ہمیں معلوم ہے۔ اور ہمارے پاس تحریری یادداشت بھی ہے"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "بَلۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَهُمۡ فِيٓ أَمۡرٖ مَّرِيجٍ",
     "transliteration": "Bal kaththaboo bialhaqqi lamma jaahum fahum fee amrin mareejin",
     "translation": "But they deny the Truth when it comes to them. And so, they are in a confused state of mind.",
-    "notes": ""
+    "notes": "",
+    "urdu": "بلکہ (عجیب بات یہ ہے کہ) جب ان کے پاس (دین) حق آ پہنچا تو انہوں نے اس کو جھوٹ سمجھا سو یہ ایک الجھی ہوئی بات میں (پڑ رہے) ہیں"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "أَفَلَمۡ يَنظُرُوٓاْ إِلَى ٱلسَّمَآءِ فَوۡقَهُمۡ كَيۡفَ بَنَيۡنَٰهَا وَزَيَّنَّـٰهَا وَمَا لَهَا مِن فُرُوجٖ",
     "transliteration": "Afalam yanthuroo ila alssamai fawqahum kayfa banaynaha wazayyannaha wama laha min furoojin",
     "translation": "Do they not look at the sky above them – how We have made it and adorned it, and see that there are no cracks in it?",
-    "notes": ""
+    "notes": "",
+    "urdu": "کیا انہوں نے اپنے اوپر آسمان کی طرف نگاہ نہیں کی کہ ہم نے اس کو کیونکر بنایا اور (کیونکر) سجایا اور اس میں کہیں شگاف تک نہیں"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجِۭ بَهِيجٖ",
     "transliteration": "Waalarda madadnaha waalqayna feeha rawasiya waanbatna feeha min kulli zawjin baheejin",
     "translation": "And We have spread out the earth and cast mountains into it. And We have caused every kind of beautiful spouse of herbage grow in it.",
-    "notes": "Refer study note 4 on [15:19]."
+    "notes": "Refer study note 4 on [15:19].",
+    "urdu": "اور زمین کو (دیکھو اسے) ہم نے پھیلایا اور اس میں پہاڑ رکھ دیئے اور اس میں ہر طرح کی خوشنما چیزیں اُگائیں"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "تَبۡصِرَةٗ وَذِكۡرَىٰ لِكُلِّ عَبۡدٖ مُّنِيبٖ",
     "transliteration": "Tabsiratan wathikra likulli AAabdin muneebin",
     "translation": "To be observed and commemorated by every devotee turning to Allah.",
-    "notes": ""
+    "notes": "",
+    "urdu": "تاکہ رجوع لانے والے بندے ہدایت اور نصیحت حاصل کریں"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "وَنَزَّلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ مُّبَٰرَكٗا فَأَنۢبَتۡنَا بِهِۦ جَنَّـٰتٖ وَحَبَّ ٱلۡحَصِيدِ",
     "transliteration": "Wanazzalna mina alssamai maan mubarakan faanbatna bihi jannatin wahabba alhaseedi",
     "translation": "And We send down from the sky rain as a blessing, and We produce therewith gardens and seed for the harvest",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور آسمان سے برکت والا پانی اُتارا اور اس سے باغ وبستان اُگائے اور کھیتی کا اناج"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "وَٱلنَّخۡلَ بَاسِقَٰتٖ لَّهَا طَلۡعٞ نَّضِيدٞ",
     "transliteration": "Waalnnakhla basiqatin laha talAAun nadeedun",
     "translation": "And tall palm-trees, with shoots of fruit-stalks, piled one over another",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور لمبی لمبی کھجوریں جن کا گابھا تہہ بہ تہہ ہوتا ہے"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "arabic": "رِّزۡقٗا لِّلۡعِبَادِۖ وَأَحۡيَيۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ ٱلۡخُرُوجُ",
     "transliteration": "Rizqan lilAAibadi waahyayna bihi baldatan maytan kathalika alkhurooju",
     "translation": "A provision for (Allah's) subjects. And We give life therewith [with rain] to land that is dead. Thus, will the coming out of the dead from their graves [Resurrection] be.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یہ سب کچھ) بندوں کو روزی دینے کے لئے (کیا ہے) اور اس (پانی) سے ہم نے شہر مردہ (یعنی زمین افتادہ) کو زندہ کیا۔ (بس) اسی طرح (قیامت کے روز) نکل پڑنا ہے"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "arabic": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَأَصۡحَٰبُ ٱلرَّسِّ وَثَمُودُ",
     "transliteration": "Kaththabat qablahum qawmu noohin waashabu alrrassi wathamoodu",
     "translation": "[Resurrection] was denied before them by the People of Noah , the Companions of the Rass , and the Thamood ,",
-    "notes": "These as well as those mentioned in the next two Verses are all Peoples of pre-historic ages."
+    "notes": "These as well as those mentioned in the next two Verses are all Peoples of pre-historic ages.",
+    "urdu": "ان سے پہلے نوح کی قوم اور کنوئیں والے اور ثمود جھٹلا چکے ہیں"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "arabic": "وَعَادٞ وَفِرۡعَوۡنُ وَإِخۡوَٰنُ لُوطٖ",
     "transliteration": "WaAAadun wafirAAawnu waikhwanu lootin",
     "translation": "And of AAad, of Pharaoh, the brethren of Lot,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور عاد اور فرعون اور لوط کے بھائی"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "arabic": "وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٖۚ كُلّٞ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
     "transliteration": "Waashabu alaykati waqawmu tubbaAAin kullun kaththaba alrrusula fahaqqa waAAeedi",
     "translation": "The Companions of the Wood, and the People of Tubba' (an ancient tribe) – all of them rejected the Messengers, and My warning (to them) was duly fulfilled.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور بن کے رہنے والے اور تُبّع کی قوم۔ (غرض) ان سب نے پیغمبروں کو جھٹلایا تو ہمارا وعید (عذاب) بھی پورا ہو کر رہا"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "arabic": "أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِۚ بَلۡ هُمۡ فِي لَبۡسٖ مِّنۡ خَلۡقٖ جَدِيدٖ",
     "transliteration": "AfaAAayeena bialkhalqi alawwali bal hum fee labsin min khalqin jadeedin",
     "translation": "Were We then weary with the first Creation that they should be in such a confused state of mind about a new Creation!?",
-    "notes": ""
+    "notes": "",
+    "urdu": "کیا ہم پہلی بار پیدا کرکے تھک گئے ہیں؟ (نہیں) بلکہ یہ ازسرنو پیدا کرنے میں شک میں (پڑے ہوئے) ہیں"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "arabic": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ",
     "transliteration": "Walaqad khalaqna alinsana wanaAAlamu ma tuwaswisu bihi nafsuhu wanahnu aqrabu ilayhi min habli alwareedi",
     "translation": "And We did create man, and We know the promptings of his own self. And We are closer to him than any bodily channel having access into his brain.",
-    "notes": "Brain is the seat where all human thoughts arise. There is an intricate network of vessels therein connected to other parts of the body like the heart. The connecting vessels to parts below the neck have necessarily to pass through the neck. The connecting vessels in the neck are therefore the most prominent of such vessels that have closest connections with the brain, the seat of all human thought. The Verse here refers to any of such vessels. But in translations, the Arabic term, habli alwareed , is represented by the jugular vein, because of the prominence of the neck vessel. The Verse tells us that the divine forces are closer even to such vessels going closest to the seat of human thought."
+    "notes": "Brain is the seat where all human thoughts arise. There is an intricate network of vessels therein connected to other parts of the body like the heart. The connecting vessels to parts below the neck have necessarily to pass through the neck. The connecting vessels in the neck are therefore the most prominent of such vessels that have closest connections with the brain, the seat of all human thought. The Verse here refers to any of such vessels. But in translations, the Arabic term, habli alwareed , is represented by the jugular vein, because of the prominence of the neck vessel. The Verse tells us that the divine forces are closer even to such vessels going closest to the seat of human thought.",
+    "urdu": "اور ہم ہی نے انسان کو پیدا کیا ہے اور جو خیالات اس کے دل میں گزرتے ہیں ہم ان کو جانتے ہیں۔ اور ہم اس کی رگ جان سے بھی اس سے زیادہ قریب ہیں"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "arabic": "إِذۡ يَتَلَقَّى ٱلۡمُتَلَقِّيَانِ عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٞ",
     "transliteration": "Ith yatalaqqa almutalaqqiyani AAani alyameeni waAAani alshshimali qaAAeedun",
     "translation": "When the two frequently confronting voices, one located on the right and one on the left, confront each other",
-    "notes": "Man has frequently to make a choice between two conflicting urges arising in his mind. To give an example from real life published in newspapers a few years ago, a woman found out that her young son had committed a crime. Her instinct was to hide this fact and save her son from punishment he was liable to under the law. But she was an Allah-fearing woman. And her conscience told her that this world's punishment is better than the punishment in the Hereafter. So, she herself took her son to the authorities that day! It is such conflicting views arising in a human mind that this Verse is alluding to here."
+    "notes": "Man has frequently to make a choice between two conflicting urges arising in his mind. To give an example from real life published in newspapers a few years ago, a woman found out that her young son had committed a crime. Her instinct was to hide this fact and save her son from punishment he was liable to under the law. But she was an Allah-fearing woman. And her conscience told her that this world's punishment is better than the punishment in the Hereafter. So, she herself took her son to the authorities that day! It is such conflicting views arising in a human mind that this Verse is alluding to here.",
+    "urdu": "جب (وہ کوئی کام کرتا ہے تو) دو لکھنے والے جو دائیں بائیں بیٹھے ہیں، لکھ لیتے ہیں"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "arabic": "مَّا يَلۡفِظُ مِن قَوۡلٍ إِلَّا لَدَيۡهِ رَقِيبٌ عَتِيدٞ",
     "transliteration": "Ma yalfithu min qawlin illa ladayhi raqeebun AAateedun",
     "translation": "He utters not a word but is there a sentinel by him, ready [to record it]!",
-    "notes": ""
+    "notes": "",
+    "urdu": "کوئی بات اس کی زبان پر نہیں آتی مگر ایک نگہبان اس کے پاس تیار رہتا ہے"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "arabic": "وَجَآءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّۖ ذَٰلِكَ مَا كُنتَ مِنۡهُ تَحِيدُ",
     "transliteration": "Wajaat sakratu almawti bialhaqqi thalika ma kunta minhu taheedu",
     "translation": "And the pangs of death will bring the Truth home to him. \"That was the thing you kept away from!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور موت کی بےہوشی حقیقت کھولنے کو طاری ہوگئی۔ (اے انسان) یہی (وہ حالت) ہے جس سے تو بھاگتا تھا"
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "arabic": "وَنُفِخَ فِي ٱلصُّورِۚ ذَٰلِكَ يَوۡمُ ٱلۡوَعِيدِ",
     "transliteration": "Wanufikha fee alssoori thalika yawmu alwaAAeedi",
     "translation": "And then the Trumpet is blown – there then is the Day promised!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور صور پھونکا جائے گا۔ یہی (عذاب کے) وعید کا دن ہے"
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "arabic": "وَجَآءَتۡ كُلُّ نَفۡسٖ مَّعَهَا سَآئِقٞ وَشَهِيدٞ",
     "transliteration": "Wajaat kullu nafsin maAAaha saiqun washaheedun",
     "translation": "And every soul comes forth accompanied by a driver and a witness.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ہر شخص (ہمارے سامنے) آئے گا۔ ایک (فرشتہ) اس کے ساتھ چلانے والا ہوگا اور ایک (اس کے عملوں کی) گواہی دینے والا"
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "arabic": "لَّقَدۡ كُنتَ فِي غَفۡلَةٖ مِّنۡ هَٰذَا فَكَشَفۡنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلۡيَوۡمَ حَدِيدٞ",
     "transliteration": "Laqad kunta fee ghaflatin min hatha fakashafna AAanka ghitaaka fabasaruka alyawma hadeedun",
     "translation": "\"You were careless about this. Now that We have taken off your cover from you, strong is your eyesight this Day!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یہ وہ دن ہے کہ) اس سے تو غافل ہو رہا تھا۔ اب ہم نے تجھ پر سے پردہ اُٹھا دیا۔ تو آج تیری نگاہ تیز ہے"
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "arabic": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
     "transliteration": "Waqala qareenuhu hatha ma ladayya AAateedun",
     "translation": "And his Companion [witness] says, \"It's ready here – what in my hand is [man's record]!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اس کا ہم نشین (فرشتہ) کہے گا کہ یہ (اعمال نامہ) میرے پاس حاضر ہے"
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "arabic": "أَلۡقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٖ",
     "transliteration": "Alqiya fee jahannama kulla kaffarin AAaneedin",
     "translation": "\"Throw into Hell every stubborn suppressor of evidence proving existence of Allah [with attributes as given in the Qur'aan]!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "(حکم ہوگا کہ) ہر سرکش ناشکرے کو دوزخ میں ڈال دو"
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "arabic": "مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٖ مُّرِيبٍ",
     "transliteration": "MannaAAin lilkhayri muAAtadin mureebin",
     "translation": "\"Who was forbidding what was good, transgressing all bounds, and casting doubts and suspicions.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو مال میں بخل کرنے والا حد سے بڑھنے والا شبہے نکالنے والا تھا"
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "arabic": "ٱلَّذِي جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلۡقِيَاهُ فِي ٱلۡعَذَابِ ٱلشَّدِيدِ",
     "transliteration": "Allathee jaAAala maAAa Allahi ilahan akhara faalqiyahu fee alAAathabi alshshadeedi",
     "translation": "\"Who had set up other god/s besides Allah! So, throw him into the severe punishment.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "جس نے خدا کے ساتھ اور معبود مقرر کر رکھے تھے۔ تو اس کو سخت عذاب میں ڈال دو"
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "arabic": "۞قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطۡغَيۡتُهُۥ وَلَٰكِن كَانَ فِي ضَلَٰلِۭ بَعِيدٖ",
     "transliteration": "Qala qareenuhu rabbana ma atghaytuhu walakin kana fee dalalin baAAeedin",
     "translation": "His Companion says, \"Our Lord! I did not make him transgress, but he was (himself) gone far astray.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس کا ساتھی (شیطان) کہے گا کہ اے ہمارے پروردگار میں نے اس کو گمراہ نہیں کیا تھا بلکہ یہ آپ ہی رستے سے دور بھٹکا ہوا تھا"
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "arabic": "قَالَ لَا تَخۡتَصِمُواْ لَدَيَّ وَقَدۡ قَدَّمۡتُ إِلَيۡكُم بِٱلۡوَعِيدِ",
     "transliteration": "Qala la takhtasimoo ladayya waqad qaddamtu ilaykum bialwaAAeedi",
     "translation": "He [Allah] says, \"Quarrel not in My Presence; and I did send you the warning in advance.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "(خدا) فرمائے گا کہ ہمارے حضور میں ردوکد نہ کرو۔ ہم تمہارے پاس پہلے ہی (عذاب کی) وعید بھیج چکے تھے"
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "arabic": "مَا يُبَدَّلُ ٱلۡقَوۡلُ لَدَيَّ وَمَآ أَنَا۠ بِظَلَّـٰمٖ لِّلۡعَبِيدِ",
     "transliteration": "Ma yubaddalu alqawlu ladayya wama ana bithallamin lilAAabeedi",
     "translation": "\"No alteration in the Word with Me, and I am never unjust to My subjects.\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "ہمارے ہاں بات بدلا نہیں کرتی اور ہم بندوں پر ظلم نہیں کیا کرتے"
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "arabic": "يَوۡمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمۡتَلَأۡتِ وَتَقُولُ هَلۡ مِن مَّزِيدٖ",
     "transliteration": "Yawma naqoolu lijahannama hali imtalati wataqoolu hal min mazeedin",
     "translation": "That Day We ask Hell, \"Are you full?\" And it asks, \"Are there any more?\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس دن ہم دوزخ سے پوچھیں گے کہ کیا تو بھر گئی؟ وہ کہے گی کہ کچھ اور بھی ہے؟"
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "arabic": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ غَيۡرَ بَعِيدٍ",
     "transliteration": "Waozlifati aljannatu lilmuttaqeena ghayra baAAeedin",
     "translation": "And the Garden [of Paradise] is brought near for the pious and righteous, and it is no longer a distant objective [for them.]",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور بہشت پرہیزگاروں کے قریب کردی جائے گی (کہ مطلق) دور نہ ہوگی"
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "arabic": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٖ",
     "transliteration": "Hatha ma tooAAadoona likulli awwabin hafeethin",
     "translation": "\"This is what you were promised. [And this is what was promised] to everyone who turned (to Allah in sincere repentance) and protected (himself against satanic influence.)",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہی وہ چیز ہے جس کا تم سے وعدہ کیا جاتا تھا (یعنی) ہر رجوع لانے والے حفاظت کرنے والے سے"
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "arabic": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ",
     "transliteration": "Man khashiya alrrahmana bialghaybi wajaa biqalbin muneebin",
     "translation": "Who feared the Gracious One without physically seeing Him with worldly eyes and has come with a mind turned in devotion (to Him).",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو خدا سے بن دیکھے ڈرتا ہے اور رجوع لانے والا دل لے کر آیا"
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "arabic": "ٱدۡخُلُوهَا بِسَلَٰمٖۖ ذَٰلِكَ يَوۡمُ ٱلۡخُلُودِ",
     "transliteration": "Odkhulooha bisalamin thalika yawmu alkhuloodi",
     "translation": "\"Enter therein [in Paradise] in Peace and Security; that is time of eternal life!\"",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس میں سلامتی کے ساتھ داخل ہوجاؤ۔ یہ ہمیشہ رہنے کا دن ہے"
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "arabic": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيۡنَا مَزِيدٞ",
     "transliteration": "Lahum ma yashaoona feeha waladayna mazeedun",
     "translation": "There is for them therein all that they desire. And [there is besides] much more with Us.",
-    "notes": ""
+    "notes": "",
+    "urdu": "وہاں وہ جو چاہیں گے ان کے لئے حاضر ہے اور ہمارے ہاں اور بھی (بہت کچھ) ہے"
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "arabic": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَشَدُّ مِنۡهُم بَطۡشٗا فَنَقَّبُواْ فِي ٱلۡبِلَٰدِ هَلۡ مِن مَّحِيصٍ",
     "transliteration": "Wakam ahlakna qablahum min qarnin hum ashaddu minhum batshan fanaqqaboo fee albiladi hal min maheesin",
     "translation": "And how many a generation before them, stronger in power than they, did We destroy! They had wandered through the lands in search of a place of escape!!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ہم نے ان سے پہلے کئی اُمتیں ہلاک کر ڈالیں۔ وہ ان سے قوت میں کہیں بڑھ کر تھے وہ شہروں میں گشت کرنے لگے۔ کیا کہیں بھاگنے کی جگہ ہے؟"
   },
   {
     "id": 37,
@@ -293,7 +329,8 @@
     "arabic": "إِنَّ فِي ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٞ",
     "transliteration": "Inna fee thalika lathikra liman kana lahu qalbun aw alqa alssamAAa wahuwa shaheedun",
     "translation": "Certainly indeed in that is a lesson to learn for any who has an understanding mind or who lends an insightful ear.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو شخص دل (آگاہ) رکھتا ہے یا دل سے متوجہ ہو کر سنتا ہے اس کے لئے اس میں نصیحت ہے"
   },
   {
     "id": 38,
@@ -301,7 +338,8 @@
     "arabic": "وَلَقَدۡ خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي سِتَّةِ أَيَّامٖ وَمَا مَسَّنَا مِن لُّغُوبٖ",
     "transliteration": "Walaqad khalaqna alssamawati waalarda wama baynahuma fee sittati ayyamin wama massana min lughoobin",
     "translation": "We created the heavens and the earth and all things in between in six periods of time. And weariness did not even touch Us!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ہم نے آسمانوں اور زمین کو اور جو (مخلوقات) ان میں ہے سب کو چھ دن میں بنا دیا۔ اور ہم کو ذرا تکان نہیں ہوئی"
   },
   {
     "id": 39,
@@ -309,7 +347,8 @@
     "arabic": "فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ",
     "transliteration": "Faisbir AAala ma yaqooloona wasabbih bihamdi rabbika qabla tulooAAi alshshamsi waqabla alghuroobi",
     "translation": "Have patience, then, over what they say, and glorify your Lord with praise, before the rising of the sun and before its setting.",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو جو کچھ یہ (کفار) بکتے ہیں اس پر صبر کرو اور آفتاب کے طلوع ہونے سے پہلے اور اس کے غروب ہونے سے پہلے اپنے پروردگار کی تعریف کے ساتھ تسبیح کرتے رہو"
   },
   {
     "id": 40,
@@ -317,7 +356,8 @@
     "arabic": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَأَدۡبَٰرَ ٱلسُّجُودِ",
     "transliteration": "Wamina allayli fasabbihhu waadbara alssujoodi",
     "translation": "And glorify Him during parts of the night, and post prostrations!",
-    "notes": "These two Verses tell us that we should keep remembering Allah, with all His Glory, constantly throughout the time we are awake while doing our mundane work. That is, besides our Salah timings as prescribed in [17:78], [11:114] & 2:238. During Salah, of course, all mundane work – and even thought – are proscribed!"
+    "notes": "These two Verses tell us that we should keep remembering Allah, with all His Glory, constantly throughout the time we are awake while doing our mundane work. That is, besides our Salah timings as prescribed in [17:78], [11:114] & 2:238. During Salah, of course, all mundane work – and even thought – are proscribed!",
+    "urdu": "اور رات کے بعض اوقات میں بھی اور نماز کے بعد بھی اس (کے نام) کی تنزیہ کیا کرو"
   },
   {
     "id": 41,
@@ -325,7 +365,8 @@
     "arabic": "وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ",
     "transliteration": "WaistamiAA yawma yunadi almunadi min makanin qareebin",
     "translation": "And listen the Day when the Caller calls out from a place quite near, –",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور سنو جس دن پکارنے والا نزدیک کی جگہ سے پکارے گا"
   },
   {
     "id": 42,
@@ -333,7 +374,8 @@
     "arabic": "يَوۡمَ يَسۡمَعُونَ ٱلصَّيۡحَةَ بِٱلۡحَقِّۚ ذَٰلِكَ يَوۡمُ ٱلۡخُرُوجِ",
     "transliteration": "Yawma yasmaAAoona alssayhata bialhaqqi thalika yawmu alkhurooji",
     "translation": "The Day when they hear a real mighty Blast – that is the Day of Resurrection!",
-    "notes": ""
+    "notes": "",
+    "urdu": "جس دن لوگ چیخ یقیناً سن لیں گے۔ وہی نکل پڑنے کا دن ہے"
   },
   {
     "id": 43,
@@ -341,7 +383,8 @@
     "arabic": "إِنَّا نَحۡنُ نُحۡيِۦ وَنُمِيتُ وَإِلَيۡنَا ٱلۡمَصِيرُ",
     "transliteration": "Inna nahnu nuhyee wanumeetu wailayna almaseeru",
     "translation": "It is indeed We Who give life and cause death; and to Us is the final destination.",
-    "notes": ""
+    "notes": "",
+    "urdu": "ہم ہی تو زندہ کرتے ہیں اور ہم ہی مارتے ہیں اور ہمارے ہی پاس لوٹ کر آنا ہے"
   },
   {
     "id": 44,
@@ -349,7 +392,8 @@
     "arabic": "يَوۡمَ تَشَقَّقُ ٱلۡأَرۡضُ عَنۡهُمۡ سِرَاعٗاۚ ذَٰلِكَ حَشۡرٌ عَلَيۡنَا يَسِيرٞ",
     "transliteration": "Yawma tashaqqaqu alardu AAanhum siraAAan thalika hashrun AAalayna yaseerun",
     "translation": "That Day the earth swiftly separates from them. That gathering – it is easy for Us!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس دن زمین ان پر سے پھٹ جائے گی اور وہ جھٹ پٹ نکل کھڑے ہوں گے۔ یہ جمع کرنا ہمیں آسان ہے"
   },
   {
     "id": 45,
@@ -357,6 +401,7 @@
     "arabic": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَۖ وَمَآ أَنتَ عَلَيۡهِم بِجَبَّارٖۖ فَذَكِّرۡ بِٱلۡقُرۡءَانِ مَن يَخَافُ وَعِيدِ",
     "transliteration": "Nahnu aAAlamu bima yaqooloona wama anta AAalayhim bijabbarin fathakkir bialqurani man yakhafu waAAeedi",
     "translation": "We know what they say! And you are not to be coercive on them. So, admonish with the Qur'aan such as fear My Warning!",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ لوگ جو کچھ کہتے ہیں ہمیں خوب معلوم ہے اور تم ان پر زبردستی کرنے والے نہیں ہو۔ پس جو ہمارے (عذاب کی) وعید سے ڈرے اس کو قرآن سے نصیحت کرتے رہو"
   }
 ]

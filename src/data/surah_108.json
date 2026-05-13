@@ -1,1 +1,29 @@
-[{"id":1,"ref":"108:1","arabic":"إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ","transliteration":"Inna aAAtaynaka alkawthara","translation":"","notes":""},{"id":2,"ref":"108:2","arabic":"فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ","transliteration":"Fasalli lirabbika wainhar","translation":"","notes":""},{"id":3,"ref":"108:3","arabic":"إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ","transliteration":"Inna shaniaka huwa alabtaru","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "108:1",
+    "arabic": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+    "transliteration": "Inna aAAtaynaka alkawthara",
+    "translation": "We have indeed given you the amplitude.",
+    "notes": "The Verse is primarily addressed to the Prophet. During the Makkan period, he was being continually harassed by the disbelievers. He had no son; his two male children had died in infancy. So, his detractors called him abtar or one whose lineage would be cut off in the absence of any male descendent. There would be no one to remember him after his death. Allah Almighty assures him that, on the other hand, he is blessed with amplitude in that he would be remembered by millions till the Last Day as the Prophet and Messenger of Allah through whom the last divine Message was conveyed to mankind.",
+    "urdu": "(اے محمدﷺ) ہم نے تم کو کوثر عطا فرمائی ہے"
+  },
+  {
+    "id": 2,
+    "ref": "108:2",
+    "arabic": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+    "transliteration": "Fasalli lirabbika wainhar",
+    "translation": "So pray to your Lord and offer sacrifice for Him!",
+    "notes": "The polythyists had been offering sacrifices for their varied deities other than Allah.",
+    "urdu": "تو اپنے پروردگار کے لیے نماز پڑھا کرو اور قربانی دیا کرو"
+  },
+  {
+    "id": 3,
+    "ref": "108:3",
+    "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+    "transliteration": "Inna shaniaka huwa alabtaru",
+    "translation": "Your enemy is the one to be cut off.",
+    "notes": "The Prophet’s many detractors had none to sing their praises after their deaths; and the few who are still remembered like Abu Lahab and Abu Jahl – they are remembered only in very bad light.",
+    "urdu": "کچھ شک نہیں کہ تمہارا دشمن ہی بےاولاد رہے گا"
+  }
+]

@@ -5,7 +5,8 @@
     "arabic": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
     "transliteration": "Qul aAAoothu birabbi alfalaqi",
     "translation": "Say , “I seek refuge in Lord of the dawn.”",
-    "notes": "The divine command is primarily addressed to the Prophet. In this Chapter, as also in the next (114), he is directed to seek Allah’s protection against various evil forces. By implication, the command applies to all believers."
+    "notes": "The divine command is primarily addressed to the Prophet. In this Chapter, as also in the next (114), he is directed to seek Allah’s protection against various evil forces. By implication, the command applies to all believers.",
+    "urdu": "کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "مِن شَرِّ مَا خَلَقَ",
     "transliteration": "Min sharri ma khalaqa",
     "translation": "“From the evil of what He has created,”",
-    "notes": "Allah has not created evil; but it emanates from the jinn and mankind whom He has created and given freedom of action to a limited extent."
+    "notes": "Allah has not created evil; but it emanates from the jinn and mankind whom He has created and given freedom of action to a limited extent.",
+    "urdu": "ہر چیز کی بدی سے جو اس نے پیدا کی"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
     "transliteration": "Wamin sharri ghasiqin itha waqaba",
     "translation": "“And from the evil of darkness when it sets in,”",
-    "notes": "It is under cover of darkness that some evil things, like theft, are committed."
+    "notes": "It is under cover of darkness that some evil things, like theft, are committed.",
+    "urdu": "اور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "وَمِن شَرِّ ٱلنَّفَّـٰثَٰتِ فِي ٱلۡعُقَدِ",
     "transliteration": "Wamin sharri alnnaffathati fee alAAuqadi",
     "translation": "“And from the evil of those who blow on knots,”",
-    "notes": "Idiomatically, ‘blowing on knots’ implies magic or sorcery. There is an indirect indication here that attempts had been made by some disbelievers to subject the Prophet himself to some sort of black magic. Muslims may also now likewise seek Allah’s refuge against any such perceived evil."
+    "notes": "Idiomatically, ‘blowing on knots’ implies magic or sorcery. There is an indirect indication here that attempts had been made by some disbelievers to subject the Prophet himself to some sort of black magic. Muslims may also now likewise seek Allah’s refuge against any such perceived evil.",
+    "urdu": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے"
   },
   {
     "id": 5,
@@ -37,6 +41,7 @@
     "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
     "transliteration": "Wamin sharri hasidin itha hasada",
     "translation": "“And from the evil of the envious person when he envies.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور حسد کرنے والے کی برائی سے جب حسد کرنے لگے"
   }
 ]

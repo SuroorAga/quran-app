@@ -5,7 +5,8 @@
     "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
     "transliteration": "Itha alssamao infatarat",
     "translation": "When the sky breaks,",
-    "notes": ""
+    "notes": "",
+    "urdu": "جب آسمان پھٹ جائے گا"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
     "transliteration": "Waitha alkawakibu intatharat",
     "translation": "And when the stars disperse,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جب تارے جھڑ پڑیں گے"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
     "transliteration": "Waitha albiharu fujjirat",
     "translation": "And when the seas overflow,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جب دریا بہہ (کر ایک دوسرے سے مل) جائیں گے"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
     "transliteration": "Waitha alqubooru buAAthirat",
     "translation": "And when the graves are uncovered, taken out and examined,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جب قبریں اکھیڑ دی جائیں گی"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
     "transliteration": "AAalimat nafsun ma qaddamat waakhkharat",
     "translation": "Every soul comes to know what it had sent ahead and what it had left behind.",
-    "notes": "A sinner, for example, would know that what he had sent ahead (bad deeds in this world) would take him to Hell in the Hereafter. And what he had left undone in this world (follow the path as shown in the Qur’aan) would have given him a ticket for Paradise in the Hereafter."
+    "notes": "A sinner, for example, would know that what he had sent ahead (bad deeds in this world) would take him to Hell in the Hereafter. And what he had left undone in this world (follow the path as shown in the Qur’aan) would have given him a ticket for Paradise in the Hereafter.",
+    "urdu": "تب ہر شخص معلوم کرلے گا کہ اس نے آگے کیا بھیجا تھا اور پیچھے کیا چھوڑا تھا"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
     "transliteration": "Ya ayyuha alinsanu ma gharraka birabbika alkareemi",
     "translation": "O human! What has deluded you away from your Lord, the Most Noble?",
-    "notes": ""
+    "notes": "",
+    "urdu": "اے انسان تجھ کو اپنے پروردگار کرم گستر کے باب میں کس چیز نے دھوکا دیا"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
     "transliteration": "Allathee khalaqaka fasawwaka faAAadalaka",
     "translation": "HE is the One Who created you, then moulded you, and then gave you a good poise.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(وہی تو ہے) جس نے تجھے بنایا اور (تیرے اعضا کو) ٹھیک کیا اور (تیرے قامت کو) معتدل رکھا"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
     "transliteration": "Fee ayyi sooratin ma shaa rakkabaka",
     "translation": "HE cast you into an appearance He willed.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جس صورت میں چاہا تجھے جوڑ دیا"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
     "transliteration": "Kalla bal tukaththiboona bialddeeni",
     "translation": "And, yet, you refused to believe in the Judgment Day!",
-    "notes": ""
+    "notes": "",
+    "urdu": "مگر ہیہات تم لوگ جزا کو جھٹلاتے ہو"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
     "transliteration": "Wainna AAalaykum lahafitheena",
     "translation": "And certainly indeed Guards are appointed to keep watch on you and protect you,",
-    "notes": ""
+    "notes": "",
+    "urdu": "حالانکہ تم پر نگہبان مقرر ہیں"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "arabic": "كِرَامٗا كَٰتِبِينَ",
     "transliteration": "Kiraman katibeena",
     "translation": "Noble recorders are they [recording all your omissions and commissions]!",
-    "notes": ""
+    "notes": "",
+    "urdu": "عالی قدر (تمہاری باتوں کے) لکھنے والے"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "arabic": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
     "transliteration": "YaAAlamoona ma tafAAaloona",
     "translation": "They know what you do.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو تم کرتے ہو وہ اسے جانتے ہیں"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "arabic": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ",
     "transliteration": "Inna alabrara lafee naAAeemin",
     "translation": "Indeed, the righteous will be in bliss,",
-    "notes": ""
+    "notes": "",
+    "urdu": "بے شک نیکوکار نعمتوں (کی بہشت) میں ہوں گے۔"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "arabic": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
     "transliteration": "Wainna alfujjara lafee jaheemin",
     "translation": "And certainly indeed, the wicked persons will be in Hell.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور بدکردار دوزخ میں"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "arabic": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
     "transliteration": "Yaslawnaha yawma alddeeni",
     "translation": "They will enter it on the day of Judgment.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یعنی) جزا کے دن اس میں داخل ہوں گے"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "arabic": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
     "transliteration": "Wama hum AAanha bighaibeena",
     "translation": "And they will not be absent from it.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اس سے چھپ نہیں سکیں گے"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "arabic": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
     "transliteration": "Wama adraka ma yawmu alddeeni",
     "translation": "And what do you understand what the Day of Judgment is?",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور تمہیں کیا معلوم کہ جزا کا دن کیسا ہے؟"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "arabic": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
     "transliteration": "Thumma ma adraka ma yawmu alddeeni",
     "translation": "Repeat, what do you understand what the Day of Judgment is?",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر تمہیں کیا معلوم کہ جزا کا دن کیسا ہے؟"
   },
   {
     "id": 19,
@@ -149,6 +167,7 @@
     "arabic": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
     "transliteration": "Yawma la tamliku nafsun linafsin shayan waalamru yawmaithin lillahi",
     "translation": "That Day no creature shall be of any avail to another. And Allah’s shall be the sole command that Day!",
-    "notes": "Christians, who are sure their Christ will take them to Paradise, beware! And Muslims, who claim that whatever their deeds here in this world their Muhammad will ensure their entry into Jannah, beware!"
+    "notes": "Christians, who are sure their Christ will take them to Paradise, beware! And Muslims, who claim that whatever their deeds here in this world their Muhammad will ensure their entry into Jannah, beware!",
+    "urdu": "جس روز کوئی کسی کا بھلا نہ کر سکے گا اور حکم اس روز خدا ہی کا ہو گا"
   }
 ]

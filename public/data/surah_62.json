@@ -5,7 +5,8 @@
     "arabic": "يُسَبِّحُ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ ٱلۡمَلِكِ ٱلۡقُدُّوسِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ",
     "transliteration": "Yusabbihu lillahi ma fee alssamawati wama fee alardi almaliki alquddoosi alAAazeezi alhakeemi",
     "translation": "Everything that is in the heavens and the earth glorifies Allah, the One Sovereign, Holy, Omnipotent, Wise.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو چیز آسمانوں میں ہے اور جو چیز زمین میں ہے سب خدا کی تسبیح کرتی ہے جو بادشاہ حقیقی پاک ذات زبردست حکمت والا ہے"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "هُوَ ٱلَّذِي بَعَثَ فِي ٱلۡأُمِّيِّـۧنَ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَإِن كَانُواْ مِن قَبۡلُ لَفِي ضَلَٰلٖ مُّبِينٖ",
     "transliteration": "Huwa allathee baAAatha fee alommiyyeena rasoolan minhum yatloo AAalayhim ayatihi wayuzakkeehim wayuAAallimuhumu alkitaba waalhikmata wain kanoo min qablu lafee dalalin mubeenin",
     "translation": "He it is who has raised among the Gentiles a Messenger, from among themselves, who recites His Verses to them, and purifies them, and teaches them the Book and the Wisdom. And, before that, they had indeed been in manifest error.",
-    "notes": "Jews and Christians called all others in a derogative manner as ommiyyeen [Gentiles or illiterate, uncultured people]. Refer [3:75] in PART I of this Tafsir. The same Jewish term is used in the Qur’aan to counter their [the Jews’ and the Christians’] despise.\n\nRefer in this context to study note 192 on Chapter 2 and to study note 164 on Chapter 3 in PART I of this Tafsir."
+    "notes": "Jews and Christians called all others in a derogative manner as ommiyyeen [Gentiles or illiterate, uncultured people]. Refer [3:75] in PART I of this Tafsir. The same Jewish term is used in the Qur’aan to counter their [the Jews’ and the Christians’] despise.\n\nRefer in this context to study note 192 on Chapter 2 and to study note 164 on Chapter 3 in PART I of this Tafsir.",
+    "urdu": "وہی تو ہے جس نے ان پڑھوں میں ان ہی میں سے (محمدﷺ) کو پیغمبر (بنا کر) بھیجا جو ان کے سامنے اس کی آیتیں پڑھتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں۔ اور اس ے پہلے تو یہ لوگ صریح گمراہی میں تھے"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "وَءَاخَرِينَ مِنۡهُمۡ لَمَّا يَلۡحَقُواْ بِهِمۡۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
     "transliteration": "Waakhareena minhum lamma yalhaqoo bihim wahuwa alAAazeezu alhakeemu",
     "translation": "And [the Messenger for] others, from among them [the Gentiles], who have not yet joined them. HE is the One Omnipotent, Wise.",
-    "notes": "The divine Message brought by the Messenger would be valid for all future generations till the Last Day."
+    "notes": "The divine Message brought by the Messenger would be valid for all future generations till the Last Day.",
+    "urdu": "اور ان میں سے اور لوگوں کی طرف بھی (ان کو بھیجا ہے) جو ابھی ان (مسلمانوں سے) نہیں ملے۔ اور وہ غالب حکمت والا ہے"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "ذَٰلِكَ فَضۡلُ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
     "transliteration": "Thalika fadlu Allahi yuteehi man yashao waAllahu thoo alfadli alAAatheemi",
     "translation": "That is Allah’s Favour; He bestows it on whom He pleases. And Allah is the greatest Bistower of Favours.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ خدا کا فضل ہے جسے چاہتا ہے عطا کرتا ہے۔ اور خدا بڑے فضل کا مالک ہے"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "مَثَلُ ٱلَّذِينَ حُمِّلُواْ ٱلتَّوۡرَىٰةَ ثُمَّ لَمۡ يَحۡمِلُوهَا كَمَثَلِ ٱلۡحِمَارِ يَحۡمِلُ أَسۡفَارَۢاۚ بِئۡسَ مَثَلُ ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِ ٱللَّهِۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّـٰلِمِينَ",
     "transliteration": "Mathalu allatheena hummiloo alttawrata thumma lam yahmilooha kamathali alhimari yahmilu asfaran bisa mathalu alqawmi allatheena kaththaboo biayati Allahi waAllahu la yahdee alqawma alththalimeena",
     "translation": "Those who were given the responsibility of bearing [following the instructions in] the Torah but did not do so are like an ass carrying a load of books. Terrible is the example of those who deny Allah’s signs/Verses! And Allah does not guide the wicked people.",
-    "notes": "The reference, of course, is to the Jews here. But the simile equally applies to most modern-day Muslims. Like how the Jews treat the Torah, the Muslims treat the Qur’aan! Both practise just ritualistic reading of their respective Scripture without bothering to follow its instructions."
+    "notes": "The reference, of course, is to the Jews here. But the simile equally applies to most modern-day Muslims. Like how the Jews treat the Torah, the Muslims treat the Qur’aan! Both practise just ritualistic reading of their respective Scripture without bothering to follow its instructions.",
+    "urdu": "جن لوگوں (کے سر) پر تورات لدوائی گئی پھر انہوں نے اس (کے بار تعمیل) کو نہ اٹھایا ان کی مثال گدھے کی سی ہے جن پر بڑی بڑی کتابیں لدی ہوں۔ جو لوگ خدا کی آیتوں کی تکذیب کرتے ہیں ان کی مثال بری ہے۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیتا"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "قُلۡ يَـٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓاْ إِن زَعَمۡتُمۡ أَنَّكُمۡ أَوۡلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُاْ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ",
     "transliteration": "Qul ya ayyuha allatheena hadoo in zaAAamtum annakum awliyao lillahi min dooni alnnasi fatamannawoo almawta in kuntum sadiqeena",
     "translation": "Say, “O you Jews! If you presume that you, of all people, are the ones close to Allah, then do long for death, if what you say is true.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "کہہ دو کہ اے یہود اگر تم کو دعویٰ ہو کہ تم ہی خدا کے دوست ہو اور لوگ نہیں تو اگر تم سچے ہو تو (ذرا) موت کی آرزو تو کرو"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "وَلَا يَتَمَنَّوۡنَهُۥٓ أَبَدَۢا بِمَا قَدَّمَتۡ أَيۡدِيهِمۡۚ وَٱللَّهُ عَلِيمُۢ بِٱلظَّـٰلِمِينَ",
     "transliteration": "Wala yatamannawnahu abadan bima qaddamat aydeehim waAllahu AAaleemun bialththalimeena",
     "translation": "They will not wish for it [death] ever, because of what their hands have sent ahead! And Allah does well know the wicked people.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور یہ ان (اعمال) کے سبب جو کرچکے ہیں ہرگز اس کی آرزو نہیں کریں گے۔ اور خدا ظالموں سے خوب واقف ہے"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "قُلۡ إِنَّ ٱلۡمَوۡتَ ٱلَّذِي تَفِرُّونَ مِنۡهُ فَإِنَّهُۥ مُلَٰقِيكُمۡۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
     "transliteration": "Qul inna almawta allathee tafirroona minhu fainnahu mulaqeekum thumma turaddoona ila AAalimi alghaybi waalshshahadati fayunabbiokum bima kuntum taAAmaloona",
     "translation": "Say, “The death you run away from will indeed meet you. And then you will be reverted to the Knower of the unseen and the seen. HE will then inform you of what you have been doing.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "کہہ دو کہ موت جس سے تم گریز کرتے ہو وہ تو تمہارے سامنے آ کر رہے گی۔ پھر تم پوشیدہ اور ظاہر کے جاننے والے (خدا) کی طرف لوٹائے جاؤ گے پھر جو کچھ تم کرتے رہے ہو وہ سب تمہیں بتائے گا"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نُودِيَ لِلصَّلَوٰةِ مِن يَوۡمِ ٱلۡجُمُعَةِ فَٱسۡعَوۡاْ إِلَىٰ ذِكۡرِ ٱللَّهِ وَذَرُواْ ٱلۡبَيۡعَۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
     "transliteration": "Ya ayyuha allatheena amanoo itha noodiya lilssalati min yawmi aljumuAAati faisAAaw ila thikri Allahi watharoo albayAAa thalikum khayrun lakum in kuntum taAAlamoona",
     "translation": "O you who believe! When call to the prayer on the day of congregation (Friday) is sounded, hasten to [places of worship] for remembrance of Allah and leave the worldly business. That is good for you, if you but knew it!",
-    "notes": "Like Sunday for the Christians and Saturday for the Jews, Friday is the congregational prayer day for the Muslims. We are informed, elsewhere in the Qur’aan, that the Sabbath [Saturday] for the Jews is so severe that they are prohibited from worldly business for the entire day! But Allah Ta’ala has been kind to the Muslims in this regard. The prohibition from worldly business is restricted to the short period of less than 2 hours from the time the call to prayer is made to the completion of the Friday Salah. But the Muslims contravene even this restricted prohibition. Many of them delay their departure for the Masajids till the Salah proper is to begin on the debatable plea that the Imam’s sermon is sub-standard. It is not at all surprising then that Allah Almighty seems to have withdrawn His Hand of mercy from the so-called Muslims."
+    "notes": "Like Sunday for the Christians and Saturday for the Jews, Friday is the congregational prayer day for the Muslims. We are informed, elsewhere in the Qur’aan, that the Sabbath [Saturday] for the Jews is so severe that they are prohibited from worldly business for the entire day! But Allah Ta’ala has been kind to the Muslims in this regard. The prohibition from worldly business is restricted to the short period of less than 2 hours from the time the call to prayer is made to the completion of the Friday Salah. But the Muslims contravene even this restricted prohibition. Many of them delay their departure for the Masajids till the Salah proper is to begin on the debatable plea that the Imam’s sermon is sub-standard. It is not at all surprising then that Allah Almighty seems to have withdrawn His Hand of mercy from the so-called Muslims.",
+    "urdu": "مومنو! جب جمعے کے دن نماز کے لئے اذان دی جائے تو خدا کی یاد (یعنی نماز) کے لئے جلدی کرو اور (خریدو) فروخت ترک کردو۔ اگر سمجھو تو یہ تمہارے حق میں بہتر ہے"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُواْ فِي ٱلۡأَرۡضِ وَٱبۡتَغُواْ مِن فَضۡلِ ٱللَّهِ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
     "transliteration": "Faitha qudiyati alssalatu faintashiroo fee alardi waibtaghoo min fadli Allahi waothkuroo Allaha katheeran laAAallakum tuflihoona",
     "translation": "Then as the prayer is ended, spread out on the earth to seek some of Allah’s favours. And remember Allah much, so that you achieve success.",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر جب نماز ہوچکے تو اپنی اپنی راہ لو اور خدا کا فضل تلاش کرو اور خدا کو بہت بہت یاد کرتے رہو تاکہ نجات پاؤ"
   },
   {
     "id": 11,
@@ -85,6 +95,7 @@
     "arabic": "وَإِذَا رَأَوۡاْ تِجَٰرَةً أَوۡ لَهۡوًا ٱنفَضُّوٓاْ إِلَيۡهَا وَتَرَكُوكَ قَآئِمٗاۚ قُلۡ مَا عِندَ ٱللَّهِ خَيۡرٞ مِّنَ ٱللَّهۡوِ وَمِنَ ٱلتِّجَٰرَةِۚ وَٱللَّهُ خَيۡرُ ٱلرَّـٰزِقِينَ",
     "transliteration": "Waitha raaw tijaratan aw lahwan infaddoo ilayha watarakooka qaiman qul ma AAinda Allahi khayrun mina allahwi wamina alttijarati waAllahu khayru alrraziqeena",
     "translation": "And when they see something of commercial or entertaining interest to them, they break away to go to it and leave you standing. Say, “What is with Allah is far better than any entertainment or merchandise. And Allah is the Best Provider.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جب یہ لوگ سودا بکتا یا تماشا ہوتا دیکھتے ہیں تو ادھر بھاگ جاتے ہیں اور تمہیں (کھڑے کا) کھڑا چھوڑ جاتے ہیں۔ کہہ دو کہ جو چیز خدا کے ہاں ہے وہ تماشے اور سودے سے کہیں بہتر ہے اور خدا سب سے بہتر رزق دینے والا ہے"
   }
 ]

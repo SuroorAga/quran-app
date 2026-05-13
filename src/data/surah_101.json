@@ -1,1 +1,101 @@
-[{"id":1,"ref":"101:1","arabic":"ٱلۡقَارِعَةُ","transliteration":"AlqariAAatu","translation":"","notes":""},{"id":2,"ref":"101:2","arabic":"مَا ٱلۡقَارِعَةُ","transliteration":"Ma alqariAAatu","translation":"","notes":""},{"id":3,"ref":"101:3","arabic":"وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ","transliteration":"Wama adraka ma alqariAAatu","translation":"","notes":""},{"id":4,"ref":"101:4","arabic":"يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ","transliteration":"Yawma yakoonu alnnasu kaalfarashi almabthoothi","translation":"","notes":""},{"id":5,"ref":"101:5","arabic":"وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ","transliteration":"Watakoonu aljibalu kaalAAihni almanfooshi","translation":"","notes":""},{"id":6,"ref":"101:6","arabic":"فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ","transliteration":"Faamma man thaqulat mawazeenuhu","translation":"","notes":""},{"id":7,"ref":"101:7","arabic":"فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ","transliteration":"Fahuwa fee AAeeshatin radiyatin","translation":"","notes":""},{"id":8,"ref":"101:8","arabic":"وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ","transliteration":"Waamma man khaffat mawazeenuhu","translation":"","notes":""},{"id":9,"ref":"101:9","arabic":"فَأُمُّهُۥ هَاوِيَةٞ","transliteration":"Faommuhu hawiyatun","translation":"","notes":""},{"id":10,"ref":"101:10","arabic":"وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ","transliteration":"Wama adraka ma hiyah","translation":"","notes":""},{"id":11,"ref":"101:11","arabic":"نَارٌ حَامِيَةُۢ","transliteration":"Narun hamiyatun","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "101:1",
+    "arabic": "ٱلۡقَارِعَةُ",
+    "transliteration": "AlqariAAatu",
+    "translation": "The Sudden Calamity!",
+    "notes": "",
+    "urdu": "کھڑ کھڑانے والی"
+  },
+  {
+    "id": 2,
+    "ref": "101:2",
+    "arabic": "مَا ٱلۡقَارِعَةُ",
+    "transliteration": "Ma alqariAAatu",
+    "translation": "What is the Sudden Calamity?",
+    "notes": "",
+    "urdu": "کھڑ کھڑانے والی کیا ہے؟"
+  },
+  {
+    "id": 3,
+    "ref": "101:3",
+    "arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ",
+    "transliteration": "Wama adraka ma alqariAAatu",
+    "translation": "And what do you know what the Sudden Calamity is?",
+    "notes": "",
+    "urdu": "اور تم کیا جانوں کھڑ کھڑانے والی کیا ہے؟"
+  },
+  {
+    "id": 4,
+    "ref": "101:4",
+    "arabic": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+    "transliteration": "Yawma yakoonu alnnasu kaalfarashi almabthoothi",
+    "translation": "It is a Day when mankind shall be like the scattered moths,",
+    "notes": "",
+    "urdu": "(وہ قیامت ہے) جس دن لوگ ایسے ہوں گے جیسے بکھرے ہوئے پتنگے"
+  },
+  {
+    "id": 5,
+    "ref": "101:5",
+    "arabic": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+    "transliteration": "Watakoonu aljibalu kaalAAihni almanfooshi",
+    "translation": "And the mountains like fluffed up wool.",
+    "notes": "",
+    "urdu": "اور پہاڑ ایسے ہو جائیں گے جیسے دھنکی ہوئی رنگ برنگ کی اون"
+  },
+  {
+    "id": 6,
+    "ref": "101:6",
+    "arabic": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ",
+    "transliteration": "Faamma man thaqulat mawazeenuhu",
+    "translation": "That person, then, who weighs heavy [with good deeds] on the scales,",
+    "notes": "",
+    "urdu": "تو جس کے (اعمال کے) وزن بھاری نکلیں گے"
+  },
+  {
+    "id": 7,
+    "ref": "101:7",
+    "arabic": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+    "transliteration": "Fahuwa fee AAeeshatin radiyatin",
+    "translation": "[That person] shall have a pleasant life.",
+    "notes": "",
+    "urdu": "وہ دل پسند عیش میں ہو گا"
+  },
+  {
+    "id": 8,
+    "ref": "101:8",
+    "arabic": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ",
+    "transliteration": "Waamma man khaffat mawazeenuhu",
+    "translation": "And that person, who weighs light [because of bad deeds] on the scales,",
+    "notes": "",
+    "urdu": "اور جس کے وزن ہلکے نکلیں گے"
+  },
+  {
+    "id": 9,
+    "ref": "101:9",
+    "arabic": "فَأُمُّهُۥ هَاوِيَةٞ",
+    "transliteration": "Faommuhu hawiyatun",
+    "translation": "The Abyss then shall be his home.",
+    "notes": "",
+    "urdu": "اس کا مرجع ہاویہ ہے"
+  },
+  {
+    "id": 10,
+    "ref": "101:10",
+    "arabic": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ",
+    "transliteration": "Wama adraka ma hiyah",
+    "translation": "And what do you understand what it [the Abyss] is?",
+    "notes": "",
+    "urdu": "اور تم کیا سمجھے کہ ہاویہ کیا چیز ہے؟"
+  },
+  {
+    "id": 11,
+    "ref": "101:11",
+    "arabic": "نَارٌ حَامِيَةُۢ",
+    "transliteration": "Narun hamiyatun",
+    "translation": "A Fire intensely hot.",
+    "notes": "Described in this Qur’aanic Chapter is what would happen when the Hour (the time when the present world will end and the Hereafter begin) arrives.",
+    "urdu": "دہکتی ہوئی آگ ہے"
+  }
+]

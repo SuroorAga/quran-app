@@ -1,1 +1,182 @@
-[{"id":1,"ref":"90:1","arabic":"لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ","transliteration":"La oqsimu bihatha albaladi","translation":"","notes":""},{"id":2,"ref":"90:2","arabic":"وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ","transliteration":"Waanta hillun bihatha albaladi","translation":"","notes":""},{"id":3,"ref":"90:3","arabic":"وَوَالِدٖ وَمَا وَلَدَ","transliteration":"Wawalidin wama walada","translation":"","notes":""},{"id":4,"ref":"90:4","arabic":"لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ","transliteration":"Laqad khalaqna alinsana fee kabadin","translation":"","notes":""},{"id":5,"ref":"90:5","arabic":"أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ","transliteration":"Ayahsabu an lan yaqdira AAalayhi ahadun","translation":"","notes":""},{"id":6,"ref":"90:6","arabic":"يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا","transliteration":"Yaqoolu ahlaktu malan lubadan","translation":"","notes":""},{"id":7,"ref":"90:7","arabic":"أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ","transliteration":"Ayahsabu an lam yarahu ahadun","translation":"","notes":""},{"id":8,"ref":"90:8","arabic":"أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ","transliteration":"Alam najAAal lahu AAaynayni","translation":"","notes":""},{"id":9,"ref":"90:9","arabic":"وَلِسَانٗا وَشَفَتَيۡنِ","transliteration":"Walisanan washafatayni","translation":"","notes":""},{"id":10,"ref":"90:10","arabic":"وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ","transliteration":"Wahadaynahu alnnajdayni","translation":"","notes":""},{"id":11,"ref":"90:11","arabic":"فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ","transliteration":"Fala iqtahama alAAaqabata","translation":"","notes":""},{"id":12,"ref":"90:12","arabic":"وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ","transliteration":"Wama adraka ma alAAaqabatu","translation":"","notes":""},{"id":13,"ref":"90:13","arabic":"فَكُّ رَقَبَةٍ","transliteration":"Fakku raqabatin","translation":"","notes":""},{"id":14,"ref":"90:14","arabic":"أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ","transliteration":"Aw itAAamun fee yawmin thee masghabatin","translation":"","notes":""},{"id":15,"ref":"90:15","arabic":"يَتِيمٗا ذَا مَقۡرَبَةٍ","transliteration":"Yateeman tha maqrabatin","translation":"","notes":""},{"id":16,"ref":"90:16","arabic":"أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ","transliteration":"Aw miskeenan tha matrabatin","translation":"","notes":""},{"id":17,"ref":"90:17","arabic":"ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ","transliteration":"Thumma kana mina allatheena amanoo watawasaw bialssabri watawasaw bialmarhamati","translation":"","notes":""},{"id":18,"ref":"90:18","arabic":"أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ","transliteration":"Olaika ashabu almaymanati","translation":"","notes":""},{"id":19,"ref":"90:19","arabic":"وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ","transliteration":"Waallatheena kafaroo biayatina hum ashabu almashamati","translation":"","notes":""},{"id":20,"ref":"90:20","arabic":"عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ","transliteration":"AAalayhim narun musadatun","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "90:1",
+    "arabic": "لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ",
+    "transliteration": "La oqsimu bihatha albaladi",
+    "translation": "No! I do swear by this City,",
+    "notes": "The negation here is of the non-believers’ presumption that there is none in control over them. See Verse 5 below.",
+    "urdu": "ہمیں اس شہر (مکہ) کی قسم"
+  },
+  {
+    "id": 2,
+    "ref": "90:2",
+    "arabic": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
+    "transliteration": "Waanta hillun bihatha albaladi",
+    "translation": "– And you are a free citizen of this City –",
+    "notes": "",
+    "urdu": "اور تم اسی شہر میں تو رہتے ہو"
+  },
+  {
+    "id": 3,
+    "ref": "90:3",
+    "arabic": "وَوَالِدٖ وَمَا وَلَدَ",
+    "transliteration": "Wawalidin wama walada",
+    "translation": "And by father and that which he begets,",
+    "notes": "",
+    "urdu": "اور باپ (یعنی آدم) اور اس کی اولاد کی قسم"
+  },
+  {
+    "id": 4,
+    "ref": "90:4",
+    "arabic": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ",
+    "transliteration": "Laqad khalaqna alinsana fee kabadin",
+    "translation": "We have certainly created man for hard work.",
+    "notes": "",
+    "urdu": "کہ ہم نے انسان کو تکلیف (کی حالت) میں (رہنے والا) بنایا ہے"
+  },
+  {
+    "id": 5,
+    "ref": "90:5",
+    "arabic": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
+    "transliteration": "Ayahsabu an lan yaqdira AAalayhi ahadun",
+    "translation": "Does he think that no one has any control over him?",
+    "notes": "",
+    "urdu": "کیا وہ خیال رکھتا ہے کہ اس پر کوئی قابو نہ پائے گا"
+  },
+  {
+    "id": 6,
+    "ref": "90:6",
+    "arabic": "يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا",
+    "transliteration": "Yaqoolu ahlaktu malan lubadan",
+    "translation": "He claims, “I have squandered much wealth.”",
+    "notes": "",
+    "urdu": "کہتا ہے کہ میں نے بہت سا مال برباد کیا"
+  },
+  {
+    "id": 7,
+    "ref": "90:7",
+    "arabic": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ",
+    "transliteration": "Ayahsabu an lam yarahu ahadun",
+    "translation": "Does he think no one is keeping a watch on him?",
+    "notes": "",
+    "urdu": "کیا اسے یہ گمان ہے کہ اس کو کسی نے دیکھا نہیں"
+  },
+  {
+    "id": 8,
+    "ref": "90:8",
+    "arabic": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
+    "transliteration": "Alam najAAal lahu AAaynayni",
+    "translation": "Have We not made two eyes for him,",
+    "notes": "",
+    "urdu": "بھلا ہم نےاس کو دو آنکھیں نہیں دیں؟"
+  },
+  {
+    "id": 9,
+    "ref": "90:9",
+    "arabic": "وَلِسَانٗا وَشَفَتَيۡنِ",
+    "transliteration": "Walisanan washafatayni",
+    "translation": "And a tongue and two lips,",
+    "notes": "",
+    "urdu": "اور زبان اور دو ہونٹ (نہیں دیئے)"
+  },
+  {
+    "id": 10,
+    "ref": "90:10",
+    "arabic": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ",
+    "transliteration": "Wahadaynahu alnnajdayni",
+    "translation": "And shown him the two ways [right and wrong]?",
+    "notes": "",
+    "urdu": "(یہ چیزیں بھی دیں) اور اس کو (خیر و شر کے) دونوں رستے بھی دکھا دیئے"
+  },
+  {
+    "id": 11,
+    "ref": "90:11",
+    "arabic": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+    "transliteration": "Fala iqtahama alAAaqabata",
+    "translation": "But he ventures not up the steep road;",
+    "notes": "",
+    "urdu": "مگر وہ گھاٹی پر سے ہو کر نہ گزرا"
+  },
+  {
+    "id": 12,
+    "ref": "90:12",
+    "arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ",
+    "transliteration": "Wama adraka ma alAAaqabatu",
+    "translation": "And what do you understand what the steep road is?",
+    "notes": "",
+    "urdu": "اور تم کیا سمجھے کہ گھاٹی کیا ہے؟"
+  },
+  {
+    "id": 13,
+    "ref": "90:13",
+    "arabic": "فَكُّ رَقَبَةٍ",
+    "transliteration": "Fakku raqabatin",
+    "translation": "Freeing a slave,",
+    "notes": "",
+    "urdu": "کسی (کی) گردن کا چھڑانا"
+  },
+  {
+    "id": 14,
+    "ref": "90:14",
+    "arabic": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
+    "transliteration": "Aw itAAamun fee yawmin thee masghabatin",
+    "translation": "Or feeding on a day of extreme hunger,",
+    "notes": "",
+    "urdu": "یا بھوک کے دن کھانا کھلانا"
+  },
+  {
+    "id": 15,
+    "ref": "90:15",
+    "arabic": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
+    "transliteration": "Yateeman tha maqrabatin",
+    "translation": "An orphan closely related,",
+    "notes": "",
+    "urdu": "یتیم رشتہ دار کو"
+  },
+  {
+    "id": 16,
+    "ref": "90:16",
+    "arabic": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
+    "transliteration": "Aw miskeenan tha matrabatin",
+    "translation": "Or miserable poor man.",
+    "notes": "",
+    "urdu": "یا فقیر خاکسار کو"
+  },
+  {
+    "id": 17,
+    "ref": "90:17",
+    "arabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ",
+    "transliteration": "Thumma kana mina allatheena amanoo watawasaw bialssabri watawasaw bialmarhamati",
+    "translation": "Then he becomes of those who believe and exhort one another to patience and exhort one another to mercy.",
+    "notes": "",
+    "urdu": "پھر ان لوگوں میں بھی (داخل) ہو جو ایمان لائے اور صبر کی نصیحت اور (لوگوں پر) شفقت کرنے کی وصیت کرتے رہے"
+  },
+  {
+    "id": 18,
+    "ref": "90:18",
+    "arabic": "أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+    "transliteration": "Olaika ashabu almaymanati",
+    "translation": "These are the people of the right hand.",
+    "notes": "",
+    "urdu": "یہی لوگ صاحب سعادت ہیں"
+  },
+  {
+    "id": 19,
+    "ref": "90:19",
+    "arabic": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+    "transliteration": "Waallatheena kafaroo biayatina hum ashabu almashamati",
+    "translation": "And those who suppress the Truth in Our Verses, those are the people of the left hand.",
+    "notes": "",
+    "urdu": "اور جنہوں نے ہماری آیتوں کو نہ مانا وہ بدبخت ہیں"
+  },
+  {
+    "id": 20,
+    "ref": "90:20",
+    "arabic": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ",
+    "transliteration": "AAalayhim narun musadatun",
+    "translation": "On them is Fire closing in.",
+    "notes": "",
+    "urdu": "یہ لوگ آگ میں بند کر دیئے جائیں گے"
+  }
+]

@@ -1,1 +1,227 @@
-[{"id":1,"ref":"84:1","arabic":"إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ","transliteration":"Itha alssamao inshaqqat","translation":"","notes":""},{"id":2,"ref":"84:2","arabic":"وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ","transliteration":"Waathinat lirabbiha wahuqqat","translation":"","notes":""},{"id":3,"ref":"84:3","arabic":"وَإِذَا ٱلۡأَرۡضُ مُدَّتۡ","transliteration":"Waitha alardu muddat","translation":"","notes":""},{"id":4,"ref":"84:4","arabic":"وَأَلۡقَتۡ مَا فِيهَا وَتَخَلَّتۡ","transliteration":"Waalqat ma feeha watakhallat","translation":"","notes":""},{"id":5,"ref":"84:5","arabic":"وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ","transliteration":"Waathinat lirabbiha wahuqqat","translation":"","notes":""},{"id":6,"ref":"84:6","arabic":"يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحٗا فَمُلَٰقِيهِ","transliteration":"Ya ayyuha alinsanu innaka kadihun ila rabbika kadhan famulaqeehi","translation":"","notes":""},{"id":7,"ref":"84:7","arabic":"فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ","transliteration":"Faama man ootiya kitabahu biyameenihi","translation":"","notes":""},{"id":8,"ref":"84:8","arabic":"فَسَوۡفَ يُحَاسَبُ حِسَابٗا يَسِيرٗا","transliteration":"Fasawfa yuhasabu hisaban yaseeran","translation":"","notes":""},{"id":9,"ref":"84:9","arabic":"وَيَنقَلِبُ إِلَىٰٓ أَهۡلِهِۦ مَسۡرُورٗا","transliteration":"Wayanqalibu ila ahlihi masrooran","translation":"","notes":""},{"id":10,"ref":"84:10","arabic":"وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ وَرَآءَ ظَهۡرِهِۦ","transliteration":"Waamma man ootiya kitabahu waraa thahrihi","translation":"","notes":""},{"id":11,"ref":"84:11","arabic":"فَسَوۡفَ يَدۡعُواْ ثُبُورٗا","transliteration":"Fasawfa yadAAoo thubooran","translation":"","notes":""},{"id":12,"ref":"84:12","arabic":"وَيَصۡلَىٰ سَعِيرًا","transliteration":"Wayasla saAAeeran","translation":"","notes":""},{"id":13,"ref":"84:13","arabic":"إِنَّهُۥ كَانَ فِيٓ أَهۡلِهِۦ مَسۡرُورًا","transliteration":"Innahu kana fee ahlihi masrooran","translation":"","notes":""},{"id":14,"ref":"84:14","arabic":"إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ","transliteration":"Innahu thanna an lan yahoora","translation":"","notes":""},{"id":15,"ref":"84:15","arabic":"بَلَىٰٓۚ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرٗا","transliteration":"Bala inna rabbahu kana bihi baseeran","translation":"","notes":""},{"id":16,"ref":"84:16","arabic":"فَلَآ أُقۡسِمُ بِٱلشَّفَقِ","transliteration":"Fala oqsimu bialshshafaqi","translation":"","notes":""},{"id":17,"ref":"84:17","arabic":"وَٱلَّيۡلِ وَمَا وَسَقَ","transliteration":"Waallayli wama wasaqa","translation":"","notes":""},{"id":18,"ref":"84:18","arabic":"وَٱلۡقَمَرِ إِذَا ٱتَّسَقَ","transliteration":"Waalqamari itha ittasaqa","translation":"","notes":""},{"id":19,"ref":"84:19","arabic":"لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقٖ","transliteration":"Latarkabunna tabaqan AAan tabaqin","translation":"","notes":""},{"id":20,"ref":"84:20","arabic":"فَمَا لَهُمۡ لَا يُؤۡمِنُونَ","transliteration":"Fama lahum la yuminoona","translation":"","notes":""},{"id":21,"ref":"84:21","arabic":"وَإِذَا قُرِئَ عَلَيۡهِمُ ٱلۡقُرۡءَانُ لَا يَسۡجُدُونَۤ۩","transliteration":"Waitha quria AAalayhimu alquranu la yasjudoona","translation":"","notes":""},{"id":22,"ref":"84:22","arabic":"بَلِ ٱلَّذِينَ كَفَرُواْ يُكَذِّبُونَ","transliteration":"Bali allatheena kafaroo yukaththiboona","translation":"","notes":""},{"id":23,"ref":"84:23","arabic":"وَٱللَّهُ أَعۡلَمُ بِمَا يُوعُونَ","transliteration":"WaAllahu aAAlamu bima yooAAoona","translation":"","notes":""},{"id":24,"ref":"84:24","arabic":"فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ","transliteration":"Fabashshirhum biAAathabin aleemin","translation":"","notes":""},{"id":25,"ref":"84:25","arabic":"إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونِۭ","transliteration":"Illa allatheena amanoo waAAamiloo alssalihati lahum ajrun ghayru mamnoonin","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "84:1",
+    "arabic": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ",
+    "transliteration": "Itha alssamao inshaqqat",
+    "translation": "When the sky splits asunder,",
+    "notes": "",
+    "urdu": "جب آسمان پھٹ جائے گا"
+  },
+  {
+    "id": 2,
+    "ref": "84:2",
+    "arabic": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ",
+    "transliteration": "Waathinat lirabbiha wahuqqat",
+    "translation": "And responds to its Lord, and it is bound [to respond.]",
+    "notes": "",
+    "urdu": "اور اپنے پروردگار کا فرمان بجا لائے گا اور اسے واجب بھی یہ ہی ہے"
+  },
+  {
+    "id": 3,
+    "ref": "84:3",
+    "arabic": "وَإِذَا ٱلۡأَرۡضُ مُدَّتۡ",
+    "transliteration": "Waitha alardu muddat",
+    "translation": "And when the earth is levelled,",
+    "notes": "",
+    "urdu": "اور جب زمین ہموار کر دی جائے گی"
+  },
+  {
+    "id": 4,
+    "ref": "84:4",
+    "arabic": "وَأَلۡقَتۡ مَا فِيهَا وَتَخَلَّتۡ",
+    "transliteration": "Waalqat ma feeha watakhallat",
+    "translation": "And it throws out its contents, and becomes void,",
+    "notes": "",
+    "urdu": "جو کچھ اس میں ہے اسے نکال کر باہر ڈال دے گی اور (بالکل) خالی ہو جائے گی"
+  },
+  {
+    "id": 5,
+    "ref": "84:5",
+    "arabic": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ",
+    "transliteration": "Waathinat lirabbiha wahuqqat",
+    "translation": "And responds to its Lord, and it is bound [to respond.]",
+    "notes": "",
+    "urdu": "اور اپنے پروردگار کے ارشاد کی تعمیل کرے گی اور اس کو لازم بھی یہی ہے (تو قیامت قائم ہو جائے گی)"
+  },
+  {
+    "id": 6,
+    "ref": "84:6",
+    "arabic": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحٗا فَمُلَٰقِيهِ",
+    "transliteration": "Ya ayyuha alinsanu innaka kadihun ila rabbika kadhan famulaqeehi",
+    "translation": "O human! You do indeed have to put in hard labour to go to your Lord, and then you meet Him.",
+    "notes": "",
+    "urdu": "اے انسان! تو اپنے پروردگار کی طرف (پہنچنے میں) خوب کوشِش کرتا ہے سو اس سے جا ملے گا"
+  },
+  {
+    "id": 7,
+    "ref": "84:7",
+    "arabic": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ",
+    "transliteration": "Faama man ootiya kitabahu biyameenihi",
+    "translation": "And as for him whose book of deeds is placed in his right hand,",
+    "notes": "",
+    "urdu": "تو جس کا نامہٴ (اعمال) اس کے داہنے ہاتھ میں دیا جائے گا"
+  },
+  {
+    "id": 8,
+    "ref": "84:8",
+    "arabic": "فَسَوۡفَ يُحَاسَبُ حِسَابٗا يَسِيرٗا",
+    "transliteration": "Fasawfa yuhasabu hisaban yaseeran",
+    "translation": "He will then face his accounting with ease,",
+    "notes": "",
+    "urdu": "اس سے حساب آسان لیا جائے گا"
+  },
+  {
+    "id": 9,
+    "ref": "84:9",
+    "arabic": "وَيَنقَلِبُ إِلَىٰٓ أَهۡلِهِۦ مَسۡرُورٗا",
+    "transliteration": "Wayanqalibu ila ahlihi masrooran",
+    "translation": "And he will turn to his own people in joy.",
+    "notes": "",
+    "urdu": "اور وہ اپنے گھر والوں میں خوش خوش آئے گا"
+  },
+  {
+    "id": 10,
+    "ref": "84:10",
+    "arabic": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ وَرَآءَ ظَهۡرِهِۦ",
+    "transliteration": "Waamma man ootiya kitabahu waraa thahrihi",
+    "translation": "And as for him whose book of deeds is given to him behind his back,",
+    "notes": "",
+    "urdu": "اور جس کا نامہٴ (اعمال) اس کی پیٹھ کے پیچھے سے دیا جائے گا"
+  },
+  {
+    "id": 11,
+    "ref": "84:11",
+    "arabic": "فَسَوۡفَ يَدۡعُواْ ثُبُورٗا",
+    "transliteration": "Fasawfa yadAAoo thubooran",
+    "translation": "He will pray for [his own death and] destruction.",
+    "notes": "",
+    "urdu": "وہ موت کو پکارے گا"
+  },
+  {
+    "id": 12,
+    "ref": "84:12",
+    "arabic": "وَيَصۡلَىٰ سَعِيرًا",
+    "transliteration": "Wayasla saAAeeran",
+    "translation": "And he will burn in blazing Fire.",
+    "notes": "",
+    "urdu": "اور وہ دوزخ میں داخل ہو گا"
+  },
+  {
+    "id": 13,
+    "ref": "84:13",
+    "arabic": "إِنَّهُۥ كَانَ فِيٓ أَهۡلِهِۦ مَسۡرُورًا",
+    "transliteration": "Innahu kana fee ahlihi masrooran",
+    "translation": "He had indeed been living happily engrossed [on earth] among people of his own kind.",
+    "notes": "",
+    "urdu": "یہ اپنے اہل (و عیال) میں مست رہتا تھا"
+  },
+  {
+    "id": 14,
+    "ref": "84:14",
+    "arabic": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+    "transliteration": "Innahu thanna an lan yahoora",
+    "translation": "He had indeed thought he would never return [to life].",
+    "notes": "",
+    "urdu": "اور خیال کرتا تھا کہ (خدا کی طرف) پھر کر نہ جائے گا"
+  },
+  {
+    "id": 15,
+    "ref": "84:15",
+    "arabic": "بَلَىٰٓۚ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرٗا",
+    "transliteration": "Bala inna rabbahu kana bihi baseeran",
+    "translation": "Yes indeed! His Lord had kept a watch over him.",
+    "notes": "",
+    "urdu": "ہاں ہاں۔ اس کا پروردگار اس کو دیکھ رہا تھا"
+  },
+  {
+    "id": 16,
+    "ref": "84:16",
+    "arabic": "فَلَآ أُقۡسِمُ بِٱلشَّفَقِ",
+    "transliteration": "Fala oqsimu bialshshafaqi",
+    "translation": "But no! [He shall not continue to remain dead.] I swear by the afterglow of sunset,",
+    "notes": "",
+    "urdu": "ہمیں شام کی سرخی کی قسم"
+  },
+  {
+    "id": 17,
+    "ref": "84:17",
+    "arabic": "وَٱلَّيۡلِ وَمَا وَسَقَ",
+    "transliteration": "Waallayli wama wasaqa",
+    "translation": "And by the night, and what it veils in its darkness,",
+    "notes": "",
+    "urdu": "اور رات کی اور جن چیزوں کو وہ اکٹھا کر لیتی ہے ان کی"
+  },
+  {
+    "id": 18,
+    "ref": "84:18",
+    "arabic": "وَٱلۡقَمَرِ إِذَا ٱتَّسَقَ",
+    "transliteration": "Waalqamari itha ittasaqa",
+    "translation": "And by the moon, at its full,",
+    "notes": "",
+    "urdu": "اور چاند کی جب کامل ہو جائے"
+  },
+  {
+    "id": 19,
+    "ref": "84:19",
+    "arabic": "لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقٖ",
+    "transliteration": "Latarkabunna tabaqan AAan tabaqin",
+    "translation": "You [humans] do move from stage to stage.",
+    "notes": "Mankind is aware of the many stages through which man passes from his conception in a womb to his grave. Then why does he not believe in the divine intimation to him of his further stages of barzakh (state of complete unconsciousness from death till his resurrection in the Hereafter) and further life in the Hereafter? This very question is posed to him in the next two Verses. The divine intimation is given to him through the Qur’aan, which he ought to believe in and prostrate (submit himself) to. But one may ask why. The answer is: there is no other source which gives us the information as to what happens after death. Our knowledge of science just tells us that we cease to exist. Science also does not tell us as to what it is that triggers life in the 3-week-old fertilized ovum in mother’s womb. Science is thus helpless in giving us this vital info. So, we have no alternative but to go to the divine source. And the divine info provides answers to several unresolved questions arising in the human mind. Why do innumerable cases of injustices apparently remain unpunished in this world? And why acts of good deeds remain unrewarded? Why do innocents suffer and why do wrong-doers apparently enjoy good life on this earth? Science has no answers to such questions; the Qur’aan has!",
+    "urdu": "کہ تم درجہ بدرجہ (رتبہٴ اعلیٰ پر) چڑھو گے"
+  },
+  {
+    "id": 20,
+    "ref": "84:20",
+    "arabic": "فَمَا لَهُمۡ لَا يُؤۡمِنُونَ",
+    "transliteration": "Fama lahum la yuminoona",
+    "translation": "Then how come they believe not [in a life to come]",
+    "notes": "",
+    "urdu": "تو ان لوگوں کو کیا ہوا ہے کہ ایمان نہیں لاتے"
+  },
+  {
+    "id": 21,
+    "ref": "84:21",
+    "arabic": "وَإِذَا قُرِئَ عَلَيۡهِمُ ٱلۡقُرۡءَانُ لَا يَسۡجُدُونَۤ۩",
+    "transliteration": "Waitha quria AAalayhimu alquranu la yasjudoona",
+    "translation": "And when the Qur’aan is read out to them, they prostrate not!?",
+    "notes": "",
+    "urdu": "اور جب ان کے سامنے قرآن پڑھا جاتا ہے تو سجدہ نہیں کرتے"
+  },
+  {
+    "id": 22,
+    "ref": "84:22",
+    "arabic": "بَلِ ٱلَّذِينَ كَفَرُواْ يُكَذِّبُونَ",
+    "transliteration": "Bali allatheena kafaroo yukaththiboona",
+    "translation": "On the contrary, they who suppress the truth dny it [this divine writ]!",
+    "notes": "",
+    "urdu": "بلکہ کافر جھٹلاتے ہیں"
+  },
+  {
+    "id": 23,
+    "ref": "84:23",
+    "arabic": "وَٱللَّهُ أَعۡلَمُ بِمَا يُوعُونَ",
+    "transliteration": "WaAllahu aAAlamu bima yooAAoona",
+    "translation": "And Allah knows what they keep to themselves.",
+    "notes": "",
+    "urdu": "اور خدا ان باتوں کو جو یہ اپنے دلوں میں چھپاتے ہیں خوب جانتا ہے"
+  },
+  {
+    "id": 24,
+    "ref": "84:24",
+    "arabic": "فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ",
+    "transliteration": "Fabashshirhum biAAathabin aleemin",
+    "translation": "So give them the prospect of grievous suffering [in the life to come],",
+    "notes": "",
+    "urdu": "تو ان کو دکھ دینے والے عذاب کی خبر سنا دو"
+  },
+  {
+    "id": 25,
+    "ref": "84:25",
+    "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونِۭ",
+    "transliteration": "Illa allatheena amanoo waAAamiloo alssalihati lahum ajrun ghayru mamnoonin",
+    "translation": "But not to those who believe and do good deeds. For them is there a reward unending!",
+    "notes": "",
+    "urdu": "ہاں جو لوگ ایمان لائے اور نیک عمل کرتے رہے ان کے لیے بےانتہا اجر ہے"
+  }
+]

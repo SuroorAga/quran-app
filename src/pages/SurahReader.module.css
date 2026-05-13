@@ -780,3 +780,30 @@
   justify-content: center;
   opacity: 0.92;
 }
+
+/* Language toggle */
+.langToggle {
+  display: flex; gap: 3px;
+}
+.langBtn {
+  padding: 4px 10px; font-size: 11px; font-weight: 600;
+  border: 1px solid var(--border); border-radius: 6px;
+  background: transparent; color: var(--text-muted);
+  transition: all 0.15s; font-family: Georgia, serif;
+}
+.langBtnActive {
+  background: var(--gold-light); color: var(--gold-dark);
+  border-color: var(--gold-border);
+}
+
+/* Urdu translation */
+.urduTranslation {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Noto Nastaliq Urdu', 'Amiri', serif;
+  color: var(--text);
+  line-height: 2.2;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px dashed var(--border);
+}

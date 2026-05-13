@@ -1,1 +1,191 @@
-[{"id":1,"ref":"92:1","arabic":"وَٱلَّيۡلِ إِذَا يَغۡشَىٰ","transliteration":"Waallayli itha yaghsha","translation":"","notes":""},{"id":2,"ref":"92:2","arabic":"وَٱلنَّهَارِ إِذَا تَجَلَّىٰ","transliteration":"Waalnnahari itha tajalla","translation":"","notes":""},{"id":3,"ref":"92:3","arabic":"وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ","transliteration":"Wama khalaqa alththakara waalontha","translation":"","notes":""},{"id":4,"ref":"92:4","arabic":"إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ","transliteration":"Inna saAAyakum lashatta","translation":"","notes":""},{"id":5,"ref":"92:5","arabic":"فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ","transliteration":"Faamma man aAAta waittaqa","translation":"","notes":""},{"id":6,"ref":"92:6","arabic":"وَصَدَّقَ بِٱلۡحُسۡنَىٰ","transliteration":"Wasaddaqa bialhusna","translation":"","notes":""},{"id":7,"ref":"92:7","arabic":"فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ","transliteration":"Fasanuyassiruhu lilyusra","translation":"","notes":""},{"id":8,"ref":"92:8","arabic":"وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ","transliteration":"Waamma man bakhila waistaghna","translation":"","notes":""},{"id":9,"ref":"92:9","arabic":"وَكَذَّبَ بِٱلۡحُسۡنَىٰ","transliteration":"Wakaththaba bialhusna","translation":"","notes":""},{"id":10,"ref":"92:10","arabic":"فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ","transliteration":"Fasanuyassiruhu lilAAusra","translation":"","notes":""},{"id":11,"ref":"92:11","arabic":"وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ","transliteration":"Wama yughnee AAanhu maluhu itha taradda","translation":"","notes":""},{"id":12,"ref":"92:12","arabic":"إِنَّ عَلَيۡنَا لَلۡهُدَىٰ","transliteration":"Inna AAalayna lalhuda","translation":"","notes":""},{"id":13,"ref":"92:13","arabic":"وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ","transliteration":"Wainna lana lalakhirata waaloola","translation":"","notes":""},{"id":14,"ref":"92:14","arabic":"فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ","transliteration":"Faanthartukum naran talaththa","translation":"","notes":""},{"id":15,"ref":"92:15","arabic":"لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى","transliteration":"La yaslaha illa alashqa","translation":"","notes":""},{"id":16,"ref":"92:16","arabic":"ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ","transliteration":"Allathee kaththaba watawalla","translation":"","notes":""},{"id":17,"ref":"92:17","arabic":"وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى","transliteration":"Wasayujannabuha alatqa","translation":"","notes":""},{"id":18,"ref":"92:18","arabic":"ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ","transliteration":"Allathee yutee malahu yatazakka","translation":"","notes":""},{"id":19,"ref":"92:19","arabic":"وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ","transliteration":"Wama liahadin AAindahu min niAAmatin tujza","translation":"","notes":""},{"id":20,"ref":"92:20","arabic":"إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ","transliteration":"Illa ibtighaa wajhi rabbihi alaAAla","translation":"","notes":""},{"id":21,"ref":"92:21","arabic":"وَلَسَوۡفَ يَرۡضَىٰ","transliteration":"Walasawfa yarda","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "92:1",
+    "arabic": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰ",
+    "transliteration": "Waallayli itha yaghsha",
+    "translation": "By the night as it veils,",
+    "notes": "",
+    "urdu": "رات کی قسم جب (دن کو) چھپالے"
+  },
+  {
+    "id": 2,
+    "ref": "92:2",
+    "arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+    "transliteration": "Waalnnahari itha tajalla",
+    "translation": "And by the day as it unveils!",
+    "notes": "",
+    "urdu": "اور دن کی قسم جب چمک اٹھے"
+  },
+  {
+    "id": 3,
+    "ref": "92:3",
+    "arabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+    "transliteration": "Wama khalaqa alththakara waalontha",
+    "translation": "And by the Power that created the male and the female!",
+    "notes": "The deep wisdom inherent in, and the necessity behind, the creation of the male and the female do not but point to that Power being superhuman, absolute and extremely intelligent. The Darwinian theory that this happens without any intelligent power consciously designing it is just nonsense! That theory is nothing but a mortal man’s sheer conjecture, aided and abetted by the Satan, in search of something to negate the overwhelming evidence in the Universe in favour of a Super- intelligent Being consciously creating everything out of nothing.",
+    "urdu": "اور اس (ذات) کی قسم جس نے نر اور مادہ پیدا کیے"
+  },
+  {
+    "id": 4,
+    "ref": "92:4",
+    "arabic": "إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ",
+    "transliteration": "Inna saAAyakum lashatta",
+    "translation": "Indeed, your [mankind’s] work is in divergent fields of activity!",
+    "notes": "",
+    "urdu": "کہ تم لوگوں کی کوششں طرح طرح کی ہے"
+  },
+  {
+    "id": 5,
+    "ref": "92:5",
+    "arabic": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ",
+    "transliteration": "Faamma man aAAta waittaqa",
+    "translation": "And, he who gave [things in Allah’s Path] and feared Him,",
+    "notes": "",
+    "urdu": "تو جس نے (خدا کے رستے میں مال) دیا اور پرہیز گاری کی"
+  },
+  {
+    "id": 6,
+    "ref": "92:6",
+    "arabic": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ",
+    "transliteration": "Wasaddaqa bialhusna",
+    "translation": "And stood firmly by what was good and right,",
+    "notes": "",
+    "urdu": "اور نیک بات کو سچ جانا"
+  },
+  {
+    "id": 7,
+    "ref": "92:7",
+    "arabic": "فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ",
+    "transliteration": "Fasanuyassiruhu lilyusra",
+    "translation": "For him shall We make things easy!",
+    "notes": "",
+    "urdu": "اس کو ہم آسان طریقے کی توفیق دیں گے"
+  },
+  {
+    "id": 8,
+    "ref": "92:8",
+    "arabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ",
+    "transliteration": "Waamma man bakhila waistaghna",
+    "translation": "And he who was miserly [in giving things in Allah’s Path], and considered that he needed no divine help,",
+    "notes": "",
+    "urdu": "اور جس نے بخل کیا اور بےپروا بنا رہا"
+  },
+  {
+    "id": 9,
+    "ref": "92:9",
+    "arabic": "وَكَذَّبَ بِٱلۡحُسۡنَىٰ",
+    "transliteration": "Wakaththaba bialhusna",
+    "translation": "And belied what was good and right,",
+    "notes": "",
+    "urdu": "اور نیک بات کو جھوٹ سمجھا"
+  },
+  {
+    "id": 10,
+    "ref": "92:10",
+    "arabic": "فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ",
+    "transliteration": "Fasanuyassiruhu lilAAusra",
+    "translation": "For him shall We make things difficult!",
+    "notes": "",
+    "urdu": "اسے سختی میں پہنچائیں گے"
+  },
+  {
+    "id": 11,
+    "ref": "92:11",
+    "arabic": "وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+    "transliteration": "Wama yughnee AAanhu maluhu itha taradda",
+    "translation": "And his wealth shall avail him not when he drops dead.",
+    "notes": "",
+    "urdu": "اور جب وہ (دوزخ کے گڑھے میں) گرے گا تو اس کا مال اس کے کچھ کام نہ آئے گا"
+  },
+  {
+    "id": 12,
+    "ref": "92:12",
+    "arabic": "إِنَّ عَلَيۡنَا لَلۡهُدَىٰ",
+    "transliteration": "Inna AAalayna lalhuda",
+    "translation": "It is certainly indeed for Us to give the guidance;",
+    "notes": "",
+    "urdu": "ہمیں تو راہ دکھا دینا ہے"
+  },
+  {
+    "id": 13,
+    "ref": "92:13",
+    "arabic": "وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ",
+    "transliteration": "Wainna lana lalakhirata waaloola",
+    "translation": "And, certainly indeed, the Dominion over both the Hereafter and the present world is Ours.",
+    "notes": "",
+    "urdu": "اور آخرت او ردنیا ہماری ہی چیزیں ہیں"
+  },
+  {
+    "id": 14,
+    "ref": "92:14",
+    "arabic": "فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ",
+    "transliteration": "Faanthartukum naran talaththa",
+    "translation": "I then warn you of the flaming Fire",
+    "notes": "",
+    "urdu": "سو میں نے تم کو بھڑکتی آگ سے متنبہ کر دیا"
+  },
+  {
+    "id": 15,
+    "ref": "92:15",
+    "arabic": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى",
+    "transliteration": "La yaslaha illa alashqa",
+    "translation": "None shall burn in it [the Fire] but the wicked person.",
+    "notes": "",
+    "urdu": "اس میں وہی داخل ہو گا جو بڑا بدبخت ہے"
+  },
+  {
+    "id": 16,
+    "ref": "92:16",
+    "arabic": "ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ",
+    "transliteration": "Allathee kaththaba watawalla",
+    "translation": "He who belies the Truth and turns away [from it].",
+    "notes": "",
+    "urdu": "جس نے جھٹلایا اور منہ پھیرا"
+  },
+  {
+    "id": 17,
+    "ref": "92:17",
+    "arabic": "وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى",
+    "transliteration": "Wasayujannabuha alatqa",
+    "translation": "And, he will be distanced from it [Fire] who fears Allah,",
+    "notes": "",
+    "urdu": "اور جو بڑا پرہیزگار ہے وہ (اس سے) بچا لیا جائے گا"
+  },
+  {
+    "id": 18,
+    "ref": "92:18",
+    "arabic": "ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ",
+    "transliteration": "Allathee yutee malahu yatazakka",
+    "translation": "He who spends his wealth [on others] to keep himself pure.",
+    "notes": "",
+    "urdu": "جو مال دیتا ہے تاکہ پاک ہو"
+  },
+  {
+    "id": 19,
+    "ref": "92:19",
+    "arabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ",
+    "transliteration": "Wama liahadin AAindahu min niAAmatin tujza",
+    "translation": "– And he has none with him to be recompensed of favours received –",
+    "notes": "",
+    "urdu": "اور (اس لیے) نہیں (دیتا کہ) اس پر کسی کا احسان (ہے) جس کا وہ بدلہ اتارتا ہے"
+  },
+  {
+    "id": 20,
+    "ref": "92:20",
+    "arabic": "إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ",
+    "transliteration": "Illa ibtighaa wajhi rabbihi alaAAla",
+    "translation": "And he spends for nothing but to seek the pleasure of his Lord, the High:",
+    "notes": "",
+    "urdu": "بلکہ اپنے خداوند اعلیٰ کی رضامندی حاصل کرنے کے لیے دیتا ہے"
+  },
+  {
+    "id": 21,
+    "ref": "92:21",
+    "arabic": "وَلَسَوۡفَ يَرۡضَىٰ",
+    "transliteration": "Walasawfa yarda",
+    "translation": "And such persons, certainly, shall in time be well-pleased.",
+    "notes": "",
+    "urdu": "اور وہ عنقریب خوش ہو جائے گا"
+  }
+]

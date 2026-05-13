@@ -5,7 +5,8 @@
     "arabic": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ",
     "transliteration": "Waylun likulli humazatin lumazatin",
     "translation": "Woe to everyone who taunts, slanders, or backbites others,",
-    "notes": "That is the most common sin people commit."
+    "notes": "That is the most common sin people commit.",
+    "urdu": "ہر طعن آمیز اشارتیں کرنے والے چغل خور کی خرابی ہے"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ",
     "transliteration": "Allathee jamaAAa malan waAAaddadahu",
     "translation": "Who hoards wealth and keeps on counting it [avariciously].",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو مال جمع کرتا اور اس کو گن گن کر رکھتا ہے"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
     "transliteration": "Yahsabu anna malahu akhladahu",
     "translation": "Thinking his wealth will last forever for him.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اور) خیال کرتا ہے کہ اس کا مال اس کی ہمیشہ کی زندگی کا موجب ہو گا"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
     "transliteration": "Kalla layunbathanna fee alhutamati",
     "translation": "Nay! He will surely be thrown into the Crushing Disaster.",
-    "notes": ""
+    "notes": "",
+    "urdu": "ہر گز نہیں وہ ضرور حطمہ میں ڈالا جائے گا"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
     "transliteration": "Wama adraka ma alhutamatu",
     "translation": "And what do you know what the Crushing Disaster is?",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور تم کیا سمجھے حطمہ کیا ہے؟"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
     "transliteration": "Naru Allahi almooqadatu",
     "translation": "It is the Fire kindled by Allah,",
-    "notes": ""
+    "notes": "",
+    "urdu": "وہ خدا کی بھڑکائی ہوئی آگ ہے"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
     "transliteration": "Allatee tattaliAAu AAala alafidati",
     "translation": "That which would ride over human minds.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو دلوں پر جا لپٹے گی"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ",
     "transliteration": "lnnaha AAalayhim musadatun",
     "translation": "It would be closing in on them from everyside,",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اور) وہ اس میں بند کر دیئے جائیں گے"
   },
   {
     "id": 9,
@@ -69,6 +77,7 @@
     "arabic": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
     "transliteration": "Fee AAamadin mumaddadatin",
     "translation": "In extended columns.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یعنی آگ کے) لمبے لمبے ستونوں میں"
   }
 ]

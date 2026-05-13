@@ -1,1 +1,794 @@
-[{"id":1,"ref":"38:1","arabic":"صٓۚ وَٱلۡقُرۡءَانِ ذِي ٱلذِّكۡرِ","transliteration":"Sad waalqurani thee alththikri","translation":"","notes":""},{"id":2,"ref":"38:2","arabic":"بَلِ ٱلَّذِينَ كَفَرُواْ فِي عِزَّةٖ وَشِقَاقٖ","transliteration":"Bali allatheena kafaroo fee AAizzatin washiqaqin","translation":"","notes":""},{"id":3,"ref":"38:3","arabic":"كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ فَنَادَواْ وَّلَاتَ حِينَ مَنَاصٖ","transliteration":"Kam ahlakna min qablihim min qarnin fanadaw walata heena manasin","translation":"","notes":""},{"id":4,"ref":"38:4","arabic":"وَعَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا سَٰحِرٞ كَذَّابٌ","transliteration":"WaAAajiboo an jaahum munthirun minhum waqala alkafiroona hatha sahirun kaththabun","translation":"","notes":""},{"id":5,"ref":"38:5","arabic":"أَجَعَلَ ٱلۡأٓلِهَةَ إِلَٰهٗا وَٰحِدًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عُجَابٞ","transliteration":"AjaAAala alalihata ilahan wahidan inna hatha lashayon AAujabun","translation":"","notes":""},{"id":6,"ref":"38:6","arabic":"وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُواْ وَٱصۡبِرُواْ عَلَىٰٓ ءَالِهَتِكُمۡۖ إِنَّ هَٰذَا لَشَيۡءٞ يُرَادُ","transliteration":"Waintalaqa almalao minhum ani imshoo waisbiroo AAala alihatikum inna hatha lashayon yuradu","translation":"","notes":""},{"id":7,"ref":"38:7","arabic":"مَا سَمِعۡنَا بِهَٰذَا فِي ٱلۡمِلَّةِ ٱلۡأٓخِرَةِ إِنۡ هَٰذَآ إِلَّا ٱخۡتِلَٰقٌ","transliteration":"Ma samiAAna bihatha fee almillati alakhirati in hatha illa ikhtilaqun","translation":"","notes":""},{"id":8,"ref":"38:8","arabic":"أَءُنزِلَ عَلَيۡهِ ٱلذِّكۡرُ مِنۢ بَيۡنِنَاۚ بَلۡ هُمۡ فِي شَكّٖ مِّن ذِكۡرِيۚ بَل لَّمَّا يَذُوقُواْ عَذَابِ","transliteration":"Aonzila AAalayhi alththikru min baynina bal hum fee shakkin min thikree bal lamma yathooqoo AAathabi","translation":"","notes":""},{"id":9,"ref":"38:9","arabic":"أَمۡ عِندَهُمۡ خَزَآئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِيزِ ٱلۡوَهَّابِ","transliteration":"Am AAindahum khazainu rahmati rabbika alAAazeezi alwahhabi","translation":"","notes":""},{"id":10,"ref":"38:10","arabic":"أَمۡ لَهُم مُّلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَاۖ فَلۡيَرۡتَقُواْ فِي ٱلۡأَسۡبَٰبِ","transliteration":"Am lahum mulku alssamawati waalardi wama baynahuma falyartaqoo fee alasbabi","translation":"","notes":""},{"id":11,"ref":"38:11","arabic":"جُندٞ مَّا هُنَالِكَ مَهۡزُومٞ مِّنَ ٱلۡأَحۡزَابِ","transliteration":"Jundun ma hunalika mahzoomun mina alahzabi","translation":"","notes":""},{"id":12,"ref":"38:12","arabic":"كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَفِرۡعَوۡنُ ذُو ٱلۡأَوۡتَادِ","transliteration":"Kaththabat qablahum qawmu noohin waAAadun wafirAAawnu thoo alawtadi","translation":"","notes":""},{"id":13,"ref":"38:13","arabic":"وَثَمُودُ وَقَوۡمُ لُوطٖ وَأَصۡحَٰبُ لۡـَٔيۡكَةِۚ أُوْلَـٰٓئِكَ ٱلۡأَحۡزَابُ","transliteration":"Wathamoodu waqawmu lootin waashabu alaykati olaika alahzabu","translation":"","notes":""},{"id":14,"ref":"38:14","arabic":"إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ","transliteration":"In kullun illa kaththaba alrrusula fahaqqa AAiqabi","translation":"","notes":""},{"id":15,"ref":"38:15","arabic":"وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ مَّا لَهَا مِن فَوَاقٖ","transliteration":"Wama yanthuru haolai illa sayhatan wahidatan ma laha min fawaqin","translation":"","notes":""},{"id":16,"ref":"38:16","arabic":"وَقَالُواْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ يَوۡمِ ٱلۡحِسَابِ","transliteration":"Waqaloo rabbana AAajjil lana qittana qabla yawmi alhisabi","translation":"","notes":""},{"id":17,"ref":"38:17","arabic":"ٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَيۡدِۖ إِنَّهُۥٓ أَوَّابٌ","transliteration":"Isbir AAala ma yaqooloona waothkur AAabdana dawooda tha alaydi innahu awwabun","translation":"","notes":""},{"id":18,"ref":"38:18","arabic":"إِنَّا سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ يُسَبِّحۡنَ بِٱلۡعَشِيِّ وَٱلۡإِشۡرَاقِ","transliteration":"Inna sakhkharna aljibala maAAahu yusabbihna bialAAashiyyi waalishraqi","translation":"","notes":""},{"id":19,"ref":"38:19","arabic":"وَٱلطَّيۡرَ مَحۡشُورَةٗۖ كُلّٞ لَّهُۥٓ أَوَّابٞ","transliteration":"Waalttayra mahshooratan kullun lahu awwabun","translation":"","notes":""},{"id":20,"ref":"38:20","arabic":"وَشَدَدۡنَا مُلۡكَهُۥ وَءَاتَيۡنَٰهُ ٱلۡحِكۡمَةَ وَفَصۡلَ ٱلۡخِطَابِ","transliteration":"Washadadna mulkahu waataynahu alhikmata wafasla alkhitabi","translation":"","notes":""},{"id":21,"ref":"38:21","arabic":"۞وَهَلۡ أَتَىٰكَ نَبَؤُاْ ٱلۡخَصۡمِ إِذۡ تَسَوَّرُواْ ٱلۡمِحۡرَابَ","transliteration":"Wahal ataka nabao alkhasmi ith tasawwaroo almihraba","translation":"","notes":""},{"id":22,"ref":"38:22","arabic":"إِذۡ دَخَلُواْ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنۡهُمۡۖ قَالُواْ لَا تَخَفۡۖ خَصۡمَانِ بَغَىٰ بَعۡضُنَا عَلَىٰ بَعۡضٖ فَٱحۡكُم بَيۡنَنَا بِٱلۡحَقِّ وَلَا تُشۡطِطۡ وَٱهۡدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ","transliteration":"Ith dakhaloo AAala dawooda fafaziAAa minhum qaloo la takhaf khasmani bagha baAAduna AAala baAAdin faohkum baynana bialhaqqi wala tushtit waihdina ila sawai alssirati","translation":"","notes":""},{"id":23,"ref":"38:23","arabic":"إِنَّ هَٰذَآ أَخِي لَهُۥ تِسۡعٞ وَتِسۡعُونَ نَعۡجَةٗ وَلِيَ نَعۡجَةٞ وَٰحِدَةٞ فَقَالَ أَكۡفِلۡنِيهَا وَعَزَّنِي فِي ٱلۡخِطَابِ","transliteration":"Inna hatha akhee lahu tisAAun watisAAoona naAAjatan waliya naAAjatun wahidatun faqala akfilneeha waAAazzanee fee alkhitabi","translation":"","notes":""},{"id":24,"ref":"38:24","arabic":"قَالَ لَقَدۡ ظَلَمَكَ بِسُؤَالِ نَعۡجَتِكَ إِلَىٰ نِعَاجِهِۦۖ وَإِنَّ كَثِيرٗا مِّنَ ٱلۡخُلَطَآءِ لَيَبۡغِي بَعۡضُهُمۡ عَلَىٰ بَعۡضٍ إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَقَلِيلٞ مَّا هُمۡۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّـٰهُ فَٱسۡتَغۡفَرَ رَبَّهُۥ وَخَرَّۤ رَاكِعٗاۤ وَأَنَابَ۩","transliteration":"Qala laqad thalamaka bisuali naAAjatika ila niAAajihi wainna katheeran mina alkhulatai layabghee baAAduhum AAala baAAdin illa allatheena amanoo waAAamiloo alssalihati waqaleelun ma hum wathanna dawoodu annama fatannahu faistaghfara rabbahu wakharra rakiAAan waanaba","translation":"","notes":""},{"id":25,"ref":"38:25","arabic":"فَغَفَرۡنَا لَهُۥ ذَٰلِكَۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابٖ","transliteration":"Faghafarna lahu thalika wainna lahu AAindana lazulfa wahusna maabin","translation":"","notes":""},{"id":26,"ref":"38:26","arabic":"يَٰدَاوُۥدُ إِنَّا جَعَلۡنَٰكَ خَلِيفَةٗ فِي ٱلۡأَرۡضِ فَٱحۡكُم بَيۡنَ ٱلنَّاسِ بِٱلۡحَقِّ وَلَا تَتَّبِعِ ٱلۡهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمۡ عَذَابٞ شَدِيدُۢ بِمَا نَسُواْ يَوۡمَ ٱلۡحِسَابِ","transliteration":"Ya dawoodu inna jaAAalnaka khaleefatan fee alardi faohkum bayna alnnasi bialhaqqi wala tattabiAAi alhawa fayudillaka AAan sabeeli Allahi inna allatheena yadilloona AAan sabeeli Allahi lahum AAathabun shadeedun bima nasoo yawma alhisabi","translation":"","notes":""},{"id":27,"ref":"38:27","arabic":"وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا بَٰطِلٗاۚ ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُواْۚ فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِنَ ٱلنَّارِ","transliteration":"Wama khalaqna alssamaa waalarda wama baynahuma batilan thalika thannu allatheena kafaroo fawaylun lillatheena kafaroo mina alnnari","translation":"","notes":""},{"id":28,"ref":"38:28","arabic":"أَمۡ نَجۡعَلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ كَٱلۡمُفۡسِدِينَ فِي ٱلۡأَرۡضِ أَمۡ نَجۡعَلُ ٱلۡمُتَّقِينَ كَٱلۡفُجَّارِ","transliteration":"Am najAAalu allatheena amanoo waAAamiloo alssalihati kaalmufsideena fee alardi am najAAalu almuttaqeena kaalfujjari","translation":"","notes":""},{"id":29,"ref":"38:29","arabic":"كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ مُبَٰرَكٞ لِّيَدَّبَّرُوٓاْ ءَايَٰتِهِۦ وَلِيَتَذَكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ","transliteration":"Kitabun anzalnahu ilayka mubarakun liyaddabbaroo ayatihi waliyatathakkara oloo alalbabi","translation":"","notes":""},{"id":30,"ref":"38:30","arabic":"وَوَهَبۡنَا لِدَاوُۥدَ سُلَيۡمَٰنَۚ نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٌ","transliteration":"Wawahabna lidawooda sulaymana niAAma alAAabdu innahu awwabun","translation":"","notes":""},{"id":31,"ref":"38:31","arabic":"إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّـٰفِنَٰتُ ٱلۡجِيَادُ","transliteration":"Ith AAurida AAalayhi bialAAashiyyi alssafinatu aljiyadu","translation":"","notes":""},{"id":32,"ref":"38:32","arabic":"فَقَالَ إِنِّيٓ أَحۡبَبۡتُ حُبَّ ٱلۡخَيۡرِ عَن ذِكۡرِ رَبِّي حَتَّىٰ تَوَارَتۡ بِٱلۡحِجَابِ","transliteration":"Faqala innee ahbabtu hubba alkhayri AAan thikri rabbee hatta tawarat bialhijabi","translation":"","notes":""},{"id":33,"ref":"38:33","arabic":"رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ","transliteration":"Ruddooha AAalayya fatafiqa mashan bialssooqi waalaAAnaqi","translation":"","notes":""},{"id":34,"ref":"38:34","arabic":"وَلَقَدۡ فَتَنَّا سُلَيۡمَٰنَ وَأَلۡقَيۡنَا عَلَىٰ كُرۡسِيِّهِۦ جَسَدٗا ثُمَّ أَنَابَ","transliteration":"Walaqad fatanna sulaymana waalqayna AAala kursiyyihi jasadan thumma anaba","translation":"","notes":""},{"id":35,"ref":"38:35","arabic":"قَالَ رَبِّ ٱغۡفِرۡ لِي وَهَبۡ لِي مُلۡكٗا لَّا يَنۢبَغِي لِأَحَدٖ مِّنۢ بَعۡدِيٓۖ إِنَّكَ أَنتَ ٱلۡوَهَّابُ","transliteration":"Qala rabbi ighfir lee wahab lee mulkan la yanbaghee liahadin min baAAdee innaka anta alwahhabu","translation":"","notes":""},{"id":36,"ref":"38:36","arabic":"فَسَخَّرۡنَا لَهُ ٱلرِّيحَ تَجۡرِي بِأَمۡرِهِۦ رُخَآءً حَيۡثُ أَصَابَ","transliteration":"Fasakhkharna lahu alrreeha tajree biamrihi rukhaan haythu asaba","translation":"","notes":""},{"id":37,"ref":"38:37","arabic":"وَٱلشَّيَٰطِينَ كُلَّ بَنَّآءٖ وَغَوَّاصٖ","transliteration":"Waalshshayateena kulla bannain waghawwasin","translation":"","notes":""},{"id":38,"ref":"38:38","arabic":"وَءَاخَرِينَ مُقَرَّنِينَ فِي ٱلۡأَصۡفَادِ","transliteration":"Waakhareena muqarraneena fee alasfadi","translation":"","notes":""},{"id":39,"ref":"38:39","arabic":"هَٰذَا عَطَآؤُنَا فَٱمۡنُنۡ أَوۡ أَمۡسِكۡ بِغَيۡرِ حِسَابٖ","transliteration":"Hatha AAataona faomnun aw amsik bighayri hisabin","translation":"","notes":""},{"id":40,"ref":"38:40","arabic":"وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابٖ","transliteration":"Wainna lahu AAindana lazulfa wahusna maabin","translation":"","notes":""},{"id":41,"ref":"38:41","arabic":"وَٱذۡكُرۡ عَبۡدَنَآ أَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلشَّيۡطَٰنُ بِنُصۡبٖ وَعَذَابٍ","transliteration":"Waothkur AAabdana ayyooba ith nada rabbahu annee massaniya alshshaytanu binusbin waAAathabin","translation":"","notes":""},{"id":42,"ref":"38:42","arabic":"ٱرۡكُضۡ بِرِجۡلِكَۖ هَٰذَا مُغۡتَسَلُۢ بَارِدٞ وَشَرَابٞ","transliteration":"Orkud birijlika hatha mughtasalun baridun washarabun","translation":"","notes":""},{"id":43,"ref":"38:43","arabic":"وَوَهَبۡنَا لَهُۥٓ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنَّا وَذِكۡرَىٰ لِأُوْلِي ٱلۡأَلۡبَٰبِ","transliteration":"Wawahabna lahu ahlahu wamithlahum maAAahum rahmatan minna wathikra liolee alalbabi","translation":"","notes":""},{"id":44,"ref":"38:44","arabic":"وَخُذۡ بِيَدِكَ ضِغۡثٗا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَٰهُ صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ","transliteration":"Wakhuth biyadika dighthan faidrib bihi wala tahnath inna wajadnahu sabiran niAAma alAAabdu innahu awwabun","translation":"","notes":""},{"id":45,"ref":"38:45","arabic":"وَٱذۡكُرۡ عِبَٰدَنَآ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَ أُوْلِي ٱلۡأَيۡدِي وَٱلۡأَبۡصَٰرِ","transliteration":"Waothkur AAibadana ibraheema waishaqa wayaAAqooba olee alaydee waalabsari","translation":"","notes":""},{"id":46,"ref":"38:46","arabic":"إِنَّآ أَخۡلَصۡنَٰهُم بِخَالِصَةٖ ذِكۡرَى ٱلدَّارِ","transliteration":"Inna akhlasnahum bikhalisatin thikra alddari","translation":"","notes":""},{"id":47,"ref":"38:47","arabic":"وَإِنَّهُمۡ عِندَنَا لَمِنَ ٱلۡمُصۡطَفَيۡنَ ٱلۡأَخۡيَارِ","transliteration":"Wainnahum AAindana lamina almustafayna alakhyari","translation":"","notes":""},{"id":48,"ref":"38:48","arabic":"وَٱذۡكُرۡ إِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَذَا ٱلۡكِفۡلِۖ وَكُلّٞ مِّنَ ٱلۡأَخۡيَارِ","transliteration":"Waothkur ismaAAeela wailyasaAAa watha alkifli wakullun mina alakhyari","translation":"","notes":""},{"id":49,"ref":"38:49","arabic":"هَٰذَا ذِكۡرٞۚ وَإِنَّ لِلۡمُتَّقِينَ لَحُسۡنَ مَـَٔابٖ","transliteration":"Hatha thikrun wainna lilmuttaqeena lahusna maabin","translation":"","notes":""},{"id":50,"ref":"38:50","arabic":"جَنَّـٰتِ عَدۡنٖ مُّفَتَّحَةٗ لَّهُمُ ٱلۡأَبۡوَٰبُ","transliteration":"Jannati AAadnin mufattahatan lahumu alabwabu","translation":"","notes":""},{"id":51,"ref":"38:51","arabic":"مُتَّكِـِٔينَ فِيهَا يَدۡعُونَ فِيهَا بِفَٰكِهَةٖ كَثِيرَةٖ وَشَرَابٖ","transliteration":"Muttakieena feeha yadAAoona feeha bifakihatin katheeratin washarabin","translation":"","notes":""},{"id":52,"ref":"38:52","arabic":"۞وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ أَتۡرَابٌ","transliteration":"WaAAindahum qasiratu alttarfi atrabun","translation":"","notes":""},{"id":53,"ref":"38:53","arabic":"هَٰذَا مَا تُوعَدُونَ لِيَوۡمِ ٱلۡحِسَابِ","transliteration":"Hatha ma tooAAadoona liyawmi alhisabi","translation":"","notes":""},{"id":54,"ref":"38:54","arabic":"إِنَّ هَٰذَا لَرِزۡقُنَا مَا لَهُۥ مِن نَّفَادٍ","transliteration":"Inna hatha larizquna ma lahu min nafadin","translation":"","notes":""},{"id":55,"ref":"38:55","arabic":"هَٰذَاۚ وَإِنَّ لِلطَّـٰغِينَ لَشَرَّ مَـَٔابٖ","transliteration":"Hatha wainna lilttagheena lasharra maabin","translation":"","notes":""},{"id":56,"ref":"38:56","arabic":"جَهَنَّمَ يَصۡلَوۡنَهَا فَبِئۡسَ ٱلۡمِهَادُ","transliteration":"Jahannama yaslawnaha fabisa almihadu","translation":"","notes":""},{"id":57,"ref":"38:57","arabic":"هَٰذَا فَلۡيَذُوقُوهُ حَمِيمٞ وَغَسَّاقٞ","transliteration":"Hatha falyathooqoohu hameemun waghassaqun","translation":"","notes":""},{"id":58,"ref":"38:58","arabic":"وَءَاخَرُ مِن شَكۡلِهِۦٓ أَزۡوَٰجٌ","transliteration":"Waakharu min shaklihi azwajun","translation":"","notes":""},{"id":59,"ref":"38:59","arabic":"هَٰذَا فَوۡجٞ مُّقۡتَحِمٞ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُواْ ٱلنَّارِ","transliteration":"Hatha fawjun muqtahimun maAAakum la marhaban bihim innahum saloo alnnari","translation":"","notes":""},{"id":60,"ref":"38:60","arabic":"قَالُواْ بَلۡ أَنتُمۡ لَا مَرۡحَبَۢا بِكُمۡۖ أَنتُمۡ قَدَّمۡتُمُوهُ لَنَاۖ فَبِئۡسَ ٱلۡقَرَارُ","transliteration":"Qaloo bal antum la marhaban bikum antum qaddamtumoohu lana fabisa alqararu","translation":"","notes":""},{"id":61,"ref":"38:61","arabic":"قَالُواْ رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدۡهُ عَذَابٗا ضِعۡفٗا فِي ٱلنَّارِ","transliteration":"Qaloo rabbana man qaddama lana hatha fazidhu AAathaban diAAfan fee alnnari","translation":"","notes":""},{"id":62,"ref":"38:62","arabic":"وَقَالُواْ مَا لَنَا لَا نَرَىٰ رِجَالٗا كُنَّا نَعُدُّهُم مِّنَ ٱلۡأَشۡرَارِ","transliteration":"Waqaloo ma lana la nara rijalan kunna naAAudduhum mina alashrari","translation":"","notes":""},{"id":63,"ref":"38:63","arabic":"أَتَّخَذۡنَٰهُمۡ سِخۡرِيًّا أَمۡ زَاغَتۡ عَنۡهُمُ ٱلۡأَبۡصَٰرُ","transliteration":"Attakhathnahum sikhriyyan am zaghat AAanhumu alabsaru","translation":"","notes":""},{"id":64,"ref":"38:64","arabic":"إِنَّ ذَٰلِكَ لَحَقّٞ تَخَاصُمُ أَهۡلِ ٱلنَّارِ","transliteration":"Inna thalika lahaqqun takhasumu ahli alnnari","translation":"","notes":""},{"id":65,"ref":"38:65","arabic":"قُلۡ إِنَّمَآ أَنَا۠ مُنذِرٞۖ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ","transliteration":"Qul innama ana munthirun wama min ilahin illa Allahu alwahidu alqahharu","translation":"","notes":""},{"id":66,"ref":"38:66","arabic":"رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلۡعَزِيزُ ٱلۡغَفَّـٰرُ","transliteration":"Rabbu alssamawati waalardi wama baynahuma alAAazeezu alghaffaru","translation":"","notes":""},{"id":67,"ref":"38:67","arabic":"قُلۡ هُوَ نَبَؤٌاْ عَظِيمٌ","transliteration":"Qul huwa nabaon AAatheemun","translation":"","notes":""},{"id":68,"ref":"38:68","arabic":"أَنتُمۡ عَنۡهُ مُعۡرِضُونَ","transliteration":"Antum AAanhu muAAridoona","translation":"","notes":""},{"id":69,"ref":"38:69","arabic":"مَا كَانَ لِيَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰٓ إِذۡ يَخۡتَصِمُونَ","transliteration":"Ma kana liya min AAilmin bialmalai alaAAla ith yakhtasimoona","translation":"","notes":""},{"id":70,"ref":"38:70","arabic":"إِن يُوحَىٰٓ إِلَيَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٌ","transliteration":"In yooha ilayya illa annama ana natheerun mubeenun","translation":"","notes":""},{"id":71,"ref":"38:71","arabic":"إِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن طِينٖ","transliteration":"Ith qala rabbuka lilmalaikati innee khaliqun basharan min teenin","translation":"","notes":""},{"id":72,"ref":"38:72","arabic":"فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ","transliteration":"Faitha sawwaytuhu wanafakhtu feehi min roohee faqaAAoo lahu sajideena","translation":"","notes":""},{"id":73,"ref":"38:73","arabic":"فَسَجَدَ ٱلۡمَلَـٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ","transliteration":"Fasajada almalaikatu kulluhum ajmaAAoona","translation":"","notes":""},{"id":74,"ref":"38:74","arabic":"إِلَّآ إِبۡلِيسَ ٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ","transliteration":"Illa ibleesa istakbara wakana mina alkafireena","translation":"","notes":""},{"id":75,"ref":"38:75","arabic":"قَالَ يَـٰٓإِبۡلِيسُ مَا مَنَعَكَ أَن تَسۡجُدَ لِمَا خَلَقۡتُ بِيَدَيَّۖ أَسۡتَكۡبَرۡتَ أَمۡ كُنتَ مِنَ ٱلۡعَالِينَ","transliteration":"Qala ya ibleesu ma manaAAaka an tasjuda lima khalaqtu biyadayya astakbarta am kunta mina alAAaleena","translation":"","notes":""},{"id":76,"ref":"38:76","arabic":"قَالَ أَنَا۠ خَيۡرٞ مِّنۡهُ خَلَقۡتَنِي مِن نَّارٖ وَخَلَقۡتَهُۥ مِن طِينٖ","transliteration":"Qala ana khayrun minhu khalaqtanee min narin wakhalaqtahu min teenin","translation":"","notes":""},{"id":77,"ref":"38:77","arabic":"قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِيمٞ","transliteration":"Qala faokhruj minha fainnaka rajeemun","translation":"","notes":""},{"id":78,"ref":"38:78","arabic":"وَإِنَّ عَلَيۡكَ لَعۡنَتِيٓ إِلَىٰ يَوۡمِ ٱلدِّينِ","transliteration":"Wainna AAalayka laAAnatee ila yawmi alddeeni","translation":"","notes":""},{"id":79,"ref":"38:79","arabic":"قَالَ رَبِّ فَأَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ","transliteration":"Qala rabbi faanthirnee ila yawmi yubAAathoona","translation":"","notes":""},{"id":80,"ref":"38:80","arabic":"قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِينَ","transliteration":"Qala fainnaka mina almunthareena","translation":"","notes":""},{"id":81,"ref":"38:81","arabic":"إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ","transliteration":"Ila yawmi alwaqti almaAAloomi","translation":"","notes":""},{"id":82,"ref":"38:82","arabic":"قَالَ فَبِعِزَّتِكَ لَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ","transliteration":"Qala fabiAAizzatika laoghwiyannahum ajmaAAeena","translation":"","notes":""},{"id":83,"ref":"38:83","arabic":"إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ","transliteration":"Illa AAibadaka minhumu almukhlaseena","translation":"","notes":""},{"id":84,"ref":"38:84","arabic":"قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ","transliteration":"Qala faalhaqqu waalhaqqa aqoolu","translation":"","notes":""},{"id":85,"ref":"38:85","arabic":"لَأَمۡلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنۡهُمۡ أَجۡمَعِينَ","transliteration":"Laamlaanna jahannama minka wamimman tabiAAaka minhum ajmaAAeena","translation":"","notes":""},{"id":86,"ref":"38:86","arabic":"قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٖ وَمَآ أَنَا۠ مِنَ ٱلۡمُتَكَلِّفِينَ","transliteration":"Qul ma asalukum AAalayhi min ajrin wama ana mina almutakallifeena","translation":"","notes":""},{"id":87,"ref":"38:87","arabic":"إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ","transliteration":"In huwa illa thikrun lilAAalameena","translation":"","notes":""},{"id":88,"ref":"38:88","arabic":"وَلَتَعۡلَمُنَّ نَبَأَهُۥ بَعۡدَ حِينِۭ","transliteration":"WalataAAlamunna nabaahu baAAda heenin","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "38:1",
+    "arabic": "صٓۚ وَٱلۡقُرۡءَانِ ذِي ٱلذِّكۡرِ",
+    "transliteration": "Sad waalqurani thee alththikri",
+    "translation": "Sad . By this Qur’aan, that contains all that one should remember and all that matters!",
+    "notes": "This is one of the letters of the Arabic language that appear at the beginning of some Qur’aanic chapters. Significance of these letters is a mystery. Omniscient Allah has perhaps purposely kept it mysterious to remind mankind of the limitation of knowledge it is bestowed with.",
+    "urdu": "ص۔ قسم ہے اس قرآن کی جو نصیحت دینے والا ہے (کہ تم حق پر ہو)"
+  },
+  {
+    "id": 2,
+    "ref": "38:2",
+    "arabic": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي عِزَّةٖ وَشِقَاقٖ",
+    "transliteration": "Bali allatheena kafaroo fee AAizzatin washiqaqin",
+    "translation": "But, verily, the suppressors of the Truth are lost in false pride, and deeply out of tune with Reality.",
+    "notes": "",
+    "urdu": "مگر جو لوگ کافر ہیں وہ غرور اور مخالفت میں ہیں"
+  },
+  {
+    "id": 3,
+    "ref": "38:3",
+    "arabic": "كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ فَنَادَواْ وَّلَاتَ حِينَ مَنَاصٖ",
+    "transliteration": "Kam ahlakna min qablihim min qarnin fanadaw walata heena manasin",
+    "translation": "How many a generation have We destroyed before them! They (the earlier generations) prayed to Us when it was too late for them to escape!",
+    "notes": "",
+    "urdu": "ہم نے ان سے پہلے بہت سی اُمتوں کو ہلاک کردیا تو وہ (عذاب کے وقت) لگے فریاد کرنے اور وہ رہائی کا وقت نہیں تھا"
+  },
+  {
+    "id": 4,
+    "ref": "38:4",
+    "arabic": "وَعَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا سَٰحِرٞ كَذَّابٌ",
+    "transliteration": "WaAAajiboo an jaahum munthirun minhum waqala alkafiroona hatha sahirun kaththabun",
+    "translation": "And people deem it strange that a person from among themselves should have come to warn them! And the suppressors of the Truth say, “This one is but a lying magician!”",
+    "notes": "",
+    "urdu": "اور انہوں نے تعجب کیا کہ ان کے پاس ان ہی میں سے ہدایت کرنے والا آیا اور کافر کہنے لگے کہ یہ تو جادوگر ہے جھوٹا"
+  },
+  {
+    "id": 5,
+    "ref": "38:5",
+    "arabic": "أَجَعَلَ ٱلۡأٓلِهَةَ إِلَٰهٗا وَٰحِدًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عُجَابٞ",
+    "transliteration": "AjaAAala alalihata ilahan wahidan inna hatha lashayon AAujabun",
+    "translation": "“Has he converted all deities into one single God? This is indeed a strange thing!”",
+    "notes": "",
+    "urdu": "کیا اس نے اتنے معبودوں کی جگہ ایک ہی معبود بنا دیا۔ یہ تو بڑی عجیب بات ہے"
+  },
+  {
+    "id": 6,
+    "ref": "38:6",
+    "arabic": "وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُواْ وَٱصۡبِرُواْ عَلَىٰٓ ءَالِهَتِكُمۡۖ إِنَّ هَٰذَا لَشَيۡءٞ يُرَادُ",
+    "transliteration": "Waintalaqa almalao minhum ani imshoo waisbiroo AAala alihatikum inna hatha lashayon yuradu",
+    "translation": "And the leaders among them egged them on, “Go and persevere with your deities. This (what Muhammad is propounding) is indeed a thing designed!”",
+    "notes": "",
+    "urdu": "تو ان میں جو معزز تھے وہ چل کھڑے ہوئے (اور بولے) کہ چلو اور اپنے معبودوں (کی پوجا) پر قائم رہو۔ بےشک یہ ایسی بات ہے جس سے (تم پر شرف وفضلیت) مقصود ہے"
+  },
+  {
+    "id": 7,
+    "ref": "38:7",
+    "arabic": "مَا سَمِعۡنَا بِهَٰذَا فِي ٱلۡمِلَّةِ ٱلۡأٓخِرَةِ إِنۡ هَٰذَآ إِلَّا ٱخۡتِلَٰقٌ",
+    "transliteration": "Ma samiAAna bihatha fee almillati alakhirati in hatha illa ikhtilaqun",
+    "translation": "“We have not heard of this in any recent society! This is nothing but fabrication!”",
+    "notes": "",
+    "urdu": "یہ پچھلے مذہب میں ہم نے کبھی سنی ہی نہیں۔ یہ بالکل بنائی ہوئی بات ہے"
+  },
+  {
+    "id": 8,
+    "ref": "38:8",
+    "arabic": "أَءُنزِلَ عَلَيۡهِ ٱلذِّكۡرُ مِنۢ بَيۡنِنَاۚ بَلۡ هُمۡ فِي شَكّٖ مِّن ذِكۡرِيۚ بَل لَّمَّا يَذُوقُواْ عَذَابِ",
+    "transliteration": "Aonzila AAalayhi alththikru min baynina bal hum fee shakkin min thikree bal lamma yathooqoo AAathabi",
+    "translation": "“Is it upon him – from amongst us all – that the divine Scripture has been sent down!?” Nay! It is My Scripture that they doubt. Nay! They have not tasted the punishment I give.",
+    "notes": "",
+    "urdu": "کیا ہم سب میں سے اسی پر نصیحت (کی کتاب) اُتری ہے؟ (نہیں) بلکہ یہ میری نصیحت کی کتاب سے شک میں ہیں۔ بلکہ انہوں نے ابھی میرے عذاب کا مزہ نہیں چکھا"
+  },
+  {
+    "id": 9,
+    "ref": "38:9",
+    "arabic": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِيزِ ٱلۡوَهَّابِ",
+    "transliteration": "Am AAindahum khazainu rahmati rabbika alAAazeezi alwahhabi",
+    "translation": "Or, do they have the treasures of your Lord’s Mercy – the Lord Omnipotent, the One Who bestows grace!?",
+    "notes": "",
+    "urdu": "کیا ان کے پاس تمہارے پروردگار کی رحمت کے خزانے ہیں جو غالب اور بہت عطا کرنے والا ہے"
+  },
+  {
+    "id": 10,
+    "ref": "38:10",
+    "arabic": "أَمۡ لَهُم مُّلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَاۖ فَلۡيَرۡتَقُواْ فِي ٱلۡأَسۡبَٰبِ",
+    "transliteration": "Am lahum mulku alssamawati waalardi wama baynahuma falyartaqoo fee alasbabi",
+    "translation": "Or, do they possess the absolute sovereignty over the heavens and the earth and all that is in between!? Let them then ascend in vehicles!",
+    "notes": "",
+    "urdu": "یا آسمانوں اور زمین اور جو کچھ ان میں ہے ان (سب) پر ان ہی کی حکومت ہے۔ تو چاہیئے کہ رسیاں تان کر (آسمانوں) پر چڑھ جائیں"
+  },
+  {
+    "id": 11,
+    "ref": "38:11",
+    "arabic": "جُندٞ مَّا هُنَالِكَ مَهۡزُومٞ مِّنَ ٱلۡأَحۡزَابِ",
+    "transliteration": "Jundun ma hunalika mahzoomun mina alahzabi",
+    "translation": "The confederate forces are bound to suffer defeat there.",
+    "notes": "After the Muslims generally abandoned the Qur’aan to be their Guide, Allah Almighty, it appears, passed the investigative bent of human mind from them to others. This is apparent from the fact that while the leadership in scientific investigation lay with the Muslims for centuries after revelation of the Qur’aan, that leadership is no longer with them now. It is now in the hands of the atheists. These atheists think that they can conquer and rule the universe. They have succeeded, obviously with Allah’s hidden permission, to cross the earth’s atmosphere into outer space. The divine permission is clearly hinted at in Verse 10 above, although at the time of the revelation of the Qur’aan nobody had imagined that man would be able to land on the moon. Allah obviously permitted man to have forays into outer space just to enable him to have a glimpse of His immense superhuman power in building the universe. Allah obviously wanted man to know for certain that the task is far beyond human abilities. Yet, the human scientist remains adamantly atheistic! The Satan goads him to dream of conquering the universe. It’s just his wishful thinking as Verse 11 above informs us.",
+    "urdu": "یہاں شکست کھائے ہوئے گروہوں میں سے یہ بھی ایک لشکر ہے"
+  },
+  {
+    "id": 12,
+    "ref": "38:12",
+    "arabic": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَفِرۡعَوۡنُ ذُو ٱلۡأَوۡتَادِ",
+    "transliteration": "Kaththabat qablahum qawmu noohin waAAadun wafirAAawnu thoo alawtadi",
+    "translation": "Before them, Noah’s people, and the tribe of AAad, and Pharaoh of the many tent-pegs (i.e. with means and power), denied the Truth,",
+    "notes": "",
+    "urdu": "ان سے پہلے نوح کی قوم اور عاد اور میخوں والا فرعون (اور اس کی قوم کے لوگ) بھی جھٹلا چکے ہیں"
+  },
+  {
+    "id": 13,
+    "ref": "38:13",
+    "arabic": "وَثَمُودُ وَقَوۡمُ لُوطٖ وَأَصۡحَٰبُ لۡـَٔيۡكَةِۚ أُوْلَـٰٓئِكَ ٱلۡأَحۡزَابُ",
+    "transliteration": "Wathamoodu waqawmu lootin waashabu alaykati olaika alahzabu",
+    "translation": "And so did the tribe of Thamood, and the people of Lot, and the dwellers of the wood [Midian]: those were the peoples allied against the Truth.",
+    "notes": "Refer [26:176-189] for greater details.",
+    "urdu": "اور ثمود اور لوط کی قوم اور بن کے رہنے والے بھی۔ یہی وہ گروہ ہیں"
+  },
+  {
+    "id": 14,
+    "ref": "38:14",
+    "arabic": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+    "transliteration": "In kullun illa kaththaba alrrusula fahaqqa AAiqabi",
+    "translation": "Not one among them but denied the Messengers. So, they deserved My penalty.",
+    "notes": "",
+    "urdu": "(ان) سب نے پیغمبروں کو جھٹلایا تو میرا عذاب (ان پر) آ واقع ہوا"
+  },
+  {
+    "id": 15,
+    "ref": "38:15",
+    "arabic": "وَمَا يَنظُرُ هَـٰٓؤُلَآءِ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ مَّا لَهَا مِن فَوَاقٖ",
+    "transliteration": "Wama yanthuru haolai illa sayhatan wahidatan ma laha min fawaqin",
+    "translation": "And these people (of this age) need wait for no more than one single blast (to be annihilated).",
+    "notes": "The World War II atomic bomb blasts at Nagasaki and Hiroshima in Japan provide samples of such total annihilation.",
+    "urdu": "اور یہ لوگ تو صرف ایک زور کی آواز کا جس میں (شروع ہوئے پیچھے) کچھ وقفہ نہیں ہوگا، انتظار کرتے ہیں"
+  },
+  {
+    "id": 16,
+    "ref": "38:16",
+    "arabic": "وَقَالُواْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ يَوۡمِ ٱلۡحِسَابِ",
+    "transliteration": "Waqaloo rabbana AAajjil lana qittana qabla yawmi alhisabi",
+    "translation": "And they (the polytheists) say (mockingly), “Our Lord! Hasten on to us our share before the Day of Reckoning!”",
+    "notes": "",
+    "urdu": "اور کہتے ہیں کہ اے ہمارے پروردگار ہم کو ہمارا حصہ حساب کے دن سے پہلے ہی دے دے"
+  },
+  {
+    "id": 17,
+    "ref": "38:17",
+    "arabic": "ٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَيۡدِۖ إِنَّهُۥٓ أَوَّابٌ",
+    "transliteration": "Isbir AAala ma yaqooloona waothkur AAabdana dawooda tha alaydi innahu awwabun",
+    "translation": "Bear patiently what they (the polytheists) say, and remember Our devotee David, a man of strength. He was indeed of those who always turned to Us.",
+    "notes": "",
+    "urdu": "(اے پیغمبر) یہ جو کچھ کہتے ہیں اس پر صبر کرو۔ اور ہمارے بندے داؤد کو یاد کرو جو صاحب قوت تھے (اور) بےشک وہ رجوع کرنے والے تھے"
+  },
+  {
+    "id": 18,
+    "ref": "38:18",
+    "arabic": "إِنَّا سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ يُسَبِّحۡنَ بِٱلۡعَشِيِّ وَٱلۡإِشۡرَاقِ",
+    "transliteration": "Inna sakhkharna aljibala maAAahu yusabbihna bialAAashiyyi waalishraqi",
+    "translation": "We did indeed cause the mountains to join him (David) in extolling Our Glory at sunset and at sunrise,",
+    "notes": "",
+    "urdu": "ہم نے پہاڑوں کو ان کے زیر فرمان کردیا تھا کہ صبح وشام ان کے ساتھ (خدائے) پاک (کا) ذکر کرتے تھے"
+  },
+  {
+    "id": 19,
+    "ref": "38:19",
+    "arabic": "وَٱلطَّيۡرَ مَحۡشُورَةٗۖ كُلّٞ لَّهُۥٓ أَوَّابٞ",
+    "transliteration": "Waalttayra mahshooratan kullun lahu awwabun",
+    "translation": "And the birds in their assemblies: they all would always turn to Him.",
+    "notes": "",
+    "urdu": "اور پرندوں کو بھی کہ جمع رہتے تھے۔ سب ان کے فرمانبردار تھے"
+  },
+  {
+    "id": 20,
+    "ref": "38:20",
+    "arabic": "وَشَدَدۡنَا مُلۡكَهُۥ وَءَاتَيۡنَٰهُ ٱلۡحِكۡمَةَ وَفَصۡلَ ٱلۡخِطَابِ",
+    "transliteration": "Washadadna mulkahu waataynahu alhikmata wafasla alkhitabi",
+    "translation": "And We strengthened his (David’s) kingdom and bestowed upon him wisdom and decisiveness in speech.",
+    "notes": "",
+    "urdu": "اور ہم نے ان کی بادشاہی کو مستحکم کیا اور ان کو حکمت عطا کی اور (خصومت کی) بات کا فیصلہ (سکھایا)"
+  },
+  {
+    "id": 21,
+    "ref": "38:21",
+    "arabic": "۞وَهَلۡ أَتَىٰكَ نَبَؤُاْ ٱلۡخَصۡمِ إِذۡ تَسَوَّرُواْ ٱلۡمِحۡرَابَ",
+    "transliteration": "Wahal ataka nabao alkhasmi ith tasawwaroo almihraba",
+    "translation": "And has the information of the litigants come to your knowledge when they climbed over the walls of (King David’s) private chamber?",
+    "notes": "",
+    "urdu": "بھلا تمہارے پاس ان جھگڑنے والوں کی بھی خبر آئی ہے جب وہ دیوار پھاند کر عبادت خانے میں داخل ہوئے"
+  },
+  {
+    "id": 22,
+    "ref": "38:22",
+    "arabic": "إِذۡ دَخَلُواْ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنۡهُمۡۖ قَالُواْ لَا تَخَفۡۖ خَصۡمَانِ بَغَىٰ بَعۡضُنَا عَلَىٰ بَعۡضٖ فَٱحۡكُم بَيۡنَنَا بِٱلۡحَقِّ وَلَا تُشۡطِطۡ وَٱهۡدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+    "transliteration": "Ith dakhaloo AAala dawooda fafaziAAa minhum qaloo la takhaf khasmani bagha baAAduna AAala baAAdin faohkum baynana bialhaqqi wala tushtit waihdina ila sawai alssirati",
+    "translation": "When they confronted David, he shrank back in fear of them. They said, “Fear not! We are two litigants. One of us has wronged the other. So, judge between us with justice, and deviate not from what is right, and show both of us the right path.”",
+    "notes": "",
+    "urdu": "جس وقت وہ داؤد کے پاس آئے تو وہ ان سے گھبرا گئے انہوں نے کہا کہ خوف نہ کیجیئے۔ ہم دونوں کا ایک مقدمہ ہے کہ ہم میں سے ایک نے دوسرے پر زیادتی کی ہے تو آپ ہم میں انصاف کا فیصلہ کر دیجیئے اور بےانصافی نہ کیجیئے گا اور ہم کو سیدھا رستہ دکھا دیجیئے"
+  },
+  {
+    "id": 23,
+    "ref": "38:23",
+    "arabic": "إِنَّ هَٰذَآ أَخِي لَهُۥ تِسۡعٞ وَتِسۡعُونَ نَعۡجَةٗ وَلِيَ نَعۡجَةٞ وَٰحِدَةٞ فَقَالَ أَكۡفِلۡنِيهَا وَعَزَّنِي فِي ٱلۡخِطَابِ",
+    "transliteration": "Inna hatha akhee lahu tisAAun watisAAoona naAAjatan waliya naAAjatun wahidatun faqala akfilneeha waAAazzanee fee alkhitabi",
+    "translation": "“This man here is my brother. He has ninety-nine ewes, whereas I have one ewe. And he asks me to hand over to him even the one I have. And he prevailed over me in the discourse we had.”",
+    "notes": "",
+    "urdu": "(کیفیت یہ ہے کہ) یہ میرا بھائی ہے اس کے (ہاں) ننانوے دنبیاں ہیں اور میرے (پاس) ایک دُنبی ہے۔ یہ کہتا ہے کہ یہ بھی میرے حوالے کردے اور گفتگو میں مجھ پر زبردستی کرتا ہے"
+  },
+  {
+    "id": 24,
+    "ref": "38:24",
+    "arabic": "قَالَ لَقَدۡ ظَلَمَكَ بِسُؤَالِ نَعۡجَتِكَ إِلَىٰ نِعَاجِهِۦۖ وَإِنَّ كَثِيرٗا مِّنَ ٱلۡخُلَطَآءِ لَيَبۡغِي بَعۡضُهُمۡ عَلَىٰ بَعۡضٍ إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَقَلِيلٞ مَّا هُمۡۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّـٰهُ فَٱسۡتَغۡفَرَ رَبَّهُۥ وَخَرَّۤ رَاكِعٗاۤ وَأَنَابَ۩",
+    "transliteration": "Qala laqad thalamaka bisuali naAAjatika ila niAAajihi wainna katheeran mina alkhulatai layabghee baAAduhum AAala baAAdin illa allatheena amanoo waAAamiloo alssalihati waqaleelun ma hum wathanna dawoodu annama fatannahu faistaghfara rabbahu wakharra rakiAAan waanaba",
+    "translation": "David said (to the complainant), “He has certainly wronged you by demanding that your ewe be added to his ewes! And indeed do many associates – except those who believe in Allah and do righteous deeds – wrong one another; but how few are those exceptions!” And David at once realized that We had tested him (by presenting to him the case of the ewes)! And so he asked his Lord to forgive him, and bowed down, and turned to Him in repentance.",
+    "notes": "In all probability the two litigants were angels sent by Allah Ta’ala to teach King David a lesson. Undoubtedly, the King had committed some unnamed impropriety, unbecoming of a Prophet King of his high stature. A safe bet is to assume that the King’s impropriety was of the nature of the impropriety involved in the litigants’ case. But since Allah almighty has thought it fit not to specifically name the King’s impropriety, we should better avoid echoing what Chritian scriptures (Old Testament) unabashedly accuse the King of committing an undoubtedly sinful act. The accusation must be patently false since Allah Almighty could not have chosen a man committing such a heinous crime as His Prophet. The Christian scripture containing this accusation is not purely divine as the Qur’aan is. It is of the nature of the man-influenced and error-prone ahaadeeth which too contain some unpalatable and unsavoury things about our own Prophet Muhammad (peace on him). What King David might have done could only be described as an impropriety not amounting to sin. And as the next Verse below informs us Allah forgave King David.",
+    "urdu": "انہوں نے کہا کہ یہ جو تیری دنبی مانگتا ہے کہ اپنی دنبیوں میں ملالے بےشک تجھ پر ظلم کرتا ہے۔ اور اکثر شریک ایک دوسرے پر زیادتی ہی کیا کرتے ہیں۔ ہاں جو ایمان لائے اور عمل نیک کرتے رہے اور ایسے لوگ بہت کم ہیں۔ اور داؤد نے خیال کیا کہ (اس واقعے سے) ہم نے ان کو آزمایا ہے تو انہوں نے اپنے پروردگار سے مغفرت مانگی اور جھک کر گڑ پڑے اور (خدا کی طرف) رجوع کیا"
+  },
+  {
+    "id": 25,
+    "ref": "38:25",
+    "arabic": "فَغَفَرۡنَا لَهُۥ ذَٰلِكَۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابٖ",
+    "transliteration": "Faghafarna lahu thalika wainna lahu AAindana lazulfa wahusna maabin",
+    "translation": "And We forgave him (David) that [the impropriety that he had committed]. And, indeed, he will certainly be among those near to us – the best place to return to!",
+    "notes": "",
+    "urdu": "تو ہم نے ان کو بخش دیا۔ اور بےشک ان کے لئے ہمارے ہاں قرب اور عمدہ مقام ہے"
+  },
+  {
+    "id": 26,
+    "ref": "38:26",
+    "arabic": "يَٰدَاوُۥدُ إِنَّا جَعَلۡنَٰكَ خَلِيفَةٗ فِي ٱلۡأَرۡضِ فَٱحۡكُم بَيۡنَ ٱلنَّاسِ بِٱلۡحَقِّ وَلَا تَتَّبِعِ ٱلۡهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمۡ عَذَابٞ شَدِيدُۢ بِمَا نَسُواْ يَوۡمَ ٱلۡحِسَابِ",
+    "transliteration": "Ya dawoodu inna jaAAalnaka khaleefatan fee alardi faohkum bayna alnnasi bialhaqqi wala tattabiAAi alhawa fayudillaka AAan sabeeli Allahi inna allatheena yadilloona AAan sabeeli Allahi lahum AAathabun shadeedun bima nasoo yawma alhisabi",
+    "translation": "“O David! We have indeed made you a vicegerent on earth. Establish, then, a just rule among the people, and follow not vain desire, lest it lead you astray from Allah’s Path. Those who go astray from Allah’s Path shall indeed suffer severe punishment for having forgotten the Day of Reckoning!”",
+    "notes": "",
+    "urdu": "اے داؤد ہم نے تم کو زمین میں بادشاہ بنایا ہے تو لوگوں میں انصاف کے فیصلے کیا کرو اور خواہش کی پیروی نہ کرنا کہ وہ تمہیں خدا کے رستے سے بھٹکا دے گی۔ جو لوگ خدا کے رستے سے بھٹکتے ہیں ان کے لئے سخت عذاب (تیار) ہے کہ انہوں نے حساب کے دن کو بھلا دیا"
+  },
+  {
+    "id": 27,
+    "ref": "38:27",
+    "arabic": "وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا بَٰطِلٗاۚ ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُواْۚ فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِنَ ٱلنَّارِ",
+    "transliteration": "Wama khalaqna alssamaa waalarda wama baynahuma batilan thalika thannu allatheena kafaroo fawaylun lillatheena kafaroo mina alnnari",
+    "translation": "AND We have not created the heaven and the earth and all that is in between in vain. That is what those who suppress the Truth think. Woe then from the Fire unto all those who suppress the Truth!",
+    "notes": "",
+    "urdu": "اور ہم نے آسمان اور زمین کو اور جو کائنات ان میں ہے اس کو خالی از مصلحت نہیں پیدا کیا۔ یہ ان کا گمان ہے جو کافر ہیں۔ سو کافروں کے لئے دوزخ کا عذاب ہے"
+  },
+  {
+    "id": 28,
+    "ref": "38:28",
+    "arabic": "أَمۡ نَجۡعَلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ كَٱلۡمُفۡسِدِينَ فِي ٱلۡأَرۡضِ أَمۡ نَجۡعَلُ ٱلۡمُتَّقِينَ كَٱلۡفُجَّارِ",
+    "transliteration": "Am najAAalu allatheena amanoo waAAamiloo alssalihati kaalmufsideena fee alardi am najAAalu almuttaqeena kaalfujjari",
+    "translation": "Would We treat those who believe and do righteous deeds like those who spread corruption on the earth!? Would We treat those who are Allah-fearing like those that are wicked!?",
+    "notes": "",
+    "urdu": "جو لوگ ایمان لائے اور عمل نیک کرتے رہے۔ کیا ان کو ہم ان کی طرح کر دیں گے جو ملک میں فساد کرتے ہیں۔ یا پرہیزگاروں کو بدکاروں کی طرح کر دیں گے"
+  },
+  {
+    "id": 29,
+    "ref": "38:29",
+    "arabic": "كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ مُبَٰرَكٞ لِّيَدَّبَّرُوٓاْ ءَايَٰتِهِۦ وَلِيَتَذَكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+    "transliteration": "Kitabun anzalnahu ilayka mubarakun liyaddabbaroo ayatihi waliyatathakkara oloo alalbabi",
+    "translation": "Blessed is the Book We have revealed to you, [O Muhammad,] so that people may ponder over its Verses, and that those who are endowed with insight may pass on their understanding to others.",
+    "notes": "",
+    "urdu": "(یہ) کتاب جو ہم نے تم پر نازل کی ہے بابرکت ہے تاکہ لوگ اس کی آیتوں میں غور کریں اور تاکہ اہل عقل نصیحت پکڑیں"
+  },
+  {
+    "id": 30,
+    "ref": "38:30",
+    "arabic": "وَوَهَبۡنَا لِدَاوُۥدَ سُلَيۡمَٰنَۚ نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٌ",
+    "transliteration": "Wawahabna lidawooda sulaymana niAAma alAAabdu innahu awwabun",
+    "translation": "And We bestowed Solomon – an excellent devotee – [as a son] to David. He would indeed always turn to Us.",
+    "notes": "",
+    "urdu": "اور ہم نے داؤد کو سلیمان عطا کئے۔ بہت خوب بندے (تھے اور) وہ (خدا کی طرف) رجوع کرنے والے تھے"
+  },
+  {
+    "id": 31,
+    "ref": "38:31",
+    "arabic": "إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّـٰفِنَٰتُ ٱلۡجِيَادُ",
+    "transliteration": "Ith AAurida AAalayhi bialAAashiyyi alssafinatu aljiyadu",
+    "translation": "As, towards the close of day, well-bred horses were brought before him (Solomon),",
+    "notes": "",
+    "urdu": "جب ان کے سامنے شام کو خاصے کے گھوڑے پیش کئے گئے"
+  },
+  {
+    "id": 32,
+    "ref": "38:32",
+    "arabic": "فَقَالَ إِنِّيٓ أَحۡبَبۡتُ حُبَّ ٱلۡخَيۡرِ عَن ذِكۡرِ رَبِّي حَتَّىٰ تَوَارَتۡ بِٱلۡحِجَابِ",
+    "transliteration": "Faqala innee ahbabtu hubba alkhayri AAan thikri rabbee hatta tawarat bialhijabi",
+    "translation": "He (Solomon) said, “I have indeed come to love the good things in life as these remind me of my Lord (Who has created them)!” And when they (the horses) were out of sight under the veil of darkness (of the night),",
+    "notes": "",
+    "urdu": "تو کہنے لگے کہ میں نے اپنے پروردگار کی یاد سے (غافل ہو کر) مال کی محبت اختیار کی۔ یہاں تک کہ (آفتاب) پردے میں چھپ گیا"
+  },
+  {
+    "id": 33,
+    "ref": "38:33",
+    "arabic": "رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ",
+    "transliteration": "Ruddooha AAalayya fatafiqa mashan bialssooqi waalaAAnaqi",
+    "translation": "(Solomon ordered,) “Bring them (the horses) back to me!” And then he would [lovingly] stroke their legs and their necks.",
+    "notes": "",
+    "urdu": "(بولے کہ) ان کو میرے پاس واپس لے آؤ۔ پھر ان کی ٹانگوں اور گردنوں پر ہاتھ پھیرنے لگے"
+  },
+  {
+    "id": 34,
+    "ref": "38:34",
+    "arabic": "وَلَقَدۡ فَتَنَّا سُلَيۡمَٰنَ وَأَلۡقَيۡنَا عَلَىٰ كُرۡسِيِّهِۦ جَسَدٗا ثُمَّ أَنَابَ",
+    "transliteration": "Walaqad fatanna sulaymana waalqayna AAala kursiyyihi jasadan thumma anaba",
+    "translation": "And We did certainly put Solomon on trial by placing upon his throne a [lifeless] body; and thereupon he turned in repentance to Us.",
+    "notes": "Like King David, King Solomon too, it seems, had committed some unnamed impropriety. Books of Ahaadeeth do allude to some highly impossible and improbable acts attributed to the great King. But the Ahaadeeth are man-influenced and error- prone. And why should we go to those books when the Qur’aan gives us everything needed for our guidance? Allah Almighty has thought it fit not to specifically mention the impropriety done, so why should mankind be eager to find it out? This Qur’aanic Verse itself indicates that the impropriety was related to the succession to Solomon’s throne. We learn from Israelite history that the successor to Solomon was incompetent and that lead to the disintegration of the great Solomon Empire. What we should learn from these episodes concerning the two Prophet-kings is that (i) Prophets are after all human and (ii) hereditary succession to ruler-ship is not divinely sanctioned.",
+    "urdu": "اور ہم نے سلیمان کی آزمائش کی اور ان کے تخت پر ایک دھڑ ڈال دیا پھر انہوں نے (خدا کی طرف) رجوع کیا"
+  },
+  {
+    "id": 35,
+    "ref": "38:35",
+    "arabic": "قَالَ رَبِّ ٱغۡفِرۡ لِي وَهَبۡ لِي مُلۡكٗا لَّا يَنۢبَغِي لِأَحَدٖ مِّنۢ بَعۡدِيٓۖ إِنَّكَ أَنتَ ٱلۡوَهَّابُ",
+    "transliteration": "Qala rabbi ighfir lee wahab lee mulkan la yanbaghee liahadin min baAAdee innaka anta alwahhabu",
+    "translation": "He (Solomon) prayed, “O my Lord! Forgive me my sins, and bestow upon me a kingdom which may not suit anyone after me. You are indeed the One Who bestows gifts!”",
+    "notes": "",
+    "urdu": "(اور) دعا کی کہ اے پروردگار مجھے مغفرت کر اور مجھ کو ایسی بادشاہی عطا کر کہ میرے بعد کسی کو شایاں نہ ہو۔ بےشک تو بڑا عطا فرمانے والا ہے"
+  },
+  {
+    "id": 36,
+    "ref": "38:36",
+    "arabic": "فَسَخَّرۡنَا لَهُ ٱلرِّيحَ تَجۡرِي بِأَمۡرِهِۦ رُخَآءً حَيۡثُ أَصَابَ",
+    "transliteration": "Fasakhkharna lahu alrreeha tajree biamrihi rukhaan haythu asaba",
+    "translation": "We then made the wind subservient to him, so that it blew gently at his behest in the direction he willed.",
+    "notes": "",
+    "urdu": "پھر ہم نے ہوا کو ان کے زیرفرمان کردیا کہ جہاں وہ پہنچنا چاہتے ان کے حکم سے نرم نرم چلنے لگتی"
+  },
+  {
+    "id": 37,
+    "ref": "38:37",
+    "arabic": "وَٱلشَّيَٰطِينَ كُلَّ بَنَّآءٖ وَغَوَّاصٖ",
+    "transliteration": "Waalshshayateena kulla bannain waghawwasin",
+    "translation": "And (We made) the devils (work for him) in every kind of construction activity and in diving.",
+    "notes": "",
+    "urdu": "اَور دیووں کو بھی (ان کے زیرفرمان کیا) وہ سب عمارتیں بنانے والے اور غوطہ مارنے والے تھے"
+  },
+  {
+    "id": 38,
+    "ref": "38:38",
+    "arabic": "وَءَاخَرِينَ مُقَرَّنِينَ فِي ٱلۡأَصۡفَادِ",
+    "transliteration": "Waakhareena muqarraneena fee alasfadi",
+    "translation": "And there were others too (who worked for him while) linked together in fetters.",
+    "notes": "",
+    "urdu": "اور اَوروں کو بھی جو زنجیروں میں جکڑے ہوئے تھے"
+  },
+  {
+    "id": 39,
+    "ref": "38:39",
+    "arabic": "هَٰذَا عَطَآؤُنَا فَٱمۡنُنۡ أَوۡ أَمۡسِكۡ بِغَيۡرِ حِسَابٖ",
+    "transliteration": "Hatha AAataona faomnun aw amsik bighayri hisabin",
+    "translation": "[And We told him,] “This is Our special Grant; whether you help others with it or not, no account will be taken!”",
+    "notes": "",
+    "urdu": "(ہم نے کہا) یہ ہماری بخشش ہے (چاہو) تو احسان کرو یا (چاہو تو) رکھ چھوڑو (تم سے) کچھ حساب نہیں ہے"
+  },
+  {
+    "id": 40,
+    "ref": "38:40",
+    "arabic": "وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابٖ",
+    "transliteration": "Wainna lahu AAindana lazulfa wahusna maabin",
+    "translation": "And, indeed, he (Solomon) will certainly be among those near to us – the best place to return to!",
+    "notes": "",
+    "urdu": "اور بےشک ان کے لئے ہمارے ہاں قُرب اور عمدہ مقام ہے"
+  },
+  {
+    "id": 41,
+    "ref": "38:41",
+    "arabic": "وَٱذۡكُرۡ عَبۡدَنَآ أَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلشَّيۡطَٰنُ بِنُصۡبٖ وَعَذَابٍ",
+    "transliteration": "Waothkur AAabdana ayyooba ith nada rabbahu annee massaniya alshshaytanu binusbin waAAathabin",
+    "translation": "And recall when Our devotee Job prayed to his Lord, “The Satan has indeed afflicted me with illness and suffering!”",
+    "notes": "Refer [21:83] & 21:84 and study note 22 (Qur’aanic Studies Manzil IV).",
+    "urdu": "اور ہمارے بندے ایوب کو یاد کرو جب انہوں نے اپنے رب کو پکارا کہ (بار الہٰا) شیطان نے مجھ کو ایذا اور تکلیف دے رکھی ہے"
+  },
+  {
+    "id": 42,
+    "ref": "38:42",
+    "arabic": "ٱرۡكُضۡ بِرِجۡلِكَۖ هَٰذَا مُغۡتَسَلُۢ بَارِدٞ وَشَرَابٞ",
+    "transliteration": "Orkud birijlika hatha mughtasalun baridun washarabun",
+    "translation": "[He was told,] “Stamp your foot!” [Water springs out from the ground.] “This is cool water to wash with and to drink!”",
+    "notes": "",
+    "urdu": "(ہم نے کہا کہ زمین پر) لات مارو (دیکھو) یہ (چشمہ نکل آیا) نہانے کو ٹھنڈا اور پینے کو (شیریں)"
+  },
+  {
+    "id": 43,
+    "ref": "38:43",
+    "arabic": "وَوَهَبۡنَا لَهُۥٓ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنَّا وَذِكۡرَىٰ لِأُوْلِي ٱلۡأَلۡبَٰبِ",
+    "transliteration": "Wawahabna lahu ahlahu wamithlahum maAAahum rahmatan minna wathikra liolee alalbabi",
+    "translation": "And We restored to him his family and as many more with them, as an act of grace from Us, and as a source of inspiration to all who are endowed with insight.",
+    "notes": "",
+    "urdu": "اور ہم نے ان کو اہل و عیال اور ان کے ساتھ ان کے برابر اور بخشے۔ (یہ) ہماری طرف سے رحمت اور عقل والوں کے لئے نصیحت تھی"
+  },
+  {
+    "id": 44,
+    "ref": "38:44",
+    "arabic": "وَخُذۡ بِيَدِكَ ضِغۡثٗا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَٰهُ صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ",
+    "transliteration": "Wakhuth biyadika dighthan faidrib bihi wala tahnath inna wajadnahu sabiran niAAma alAAabdu innahu awwabun",
+    "translation": "[And We told him,] “Now take a handful of herbs and strike therewith, and you shall not break your oath!” We did indeed find him patient in adversity – an excellent devotee, who would always turn to Us!",
+    "notes": "Apparently, during his illness, Job (Ayub) had taken an oath to give lashes to somebody he was then annoyed with. But after his recovery and restoration of his former happy position in life, Job was reluctant to carry out the oath, but he also did not want to be guilty of breaking an oath. And this was the via media divinely suggested to him. The lashes with the light bunch of herbs would not hurt the victim.",
+    "urdu": "اور اپنے ہاتھ میں جھاڑو لو اور اس سے مارو اور قسم نہ توڑو۔ بےشک ہم نے ان کو ثابت قدم پایا۔ بہت خوب بندے تھے بےشک وہ رجوع کرنے والے تھے"
+  },
+  {
+    "id": 45,
+    "ref": "38:45",
+    "arabic": "وَٱذۡكُرۡ عِبَٰدَنَآ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَ أُوْلِي ٱلۡأَيۡدِي وَٱلۡأَبۡصَٰرِ",
+    "transliteration": "Waothkur AAibadana ibraheema waishaqa wayaAAqooba olee alaydee waalabsari",
+    "translation": "And recall Our servants Abraham, and Isaac, and Jacob, who were all endowed with inner strength and vision:",
+    "notes": "",
+    "urdu": "اور ہمارے بندوں ابراہیم اور اسحاق اور یعقوب کو یاد کرو جو ہاتھوں والے اور آنکھوں والے تھے"
+  },
+  {
+    "id": 46,
+    "ref": "38:46",
+    "arabic": "إِنَّآ أَخۡلَصۡنَٰهُم بِخَالِصَةٖ ذِكۡرَى ٱلدَّارِ",
+    "transliteration": "Inna akhlasnahum bikhalisatin thikra alddari",
+    "translation": "We did indeed purify them by means of the purity of the remembrance of the life to come.",
+    "notes": "",
+    "urdu": "ہم نے ان کو ایک (صفت) خاص (آخرت کے) گھر کی یاد سے ممتاز کیا تھا"
+  },
+  {
+    "id": 47,
+    "ref": "38:47",
+    "arabic": "وَإِنَّهُمۡ عِندَنَا لَمِنَ ٱلۡمُصۡطَفَيۡنَ ٱلۡأَخۡيَارِ",
+    "transliteration": "Wainnahum AAindana lamina almustafayna alakhyari",
+    "translation": "And they were certainly indeed, in Our sight, among the selected best of humankind!",
+    "notes": "",
+    "urdu": "اور ہمارے نزدیک منتخب اور نیک لوگوں میں سے تھے"
+  },
+  {
+    "id": 48,
+    "ref": "38:48",
+    "arabic": "وَٱذۡكُرۡ إِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَذَا ٱلۡكِفۡلِۖ وَكُلّٞ مِّنَ ٱلۡأَخۡيَارِ",
+    "transliteration": "Waothkur ismaAAeela wailyasaAAa watha alkifli wakullun mina alakhyari",
+    "translation": "And recall Ishmael and Elisha , and Zulkifl : every one of them was among the best of humankind!",
+    "notes": "Abraham’s elder son whom Abraham was ready to sacrifice at Allah’s command [see [37:101-107]].\n\nElisha [ ilyasaAAa ] is mentioned at one other place [[6:86]] in the Qur’aan, which gives no other details about him.\n\nThe Qur’aan gives no other details about this name too, except for a similar mention in [21:85].",
+    "urdu": "اور اسمٰعیل اور الیسع اور ذوالکفل کو یاد کرو۔ وہ سب نیک لوگوں میں سے تھے"
+  },
+  {
+    "id": 49,
+    "ref": "38:49",
+    "arabic": "هَٰذَا ذِكۡرٞۚ وَإِنَّ لِلۡمُتَّقِينَ لَحُسۡنَ مَـَٔابٖ",
+    "transliteration": "Hatha thikrun wainna lilmuttaqeena lahusna maabin",
+    "translation": "This [Qur’aan] is a Reminder/Narrative [of all that leads mankind to Paradise and all that leads them to Hell]. And, certainly indeed, the most beauteous of all goals awaits those who are pious and Allah-fearing.",
+    "notes": "",
+    "urdu": "یہ نصیحت ہے اور پرہیزگاروں کے لئے تو عمدہ مقام ہے"
+  },
+  {
+    "id": 50,
+    "ref": "38:50",
+    "arabic": "جَنَّـٰتِ عَدۡنٖ مُّفَتَّحَةٗ لَّهُمُ ٱلۡأَبۡوَٰبُ",
+    "transliteration": "Jannati AAadnin mufattahatan lahumu alabwabu",
+    "translation": "The goals are gardens of perpetual bliss with gates kept open for them [the pious and Allah-fearing].",
+    "notes": "",
+    "urdu": "ہمیشہ رہنے کے باغ جن کے دروازے ان کے لئے کھلے ہوں گے"
+  },
+  {
+    "id": 51,
+    "ref": "38:51",
+    "arabic": "مُتَّكِـِٔينَ فِيهَا يَدۡعُونَ فِيهَا بِفَٰكِهَةٖ كَثِيرَةٖ وَشَرَابٖ",
+    "transliteration": "Muttakieena feeha yadAAoona feeha bifakihatin katheeratin washarabin",
+    "translation": "They will be comfortable and at ease therein, frequently calling for fruits and drinks.",
+    "notes": "",
+    "urdu": "ان میں تکیٴے لگائے بیٹھے ہوں گے اور (کھانے پینے کے لئے) بہت سے میوے اور شراب منگواتے رہیں گے"
+  },
+  {
+    "id": 52,
+    "ref": "38:52",
+    "arabic": "۞وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ أَتۡرَابٌ",
+    "transliteration": "WaAAindahum qasiratu alttarfi atrabun",
+    "translation": "And they will have with them companions of modest gaze.",
+    "notes": "",
+    "urdu": "اور ان کے پاس نیچی نگاہ رکھنے والی (اور) ہم عمر (عورتیں) ہوں گی"
+  },
+  {
+    "id": 53,
+    "ref": "38:53",
+    "arabic": "هَٰذَا مَا تُوعَدُونَ لِيَوۡمِ ٱلۡحِسَابِ",
+    "transliteration": "Hatha ma tooAAadoona liyawmi alhisabi",
+    "translation": "This is what you are promised for the Day of Reckoning:",
+    "notes": "",
+    "urdu": "یہ وہ چیزیں ہیں جن کا حساب کے دن کے لئے تم سے وعدہ کیا جاتا تھا"
+  },
+  {
+    "id": 54,
+    "ref": "38:54",
+    "arabic": "إِنَّ هَٰذَا لَرِزۡقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+    "transliteration": "Inna hatha larizquna ma lahu min nafadin",
+    "translation": "This, certainly indeed, shall be Our inexhaustible provision!",
+    "notes": "",
+    "urdu": "یہ ہمارا رزق ہے جو کبھی ختم نہیں ہوگا"
+  },
+  {
+    "id": 55,
+    "ref": "38:55",
+    "arabic": "هَٰذَاۚ وَإِنَّ لِلطَّـٰغِينَ لَشَرَّ مَـَٔابٖ",
+    "transliteration": "Hatha wainna lilttagheena lasharra maabin",
+    "translation": "This [provision would of course be there as promised!] And, certainly indeed, the evilest of all goals awaits those who transgress the bounds of what is right.",
+    "notes": "",
+    "urdu": "یہ (نعمتیں تو فرمانبرداروں کے لئے ہیں) اور سرکشوں کے لئے برا ٹھکانا ہے"
+  },
+  {
+    "id": 56,
+    "ref": "38:56",
+    "arabic": "جَهَنَّمَ يَصۡلَوۡنَهَا فَبِئۡسَ ٱلۡمِهَادُ",
+    "transliteration": "Jahannama yaslawnaha fabisa almihadu",
+    "translation": "Hell! They will suffer therein. And how vile a resting-place!",
+    "notes": "",
+    "urdu": "(یعنی) دوزخ۔ جس میں وہ داخل ہوں گے اور وہ بری آرام گاہ ہے"
+  },
+  {
+    "id": 57,
+    "ref": "38:57",
+    "arabic": "هَٰذَا فَلۡيَذُوقُوهُ حَمِيمٞ وَغَسَّاقٞ",
+    "transliteration": "Hatha falyathooqoohu hameemun waghassaqun",
+    "translation": "This, [then, is for them.] So, let them taste it: boiling water (to drink) and a pus-like thing (to eat!)",
+    "notes": "",
+    "urdu": "یہ کھولتا ہوا گرم پانی اور پیپ (ہے) اب اس کے مزے چکھیں"
+  },
+  {
+    "id": 58,
+    "ref": "38:58",
+    "arabic": "وَءَاخَرُ مِن شَكۡلِهِۦٓ أَزۡوَٰجٌ",
+    "transliteration": "Waakharu min shaklihi azwajun",
+    "translation": "And other torments in pairs, of similar appearance.",
+    "notes": "",
+    "urdu": "اور اسی طرح کے اور بہت سے (عذاب ہوں گے)"
+  },
+  {
+    "id": 59,
+    "ref": "38:59",
+    "arabic": "هَٰذَا فَوۡجٞ مُّقۡتَحِمٞ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُواْ ٱلنَّارِ",
+    "transliteration": "Hatha fawjun muqtahimun maAAakum la marhaban bihim innahum saloo alnnari",
+    "translation": "This crowd of people who went headlong with you into sin – no welcome to them either! They shall indeed suffer the Fire!",
+    "notes": "",
+    "urdu": "یہ ایک فوج ہے جو تمہارے ساتھ داخل ہوگی۔ ان کو خوشی نہ ہو یہ دوزخ میں جانے والے ہیں"
+  },
+  {
+    "id": 60,
+    "ref": "38:60",
+    "arabic": "قَالُواْ بَلۡ أَنتُمۡ لَا مَرۡحَبَۢا بِكُمۡۖ أَنتُمۡ قَدَّمۡتُمُوهُ لَنَاۖ فَبِئۡسَ ٱلۡقَرَارُ",
+    "transliteration": "Qaloo bal antum la marhaban bikum antum qaddamtumoohu lana fabisa alqararu",
+    "translation": "They [the seduced] will say [to the seducers], “Nay, but it is you who are not welcome! You have brought this upon us: and it is a vile state to be in!”",
+    "notes": "",
+    "urdu": "کہیں گے بلکہ تم ہی کو خوشی نہ ہو۔ تم ہی تو یہ (بلا) ہمارے سامنے لائے سو (یہ) برا ٹھکانا ہے"
+  },
+  {
+    "id": 61,
+    "ref": "38:61",
+    "arabic": "قَالُواْ رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدۡهُ عَذَابٗا ضِعۡفٗا فِي ٱلنَّارِ",
+    "transliteration": "Qaloo rabbana man qaddama lana hatha fazidhu AAathaban diAAfan fee alnnari",
+    "translation": "They will say, “Our Lord! Increase the punishment in the Fire twofold for those who brought this upon us!”",
+    "notes": "",
+    "urdu": "وہ کہیں گے اے پروردگار جو اس کو ہمارے سامنے لایا ہے اس کو دوزخ میں دونا عذاب دے"
+  },
+  {
+    "id": 62,
+    "ref": "38:62",
+    "arabic": "وَقَالُواْ مَا لَنَا لَا نَرَىٰ رِجَالٗا كُنَّا نَعُدُّهُم مِّنَ ٱلۡأَشۡرَارِ",
+    "transliteration": "Waqaloo ma lana la nara rijalan kunna naAAudduhum mina alashrari",
+    "translation": "And they will say, “How come we do not see men whom we counted among the evil?”",
+    "notes": "",
+    "urdu": "اور کہیں گے کیا سبب ہے کہ (یہاں) ہم ان شخصوں کو نہیں دیکھتے جن کو بروں میں شمار کرتے تھے"
+  },
+  {
+    "id": 63,
+    "ref": "38:63",
+    "arabic": "أَتَّخَذۡنَٰهُمۡ سِخۡرِيًّا أَمۡ زَاغَتۡ عَنۡهُمُ ٱلۡأَبۡصَٰرُ",
+    "transliteration": "Attakhathnahum sikhriyyan am zaghat AAanhumu alabsaru",
+    "translation": "“We used to hold them in ridicule! Or is it that our eyes have missed them?”",
+    "notes": "",
+    "urdu": "کیا ہم نے ان سے ٹھٹھا کیا ہے یا (ہماری) آنکھیں ان (کی طرف) سے پھر گئی ہیں؟"
+  },
+  {
+    "id": 64,
+    "ref": "38:64",
+    "arabic": "إِنَّ ذَٰلِكَ لَحَقّٞ تَخَاصُمُ أَهۡلِ ٱلنَّارِ",
+    "transliteration": "Inna thalika lahaqqun takhasumu ahli alnnari",
+    "translation": "That, indeed, will in truth be the mutual wrangling among the people of the Fire!",
+    "notes": "",
+    "urdu": "بےشک یہ اہل دوزخ کا جھگڑنا برحق ہے"
+  },
+  {
+    "id": 65,
+    "ref": "38:65",
+    "arabic": "قُلۡ إِنَّمَآ أَنَا۠ مُنذِرٞۖ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ",
+    "transliteration": "Qul innama ana munthirun wama min ilahin illa Allahu alwahidu alqahharu",
+    "translation": "Say [O Muhammad], “I am only a warner! And there is none worthy of worship other than Allah, the One and Only, the Almighty.”",
+    "notes": "",
+    "urdu": "کہہ دو کہ میں تو صرف ہدایت کرنے والا ہوں۔ اور خدائے یکتا اور غالب کے سوا کوئی معبود نہیں"
+  },
+  {
+    "id": 66,
+    "ref": "38:66",
+    "arabic": "رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلۡعَزِيزُ ٱلۡغَفَّـٰرُ",
+    "transliteration": "Rabbu alssamawati waalardi wama baynahuma alAAazeezu alghaffaru",
+    "translation": "“The Lord of the heavens and the earth and all that is in between, the Omnipotent, the Ultimate Forgiver!”",
+    "notes": "",
+    "urdu": "جو آسمانوں اور زمین اور جو مخلوق ان میں ہے سب کا مالک ہے غالب (اور) بخشنے والا"
+  },
+  {
+    "id": 67,
+    "ref": "38:67",
+    "arabic": "قُلۡ هُوَ نَبَؤٌاْ عَظِيمٌ",
+    "transliteration": "Qul huwa nabaon AAatheemun",
+    "translation": "Say: “This is a Message of the greatest importance!”",
+    "notes": "",
+    "urdu": "کہہ دو کہ یہ ایک بڑی (ہولناک چیز کی) خبر ہے"
+  },
+  {
+    "id": 68,
+    "ref": "38:68",
+    "arabic": "أَنتُمۡ عَنۡهُ مُعۡرِضُونَ",
+    "transliteration": "Antum AAanhu muAAridoona",
+    "translation": "“[And] you turn away from it!”",
+    "notes": "",
+    "urdu": "جس کو تم دھیان میں نہیں لاتے"
+  },
+  {
+    "id": 69,
+    "ref": "38:69",
+    "arabic": "مَا كَانَ لِيَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰٓ إِذۡ يَخۡتَصِمُونَ",
+    "transliteration": "Ma kana liya min AAilmin bialmalai alaAAla ith yakhtasimoona",
+    "translation": "“I could have had no knowledge of the angels up there when they argued [against the creation of man].”",
+    "notes": "",
+    "urdu": "مجھ کو اوپر کی مجلس (والوں) کا جب وہ جھگڑتے تھے کچھ بھی علم نہ تھا"
+  },
+  {
+    "id": 70,
+    "ref": "38:70",
+    "arabic": "إِن يُوحَىٰٓ إِلَيَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٌ",
+    "transliteration": "In yooha ilayya illa annama ana natheerun mubeenun",
+    "translation": "“[I could have no knowledge of it] if it had not been revealed to me [by Allah’s permission.] I am but a plain warner.”",
+    "notes": "",
+    "urdu": "میری طرف تو یہی وحی کی جاتی ہے کہ میں کھلم کھلا ہدایت کرنے والا ہوں"
+  },
+  {
+    "id": 71,
+    "ref": "38:71",
+    "arabic": "إِذۡ قَالَ رَبُّكَ لِلۡمَلَـٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن طِينٖ",
+    "transliteration": "Ith qala rabbuka lilmalaikati innee khaliqun basharan min teenin",
+    "translation": "When your Lord said to the angels, “I am indeed about to create a human being out of clay.”",
+    "notes": "",
+    "urdu": "جب تمہارے پروردگار نے فرشتوں سے کہا کہ میں مٹی سے انسان بنانے والا ہوں"
+  },
+  {
+    "id": 72,
+    "ref": "38:72",
+    "arabic": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ",
+    "transliteration": "Faitha sawwaytuhu wanafakhtu feehi min roohee faqaAAoo lahu sajideena",
+    "translation": "“And when I have completed his form and breathed into him of My spirit, lie down before him in prostration!”",
+    "notes": "",
+    "urdu": "جب اس کو درست کرلوں اور اس میں اپنی روح پھونک دوں تو اس کے آگے سجدے میں گر پڑنا"
+  },
+  {
+    "id": 73,
+    "ref": "38:73",
+    "arabic": "فَسَجَدَ ٱلۡمَلَـٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ",
+    "transliteration": "Fasajada almalaikatu kulluhum ajmaAAoona",
+    "translation": "The angels then prostrated all of them together.",
+    "notes": "",
+    "urdu": "تو تمام فرشتوں نے سجدہ کیا"
+  },
+  {
+    "id": 74,
+    "ref": "38:74",
+    "arabic": "إِلَّآ إِبۡلِيسَ ٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ",
+    "transliteration": "Illa ibleesa istakbara wakana mina alkafireena",
+    "translation": "[All] except Iblees , who became arrogant, and [thus] became one of those who suppress the Truth.",
+    "notes": "Refer study notes 2.27 to 2.30 on Verse 2.34 (Manzil I).",
+    "urdu": "مگر شیطان اکڑ بیٹھا اور کافروں میں ہوگیا"
+  },
+  {
+    "id": 75,
+    "ref": "38:75",
+    "arabic": "قَالَ يَـٰٓإِبۡلِيسُ مَا مَنَعَكَ أَن تَسۡجُدَ لِمَا خَلَقۡتُ بِيَدَيَّۖ أَسۡتَكۡبَرۡتَ أَمۡ كُنتَ مِنَ ٱلۡعَالِينَ",
+    "transliteration": "Qala ya ibleesu ma manaAAaka an tasjuda lima khalaqtu biyadayya astakbarta am kunta mina alAAaleena",
+    "translation": "Allah said, “O Iblees! What has prevented you from prostrating before what I have created with My hands? Are you proud or are you of those who think of themselves as high and mighty!?”",
+    "notes": "",
+    "urdu": "خدا نے) فرمایا کہ اے ابلیس جس شخص کو میں نے اپنے ہاتھوں سے بنایا اس کے آگے سجدہ کرنے سے تجھے کس چیز نے منع کیا۔ کیا تو غرور میں آگیا یا اونچے درجے والوں میں تھا؟"
+  },
+  {
+    "id": 76,
+    "ref": "38:76",
+    "arabic": "قَالَ أَنَا۠ خَيۡرٞ مِّنۡهُ خَلَقۡتَنِي مِن نَّارٖ وَخَلَقۡتَهُۥ مِن طِينٖ",
+    "transliteration": "Qala ana khayrun minhu khalaqtanee min narin wakhalaqtahu min teenin",
+    "translation": "Iblees replied, “I am better than he. You have created me out of fire [energy], and You have created him out of clay [matter].”",
+    "notes": "",
+    "urdu": "بولا کہ میں اس سے بہتر ہوں (کہ) تو نے مجھ کو کو آگ سے پیدا کیا اور اِسے مٹی سے بنایا"
+  },
+  {
+    "id": 77,
+    "ref": "38:77",
+    "arabic": "قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِيمٞ",
+    "transliteration": "Qala faokhruj minha fainnaka rajeemun",
+    "translation": "Allah said, “Get out from here; for, indeed, you are expelled!”",
+    "notes": "",
+    "urdu": "فرمایا یہاں سے نکل جا تو مردود ہے"
+  },
+  {
+    "id": 78,
+    "ref": "38:78",
+    "arabic": "وَإِنَّ عَلَيۡكَ لَعۡنَتِيٓ إِلَىٰ يَوۡمِ ٱلدِّينِ",
+    "transliteration": "Wainna AAalayka laAAnatee ila yawmi alddeeni",
+    "translation": "“And My curse shall be on you till the Judgment Day!”",
+    "notes": "",
+    "urdu": "اور تجھ پر قیامت کے دن تک میری لعنت (پڑتی) رہے گی"
+  },
+  {
+    "id": 79,
+    "ref": "38:79",
+    "arabic": "قَالَ رَبِّ فَأَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ",
+    "transliteration": "Qala rabbi faanthirnee ila yawmi yubAAathoona",
+    "translation": "Iblees said, “My Lord! Give me respite then till the Day of Resurrection!”",
+    "notes": "",
+    "urdu": "کہنے لگا کہ میرے پروردگار مجھے اس روز تک کہ لوگ اٹھائے جائیں مہلت دے"
+  },
+  {
+    "id": 80,
+    "ref": "38:80",
+    "arabic": "قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِينَ",
+    "transliteration": "Qala fainnaka mina almunthareena",
+    "translation": "Allah Ta’ala said, “So shall you indeed be among those given respite”",
+    "notes": "",
+    "urdu": "فرمایا کہ تجھ کو مہلت دی جاتی ہے"
+  },
+  {
+    "id": 81,
+    "ref": "38:81",
+    "arabic": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+    "transliteration": "Ila yawmi alwaqti almaAAloomi",
+    "translation": "“For a period the duration of which is fixed.”",
+    "notes": "",
+    "urdu": "اس روز تک جس کا وقت مقرر ہے"
+  },
+  {
+    "id": 82,
+    "ref": "38:82",
+    "arabic": "قَالَ فَبِعِزَّتِكَ لَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ",
+    "transliteration": "Qala fabiAAizzatika laoghwiyannahum ajmaAAeena",
+    "translation": "Iblees said, “Then I swear by Your Honour that I shall certainly seduce them all,”",
+    "notes": "",
+    "urdu": "کہنے لگا کہ مجھے تیری عزت کی قسم میں ان سب کو بہکاتا رہوں گا"
+  },
+  {
+    "id": 83,
+    "ref": "38:83",
+    "arabic": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ",
+    "transliteration": "Illa AAibadaka minhumu almukhlaseena",
+    "translation": "“All except those subjects of Yours who are sincerely devoted to You!”",
+    "notes": "",
+    "urdu": "سوا ان کے جو تیرے خالص بندے ہیں"
+  },
+  {
+    "id": 84,
+    "ref": "38:84",
+    "arabic": "قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ",
+    "transliteration": "Qala faalhaqqu waalhaqqa aqoolu",
+    "translation": "Allah Ta’ala said, “The Truth, then – and in Truth do I state:”",
+    "notes": "",
+    "urdu": "فرمایا سچ (ہے) اور میں بھی سچ کہتا ہوں"
+  },
+  {
+    "id": 85,
+    "ref": "38:85",
+    "arabic": "لَأَمۡلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنۡهُمۡ أَجۡمَعِينَ",
+    "transliteration": "Laamlaanna jahannama minka wamimman tabiAAaka minhum ajmaAAeena",
+    "translation": "“Certainly will I fill Hell with you and with all those who shall follow you among them!”",
+    "notes": "",
+    "urdu": "کہ میں تجھ سے اور جو ان میں سے تیری پیروی کریں گے سب سے جہنم کو بھر دوں گا"
+  },
+  {
+    "id": 86,
+    "ref": "38:86",
+    "arabic": "قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٖ وَمَآ أَنَا۠ مِنَ ٱلۡمُتَكَلِّفِينَ",
+    "transliteration": "Qul ma asalukum AAalayhi min ajrin wama ana mina almutakallifeena",
+    "translation": "Say [O Prophet], “I ask of you no reward for this [Qur’aan]. And I am not pretentious.”",
+    "notes": "",
+    "urdu": "اے پیغمبر کہہ دو کہ میں تم سے اس کا صلہ نہیں مانگتا اور نہ میں بناوٹ کرنے والوں میں ہوں"
+  },
+  {
+    "id": 87,
+    "ref": "38:87",
+    "arabic": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+    "transliteration": "In huwa illa thikrun lilAAalameena",
+    "translation": "“This [Qur’aan] is nothing but that which all human beings need to constantly refer to for rightful decisions and actions in their respective worlds.”",
+    "notes": "",
+    "urdu": "یہ قرآن تو اہل عالم کے لئے نصیحت ہے"
+  },
+  {
+    "id": 88,
+    "ref": "38:88",
+    "arabic": "وَلَتَعۡلَمُنَّ نَبَأَهُۥ بَعۡدَ حِينِۭ",
+    "transliteration": "WalataAAlamunna nabaahu baAAda heenin",
+    "translation": "“And you will certainly come to know its [Qur’aan’s] Message [of the greatest importance] after some time! ”",
+    "notes": "See Verse 67 above.\n\nWithin a decade of the complete revelation of the Qur’aan, the Islamic State under Khalif Omar had already become the greatest power on earth. And during the next few centuries, Muslims had become the torch-bearers in almost all fields of human activity like science, medicine, technology etc. Muslims could have this achievement because they had then, by and large, grasped the importance of the Qur’aan and followed its tenets in their lives. The Muslims’ suzerainty however vanished after the majority among them started treating the Qur’aan as a thing of no importance! History has thus registered the importance of the Qur’aan in no uncertain terms. But man, alas, continues to be in deep slumber!",
+    "urdu": "اور تم کو اس کا حال ایک وقت کے بعد معلوم ہوجائے گا"
+  }
+]

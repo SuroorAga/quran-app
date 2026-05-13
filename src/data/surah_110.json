@@ -1,1 +1,29 @@
-[{"id":1,"ref":"110:1","arabic":"إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ","transliteration":"Itha jaa nasru Allahi waalfathu","translation":"","notes":""},{"id":2,"ref":"110:2","arabic":"وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا","transliteration":"Waraayta alnnasa yadkhuloona fee deeni Allahi afwajan","translation":"","notes":""},{"id":3,"ref":"110:3","arabic":"فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا","transliteration":"Fasabbih bihamdi rabbika waistaghfirhu innahu kana tawwaban","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "110:1",
+    "arabic": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+    "transliteration": "Itha jaa nasru Allahi waalfathu",
+    "translation": "When Allah’s help and the victory have come,",
+    "notes": "",
+    "urdu": "جب خدا کی مدد آ پہنچی اور فتح (حاصل ہو گئی)"
+  },
+  {
+    "id": 2,
+    "ref": "110:2",
+    "arabic": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
+    "transliteration": "Waraayta alnnasa yadkhuloona fee deeni Allahi afwajan",
+    "translation": "And you see people entering Allah-ordained way of life for mankind, in large numbers,",
+    "notes": "",
+    "urdu": "اور تم نے دیکھ لیا کہ لوگ غول کے غول خدا کے دین میں داخل ہو رہے ہیں"
+  },
+  {
+    "id": 3,
+    "ref": "110:3",
+    "arabic": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+    "transliteration": "Fasabbih bihamdi rabbika waistaghfirhu innahu kana tawwaban",
+    "translation": "Then glorify your Lord with His praise and seek His forgiveness. HE is indeed the One to accept repentance.",
+    "notes": "The contents of this short Chapter indicate that it was revealed very near the end of Prophet Muhammad’s mission. He was, Alhamdulillah, one of the very few Messengers of Allah to see the success of their missions in their own lifetimes. People had started embracing Islam in hordes. But, during those moments of triumph, he was advised to sing, not his own but, Allah’s praises. It was through His blessings that the triumph had come. The Prophet was also advised to ask for Allah’s forgiveness. Though a Prophet of Allah, he was human too. He could have inadvertently committed some mistakes or errors in his lifetime. There is a lesson in this for every ruler of mankind. The Prophet (peace on him) died soon after the revelation of this Surah.",
+    "urdu": "تو اپنے پروردگار کی تعریف کے ساتھ تسبیح کرو اور اس سے مغفرت مانگو، بے شک وہ معاف کرنے والا ہے"
+  }
+]

@@ -5,7 +5,8 @@
     "arabic": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
     "transliteration": "Qul aAAoothu birabbi alnnasi",
     "translation": "Say , “I seek refuge in the Lord of mankind,”",
-    "notes": ""
+    "notes": "",
+    "urdu": "کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "مَلِكِ ٱلنَّاسِ",
     "transliteration": "Maliki alnnasi",
     "translation": "“King of mankind,”",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یعنی) لوگوں کے حقیقی بادشاہ کی"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "إِلَٰهِ ٱلنَّاسِ",
     "transliteration": "Ilahi alnnasi",
     "translation": "“One Whom mankind should worship,”",
-    "notes": ""
+    "notes": "",
+    "urdu": "لوگوں کے معبود برحق کی"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
     "transliteration": "Min sharri alwaswasi alkhannasi",
     "translation": "“From the evil of the temptations, doubts and suggestions of the stealthy whisperer,”",
-    "notes": ""
+    "notes": "",
+    "urdu": "(شیطان) وسوسہ انداز کی برائی سے جو (خدا کا نام سن کر) پیچھے ہٹ جاتا ہے"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
     "transliteration": "Allathee yuwaswisu fee sudoori alnnasi",
     "translation": "“– One who puts the evil things in minds of mankind – ”",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے"
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "arabic": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
     "transliteration": "Mina aljinnati wa alnnasm",
     "translation": "“From among the jinn and mankind.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "وہ جنّات میں سے (ہو) یا انسانوں میں سے"
   }
 ]

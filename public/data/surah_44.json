@@ -5,7 +5,8 @@
     "arabic": "حمٓ",
     "transliteration": "Hameem",
     "translation": "Ha Mim",
-    "notes": ""
+    "notes": "",
+    "urdu": "حٰم"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ",
     "transliteration": "Waalkitabi almubeeni",
     "translation": "[Angels swear:] By the Book clear [Qur’aan]!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس کتاب روشن کی قسم"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ",
     "transliteration": "Inna anzalnahu fee laylatin mubarakatin inna kunna munthireena",
     "translation": "We have indeed sent it [the Qur’aan] down on a blessed night. We had indeed been warning [mankind]!",
-    "notes": "Please refer Qur’aanic Chapter 97 in this context."
+    "notes": "Please refer Qur’aanic Chapter 97 in this context.",
+    "urdu": "کہ ہم نے اس کو مبارک رات میں نازل فرمایا ہم تو رستہ دکھانے والے ہیں"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ",
     "transliteration": "Feeha yufraqu kullu amrin hakeemin",
     "translation": "Therein, every decree of wisdom is distinctly defined.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اسی رات میں تمام حکمت کے کام فیصل کئے جاتے ہیں"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ",
     "transliteration": "Amran min AAindina inna kunna mursileena",
     "translation": "Decree from Us – We were the Messengers indeed!",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یعنی) ہمارے ہاں سے حکم ہو کر۔ بےشک ہم ہی (پیغمبر کو) بھیجتے ہیں"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
     "transliteration": "Rahmatan min rabbika innahu huwa alssameeAAu alAAaleemu",
     "translation": "A mercy from your Lord – He hears all, knows all!",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یہ) تمہارے پروردگار کی رحمت ہے۔ وہ تو سننے والا جاننے والا ہے"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ",
     "transliteration": "Rabbi alssamawati waalardi wama baynahuma in kuntum mooqineena",
     "translation": "He is the Lord of the heavens and the earth and all that is in between, if you do certainly believe.",
-    "notes": ""
+    "notes": "",
+    "urdu": "آسمانوں اور زمین کا اور جو کچھ ان دونوں میں ہے سب کا مالک۔ بشرطیکہ تم لوگ یقین کرنے والے ہو"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
     "transliteration": "La ilaha illa huwa yuhyee wayumeetu rabbukum warabbu abaikumu alawwaleena",
     "translation": "No deity other than Him – He who gives life and death! Your Lord and Lord of your forefathers!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس کے سوا کوئی معبود نہیں۔ (وہی) جِلاتا ہے اور (وہی) مارتا ہے۔ وہی تمہارا اور تمہارے باپ دادا کا پروردگار ہے"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ",
     "transliteration": "Bal hum fee shakkin yalAAaboona",
     "translation": "But, they play with their doubts.",
-    "notes": ""
+    "notes": "",
+    "urdu": "لیکن یہ لوگ شک میں کھیل رہے ہیں"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "فَٱرۡتَقِبۡ يَوۡمَ تَأۡتِي ٱلسَّمَآءُ بِدُخَانٖ مُّبِينٖ",
     "transliteration": "Fairtaqib yawma tatee alssamao bidukhanin mubeenin",
     "translation": "Wait then for the Day when smoke appears in the sky",
-    "notes": ""
+    "notes": "",
+    "urdu": "تو اس دن کا انتظار کرو کہ آسمان سے صریح دھواں نکلے گا"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "arabic": "يَغۡشَى ٱلنَّاسَۖ هَٰذَا عَذَابٌ أَلِيمٞ",
     "transliteration": "Yaghsha alnnasa hatha AAathabun aleemun",
     "translation": "[And] envelopes the people, [who cry out,] “Painful punishment this!”",
-    "notes": ""
+    "notes": "",
+    "urdu": "جو لوگوں پر چھا جائے گا۔ یہ درد دینے والا عذاب ہے"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "arabic": "رَّبَّنَا ٱكۡشِفۡ عَنَّا ٱلۡعَذَابَ إِنَّا مُؤۡمِنُونَ",
     "transliteration": "Rabbana ikshif AAanna alAAathaba inna muminoona",
     "translation": "“Our Lord! Relieve us from this punishment; we do indeed believe in You!”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اے پروردگار ہم سے اس عذاب کو دور کر ہم ایمان لاتے ہیں"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "arabic": "أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَآءَهُمۡ رَسُولٞ مُّبِينٞ",
     "transliteration": "Anna lahumu alththikra waqad jaahum rasoolun mubeenun",
     "translation": "Was not there for them the Zikr [Qur’aan]? And surely a Messenger duly and clearly authorized had come to them therewith!",
-    "notes": "This would be the divine answer to the polytheists when they would cry out, as in Verses 11 and 12 above, on seeing the smoke enveloping them. The divine answer continues in Verses 14 to 16 below."
+    "notes": "This would be the divine answer to the polytheists when they would cry out, as in Verses 11 and 12 above, on seeing the smoke enveloping them. The divine answer continues in Verses 14 to 16 below.",
+    "urdu": "(اس وقت) ان کو نصیحت کہاں مفید ہوگی جب کہ ان کے پاس پیغمبر آچکے جو کھول کھول کر بیان کر دیتے ہیں"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "arabic": "ثُمَّ تَوَلَّوۡاْ عَنۡهُ وَقَالُواْ مُعَلَّمٞ مَّجۡنُونٌ",
     "transliteration": "Thumma tawallaw AAanhu waqaloo muAAallamun majnoonun",
     "translation": "But then they had turned away from him saying he was a crazy man, just repeating what he had learnt from others!",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر انہوں نے ان سے منہ پھیر لیا اور کہنے لگے (یہ تو) پڑھایا ہوا (اور) دیوانہ ہے"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "arabic": "إِنَّا كَاشِفُواْ ٱلۡعَذَابِ قَلِيلًاۚ إِنَّكُمۡ عَآئِدُونَ",
     "transliteration": "Inna kashifoo alAAathabi qaleelan innakum AAaidoona",
     "translation": "Were We to ease the torment for a while, you would return to worshipping others besides Allah!",
-    "notes": ""
+    "notes": "",
+    "urdu": "ہم تو تھوڑے دنوں عذاب ٹال دیتے ہیں (مگر) تم پھر کفر کرنے لگتے ہو"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "arabic": "يَوۡمَ نَبۡطِشُ ٱلۡبَطۡشَةَ ٱلۡكُبۡرَىٰٓ إِنَّا مُنتَقِمُونَ",
     "transliteration": "Yawma nabtishu albatshata alkubra inna muntaqimoona",
     "translation": "On the Day We get hold with the severest grip [Day of Judgment], We will certainly exact retribution.",
-    "notes": ""
+    "notes": "",
+    "urdu": "جس دن ہم بڑی سخت پکڑ پکڑیں گے تو بےشک انتقام لے کر چھوڑیں گے"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "arabic": "۞وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَآءَهُمۡ رَسُولٞ كَرِيمٌ",
     "transliteration": "Walaqad fatanna qablahum qawma firAAawna wajaahum rasoolun kareemun",
     "translation": "And We did put the people of Pharaoh on trial, before them. And there came to them a noble Messenger!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ان سے پہلے ہم نے قوم فرعون کی آزمائش کی اور ان کے پاس ایک عالی قدر پیغمبر آئے"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "arabic": "أَنۡ أَدُّوٓاْ إِلَيَّ عِبَادَ ٱللَّهِۖ إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
     "transliteration": "An addoo ilayya AAibada Allahi innee lakum rasoolun ameenun",
     "translation": "[The Messenger said to them,] “Hand over to me Allah’s worshippers [Children of Israel]. I am a trustworthy Messenger sent to you.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "(جنہوں نے) یہ (کہا) کہ خدا کے بندوں (یعنی بنی اسرائیل) کو میرے حوالے کردو میں تمہارا امانت دار پیغمبر ہوں"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "arabic": "وَأَن لَّا تَعۡلُواْ عَلَى ٱللَّهِۖ إِنِّيٓ ءَاتِيكُم بِسُلۡطَٰنٖ مُّبِينٖ",
     "transliteration": "Waan la taAAloo AAala Allahi innee ateekum bisultanin mubeenin",
     "translation": "And the Messenger further said, “Do not set you yourselves above Allah. I have indeed come to you with clear authority.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور خدا کے سامنے سرکشی نہ کرو۔ میں تمہارے پاس کھلی دلیل لے کر آیا ہوں"
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "arabic": "وَإِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُمۡ أَن تَرۡجُمُونِ",
     "transliteration": "Wainnee AAuthtu birabbee warabbikum an tarjumooni",
     "translation": "And I do indeed seek refuge with my Lord – and your Lord – lest you stone me [to death].",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اس (بات) سے کہ تم مجھے سنگسار کرو اپنے اور تمہارے پروردگار کی پناہ مانگتا ہوں"
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "arabic": "وَإِن لَّمۡ تُؤۡمِنُواْ لِي فَٱعۡتَزِلُونِ",
     "transliteration": "Wain lam tuminoo lee faiAAtazilooni",
     "translation": "If you do not believe in me, then do let me go!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور اگر تم مجھ پر ایمان نہیں لاتے تو مجھ سے الگ ہو جاؤ"
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "arabic": "فَدَعَا رَبَّهُۥٓ أَنَّ هَـٰٓؤُلَآءِ قَوۡمٞ مُّجۡرِمُونَ",
     "transliteration": "FadaAAa rabbahu anna haolai qawmun mujrimoona",
     "translation": "He then prayed to his Lord, “These are sinful people.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "تب موسیٰ نے اپنے پروردگار سے دعا کی کہ یہ نافرمان لوگ ہیں"
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "arabic": "فَأَسۡرِ بِعِبَادِي لَيۡلًا إِنَّكُم مُّتَّبَعُونَ",
     "transliteration": "Faasri biAAibadee laylan innakum muttabaAAoona",
     "translation": "[Allah said,] “Move out in the night with My devotees. You shall indeed be pursued.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "(خدا نے فرمایا کہ) میرے بندوں کو راتوں رات لے کر چلے جاؤ اور (فرعونی) ضرور تمہارا تعاقب کریں گے"
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "arabic": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ",
     "transliteration": "Waotruki albahra rahwan innahum jundun mughraqoona",
     "translation": "“Leave the sea and be calm! Pharaoh’s army is destined to be drowned.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور دریا سے (کہ) خشک (ہو رہا ہوگا) پار ہو جاؤ (تمہارے بعد) ان کا تمام لشکر ڈبو دیا جائے گا"
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "arabic": "كَمۡ تَرَكُواْ مِن جَنَّـٰتٖ وَعُيُونٖ",
     "transliteration": "Kam tarakoo min jannatin waAAuyoonin",
     "translation": "How many gardens and fountains did they leave behind!",
-    "notes": ""
+    "notes": "",
+    "urdu": "وہ لوگ بہت سے باغ اور چشمے چھوڑ گئے"
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "arabic": "وَزُرُوعٖ وَمَقَامٖ كَرِيمٖ",
     "transliteration": "WazurooAAin wamaqamin kareemin",
     "translation": "And [how many] fields and places nice!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور کھیتیاں اور نفیس مکان"
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "arabic": "وَنَعۡمَةٖ كَانُواْ فِيهَا فَٰكِهِينَ",
     "transliteration": "WanaAAmatin kanoo feeha fakiheena",
     "translation": "And comfortable life which they enjoyed!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور آرام کی چیزیں جن میں عیش کیا کرتے تھے"
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "arabic": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا قَوۡمًا ءَاخَرِينَ",
     "transliteration": "Kathalika waawrathnaha qawman akhareena",
     "translation": "And such other things! And We handed over all that to another people.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اسی طرح (ہوا) اور ہم نے دوسرے لوگوں کو ان چیزوں کا مالک بنا دیا"
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "arabic": "فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ",
     "transliteration": "Fama bakat AAalayhimu alssamao waalardu wama kanoo munthareena",
     "translation": "Neither the heaven nor the earth wept for them! And they were given no respite.",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر ان پر نہ تو آسمان کو اور زمین کو رونا آیا اور نہ ان کو مہلت ہی دی گئی"
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "arabic": "وَلَقَدۡ نَجَّيۡنَا بَنِيٓ إِسۡرَـٰٓءِيلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِينِ",
     "transliteration": "Walaqad najjayna banee israeela mina alAAathabi almuheeni",
     "translation": "And We did save the Children of Israel from the humiliating torture.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ہم نے بنی اسرائیل کو ذلت کے عذاب سے نجات دی"
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "arabic": "مِن فِرۡعَوۡنَۚ إِنَّهُۥ كَانَ عَالِيٗا مِّنَ ٱلۡمُسۡرِفِينَ",
     "transliteration": "Min firAAawna innahu kana AAaliyan mina almusrifeena",
     "translation": "[Torture -] at the hands of Pharaoh! He was foremost among those who exceeded all bounds.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یعنی) فرعون سے۔ بےشک وہ سرکش (اور) حد سے نکلا ہوا تھا"
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "arabic": "وَلَقَدِ ٱخۡتَرۡنَٰهُمۡ عَلَىٰ عِلۡمٍ عَلَى ٱلۡعَٰلَمِينَ",
     "transliteration": "Walaqadi ikhtarnahum AAala AAilmin AAala alAAalameena",
     "translation": "And We chose them – We knew whom to choose – above all other people.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ہم نے بنی اسرائیل کو اہل عالم سے دانستہ منتخب کیا تھا"
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "arabic": "وَءَاتَيۡنَٰهُم مِّنَ ٱلۡأٓيَٰتِ مَا فِيهِ بَلَـٰٓؤٞاْ مُّبِينٌ",
     "transliteration": "Waataynahum mina alayati ma feehi balaon mubeenun",
     "translation": "And We gave them signs in which there was a clear test.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ان کو ایسی نشانیاں دی تھیں جن میں صریح آزمائش تھی"
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "arabic": "إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ",
     "transliteration": "Inna haolai layaqooloona",
     "translation": "Indeed, there are those who do say,",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ لوگ یہ کہتے ہیں"
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "arabic": "إِنۡ هِيَ إِلَّا مَوۡتَتُنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُنشَرِينَ",
     "transliteration": "In hiya illa mawtatuna aloola wama nahnu bimunshareena",
     "translation": "“There is nothing beyond our first death! And we shall not be raised to life again.”",
-    "notes": "This, unfortunately, is what most people – including Muslims – in the world today believe! Muslims could really be Muslims only when they become mentally certain that there is life after death."
+    "notes": "This, unfortunately, is what most people – including Muslims – in the world today believe! Muslims could really be Muslims only when they become mentally certain that there is life after death.",
+    "urdu": "کہ ہمیں صرف پہلی دفعہ (یعنی ایک بار) مرنا ہے اور (پھر) اُٹھنا نہیں"
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "arabic": "فَأۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ",
     "transliteration": "Fatoo biabaina in kuntum sadiqeena",
     "translation": "“If what you say is true, then bring back our forefathers!”",
-    "notes": ""
+    "notes": "",
+    "urdu": "پس اگر تم سچے ہو تو ہمارے باپ دادا کو (زندہ کر) لاؤ"
   },
   {
     "id": 37,
@@ -293,7 +329,8 @@
     "arabic": "أَهُمۡ خَيۡرٌ أَمۡ قَوۡمُ تُبَّعٖ وَٱلَّذِينَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَٰهُمۡۚ إِنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
     "transliteration": "Ahum khayrun am qawmu tubbaAAin waallatheena min qablihim ahlaknahum innahum kanoo mujrimeena",
     "translation": "Are they better than the people of Tubba [an ancient tribe] and those who came before them? We destroyed those earlier peoples, because they were sinners!",
-    "notes": ""
+    "notes": "",
+    "urdu": "بھلا یہ اچھے ہیں یا تُبّع کی قوم اور وہ لوگ جو تم سے پہلے ہوچکے ہیں۔ ہم نے ان (سب) کو ہلاک کردیا۔ بےشک وہ گنہگار تھے"
   },
   {
     "id": 38,
@@ -301,7 +338,8 @@
     "arabic": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ",
     "transliteration": "Wama khalaqna alssamawati waalarda wama baynahuma laAAibeena",
     "translation": "We did not create the heavens and the earth and all that lies in between them just for playing therewith!",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور ہم نے آسمانوں اور زمین کو اور جو کچھ ان میں ہے ان کو کھیلتے ہوئے نہیں بنایا"
   },
   {
     "id": 39,
@@ -309,7 +347,8 @@
     "arabic": "مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
     "transliteration": "Ma khalaqnahuma illa bialhaqqi walakinna aktharahum la yaAAlamoona",
     "translation": "We did not create them but with a purpose ! Yet most of them know this not.",
-    "notes": "The purpose of course is to bestow upon mankind a perpetual life of peace, plenty and security in Paradise. But to get there, man must go through a series of trials and tribulations, designed to test his belief in the Almighty Creator, in this worldly life."
+    "notes": "The purpose of course is to bestow upon mankind a perpetual life of peace, plenty and security in Paradise. But to get there, man must go through a series of trials and tribulations, designed to test his belief in the Almighty Creator, in this worldly life.",
+    "urdu": "ان کو ہم نے تدبیر سے پیدا کیا ہے لیکن اکثر لوگ نہیں جانتے"
   },
   {
     "id": 40,
@@ -317,7 +356,8 @@
     "arabic": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ",
     "transliteration": "Inna yawma alfasli meeqatuhum ajmaAAeena",
     "translation": "Indeed, Day of the Decision is the appointed time for them all.",
-    "notes": ""
+    "notes": "",
+    "urdu": "کچھ شک نہیں کہ فیصلے کا دن ان سب (کے اُٹھنے) کا وقت ہے"
   },
   {
     "id": 41,
@@ -325,7 +365,8 @@
     "arabic": "يَوۡمَ لَا يُغۡنِي مَوۡلًى عَن مَّوۡلٗى شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ",
     "transliteration": "Yawma la yughnee mawlan AAan mawlan shayan wala hum yunsaroona",
     "translation": "Day when friend shall be of no avail to friend, and they shall not be given any help!",
-    "notes": ""
+    "notes": "",
+    "urdu": "جس دن کوئی دوست کسی دوست کے کچھ کام نہ آئے گا اور نہ ان کو مدد ملے گی"
   },
   {
     "id": 42,
@@ -333,7 +374,8 @@
     "arabic": "إِلَّا مَن رَّحِمَ ٱللَّهُۚ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
     "transliteration": "Illa man rahima Allahu innahu huwa alAAazeezu alrraheemu",
     "translation": "[No help] except to those whom Allah shows mercy. Indeed, He is the One Omnipotent, Merciful.",
-    "notes": ""
+    "notes": "",
+    "urdu": "مگر جس پر خدا مہربانی کرے۔ وہ تو غالب اور مہربان ہے"
   },
   {
     "id": 43,
@@ -341,7 +383,8 @@
     "arabic": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
     "transliteration": "Inna shajarata alzzaqqoomi",
     "translation": "Indeed, the Zaqqum tree",
-    "notes": "See Verses 37.62 to 37.66"
+    "notes": "See Verses 37.62 to 37.66",
+    "urdu": "بلاشبہ تھوہر کا درخت"
   },
   {
     "id": 44,
@@ -349,7 +392,8 @@
     "arabic": "طَعَامُ ٱلۡأَثِيمِ",
     "transliteration": "TaAAamu alatheemi",
     "translation": "[Zaqqum tree] shall be food of the sinful.",
-    "notes": ""
+    "notes": "",
+    "urdu": "گنہگار کا کھانا ہے"
   },
   {
     "id": 45,
@@ -357,7 +401,8 @@
     "arabic": "كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ",
     "transliteration": "Kaalmuhli yaghlee fee albutooni",
     "translation": "[Food of the sinful would be] like molten brass boiling in their bellies,",
-    "notes": ""
+    "notes": "",
+    "urdu": "جیسے پگھلا ہوا تانبا۔ پیٹوں میں (اس طرح) کھولے گا"
   },
   {
     "id": 46,
@@ -365,7 +410,8 @@
     "arabic": "كَغَلۡيِ ٱلۡحَمِيمِ",
     "transliteration": "Kaghalyi alhameemi",
     "translation": "Like the boiling of hot water!",
-    "notes": ""
+    "notes": "",
+    "urdu": "جس طرح گرم پانی کھولتا ہے"
   },
   {
     "id": 47,
@@ -373,7 +419,8 @@
     "arabic": "خُذُوهُ فَٱعۡتِلُوهُ إِلَىٰ سَوَآءِ ٱلۡجَحِيمِ",
     "transliteration": "Khuthoohu faiAAtiloohu ila sawai aljaheemi",
     "translation": "[Allah will command angels,] “Seize him and drag him into the thick of the Hell Fire.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "(حکم دیا جائے گا کہ) اس کو پکڑ لو اور کھینچتے ہوئے دوزخ کے بیچوں بیچ لے جاؤ"
   },
   {
     "id": 48,
@@ -381,7 +428,8 @@
     "arabic": "ثُمَّ صُبُّواْ فَوۡقَ رَأۡسِهِۦ مِنۡ عَذَابِ ٱلۡحَمِيمِ",
     "transliteration": "Thumma subboo fawqa rasihi min AAathabi alhameemi",
     "translation": "“Then pour over his head boiling water as punishment.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر اس کے سر پر کھولتا ہوا پانی انڈیل دو (کہ عذاب پر) عذاب (ہو)"
   },
   {
     "id": 49,
@@ -389,7 +437,8 @@
     "arabic": "ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡكَرِيمُ",
     "transliteration": "Thuq innaka anta alAAazeezu alkareemu",
     "translation": "“Taste it! You did indeed consider yourself powerful and honourable!”",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اب) مزہ چکھ۔ تو بڑی عزت والا (اور) سردار ہے"
   },
   {
     "id": 50,
@@ -397,7 +446,8 @@
     "arabic": "إِنَّ هَٰذَا مَا كُنتُم بِهِۦ تَمۡتَرُونَ",
     "transliteration": "Inna hatha ma kuntum bihi tamtaroona",
     "translation": "“This indeed is what you had doubts about.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ وہی (دوزخ) ہے جس میں تم لوگ شک کیا کرتے تھے"
   },
   {
     "id": 51,
@@ -405,7 +455,8 @@
     "arabic": "إِنَّ ٱلۡمُتَّقِينَ فِي مَقَامٍ أَمِينٖ",
     "transliteration": "Inna almuttaqeena fee maqamin ameenin",
     "translation": "The pious shall be in a secure place.",
-    "notes": ""
+    "notes": "",
+    "urdu": "بےشک پرہیزگار لوگ امن کے مقام میں ہوں گے"
   },
   {
     "id": 52,
@@ -413,7 +464,8 @@
     "arabic": "فِي جَنَّـٰتٖ وَعُيُونٖ",
     "transliteration": "Fee jannatin waAAuyoonin",
     "translation": "Among gardens and springs!",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یعنی) باغوں اور چشموں میں"
   },
   {
     "id": 53,
@@ -421,7 +473,8 @@
     "arabic": "يَلۡبَسُونَ مِن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَقَٰبِلِينَ",
     "transliteration": "Yalbasoona min sundusin waistabraqin mutaqabileena",
     "translation": "Dressed in silk and brocade and facing one another!",
-    "notes": ""
+    "notes": "",
+    "urdu": "حریر کا باریک اور دبیز لباس پہن کر ایک دوسرے کے سامنے بیٹھے ہوں گے"
   },
   {
     "id": 54,
@@ -429,7 +482,8 @@
     "arabic": "كَذَٰلِكَ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ",
     "transliteration": "Kathalika wazawwajnahum bihoorin AAeenin",
     "translation": "Thus shall it be! And We shall give them Houris with lovely eyes as companions.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اس طرح (کا حال ہوگا) اور ہم بڑی بڑی آنکھوں والی سفید رنگ کی عورتوں سے ان کے جوڑے لگائیں گے"
   },
   {
     "id": 55,
@@ -437,7 +491,8 @@
     "arabic": "يَدۡعُونَ فِيهَا بِكُلِّ فَٰكِهَةٍ ءَامِنِينَ",
     "transliteration": "YadAAoona feeha bikulli fakihatin amineena",
     "translation": "In an atmosphere of peace and security therein, they will ask for every kind of fruit.",
-    "notes": ""
+    "notes": "",
+    "urdu": "وہاں خاطر جمع سے ہر قسم کے میوے منگوائیں گے (اور کھائیں گے)"
   },
   {
     "id": 56,
@@ -445,7 +500,8 @@
     "arabic": "لَا يَذُوقُونَ فِيهَا ٱلۡمَوۡتَ إِلَّا ٱلۡمَوۡتَةَ ٱلۡأُولَىٰۖ وَوَقَىٰهُمۡ عَذَابَ ٱلۡجَحِيمِ",
     "transliteration": "La yathooqoona feeha almawta illa almawtata aloola wawaqahum AAathaba aljaheemi",
     "translation": "They will not taste death therein like the one they earlier had. Allah will save them from the torment of Hell.",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اور) پہلی دفعہ کے مرنے کے سوا (کہ مرچکے تھے) موت کا مزہ نہیں چکھیں گے۔ اور خدا ان کو دوزخ کے عذاب سے بچا لے گا"
   },
   {
     "id": 57,
@@ -453,7 +509,8 @@
     "arabic": "فَضۡلٗا مِّن رَّبِّكَۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
     "transliteration": "Fadlan min rabbika thalika huwa alfawzu alAAatheemu",
     "translation": "[Saving people from Hell and granting them entry into Paradise would be] a favour from your Lord. That will be the highest success.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ تمہارے پروردگار کا فضل ہے۔ یہی تو بڑی کامیابی ہے"
   },
   {
     "id": 58,
@@ -461,7 +518,8 @@
     "arabic": "فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لَعَلَّهُمۡ يَتَذَكَّرُونَ",
     "transliteration": "Fainnama yassarnahu bilisanika laAAallahum yatathakkaroona",
     "translation": "We have indeed then made this Qur’aan easy in your own language so that they [your people] may listen and pay attention.",
-    "notes": ""
+    "notes": "",
+    "urdu": "ہم نے اس (قرآن) کو تمہاری زبان میں آسان کردیا ہے تاکہ یہ لوگ نصیحت پکڑیں"
   },
   {
     "id": 59,
@@ -469,6 +527,7 @@
     "arabic": "فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ",
     "transliteration": "Fairtaqib innahum murtaqiboona",
     "translation": "So you wait and watch [what happens to them]; they too are waiting and watching [what happens to you.]",
-    "notes": ""
+    "notes": "",
+    "urdu": "پس تم بھی انتظار کرو یہ بھی انتظار کر رہے ہیں"
   }
 ]

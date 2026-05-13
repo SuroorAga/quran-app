@@ -12,6 +12,7 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [hiddenNotes, setHiddenNotes] = useState(new Set())
   const [jumpVal, setJumpVal] = useState('')
   const [fontScale, setFontScale] = useState(() => parseInt(localStorage.getItem('fontScale') || '2'))
+  const [lang, setLang] = useState(() => localStorage.getItem('translationLang') || 'en')
   const [copiedRef, setCopiedRef] = useState(null)
   const [highlightedRef, setHighlightedRef] = useState(null)
   const [showScrollTop, setShowScrollTop] = useState(false)
@@ -250,6 +251,17 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
             title="Jump to verse"
           />
         </div>
+        {/* Language toggle */}
+        <div className={styles.langToggle}>
+          {[['en','EN'],['ur','اردو'],['both','Both']].map(([val, label]) => (
+            <button
+              key={val}
+              className={`${styles.langBtn} ${lang === val ? styles.langBtnActive : ''}`}
+              onClick={() => { setLang(val); localStorage.setItem('translationLang', val) }}
+            >{label}</button>
+          ))}
+        </div>
+
         <div className={styles.notesToggleWrap}>
           <span className={styles.notesLabel}>Notes</span>
           <button
@@ -341,9 +353,15 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
                 {verse.transliteration}
               </div>
 
-              {hasTafsir && (
+              {(lang === 'en' || lang === 'both') && hasTafsir && (
                 <div className={styles.translation} style={{ fontSize: EN_SIZES[fontScale] }}>
                   {verse.translation}
+                </div>
+              )}
+
+              {(lang === 'ur' || lang === 'both') && verse.urdu && (
+                <div className={styles.urduTranslation} style={{ fontSize: AR_SIZES[Math.max(0, fontScale - 1)] }}>
+                  {verse.urdu}
                 </div>
               )}
 

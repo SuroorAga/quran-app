@@ -5,7 +5,8 @@
     "arabic": "لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ",
     "transliteration": "La oqsimu bihatha albaladi",
     "translation": "No! I do swear by this City,",
-    "notes": "The negation here is of the non-believers’ presumption that there is none in control over them. See Verse 5 below."
+    "notes": "The negation here is of the non-believers’ presumption that there is none in control over them. See Verse 5 below.",
+    "urdu": "ہمیں اس شہر (مکہ) کی قسم"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
     "transliteration": "Waanta hillun bihatha albaladi",
     "translation": "– And you are a free citizen of this City –",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور تم اسی شہر میں تو رہتے ہو"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "وَوَالِدٖ وَمَا وَلَدَ",
     "transliteration": "Wawalidin wama walada",
     "translation": "And by father and that which he begets,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور باپ (یعنی آدم) اور اس کی اولاد کی قسم"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ",
     "transliteration": "Laqad khalaqna alinsana fee kabadin",
     "translation": "We have certainly created man for hard work.",
-    "notes": ""
+    "notes": "",
+    "urdu": "کہ ہم نے انسان کو تکلیف (کی حالت) میں (رہنے والا) بنایا ہے"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
     "transliteration": "Ayahsabu an lan yaqdira AAalayhi ahadun",
     "translation": "Does he think that no one has any control over him?",
-    "notes": ""
+    "notes": "",
+    "urdu": "کیا وہ خیال رکھتا ہے کہ اس پر کوئی قابو نہ پائے گا"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "arabic": "يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا",
     "transliteration": "Yaqoolu ahlaktu malan lubadan",
     "translation": "He claims, “I have squandered much wealth.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "کہتا ہے کہ میں نے بہت سا مال برباد کیا"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "arabic": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ",
     "transliteration": "Ayahsabu an lam yarahu ahadun",
     "translation": "Does he think no one is keeping a watch on him?",
-    "notes": ""
+    "notes": "",
+    "urdu": "کیا اسے یہ گمان ہے کہ اس کو کسی نے دیکھا نہیں"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "arabic": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
     "transliteration": "Alam najAAal lahu AAaynayni",
     "translation": "Have We not made two eyes for him,",
-    "notes": ""
+    "notes": "",
+    "urdu": "بھلا ہم نےاس کو دو آنکھیں نہیں دیں؟"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "arabic": "وَلِسَانٗا وَشَفَتَيۡنِ",
     "transliteration": "Walisanan washafatayni",
     "translation": "And a tongue and two lips,",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور زبان اور دو ہونٹ (نہیں دیئے)"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "arabic": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ",
     "transliteration": "Wahadaynahu alnnajdayni",
     "translation": "And shown him the two ways [right and wrong]?",
-    "notes": ""
+    "notes": "",
+    "urdu": "(یہ چیزیں بھی دیں) اور اس کو (خیر و شر کے) دونوں رستے بھی دکھا دیئے"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "arabic": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
     "transliteration": "Fala iqtahama alAAaqabata",
     "translation": "But he ventures not up the steep road;",
-    "notes": ""
+    "notes": "",
+    "urdu": "مگر وہ گھاٹی پر سے ہو کر نہ گزرا"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ",
     "transliteration": "Wama adraka ma alAAaqabatu",
     "translation": "And what do you understand what the steep road is?",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور تم کیا سمجھے کہ گھاٹی کیا ہے؟"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "arabic": "فَكُّ رَقَبَةٍ",
     "transliteration": "Fakku raqabatin",
     "translation": "Freeing a slave,",
-    "notes": ""
+    "notes": "",
+    "urdu": "کسی (کی) گردن کا چھڑانا"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "arabic": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
     "transliteration": "Aw itAAamun fee yawmin thee masghabatin",
     "translation": "Or feeding on a day of extreme hunger,",
-    "notes": ""
+    "notes": "",
+    "urdu": "یا بھوک کے دن کھانا کھلانا"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "arabic": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
     "transliteration": "Yateeman tha maqrabatin",
     "translation": "An orphan closely related,",
-    "notes": ""
+    "notes": "",
+    "urdu": "یتیم رشتہ دار کو"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "arabic": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
     "transliteration": "Aw miskeenan tha matrabatin",
     "translation": "Or miserable poor man.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یا فقیر خاکسار کو"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "arabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ",
     "transliteration": "Thumma kana mina allatheena amanoo watawasaw bialssabri watawasaw bialmarhamati",
     "translation": "Then he becomes of those who believe and exhort one another to patience and exhort one another to mercy.",
-    "notes": ""
+    "notes": "",
+    "urdu": "پھر ان لوگوں میں بھی (داخل) ہو جو ایمان لائے اور صبر کی نصیحت اور (لوگوں پر) شفقت کرنے کی وصیت کرتے رہے"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "arabic": "أُوْلَـٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
     "transliteration": "Olaika ashabu almaymanati",
     "translation": "These are the people of the right hand.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہی لوگ صاحب سعادت ہیں"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "arabic": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
     "transliteration": "Waallatheena kafaroo biayatina hum ashabu almashamati",
     "translation": "And those who suppress the Truth in Our Verses, those are the people of the left hand.",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جنہوں نے ہماری آیتوں کو نہ مانا وہ بدبخت ہیں"
   },
   {
     "id": 20,
@@ -157,6 +176,7 @@
     "arabic": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ",
     "transliteration": "AAalayhim narun musadatun",
     "translation": "On them is Fire closing in.",
-    "notes": ""
+    "notes": "",
+    "urdu": "یہ لوگ آگ میں بند کر دیئے جائیں گے"
   }
 ]

@@ -5,7 +5,8 @@
     "arabic": "قُلۡ يَـٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
     "transliteration": "Qul ya ayyuha alkafiroona",
     "translation": "Say, “O you who suppress the Truth!”",
-    "notes": ""
+    "notes": "",
+    "urdu": "(اے پیغمبر ان منکران اسلام سے) کہہ دو کہ اے کافرو!"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "arabic": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
     "transliteration": "La aAAbudu ma taAAbudoona",
     "translation": "“I worship not that which you worship,”",
-    "notes": ""
+    "notes": "",
+    "urdu": "جن (بتوں) کو تم پوچتے ہو ان کو میں نہیں پوجتا"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "arabic": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
     "transliteration": "Wala antum AAabidoona ma aAAbudu",
     "translation": "“And you worship not Him Whom I worship,”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور جس (خدا) کی میں عبادت کرتا ہوں اس کی تم عبادت نہیں کرتے"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "arabic": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
     "transliteration": "Wala ana AAabidun ma AAabadtum",
     "translation": "“And I shall worship not that which you worship,”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور (میں پھر کہتا ہوں کہ) جن کی تم پرستش کرتے ہوں ان کی میں پرستش کرنے والا نہیں ہوں"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "arabic": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
     "transliteration": "Wala antum AAabidoona ma aAAbudu",
     "translation": "“And you worship not Him Whom I worship.”",
-    "notes": ""
+    "notes": "",
+    "urdu": "اور نہ تم اس کی بندگی کرنے والے (معلوم ہوتے) ہو جس کی میں بندگی کرتا ہوں"
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "arabic": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
     "transliteration": "Lakum deenukum waliya deeni",
     "translation": "“For you your way of life and for me, mine.”",
-    "notes": "It was indeed a very fair offer to the kaafiroon. The Prophet preached to them the Islamic way of life. If they accepted it, well and good; and if they did not, well, there was no compulsion. It was left for Allah to deal with their disbelief."
+    "notes": "It was indeed a very fair offer to the kaafiroon. The Prophet preached to them the Islamic way of life. If they accepted it, well and good; and if they did not, well, there was no compulsion. It was left for Allah to deal with their disbelief.",
+    "urdu": "تم اپنے دین پر میں اپنے دین پر"
   }
 ]

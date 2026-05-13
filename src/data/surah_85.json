@@ -1,1 +1,200 @@
-[{"id":1,"ref":"85:1","arabic":"وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ","transliteration":"Waalssamai thati alburooji","translation":"","notes":""},{"id":2,"ref":"85:2","arabic":"وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ","transliteration":"Waalyawmi almawAAoodi","translation":"","notes":""},{"id":3,"ref":"85:3","arabic":"وَشَاهِدٖ وَمَشۡهُودٖ","transliteration":"Washahidin wamashhoodin","translation":"","notes":""},{"id":4,"ref":"85:4","arabic":"قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ","transliteration":"Qutila ashabu alukhdoodi","translation":"","notes":""},{"id":5,"ref":"85:5","arabic":"ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ","transliteration":"Alnnari thati alwaqoodi","translation":"","notes":""},{"id":6,"ref":"85:6","arabic":"إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ","transliteration":"Ith hum AAalayha quAAoodun","translation":"","notes":""},{"id":7,"ref":"85:7","arabic":"وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ","transliteration":"Wahum AAala ma yafAAaloona bialmumineena shuhoodun","translation":"","notes":""},{"id":8,"ref":"85:8","arabic":"وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ","transliteration":"Wama naqamoo minhum illa an yuminoo biAllahi alAAazeezi alhameedi","translation":"","notes":""},{"id":9,"ref":"85:9","arabic":"ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ","transliteration":"Allathee lahu mulku alssamawati waalardi waAllahu AAala kulli shayin shaheedun","translation":"","notes":""},{"id":10,"ref":"85:10","arabic":"إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ ثُمَّ لَمۡ يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ","transliteration":"Inna allatheena fatanoo almumineena waalmuminati thumma lam yatooboo falahum AAathabu jahannama walahum AAathabu alhareeqi","translation":"","notes":""},{"id":11,"ref":"85:11","arabic":"إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُمۡ جَنَّـٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ","transliteration":"Inna allatheena amanoo waAAamiloo alssalihati lahum jannatun tajree min tahtiha alanharu thalika alfawzu alkabeeru","translation":"","notes":""},{"id":12,"ref":"85:12","arabic":"إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ","transliteration":"Inna batsha rabbika lashadeedun","translation":"","notes":""},{"id":13,"ref":"85:13","arabic":"إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ","transliteration":"Innahu huwa yubdio wayuAAeedu","translation":"","notes":""},{"id":14,"ref":"85:14","arabic":"وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ","transliteration":"Wahuwa alghafooru alwadoodu","translation":"","notes":""},{"id":15,"ref":"85:15","arabic":"ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ","transliteration":"Thoo alAAarshi almajeedi","translation":"","notes":""},{"id":16,"ref":"85:16","arabic":"فَعَّالٞ لِّمَا يُرِيدُ","transliteration":"FaAAAAalun lima yureedu","translation":"","notes":""},{"id":17,"ref":"85:17","arabic":"هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ","transliteration":"Hal ataka hadeethu aljunoodi","translation":"","notes":""},{"id":18,"ref":"85:18","arabic":"فِرۡعَوۡنَ وَثَمُودَ","transliteration":"FirAAawna wathamooda","translation":"","notes":""},{"id":19,"ref":"85:19","arabic":"بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ","transliteration":"Bali allatheena kafaroo fee taktheebin","translation":"","notes":""},{"id":20,"ref":"85:20","arabic":"وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطُۢ","transliteration":"WaAllahu min waraihim muheetun","translation":"","notes":""},{"id":21,"ref":"85:21","arabic":"بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ","transliteration":"Bal huwa quranun majeedun","translation":"","notes":""},{"id":22,"ref":"85:22","arabic":"فِي لَوۡحٖ مَّحۡفُوظِۭ","transliteration":"Fee lawhin mahfoothin","translation":"","notes":""}]
+[
+  {
+    "id": 1,
+    "ref": "85:1",
+    "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ",
+    "transliteration": "Waalssamai thati alburooji",
+    "translation": "By the sky, with its constellations of stars!",
+    "notes": "",
+    "urdu": "آسمان کی قسم جس میں برج ہیں"
+  },
+  {
+    "id": 2,
+    "ref": "85:2",
+    "arabic": "وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ",
+    "transliteration": "Waalyawmi almawAAoodi",
+    "translation": "And by the Day [of Judgment] promised,",
+    "notes": "",
+    "urdu": "اور اس دن کی جس کا وعدہ ہے"
+  },
+  {
+    "id": 3,
+    "ref": "85:3",
+    "arabic": "وَشَاهِدٖ وَمَشۡهُودٖ",
+    "transliteration": "Washahidin wamashhoodin",
+    "translation": "And witness [giving evidence in favour of or against anything on the Judgment Day] and those for or against whom the witness is giving evidence!",
+    "notes": "",
+    "urdu": "اور حاضر ہونے والے کی اور جو اس کے پاس حاضر کیا جائے اسکی"
+  },
+  {
+    "id": 4,
+    "ref": "85:4",
+    "arabic": "قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ",
+    "transliteration": "Qutila ashabu alukhdoodi",
+    "translation": "Damned are the owners of the ditch",
+    "notes": "",
+    "urdu": "کہ خندقوں (کے کھودنے) والے ہلاک کر دیئے گئے"
+  },
+  {
+    "id": 5,
+    "ref": "85:5",
+    "arabic": "ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ",
+    "transliteration": "Alnnari thati alwaqoodi",
+    "translation": "Of the fuel-filled fire,",
+    "notes": "",
+    "urdu": "(یعنی) آگ (کی خندقیں) جس میں ایندھن (جھونک رکھا) تھا"
+  },
+  {
+    "id": 6,
+    "ref": "85:6",
+    "arabic": "إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ",
+    "transliteration": "Ith hum AAalayha quAAoodun",
+    "translation": "When they sat by it",
+    "notes": "",
+    "urdu": "جب کہ وہ ان (کے کناروں) پر بیٹھے ہوئے تھے"
+  },
+  {
+    "id": 7,
+    "ref": "85:7",
+    "arabic": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ",
+    "transliteration": "Wahum AAala ma yafAAaloona bialmumineena shuhoodun",
+    "translation": "And witnessed what they did to the believers!",
+    "notes": "In these first seven Verses of this Chapter, the Qur’aan damns those wicked persons who have been persecuting the believers in this world, as by burning them alive in a ditch and gleefully witnessing them get burnt alive! Do not think that such things happened only in the distant prehistoric past; it is happening from time to time in this modern and ‘enlightened’ age too! And why do they do that? See the next Verse 8.",
+    "urdu": "اور جو (سختیاں) اہل ایمان پر کر رہے تھے ان کو سامنے دیکھ رہے تھے"
+  },
+  {
+    "id": 8,
+    "ref": "85:8",
+    "arabic": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+    "transliteration": "Wama naqamoo minhum illa an yuminoo biAllahi alAAazeezi alhameedi",
+    "translation": "And they took vengeance on them for nothing else but that they believed in Allah, the Omnipotent, the Embodiment of Praise,",
+    "notes": "",
+    "urdu": "ان کو مومنوں کی یہی بات بری لگتی تھی کہ وہ خدا پر ایمان لائے ہوئے تھے جو غالب (اور) قابل ستائش ہے"
+  },
+  {
+    "id": 9,
+    "ref": "85:9",
+    "arabic": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+    "transliteration": "Allathee lahu mulku alssamawati waalardi waAllahu AAala kulli shayin shaheedun",
+    "translation": "To Whom belongs the Absolute Sovereignty of the heavens and the earth. And Allah is Witness to all things.",
+    "notes": "Inna allatheena fatanoo almu/mineena waalmu/minati thumma lam yatooboo falahum AAathabu jahannama walahum AAathabu alhareeqi",
+    "urdu": "وہی جس کی آسمانوں اور زمین میں بادشاہت ہے۔ اور خدا ہر چیز سے واقف ہے"
+  },
+  {
+    "id": 10,
+    "ref": "85:10",
+    "arabic": "إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ ثُمَّ لَمۡ يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ",
+    "transliteration": "Inna allatheena fatanoo almumineena waalmuminati thumma lam yatooboo falahum AAathabu jahannama walahum AAathabu alhareeqi",
+    "translation": "Surely indeed, those who persecute believing men and believing women and repent not – for them will be the punishment of Hell, and for them the punishment by the Fire.",
+    "notes": "Inna allatheena amanoo waAAamiloo alssalihati lahum jannatun tajree min tahtiha al-anharu thalika alfawzu alkabeeru",
+    "urdu": "جن لوگوں نے مومن مردوں اور مومن عورتوں کو تکلیفیں دیں اور توبہ نہ کی ان کو دوزخ کا (اور) عذاب بھی ہوگا اور جلنے کا عذاب بھی ہوگا"
+  },
+  {
+    "id": 11,
+    "ref": "85:11",
+    "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُمۡ جَنَّـٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ",
+    "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati lahum jannatun tajree min tahtiha alanharu thalika alfawzu alkabeeru",
+    "translation": "Surely indeed, those who believe and do good deeds – for them will be Gardens underneath which rivers flow. That is the Greatest Success.",
+    "notes": "",
+    "urdu": "(اور) جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کے لیے باغات ہیں جن کے نیچے نہریں بہہ رہی ہیں۔ یہ ہی بڑی کامیابی ہے"
+  },
+  {
+    "id": 12,
+    "ref": "85:12",
+    "arabic": "إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ",
+    "transliteration": "Inna batsha rabbika lashadeedun",
+    "translation": "Indeed, the Hold of your Lord is certainly severe!",
+    "notes": "",
+    "urdu": "بےشک تمہارے پروردگار کی پکڑ بڑی سخت ہے"
+  },
+  {
+    "id": 13,
+    "ref": "85:13",
+    "arabic": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ",
+    "transliteration": "Innahu huwa yubdio wayuAAeedu",
+    "translation": "It is He indeed Who does the original creation, and Who can resurrect His original creation when it is dead.",
+    "notes": "",
+    "urdu": "وہی پہلی دفعہ پیدا کرتا ہے اور وہی دوبارہ (زندہ) کرے گا"
+  },
+  {
+    "id": 14,
+    "ref": "85:14",
+    "arabic": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
+    "transliteration": "Wahuwa alghafooru alwadoodu",
+    "translation": "And He is the One Forgiving, Loving.",
+    "notes": "",
+    "urdu": "اور وہ بخشنے والا اور محبت کرنے والا ہے"
+  },
+  {
+    "id": 15,
+    "ref": "85:15",
+    "arabic": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ",
+    "transliteration": "Thoo alAAarshi almajeedi",
+    "translation": "Lord of the Glorious Throne,",
+    "notes": "",
+    "urdu": "عرش کا مالک بڑی شان والا"
+  },
+  {
+    "id": 16,
+    "ref": "85:16",
+    "arabic": "فَعَّالٞ لِّمَا يُرِيدُ",
+    "transliteration": "FaAAAAalun lima yureedu",
+    "translation": "HE does what He wills.",
+    "notes": "",
+    "urdu": "جو چاہتا ہے کر دیتا ہے"
+  },
+  {
+    "id": 17,
+    "ref": "85:17",
+    "arabic": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ",
+    "transliteration": "Hal ataka hadeethu aljunoodi",
+    "translation": "Have you come to know the story of the armies",
+    "notes": "",
+    "urdu": "بھلا تم کو لشکروں کا حال معلوم ہوا ہے"
+  },
+  {
+    "id": 18,
+    "ref": "85:18",
+    "arabic": "فِرۡعَوۡنَ وَثَمُودَ",
+    "transliteration": "FirAAawna wathamooda",
+    "translation": "Of Pharaoh and of (the ancient tribe of) Thamood?",
+    "notes": "",
+    "urdu": "(یعنی) فرعون اور ثمود کا"
+  },
+  {
+    "id": 19,
+    "ref": "85:19",
+    "arabic": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ",
+    "transliteration": "Bali allatheena kafaroo fee taktheebin",
+    "translation": "Yet, [despite knowing the story of how those ancient peoples were destroyed for their transgressions] those that suppress the Truth live in denial!",
+    "notes": "",
+    "urdu": "لیکن کافر (جان بوجھ کر) تکذیب میں (گرفتار) ہیں"
+  },
+  {
+    "id": 20,
+    "ref": "85:20",
+    "arabic": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطُۢ",
+    "transliteration": "WaAllahu min waraihim muheetun",
+    "translation": "And Allah surrounds them unawares.",
+    "notes": "",
+    "urdu": "اور خدا (بھی) ان کو گردا گرد سے گھیرے ہوئے ہے"
+  },
+  {
+    "id": 21,
+    "ref": "85:21",
+    "arabic": "بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ",
+    "transliteration": "Bal huwa quranun majeedun",
+    "translation": "Nay, [non-believers’ denial notwithstanding,] this is a glorious Qur'aan!",
+    "notes": "",
+    "urdu": "(یہ کتاب ہزل و بطلان نہیں) بلکہ یہ قرآن عظیم الشان ہے"
+  },
+  {
+    "id": 22,
+    "ref": "85:22",
+    "arabic": "فِي لَوۡحٖ مَّحۡفُوظِۭ",
+    "transliteration": "Fee lawhin mahfoothin",
+    "translation": "In a well-protected format.",
+    "notes": "",
+    "urdu": "لوح محفوظ میں (لکھا ہوا)"
+  }
+]
