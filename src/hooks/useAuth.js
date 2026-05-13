@@ -1,7 +1,12 @@
 import { useState, useEffect } from 'react'
-import { onAuthStateChanged, signInWithPopup, signOut } from 'firebase/auth'
+import {
+  onAuthStateChanged, signInWithPopup, signInWithRedirect,
+  getRedirectResult, signOut
+} from 'firebase/auth'
 import { doc, setDoc, getDoc, serverTimestamp } from 'firebase/firestore'
 import { auth, googleProvider, db, ADMIN_EMAILS } from '../firebase'
+
+const isMobile = () => /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
 
 async function recordUser(user) {
   const ref = doc(db, 'users', user.uid)
@@ -11,7 +16,6 @@ async function recordUser(user) {
     email: user.email,
     photoURL: user.photoURL,
     lastSeen: serverTimestamp(),
-    // firstSeen only written once
     ...(snap.exists() ? {} : { firstSeen: serverTimestamp() }),
   }, { merge: true })
 }
@@ -21,6 +25,11 @@ export function useAuth() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
+    // Handle redirect result when returning from Google sign-in on mobile
+    getRedirectResult(auth)
+      .then(result => { if (result?.user) recordUser(result.user).catch(() => {}) })
+      .catch(() => {})
+
     const unsub = onAuthStateChanged(auth, async (u) => {
       setUser(u)
       setLoading(false)
@@ -31,7 +40,14 @@ export function useAuth() {
 
   const isAdmin = !!(user && ADMIN_EMAILS.includes(user.email))
 
-  const signIn = () => signInWithPopup(auth, googleProvider)
+  const signIn = () => {
+    if (isMobile()) {
+      signInWithRedirect(auth, googleProvider)
+    } else {
+      signInWithPopup(auth, googleProvider).catch(() => {})
+    }
+  }
+
   const logOut = () => signOut(auth)
 
   return { user, loading, isAdmin, signIn, logOut }
