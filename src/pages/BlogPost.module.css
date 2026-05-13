@@ -116,6 +116,7 @@
 }
 
 .meta {
+  display: flex; align-items: center; justify-content: space-between;
   margin-bottom: 10px;
 }
 .metaDate {
@@ -123,6 +124,11 @@
   color: var(--gold-dark);
   font-style: italic;
   letter-spacing: 0.02em;
+}
+.metaTime {
+  font-size: 11px; color: var(--text-faint);
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: 20px; padding: 2px 8px;
 }
 
 .title {
@@ -262,3 +268,53 @@
 .footerWhatsapp:hover { background: #1DA851; }
 .footerEmail { background: var(--card); color: var(--text); border: 1px solid var(--border); }
 .footerEmail:hover { background: var(--bg); }
+
+/* Prev / Next navigation */
+.postNav {
+  display: flex; gap: 12px; margin: 40px 0 0;
+  padding-top: 24px; border-top: 1px solid var(--border);
+}
+.postNavBtn {
+  flex: 1; display: flex; flex-direction: column; gap: 4px;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 10px; padding: 14px; text-align: left;
+  transition: border-color 0.15s;
+}
+.postNavBtn:hover { border-color: var(--gold-border); }
+.postNavRight { text-align: right; }
+.postNavLabel { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--gold-dark); }
+.postNavTitle { font-size: 14px; font-family: Georgia, serif; color: var(--text); line-height: 1.3; font-weight: bold; }
+
+/* Slide-up share sheet */
+.shareOverlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.5);
+  z-index: 200; display: flex; align-items: flex-end;
+  animation: fadeIn 0.2s ease;
+}
+@keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+
+.shareSheet {
+  width: 100%; background: var(--card);
+  border-radius: 20px 20px 0 0; border-top: 2px solid var(--gold-border);
+  padding: 8px 0 40px;
+  animation: slideUp 0.25s cubic-bezier(0.32,0.72,0,1);
+}
+@keyframes slideUp { from { transform: translateY(100%) } to { transform: translateY(0) } }
+
+.shareHandle {
+  width: 36px; height: 4px; background: var(--border);
+  border-radius: 2px; margin: 8px auto 16px;
+}
+.shareTitle {
+  font-size: 13px; font-weight: bold; color: var(--text-faint);
+  text-transform: uppercase; letter-spacing: 0.1em;
+  padding: 0 20px 12px; border-bottom: 1px solid var(--border);
+}
+.shareOption {
+  display: flex; align-items: center; gap: 14px; width: 100%;
+  padding: 18px 20px; background: none; border: none;
+  font-size: 16px; font-family: Georgia, serif; color: var(--text);
+  border-bottom: 1px solid var(--border); text-align: left;
+}
+.shareOption:hover { background: var(--row-hover); }
+.shareOptionIcon { display: flex; align-items: center; color: var(--text-muted); }

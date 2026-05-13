@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import styles from './SurahList.module.css'
 import AppHeader from '../components/AppHeader.jsx'
 
-export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, onResume, onGoHome, auth, onOpenBooks, onOpenBlog }) {
+export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, onResume, onGoHome, auth, onOpenBooks, onOpenBlog, getPercent, onResetProgress }) {
   const [chapters, setChapters] = useState([])
   const [search, setSearch] = useState('')
   const [filter, setFilter] = useState('all')
@@ -34,6 +34,7 @@ export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, 
         title="Qur'aanic Studies"
         subtitle="A Modern Tafsir · Mohammad Shafi"
         onNavigate={{ surahs: null, blog: onOpenBlog, books: onOpenBooks, home: onGoHome }}
+        onResetProgress={onResetProgress}
       />
 
       {lastRead && (
@@ -76,7 +77,7 @@ export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, 
         {filtered.length === 0 && <div className={styles.empty}>No surahs found for "{search}"</div>}
         {filtered.map(ch => (
           <button key={ch.id} className={styles.row} onClick={() => onOpen(ch)}>
-            <div className={styles.numBadge}>{ch.id}</div>
+            <SurahProgressBadge id={ch.id} pct={getPercent ? getPercent(ch.id, ch.total_verses) : 0} />
             <div className={styles.info}>
               <div className={styles.name}>{ch.transliteration}</div>
               <div className={styles.meta}>{ch.type === 'meccan' ? 'Meccan' : 'Medinan'} · {ch.total_verses} verses</div>
@@ -84,6 +85,50 @@ export default function SurahList({ onOpen, darkMode, toggleDarkMode, lastRead, 
             <div className={styles.arabic}>{ch.name}</div>
           </button>
         ))}
+      </div>
+    </div>
+  )
+}
+
+function SurahProgressBadge({ id, pct }) {
+  const size   = 36
+  const stroke = 2.5
+  const radius = (size / 2) - stroke
+  const circ   = 2 * Math.PI * radius
+  const offset = circ - (pct / 100) * circ
+  const done   = pct === 100
+
+  return (
+    <div style={{ position: 'relative', width: size, height: size, flexShrink: 0 }}>
+      <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`} style={{ position: 'absolute', top: 0, left: 0 }}>
+        {/* Track */}
+        <circle cx={size/2} cy={size/2} r={radius}
+          fill="none" stroke="var(--gold-border)" strokeWidth={stroke} opacity="0.5" />
+        {/* Progress arc */}
+        {pct > 0 && (
+          <circle cx={size/2} cy={size/2} r={radius}
+            fill="none"
+            stroke={done ? 'var(--gold)' : 'var(--gold)'}
+            strokeWidth={stroke}
+            strokeLinecap="round"
+            strokeDasharray={circ}
+            strokeDashoffset={offset}
+            transform={`rotate(-90 ${size/2} ${size/2})`}
+            opacity={done ? 1 : 0.75}
+          />
+        )}
+      </svg>
+      {/* Number */}
+      <div style={{
+        position: 'absolute', inset: 0,
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+        fontSize: 12, fontWeight: 600, fontFamily: 'Georgia, serif',
+        color: done ? 'var(--gold-dark)' : 'var(--gold-dark)',
+        background: 'var(--gold-light)',
+        borderRadius: '50%',
+        margin: stroke,
+      }}>
+        {done ? '✓' : id}
       </div>
     </div>
   )

@@ -3,7 +3,7 @@ import Logo from './Logo.jsx'
 import BurgerMenu from './BurgerMenu.jsx'
 import styles from './AppHeader.module.css'
 
-export default function AppHeader({ darkMode, toggleDarkMode, auth, onNavigate, title, subtitle, rightContent }) {
+export default function AppHeader({ darkMode, toggleDarkMode, auth, onNavigate, title, subtitle, rightContent, onResetProgress }) {
   const [burgerOpen, setBurgerOpen] = useState(false)
   const [showProfile, setShowProfile] = useState(false)
 
@@ -17,6 +17,7 @@ export default function AppHeader({ darkMode, toggleDarkMode, auth, onNavigate, 
         auth={auth}
         context="app"
         onNavigate={onNavigate}
+        onResetProgress={onResetProgress}
       />
 
       <div className={styles.header}>

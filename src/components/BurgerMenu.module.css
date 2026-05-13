@@ -154,6 +154,19 @@
   margin: 8px 16px;
 }
 
+.resetBtn {
+  width: 100%;
+  padding: 12px 20px;
+  background: none;
+  border: none;
+  text-align: left;
+  font-size: 14px;
+  font-family: Georgia, serif;
+  color: var(--text-faint, rgba(255,255,255,0.45));
+  transition: color 0.15s;
+}
+.resetBtn:hover { color: #E05050; }
+
 /* Dark mode toggle */
 .setting {
   display: flex;

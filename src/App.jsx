@@ -7,11 +7,13 @@ import BooksPage from './pages/BooksPage.jsx'
 import LandingPage from './pages/LandingPage.jsx'
 import BlogAdmin from './pages/BlogAdmin.jsx'
 import BlogPost from './pages/BlogPost.jsx'
+import BlogsListPage from './pages/BlogsListPage.jsx'
 import AppHeader from './components/AppHeader.jsx'
 import { useBookmarks } from './hooks/useBookmarks.js'
 import { useLastRead } from './hooks/useLastRead.js'
 import { useBlogs } from './hooks/useBlogs.js'
 import { useAuth } from './hooks/useAuth.js'
+import { useQuranProgress } from './hooks/useQuranProgress.js'
 import styles from './App.module.css'
 
 export default function App() {
@@ -31,6 +33,12 @@ export default function App() {
   const auth = useAuth()
   const { lastRead, saveLastRead } = useLastRead(auth.user)
   const bookmarks = useBookmarks(auth.user)
+  const { updateProgress, getPercent, resetProgress } = useQuranProgress()
+
+  const trackLastRead = (surah, verseId) => {
+    saveLastRead(surah, verseId)
+    if (verseId) updateProgress(surah.id, verseId)
+  }
 
   useEffect(() => {
     fetch('/data/chapters.json').then(r => r.json()).then(setChapters)
@@ -116,6 +124,8 @@ export default function App() {
           onBack={() => setSelectedBlog(null)}
           auth={auth}
           onEdit={(post) => { setSelectedBlog(null); setEditBlogPost(post); setShowBlogAdmin(true) }}
+          blogs={blogs.blogs}
+          onNavigate={setSelectedBlog}
         />
       </div>
     )
@@ -169,6 +179,8 @@ export default function App() {
             auth={auth}
             onOpenBooks={openBooks}
             onOpenBlog={() => setTab('blogs')}
+            getPercent={getPercent}
+            onResetProgress={resetProgress}
           />
         )}
         {tab === 'surahs' && selectedSurah && (
@@ -176,7 +188,7 @@ export default function App() {
             surah={selectedSurah}
             onBack={goBack}
             bookmarks={bookmarks}
-            onSaveLastRead={saveLastRead}
+            onSaveLastRead={trackLastRead}
             initialVerseId={resumeVerseId}
             chapters={chapters}
             onNavigate={openSurah}
@@ -198,6 +210,10 @@ export default function App() {
           <BookmarksPage
             bookmarks={bookmarks}
             onOpenSurah={(surah) => { openSurah(surah); setTab('surahs') }}
+            onOpenVerse={(surahId, verseId) => {
+              const ch = chapters.find(c => c.id === surahId)
+              if (ch) { openSurah(ch, verseId); setTab('surahs') }
+            }}
             auth={auth}
             darkMode={darkMode}
             toggleDarkMode={() => setDarkMode(d => !d)}
@@ -205,7 +221,7 @@ export default function App() {
           />
         )}
         {tab === 'blogs' && (
-          <BlogsListTab
+          <BlogsListPage
             blogs={blogs.blogs}
             onOpenPost={setSelectedBlog}
             onOpenAdmin={() => setShowBlogAdmin(true)}
@@ -246,55 +262,6 @@ export default function App() {
           )}
         </button>
       </nav>
-    </div>
-  )
-}
-
-function BlogsListTab({ blogs, onOpenPost, onOpenAdmin, isAdmin, darkMode, toggleDarkMode, auth, onNavigate }) {
-  const adminBtn = (
-    <button
-      onClick={onOpenAdmin}
-      style={{ background: 'var(--gold)', color: '#1A1714', border: 'none', borderRadius: '8px', padding: '6px 14px', fontSize: '13px', fontWeight: 'bold', fontFamily: 'Georgia, serif', flexShrink: 0 }}
-    >
-      {isAdmin ? '✍ Write' : '🔐 Admin'}
-    </button>
-  )
-
-  return (
-    <div style={{ display: 'flex', flexDirection: 'column', height: '100%', background: 'var(--bg)', overflow: 'hidden' }}>
-      <AppHeader
-        darkMode={darkMode}
-        toggleDarkMode={toggleDarkMode}
-        auth={auth}
-        title="Mohammad Shafi's Blog"
-        onNavigate={onNavigate}
-        rightContent={adminBtn}
-      />
-      <div style={{ flex: 1, overflowY: 'auto', padding: '16px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
-        {blogs.length === 0 ? (
-          <div style={{ textAlign: 'center', padding: '60px 20px', color: 'var(--text-faint)' }}>
-            <div style={{ fontSize: '40px', marginBottom: '16px' }}>✍️</div>
-            <p style={{ fontSize: '18px', color: 'var(--text-muted)', marginBottom: '8px' }}>No posts yet</p>
-            <p style={{ fontSize: '15px', lineHeight: '1.7' }}>Tap <strong>✍ Write</strong> above to publish your first post.</p>
-          </div>
-        ) : blogs.map(post => (
-          <button
-            key={post.id}
-            onClick={() => onOpenPost(post)}
-            style={{ textAlign: 'left', background: 'var(--card)', border: '1px solid var(--border)', borderRadius: '12px', padding: '18px', width: '100%', display: 'block' }}
-          >
-            <div style={{ fontSize: '11px', color: 'var(--gold-dark)', marginBottom: '6px', fontStyle: 'italic' }}>
-              {new Date(post.date).toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric' })}
-            </div>
-            <div style={{ fontSize: '19px', fontWeight: 'bold', color: 'var(--text)', fontFamily: 'Georgia, serif', marginBottom: '8px', lineHeight: 1.3 }}>
-              {post.title}
-            </div>
-            <div style={{ fontSize: '15px', color: 'var(--text-muted)', lineHeight: 1.7 }}>
-              {post.content.slice(0, 140)}{post.content.length > 140 ? '…' : ''}
-            </div>
-          </button>
-        ))}
-      </div>
     </div>
   )
 }
