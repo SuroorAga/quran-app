@@ -215,7 +215,8 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
 
       {/* Controls bar */}
       <div className={styles.controlBar}>
-        <div className={styles.controlsLeft}>
+        {/* Row 1: surah picker + verse jump */}
+        <div className={styles.controlRow}>
           <select
             className={styles.surahSelect}
             value={surah.id}
@@ -251,26 +252,28 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
             title="Jump to verse"
           />
         </div>
-        {/* Language toggle */}
-        <div className={styles.langToggle}>
-          {[['en','EN'],['ur','اردو'],['both','Both']].map(([val, label]) => (
-            <button
-              key={val}
-              className={`${styles.langBtn} ${lang === val ? styles.langBtnActive : ''}`}
-              onClick={() => { setLang(val); localStorage.setItem('translationLang', val) }}
-            >{label}</button>
-          ))}
-        </div>
 
-        <div className={styles.notesToggleWrap}>
-          <span className={styles.notesLabel}>Notes</span>
-          <button
-            className={`${styles.toggle} ${notesVisible ? styles.toggleOn : ''}`}
-            onClick={toggleAllNotes}
-            title={notesVisible ? 'Hide all notes' : 'Show all notes'}
-          >
-            <span className={styles.toggleKnob} />
-          </button>
+        {/* Row 2: language + notes */}
+        <div className={styles.controlRow}>
+          <div className={styles.langToggle}>
+            {[['en','English'],['ur','اردو'],['both','Both']].map(([val, label]) => (
+              <button
+                key={val}
+                className={`${styles.langBtn} ${lang === val ? styles.langBtnActive : ''}`}
+                onClick={() => { setLang(val); localStorage.setItem('translationLang', val) }}
+              >{label}</button>
+            ))}
+          </div>
+          <div className={styles.notesToggleWrap}>
+            <span className={styles.notesLabel}>Notes</span>
+            <button
+              className={`${styles.toggle} ${notesVisible ? styles.toggleOn : ''}`}
+              onClick={toggleAllNotes}
+              title={notesVisible ? 'Hide all notes' : 'Show all notes'}
+            >
+              <span className={styles.toggleKnob} />
+            </button>
+          </div>
         </div>
       </div>
 

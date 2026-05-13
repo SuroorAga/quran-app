@@ -113,16 +113,23 @@
 /* Controls */
 .controlBar {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 8px 16px;
+  flex-direction: column;
   border-bottom: 1px solid var(--border);
   background: var(--card);
   flex-shrink: 0;
-  gap: 12px;
 }
 
-.controlsLeft { display: flex; align-items: center; gap: 8px; }
+.controlRow {
+  display: flex;
+  align-items: center;
+  padding: 7px 14px;
+  gap: 8px;
+}
+.controlRow + .controlRow {
+  border-top: 1px solid var(--border);
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
 
 .jumpDivider {
   width: 1px;
@@ -132,22 +139,24 @@
 }
 
 .surahSelect {
-  padding: 6px 10px;
+  flex: 1;
+  min-width: 0;
+  padding: 6px 8px;
   border: 1px solid var(--border);
   border-radius: 6px;
   font-size: 13px;
   background: var(--bg);
   color: var(--text);
   outline: none;
-  max-width: 160px;
   transition: border-color 0.15s;
   cursor: pointer;
 }
 .surahSelect:focus { border-color: var(--gold-border); }
 
 .jumpInput {
-  width: 110px;
-  padding: 6px 10px;
+  width: 86px;
+  flex-shrink: 0;
+  padding: 6px 8px;
   border: 1px solid var(--border);
   border-radius: 6px;
   font-size: 13px;
@@ -783,14 +792,16 @@
 
 /* Language toggle */
 .langToggle {
-  display: flex; gap: 3px;
+  display: flex; gap: 4px; flex: 1;
 }
 .langBtn {
-  padding: 4px 10px; font-size: 11px; font-weight: 600;
-  border: 1px solid var(--border); border-radius: 6px;
+  flex: 1; padding: 6px 4px; font-size: 12px; font-weight: 600;
+  border: 1px solid var(--border); border-radius: 7px;
   background: transparent; color: var(--text-muted);
   transition: all 0.15s; font-family: Georgia, serif;
+  text-align: center;
 }
+.langBtn:hover { background: var(--row-hover); color: var(--text); }
 .langBtnActive {
   background: var(--gold-light); color: var(--gold-dark);
   border-color: var(--gold-border);
