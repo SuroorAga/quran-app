@@ -40,11 +40,16 @@ export function useAuth() {
 
   const isAdmin = !!(user && ADMIN_EMAILS.includes(user.email))
 
-  const signIn = () => {
-    if (isMobile()) {
-      signInWithRedirect(auth, googleProvider)
-    } else {
-      signInWithPopup(auth, googleProvider).catch(() => {})
+  const signIn = async () => {
+    try {
+      await signInWithPopup(auth, googleProvider)
+    } catch (e) {
+      // Popup blocked or closed — fall back to redirect (works on all mobile browsers)
+      if (e.code === 'auth/popup-blocked' ||
+          e.code === 'auth/popup-closed-by-user' ||
+          e.code === 'auth/cancelled-popup-request') {
+        signInWithRedirect(auth, googleProvider)
+      }
     }
   }
 
