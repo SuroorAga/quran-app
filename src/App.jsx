@@ -14,6 +14,7 @@ import { useLastRead } from './hooks/useLastRead.js'
 import { useBlogs } from './hooks/useBlogs.js'
 import { useAuth } from './hooks/useAuth.js'
 import { useQuranProgress } from './hooks/useQuranProgress.js'
+import { useAndroidBack, useStatusBar } from './hooks/useMobile.js'
 import styles from './App.module.css'
 
 export default function App() {
@@ -34,6 +35,15 @@ export default function App() {
   const { lastRead, saveLastRead } = useLastRead(auth.user)
   const bookmarks = useBookmarks(auth.user)
   const { updateProgress, getPercent, resetProgress } = useQuranProgress()
+
+  useStatusBar(darkMode)
+  useAndroidBack(() => {
+    if (selectedSurah) { setSelectedSurah(null); return }
+    if (selectedBlog) { setSelectedBlog(null); return }
+    if (showBlogAdmin) { setShowBlogAdmin(false); return }
+    if (showBooks) { setShowBooks(false); return }
+    if (!showLanding) { setShowLanding(true); return }
+  })
 
   const trackLastRead = (surah, verseId) => {
     saveLastRead(surah, verseId)

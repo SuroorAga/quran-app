@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import styles from './SurahReader.module.css'
 import { useQuranAudio, RECITERS } from '../hooks/useQuranAudio.js'
+import { shareVerse, triggerHaptic } from '../hooks/useMobile.js'
 
 const EN_SIZES = ['13px', '15px', '17px', '19px', '22px', '27px', '33px', '40px', '48px']
 const AR_SIZES = ['20px', '24px', '28px', '33px', '38px', '46px', '56px', '68px', '82px']
@@ -12,7 +13,7 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
   const [hiddenNotes, setHiddenNotes] = useState(new Set())
   const [jumpVal, setJumpVal] = useState('')
   const [fontScale, setFontScale] = useState(() => parseInt(localStorage.getItem('fontScale') || '2'))
-  const [lang, setLang] = useState(() => localStorage.getItem('translationLang') || 'en')
+  const lang = 'en'
   const [copiedRef, setCopiedRef] = useState(null)
   const [highlightedRef, setHighlightedRef] = useState(null)
   const [showScrollTop, setShowScrollTop] = useState(false)
@@ -255,15 +256,6 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
 
         {/* Row 2: language + notes */}
         <div className={styles.controlRow}>
-          <div className={styles.langToggle}>
-            {[['en','English'],['ur','اردو'],['both','Both']].map(([val, label]) => (
-              <button
-                key={val}
-                className={`${styles.langBtn} ${lang === val ? styles.langBtnActive : ''}`}
-                onClick={() => { setLang(val); localStorage.setItem('translationLang', val) }}
-              >{label}</button>
-            ))}
-          </div>
           <div className={styles.notesToggleWrap}>
             <span className={styles.notesLabel}>Notes</span>
             <button
@@ -337,6 +329,13 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
                   >
                     {isCopied ? '✓ Copied' : 'Copy'}
                   </button>
+                  <button
+                    className={styles.copyBtn}
+                    onClick={() => { triggerHaptic(); shareVerse(verse, surah.transliteration) }}
+                    title="Share verse"
+                  >
+                    Share
+                  </button>
                   {hasNotes && (
                     <button
                       className={styles.noteToggleBtn}
@@ -362,11 +361,6 @@ export default function SurahReader({ surah, onBack, bookmarks, onSaveLastRead, 
                 </div>
               )}
 
-              {(lang === 'ur' || lang === 'both') && verse.urdu && (
-                <div className={styles.urduTranslation} style={{ fontSize: AR_SIZES[Math.max(0, fontScale - 1)] }}>
-                  {verse.urdu}
-                </div>
-              )}
 
               {hasNotes && !noteHidden && (
                 <div className={styles.notesBox}>
